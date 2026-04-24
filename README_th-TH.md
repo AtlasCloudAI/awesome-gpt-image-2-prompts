@@ -1,9 +1,4 @@
 
-<a href="https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13656_1.jpg" alt="GPT Image 2 Prompts" width="100%" />
-</a>
-
-> 💡 🍌 Also check out our **Nano Banana Pro** Prompts Collection — Google's flagship model with 10000+ curated prompts 👉 [awesome-nano-banana-pro-prompts](https://github.com/AtlasCloudAI/awesome-nano-banana-pro-prompts)
 # 🚀 สุดยอด GPT Image 2 Prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -140,7 +135,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 คำสั่งทั้งหมด | **1123** |
 | ⭐ แนะนำ | **6** |
-| 🔄 อัปเดตล่าสุด | **วันศุกร์ที่ 24 เมษายน พ.ศ. 2569 เวลา 14 นาฬิกา 53 นาที 34 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันศุกร์ที่ 24 เมษายน พ.ศ. 2569 เวลา 14 นาฬิกา 59 นาที 46 วินาที UTC** |
 
 </div>
 
@@ -4873,6 +4868,6 @@ generate a image of physical {argument name="subject" default="high school exam"
 **[📝 ส่งคำสั่ง](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome/issues/new?template=submit-prompt.yml)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-04-24T14:53:34.457Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-04-24T14:59:46.111Z</sub>
 
 </div>

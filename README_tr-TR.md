@@ -1,9 +1,4 @@
 
-<a href="https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=tr-TR">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13656_1.jpg" alt="GPT Image 2 Prompts" width="100%" />
-</a>
-
-> 💡 🍌 Also check out our **Nano Banana Pro** Prompts Collection — Google's flagship model with 10000+ curated prompts 👉 [awesome-nano-banana-pro-prompts](https://github.com/AtlasCloudAI/awesome-nano-banana-pro-prompts)
 # 🚀 Harika GPT Image 2 İstemleri
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -140,7 +135,7 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 |--------|-------|
 | 📝 Toplam İstem | **1123** |
 | ⭐ Öne Çıkan | **6** |
-| 🔄 Son Güncelleme | **24 Nisan 2026 Cuma 14:53:34 UTC** |
+| 🔄 Son Güncelleme | **24 Nisan 2026 Cuma 14:59:46 UTC** |
 
 </div>
 
@@ -4873,6 +4868,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-04-24T14:53:34.679Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-04-24T14:59:46.347Z</sub>
 
 </div>

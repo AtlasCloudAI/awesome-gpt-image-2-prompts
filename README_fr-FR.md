@@ -1,9 +1,4 @@
 
-<a href="https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=fr-FR">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13656_1.jpg" alt="GPT Image 2 Prompts" width="100%" />
-</a>
-
-> 💡 🍌 Also check out our **Nano Banana Pro** Prompts Collection — Google's flagship model with 10000+ curated prompts 👉 [awesome-nano-banana-pro-prompts](https://github.com/AtlasCloudAI/awesome-nano-banana-pro-prompts)
 # 🚀 Prompts GPT Image 2 Géniaux
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -140,7 +135,7 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 |--------|-------|
 | 📝 Total des prompts | **1123** |
 | ⭐ En vedette | **6** |
-| 🔄 Dernière mise à jour | **vendredi 24 avril 2026 à 14:53:34 UTC** |
+| 🔄 Dernière mise à jour | **vendredi 24 avril 2026 à 14:59:46 UTC** |
 
 </div>
 
@@ -4873,6 +4868,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Soumettre un prompt](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome/issues/new?template=submit-prompt.yml)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-04-24T14:53:34.591Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-04-24T14:59:46.257Z</sub>
 
 </div>

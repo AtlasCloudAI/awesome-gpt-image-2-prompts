@@ -289,11 +289,6 @@ function getGptImageFamilyLabel(locale: string): string {
 
 function generateHeader(locale: string): string {
   return `
-<a href="${buildPromptsUrl(locale)}">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13656_1.jpg" alt="GPT Image 2 Prompts" width="100%" />
-</a>
-
-> 💡 ${t("seedancePromo", locale)}
 # 🚀 ${t("title", locale)}
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)

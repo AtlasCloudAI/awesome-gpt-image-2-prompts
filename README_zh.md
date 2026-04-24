@@ -1,9 +1,4 @@
 
-<a href="https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13656_1.jpg" alt="GPT Image 2 Prompts" width="100%" />
-</a>
-
-> 💡 🍌 也看看我们的 **Nano Banana Pro** 提示词库 — Google 旗舰生图模型，10000+ 精选提示词 👉 [awesome-nano-banana-pro-prompts](https://github.com/AtlasCloudAI/awesome-nano-banana-pro-prompts)
 # 🚀 GPT Image 2 提示词大全
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -140,7 +135,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示词总数 | **1123** |
 | ⭐ 精选 | **6** |
-| 🔄 最后更新 | **2026年4月24日星期五 UTC 14:53:34** |
+| 🔄 最后更新 | **2026年4月24日星期五 UTC 14:59:45** |
 
 </div>
 
@@ -4873,6 +4868,6 @@ by {argument name="author" default="Steve Jobs"}
 **[📝 提交提示词](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-04-24T14:53:34.330Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-04-24T14:59:45.981Z</sub>
 
 </div>

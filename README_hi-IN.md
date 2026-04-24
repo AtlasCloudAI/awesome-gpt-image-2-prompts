@@ -1,9 +1,4 @@
 
-<a href="https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=hi-IN">
-  <img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13656_1.jpg" alt="GPT Image 2 Prompts" width="100%" />
-</a>
-
-> 💡 🍌 Also check out our **Nano Banana Pro** Prompts Collection — Google's flagship model with 10000+ curated prompts 👉 [awesome-nano-banana-pro-prompts](https://github.com/AtlasCloudAI/awesome-nano-banana-pro-prompts)
 # 🚀 शानदार GPT Image 2 प्रॉम्पट्स
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -140,7 +135,7 @@ Raycast में उपयोग करते समय, आप त्वरि
 |--------|-------|
 | 📝 कुल प्रॉम्पट्स | **1123** |
 | ⭐ विशेष | **6** |
-| 🔄 अंतिम अपडेट | **शुक्रवार, 24 अप्रैल 2026 को 2:53:34 pm UTC बजे** |
+| 🔄 अंतिम अपडेट | **शुक्रवार, 24 अप्रैल 2026 को 2:59:46 pm UTC बजे** |
 
 </div>
 
@@ -4873,6 +4868,6 @@ Gallery me ye features bhi hain:
 **[📝 एक प्रॉम्पट जमा करें](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome/issues/new?template=submit-prompt.yml)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-04-24T14:53:34.503Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-04-24T14:59:46.158Z</sub>
 
 </div>
