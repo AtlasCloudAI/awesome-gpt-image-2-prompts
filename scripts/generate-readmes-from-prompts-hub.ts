@@ -149,6 +149,10 @@ function buildPromptsUrl(locale: string, extraParams: Record<string, string> = {
   return `https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?${params.toString()}`;
 }
 
+function buildGptImageFamilyUrl(): string {
+  return "https://www.atlascloud.ai/models/media";
+}
+
 function cleanPromptContent(content: string): string {
   if (!content) {
     return "";
@@ -260,6 +264,29 @@ function getGalleryFeaturesLead(locale: string): string {
   return labels[locale] ?? labels.en;
 }
 
+function getGptImageFamilyLabel(locale: string): string {
+  const labels: Record<string, string> = {
+    en: "Explore AtlasCloud GPT Image Family",
+    zh: "探索 AtlasCloud GPT Image 家族页",
+    "zh-TW": "探索 AtlasCloud GPT Image 家族頁",
+    "ja-JP": "AtlasCloud GPT Image ファミリーを見る",
+    "ko-KR": "AtlasCloud GPT Image 패밀리 보기",
+    "th-TH": "สำรวจ AtlasCloud GPT Image Family",
+    "vi-VN": "Kham pha AtlasCloud GPT Image Family",
+    "hi-IN": "AtlasCloud GPT Image Family dekhen",
+    "es-ES": "Explorar la familia GPT Image de AtlasCloud",
+    "es-419": "Explorar la familia GPT Image de AtlasCloud",
+    "de-DE": "AtlasCloud GPT Image-Familie entdecken",
+    "fr-FR": "Explorer la famille GPT Image d'AtlasCloud",
+    "it-IT": "Esplora la famiglia GPT Image di AtlasCloud",
+    "pt-BR": "Explorar a familia GPT Image da AtlasCloud",
+    "pt-PT": "Explorar a familia GPT Image da AtlasCloud",
+    "tr-TR": "AtlasCloud GPT Image ailesini kesfedin",
+  };
+
+  return labels[locale] ?? labels.en;
+}
+
 function generateHeader(locale: string): string {
   return `
 <a href="${buildPromptsUrl(locale)}">
@@ -310,17 +337,15 @@ function generateCategoriesSection(locale: string): string {
 }
 
 function generateGallerySection(locale: string): string {
-  const imageLang = locale === "zh" || locale === "zh-TW" ? "zh" : "en";
-
   return `## 🌐 ${t("viewInGallery", locale)}
 
 <div align="center">
 
-![Cover](public/images/gpt-image-2-prompts-cover-${imageLang}.png)
+**[${t("browseGallery", locale)}](${buildPromptsUrl(locale)})**
+
+**[${getGptImageFamilyLabel(locale)}](${buildGptImageFamilyUrl()})**
 
 </div>
-
-**[${t("browseGallery", locale)}](${buildPromptsUrl(locale)})**
 
 ${t("galleryFeatures", locale)}
 

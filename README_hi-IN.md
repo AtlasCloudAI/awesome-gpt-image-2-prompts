@@ -26,11 +26,11 @@
 
 <div align="center">
 
-![Cover](public/images/gpt-image-2-prompts-cover-en.png)
+**[👉 AtlasCloud GPT Image 2 गैलरी ब्राउज़ करें](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=hi-IN)**
+
+**[AtlasCloud GPT Image Family dekhen](https://www.atlascloud.ai/models/media)**
 
 </div>
-
-**[👉 AtlasCloud GPT Image 2 गैलरी ब्राउज़ करें](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=hi-IN)**
 
 हमारी गैलरी का उपयोग क्यों करें?
 
@@ -140,7 +140,7 @@ Raycast में उपयोग करते समय, आप त्वरि
 |--------|-------|
 | 📝 कुल प्रॉम्पट्स | **1123** |
 | ⭐ विशेष | **6** |
-| 🔄 अंतिम अपडेट | **शुक्रवार, 24 अप्रैल 2026 को 2:32:11 pm UTC बजे** |
+| 🔄 अंतिम अपडेट | **शुक्रवार, 24 अप्रैल 2026 को 2:53:34 pm UTC बजे** |
 
 </div>
 
@@ -4873,6 +4873,6 @@ Gallery me ye features bhi hain:
 **[📝 एक प्रॉम्पट जमा करें](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome/issues/new?template=submit-prompt.yml)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-04-24T14:32:11.438Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-04-24T14:53:34.503Z</sub>
 
 </div>

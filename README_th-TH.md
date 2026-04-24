@@ -26,11 +26,11 @@
 
 <div align="center">
 
-![Cover](public/images/gpt-image-2-prompts-cover-en.png)
+**[👉 เรียกดูใน AtlasCloud GPT Image 2 Gallery](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH)**
+
+**[สำรวจ AtlasCloud GPT Image Family](https://www.atlascloud.ai/models/media)**
 
 </div>
-
-**[👉 เรียกดูใน AtlasCloud GPT Image 2 Gallery](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH)**
 
 ทำไมต้องใช้แกลเลอรีของเรา?
 
@@ -140,7 +140,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 คำสั่งทั้งหมด | **1123** |
 | ⭐ แนะนำ | **6** |
-| 🔄 อัปเดตล่าสุด | **วันศุกร์ที่ 24 เมษายน พ.ศ. 2569 เวลา 14 นาฬิกา 32 นาที 11 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันศุกร์ที่ 24 เมษายน พ.ศ. 2569 เวลา 14 นาฬิกา 53 นาที 34 วินาที UTC** |
 
 </div>
 
@@ -4873,6 +4873,6 @@ generate a image of physical {argument name="subject" default="high school exam"
 **[📝 ส่งคำสั่ง](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome/issues/new?template=submit-prompt.yml)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-04-24T14:32:11.379Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-04-24T14:53:34.457Z</sub>
 
 </div>

@@ -26,11 +26,11 @@
 
 <div align="center">
 
-![Cover](public/images/gpt-image-2-prompts-cover-zh.png)
+**[👉 浏览 AtlasCloud GPT Image 2 提示词图库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**
+
+**[探索 AtlasCloud GPT Image 家族页](https://www.atlascloud.ai/models/media)**
 
 </div>
-
-**[👉 浏览 AtlasCloud GPT Image 2 提示词图库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**
 
 为什么使用图库？
 
@@ -140,7 +140,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示词总数 | **1123** |
 | ⭐ 精选 | **6** |
-| 🔄 最后更新 | **2026年4月24日星期五 UTC 14:32:11** |
+| 🔄 最后更新 | **2026年4月24日星期五 UTC 14:53:34** |
 
 </div>
 
@@ -4873,6 +4873,6 @@ by {argument name="author" default="Steve Jobs"}
 **[📝 提交提示词](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-04-24T14:32:11.251Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-04-24T14:53:34.330Z</sub>
 
 </div>

@@ -26,11 +26,11 @@
 
 <div align="center">
 
-![Cover](public/images/gpt-image-2-prompts-cover-en.png)
+**[👉 Parcourir la galerie de prompts AtlasCloud GPT Image 2](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=fr-FR)**
+
+**[Explorer la famille GPT Image d'AtlasCloud](https://www.atlascloud.ai/models/media)**
 
 </div>
-
-**[👉 Parcourir la galerie de prompts AtlasCloud GPT Image 2](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=fr-FR)**
 
 Pourquoi utiliser notre galerie ?
 
@@ -140,7 +140,7 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 |--------|-------|
 | 📝 Total des prompts | **1123** |
 | ⭐ En vedette | **6** |
-| 🔄 Dernière mise à jour | **vendredi 24 avril 2026 à 14:32:11 UTC** |
+| 🔄 Dernière mise à jour | **vendredi 24 avril 2026 à 14:53:34 UTC** |
 
 </div>
 
@@ -4873,6 +4873,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Soumettre un prompt](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome/issues/new?template=submit-prompt.yml)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-04-24T14:32:11.527Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-04-24T14:53:34.591Z</sub>
 
 </div>

@@ -26,11 +26,11 @@
 
 <div align="center">
 
-![Cover](public/images/gpt-image-2-prompts-cover-en.png)
+**[👉 AtlasCloud GPT Image 2 Galerisine Göz Atın](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=tr-TR)**
+
+**[AtlasCloud GPT Image ailesini kesfedin](https://www.atlascloud.ai/models/media)**
 
 </div>
-
-**[👉 AtlasCloud GPT Image 2 Galerisine Göz Atın](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=tr-TR)**
 
 Neden galerimizi kullanmalısınız?
 
@@ -140,7 +140,7 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 |--------|-------|
 | 📝 Toplam İstem | **1123** |
 | ⭐ Öne Çıkan | **6** |
-| 🔄 Son Güncelleme | **24 Nisan 2026 Cuma 14:32:11 UTC** |
+| 🔄 Son Güncelleme | **24 Nisan 2026 Cuma 14:53:34 UTC** |
 
 </div>
 
@@ -4873,6 +4873,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-04-24T14:32:11.617Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-04-24T14:53:34.679Z</sub>
 
 </div>

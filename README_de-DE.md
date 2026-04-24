@@ -26,11 +26,11 @@
 
 <div align="center">
 
-![Cover](public/images/gpt-image-2-prompts-cover-en.png)
+**[👉 Auf AtlasCloud GPT Image 2 Prompt-Galerie stöbern](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE)**
+
+**[AtlasCloud GPT Image-Familie entdecken](https://www.atlascloud.ai/models/media)**
 
 </div>
-
-**[👉 Auf AtlasCloud GPT Image 2 Prompt-Galerie stöbern](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE)**
 
 Warum unsere Galerie nutzen?
 
@@ -140,7 +140,7 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 |--------|-------|
 | 📝 Gesamtanzahl Prompts | **1123** |
 | ⭐ Ausgewählt | **6** |
-| 🔄 Zuletzt aktualisiert | **Freitag, 24. April 2026 um 14:32:11 UTC** |
+| 🔄 Zuletzt aktualisiert | **Freitag, 24. April 2026 um 14:53:34 UTC** |
 
 </div>
 
@@ -4873,6 +4873,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-04-24T14:32:11.506Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-04-24T14:53:34.566Z</sub>
 
 </div>

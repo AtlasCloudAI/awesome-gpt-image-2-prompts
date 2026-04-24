@@ -26,11 +26,11 @@
 
 <div align="center">
 
-![Cover](public/images/gpt-image-2-prompts-cover-en.png)
+**[👉 Browse on AtlasCloud GPT Image 2 Prompts Gallery](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US)**
+
+**[Explore AtlasCloud GPT Image Family](https://www.atlascloud.ai/models/media)**
 
 </div>
-
-**[👉 Browse on AtlasCloud GPT Image 2 Prompts Gallery](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US)**
 
 Why use our gallery?
 
@@ -140,7 +140,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 |--------|-------|
 | 📝 Total Prompts | **1123** |
 | ⭐ Featured | **6** |
-| 🔄 Last Updated | **Friday, April 24, 2026 at 2:32:11 PM UTC** |
+| 🔄 Last Updated | **Friday, April 24, 2026 at 2:53:34 PM UTC** |
 
 </div>
 
@@ -4873,6 +4873,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-24T14:32:11.222Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-04-24T14:53:34.302Z</sub>
 
 </div>

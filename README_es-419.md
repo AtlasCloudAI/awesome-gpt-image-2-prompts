@@ -26,11 +26,11 @@
 
 <div align="center">
 
-![Cover](public/images/gpt-image-2-prompts-cover-en.png)
+**[👉 Explorar en la galería de prompts de AtlasCloud](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=es-419)**
+
+**[Explorar la familia GPT Image de AtlasCloud](https://www.atlascloud.ai/models/media)**
 
 </div>
-
-**[👉 Explorar en la galería de prompts de AtlasCloud](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=es-419)**
 
 ¿Por qué usar nuestra galería?
 
@@ -140,7 +140,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 Total de prompts | **1123** |
 | ⭐ Destacado | **6** |
-| 🔄 Última actualización | **viernes, 24 de abril de 2026, 2:32:11 p.m. UTC** |
+| 🔄 Última actualización | **viernes, 24 de abril de 2026, 2:53:34 p.m. UTC** |
 
 </div>
 
@@ -4873,6 +4873,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-04-24T14:32:11.484Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-04-24T14:53:34.544Z</sub>
 
 </div>
