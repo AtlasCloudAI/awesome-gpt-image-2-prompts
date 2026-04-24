@@ -1,0 +1,107 @@
+name: Sync Labels
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/labels.yml'
+
+permissions:
+  issues: write
+
+jobs:
+  sync-labels:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Sync labels
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            
+            // Read labels.yml file
+            const labelsFile = fs.readFileSync('.github/labels.yml', 'utf8');
+            
+            // Simple YAML parsing for array format
+            const lines = labelsFile.split('\n');
+            const labels = [];
+            let currentLabel = null;
+            
+            for (const line of lines) {
+              const trimmed = line.trim();
+              if (trimmed.startsWith('- name:')) {
+                if (currentLabel) labels.push(currentLabel);
+                const nameMatch = trimmed.match(/- name:\s*(.+)/);
+                if (nameMatch) {
+                  currentLabel = { 
+                    name: nameMatch[1].trim().replace(/^['"]|['"]$/g, ''),
+                    color: '',
+                    description: ''
+                  };
+                }
+              } else if (trimmed.startsWith('color:')) {
+                if (currentLabel) {
+                  const colorMatch = trimmed.match(/color:\s*(.+)/);
+                  if (colorMatch) {
+                    currentLabel.color = colorMatch[1].trim().replace(/^['"]|['"]$/g, '');
+                  }
+                }
+              } else if (trimmed.startsWith('description:')) {
+                if (currentLabel) {
+                  const descMatch = trimmed.match(/description:\s*(.+)/);
+                  if (descMatch) {
+                    currentLabel.description = descMatch[1].trim().replace(/^['"]|['"]$/g, '');
+                  }
+                }
+              }
+            }
+            if (currentLabel) labels.push(currentLabel);
+            
+            // Get existing labels
+            const existingLabels = await github.rest.issues.listLabelsForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+            });
+            
+            const existingLabelNames = new Set(existingLabels.data.map(label => label.name));
+            
+            // Sync labels
+            for (const label of labels) {
+              const labelName = label.name;
+              const labelColor = label.color.replace('#', '');
+              const labelDescription = label.description || '';
+              
+              try {
+                if (existingLabelNames.has(labelName)) {
+                  // Update existing label
+                  await github.rest.issues.updateLabel({
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    name: labelName,
+                    color: labelColor,
+                    description: labelDescription,
+                  });
+                  console.log(`Updated label: ${labelName}`);
+                } else {
+                  // Create new label
+                  await github.rest.issues.createLabel({
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    name: labelName,
+                    color: labelColor,
+                    description: labelDescription,
+                  });
+                  console.log(`Created label: ${labelName}`);
+                }
+              } catch (error) {
+                console.error(`Error syncing label ${labelName}:`, error.message);
+              }
+            }
+            
+            console.log('Labels sync completed!');
+

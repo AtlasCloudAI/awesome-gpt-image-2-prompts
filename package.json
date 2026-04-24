@@ -1,11 +1,22 @@
 {
-  "name": "gpt-image2-prompt-awesome",
-  "version": "0.1.0",
-  "private": true,
-  "description": "AtlasCloud GPT-Image-2 prompt collection in awesome-style format",
+  "name": "awesome-gpt-image2-prompt",
+  "version": "1.0.0",
+  "description": "Curated collection of GPT Image 2 prompts",
   "type": "module",
   "scripts": {
-    "generate": "node scripts/generate-readme.mjs",
-    "verify:key": "node scripts/verify-atlas-key.mjs"
-  }
+    "generate": "tsx scripts/generate-readme.ts",
+    "sync": "tsx scripts/sync-approved-to-cms.ts"
+  },
+  "devDependencies": {
+    "@octokit/rest": "^20.0.2",
+    "@types/node": "^20.10.0",
+    "dotenv": "^17.2.3",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "qs-esm": "^7.0.2"
+  },
+  "packageManager": "pnpm@9.15.9"
 }

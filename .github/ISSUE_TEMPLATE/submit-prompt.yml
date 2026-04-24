@@ -1,0 +1,129 @@
+name: 🍌 Submit a Prompt
+description: Share your creative GPT Image 2 prompt
+title: "[Prompt] <Short Title>"
+labels: ["prompt-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 🎨 Submit Your Prompt
+
+        Thank you for contributing! Please fill in the details below.
+
+        ### ⚠️ Important Notice
+
+        All prompts in this repository are collected from the community and shared for educational purposes. If you believe any content infringes on your copyright or intellectual property rights, please [open an issue](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=bug-report.yml) and we will remove it promptly.
+
+        By submitting this prompt, you confirm that:
+        - You have the right to share this content
+        - You agree to license it under CC BY 4.0
+        - You properly attribute the original author
+
+  - type: input
+    id: title
+    attributes:
+      label: Prompt Title
+      description: A short, descriptive title (max 80 chars)
+      placeholder: "e.g., Watercolor Bar Chart with Flag-Themed Bars"
+    validations:
+      required: true
+
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Prompt
+      description: The full prompt text
+      placeholder: "Paste your prompt here..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Explain what this prompt does and when to use it
+      placeholder: "This prompt generates..."
+    validations:
+      required: true
+  
+  - type: dropdown
+    id: need_reference_images
+    attributes:
+      label: Need Reference Images
+      description: Does this prompt require user to input images?
+      options:
+        - "false"
+        - "true"
+    validations:
+      required: false
+
+  - type: textarea
+    id: image_urls
+    attributes:
+      label: Generated Image URLs
+      description: One URL per line (supports multiple images)
+      placeholder: |
+        https://example.com/image1.jpg
+        https://example.com/image2.jpg
+        https://example.com/image3.jpg
+    validations:
+      required: true
+
+  - type: input
+    id: author_name
+    attributes:
+      label: Original Author
+      description: Author's name or nickname
+      placeholder: "e.g., Jared Liu"
+    validations:
+      required: true
+
+  - type: input
+    id: author_link
+    attributes:
+      label: Author Profile Link
+      description: Link to author's profile (e.g., Twitter, personal site, etc.)
+      placeholder: "e.g., https://x.com/username or https://example.com"
+
+  - type: input
+    id: source_link
+    attributes:
+      label: Source Link
+      description: Original post/tweet URL
+      placeholder: "https://x.com/username/status/..."
+
+  - type: dropdown
+    id: language
+    attributes:
+      label: Prompt Language
+      description: What language is the prompt in?
+      options:
+        - English
+        - Chinese (中文)
+        - Traditional Chinese (繁體中文)
+        - Japanese (日本語)
+        - Korean (한국어)
+        - Thai (ไทย)
+        - Vietnamese (Tiếng Việt)
+        - Hindi (हिन्दी)
+        - Spanish (Español)
+        - Latin American Spanish (Español Latinoamérica)
+        - German (Deutsch)
+        - French (Français)
+        - Italian (Italiano)
+        - Brazilian Portuguese (Português do Brasil)
+        - European Portuguese (Português)
+        - Turkish (Türkçe)
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: License Agreement
+      description: By submitting, you agree to license your contribution under CC BY 4.0
+      options:
+        - label: I confirm I have the right to submit this content
+          required: true
+        - label: I agree to license it under CC BY 4.0
+          required: true

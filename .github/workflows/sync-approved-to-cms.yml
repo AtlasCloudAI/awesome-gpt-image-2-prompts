@@ -1,0 +1,58 @@
+name: Sync Approved to CMS
+
+on:
+  issues:
+    types: [labeled]
+    # Note: 'labeled' event triggers on both open and closed issues
+    # This allows the workflow to run when 'approved' label is added
+    # even if the issue was closed after being reopened
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  sync:
+    # Only trigger when 'approved' label is added AND issue has 'prompt-submission' label
+    # Works for both open and closed issues
+    # Note: We check both conditions - the added label must be 'approved' 
+    # AND the issue must already have 'prompt-submission' label
+    if: |
+      github.event.label.name == 'approved' &&
+      contains(join(github.event.issue.labels.*.name, ' '), 'prompt-submission')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v2
+        with:
+          version: 9
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'pnpm'
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Parse issue and submit to CMS
+        env:
+          CMS_HOST: ${{ secrets.CMS_HOST }}
+          CMS_API_KEY: ${{ secrets.CMS_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: npx tsx scripts/sync-approved-to-cms.ts
+
+      - name: Comment on issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: '🎉 Congratulations! Your prompt has been approved and synced to CMS.\n\n✅ It will appear in the README within 4 hours.\n\n🌐 View on: [youmind.com/gpt-image-2-prompts](https://youmind.com/gpt-image-2-prompts)\n\nThank you for your contribution! 🙏'
+            })

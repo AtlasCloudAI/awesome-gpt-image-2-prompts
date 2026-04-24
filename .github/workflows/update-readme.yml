@@ -1,0 +1,67 @@
+name: Update README
+
+on:
+  schedule:
+    # 每天两次：00:00 UTC (08:00 CST) 和 12:00 UTC (20:00 CST)
+    - cron: '0 0,12 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - '.github/workflows/update-readme.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: pnpm/action-setup@v2
+        with:
+          version: 9
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'pnpm'
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Generate README
+        env:
+          CMS_HOST: ${{ secrets.CMS_HOST }}
+          CMS_API_KEY: ${{ secrets.CMS_API_KEY }}
+        run: npx tsx scripts/generate-readme.ts
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README*.md
+          # 没有变更就直接退出，别浪费 attempt 次数
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "No README changes to commit."
+            exit 0
+          fi
+          git commit -m "docs: auto-update README [skip ci]"
+
+          # 推回 main 时处理 push race：并发 run 或人工 push 都可能抢先到 remote，
+          # 这里最多重试 5 次，每次失败就 rebase 到最新 main 再试。
+          for i in 1 2 3 4 5; do
+            if git push; then
+              echo "Pushed on attempt $i"
+              exit 0
+            fi
+            echo "Push rejected on attempt $i; rebasing onto latest main and retrying..."
+            git pull --rebase origin main
+            sleep $((i * 2))
+          done
+          echo "Push still failing after 5 attempts" >&2
+          exit 1

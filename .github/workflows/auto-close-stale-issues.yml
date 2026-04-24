@@ -1,0 +1,75 @@
+name: Auto Close Stale Issues
+
+on:
+  schedule:
+    # 每天 UTC 时间 0:00 运行（可根据需要调整）
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # 允许手动触发
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  close-stale-issues:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Close stale issues
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const { data: issues } = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              per_page: 100
+            });
+
+            const DAYS_INACTIVE = 3; // 3天没有活跃
+            const now = new Date();
+            const msPerDay = 24 * 60 * 60 * 1000;
+
+            for (const issue of issues) {
+              // 跳过 PR（GitHub API 会把 PR 也当作 issue）
+              if (issue.pull_request) {
+                continue;
+              }
+
+              // 获取 issue 的最后更新时间
+              const lastUpdated = new Date(issue.updated_at);
+              const daysSinceUpdate = (now - lastUpdated) / msPerDay;
+
+              // 如果超过指定天数没有更新
+              if (daysSinceUpdate >= DAYS_INACTIVE) {
+                // 检查是否有标签排除（可选）
+                const excludeLabels = ['keep-open', 'pinned'];
+                const hasExcludeLabel = issue.labels.some(label => 
+                  excludeLabels.includes(label.name)
+                );
+
+                if (!hasExcludeLabel) {
+                  // 添加评论说明关闭原因
+                  await github.rest.issues.createComment({
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    issue_number: issue.number,
+                    body: `This issue has been automatically closed due to inactivity for ${DAYS_INACTIVE} days. If you believe this was closed in error, please reopen it.`
+                  });
+
+                  // 关闭 issue
+                  await github.rest.issues.update({
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    issue_number: issue.number,
+                    state: 'closed'
+                  });
+
+                  console.log(`Closed issue #${issue.number}: ${issue.title}`);
+                }
+              }
+            }
+
