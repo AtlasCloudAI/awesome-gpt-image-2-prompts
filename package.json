@@ -1,0 +1,11 @@
+{
+  "name": "gpt-image2-prompt-awesome",
+  "version": "0.1.0",
+  "private": true,
+  "description": "AtlasCloud GPT-Image-2 prompt collection in awesome-style format",
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate-readme.mjs",
+    "verify:key": "node scripts/verify-atlas-key.mjs"
+  }
+}

@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![AtlasCloud](https://img.shields.io/badge/AtlasCloud-Prompts%20Hub-blue)](https://www.atlascloud.ai/prompts-hub)
+[![AtlasCloud](https://img.shields.io/badge/AtlasCloud-Prompts%20Hub-blue)](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)
 
 > 基于 `prompts-hub` 数据自动生成的 GPT-Image-2 提示词精选仓库。
 >
@@ -12,7 +12,7 @@
 
 ## 🌐 在线浏览（推荐）
 
-**[👉 访问 AtlasCloud Prompts Hub](https://www.atlascloud.ai/prompts-hub)**
+**[👉 访问 AtlasCloud GPT-Image-2 中文提示词库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**
 
 ---
 
@@ -21,9 +21,9 @@
 | Metric | Value |
 |---|---|
 | 本次精选条目 | **18** |
-| 数据来源 | `/Users/zby/atlascloud/prompts-hub/src/data/records.json` |
+| 数据来源 | `prompts-hub records dataset` |
 | 语言分布 | en: 16 | zh: 2 |
-| 生成时间 | 2026-04-23 12:50:18 UTC |
+| 生成时间 | 2026-04-24 03:34:51 UTC |
 
 ---
 
@@ -33,8 +33,6 @@
 - [📊 快速统计](#-快速统计)
 - [🔥 精选 Prompt 示例](#-精选-prompt-示例)
 - [🧭 使用方式](#-使用方式)
-- [🛠️ 本地生成](#-本地生成)
-- [🔐 API Key 与本地验证](#-api-key-与本地验证)
 - [🙏 致谢与声明](#-致谢与声明)
 
 ---
@@ -58,7 +56,7 @@
 #### 🖼️ Generated Image
 
 <div align="center">
-<img src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/prompt/gpt-image2/images/13815_1.jpg" width="700" alt="竞技场中的动漫女性摔跤手">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13815_1.jpg" width="700" alt="竞技场中的动漫女性摔跤手">
 </div>
 
 #### 📌 Details
@@ -69,7 +67,7 @@
 - **Published:** 2026-04-16
 - **Language:** en
 
-**[👉 在 AtlasCloud 看更多](https://www.atlascloud.ai/prompts-hub)**
+**[👉 在 AtlasCloud 查看完整提示词库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**
 
 ---
 
@@ -88,7 +86,7 @@
 #### 🖼️ Generated Image
 
 <div align="center">
-<img src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/prompt/gpt-image2/images/14385_1.jpg" width="700" alt="Mac 终端世界模拟 UI">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14385_1.jpg" width="700" alt="Mac 终端世界模拟 UI">
 </div>
 
 #### 📌 Details
@@ -99,7 +97,7 @@
 - **Published:** 2026-04-21
 - **Language:** en
 
-**[👉 在 AtlasCloud 看更多](https://www.atlascloud.ai/prompts-hub)**
+**[👉 在 AtlasCloud 查看完整提示词库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**
 
 ---
 
@@ -118,7 +116,7 @@
 #### 🖼️ Generated Image
 
 <div align="center">
-<img src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/prompt/gpt-image2/images/14568_1.jpg" width="700" alt="复古图书馆中的电影感女性">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14568_1.jpg" width="700" alt="复古图书馆中的电影感女性">
 </div>
 
 #### 📌 Details
@@ -129,7 +127,7 @@
 - **Published:** 2026-04-21
 - **Language:** en
 
-**[👉 在 AtlasCloud 看更多](https://www.atlascloud.ai/prompts-hub)**
+**[👉 在 AtlasCloud 查看完整提示词库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**
 
 ---
 
@@ -148,7 +146,7 @@
 #### 🖼️ Generated Image
 
 <div align="center">
-<img src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/prompt/gpt-image2/images/13912_1.jpg" width="700" alt="拥有宇宙全息图的动漫学者">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13912_1.jpg" width="700" alt="拥有宇宙全息图的动漫学者">
 </div>
 
 #### 📌 Details
@@ -159,7 +157,7 @@
 - **Published:** 2026-04-17
 - **Language:** en
 
-**[👉 在 AtlasCloud 看更多](https://www.atlascloud.ai/prompts-hub)**
+**[👉 在 AtlasCloud 查看完整提示词库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**
 
 ---
 
@@ -178,7 +176,7 @@
 #### 🖼️ Generated Image
 
 <div align="center">
-<img src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/prompt/gpt-image2/images/14337_1.jpg" width="700" alt="复古 Jet 杂志封面场景">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14337_1.jpg" width="700" alt="复古 Jet 杂志封面场景">
 </div>
 
 #### 📌 Details
@@ -189,7 +187,7 @@
 - **Published:** 2026-04-21
 - **Language:** en
 
-**[👉 在 AtlasCloud 看更多](https://www.atlascloud.ai/prompts-hub)**
+**[👉 在 AtlasCloud 查看完整提示词库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**
 
 ---
 
@@ -208,7 +206,7 @@
 #### 🖼️ Generated Image
 
 <div align="center">
-<img src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/prompt/gpt-image2/images/13684_1.jpg" width="700" alt="动漫视觉小说拼贴海报">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13684_1.jpg" width="700" alt="动漫视觉小说拼贴海报">
 </div>
 
 #### 📌 Details
@@ -219,7 +217,7 @@
 - **Published:** 2026-04-15
 - **Language:** en
 
-**[👉 在 AtlasCloud 看更多](https://www.atlascloud.ai/prompts-hub)**
+**[👉 在 AtlasCloud 查看完整提示词库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**
 
 ---
 
@@ -238,7 +236,7 @@
 #### 🖼️ Generated Image
 
 <div align="center">
-<img src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/prompt/gpt-image2/images/13614_1.jpg" width="700" alt="3D 动漫视觉小说游戏封面">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13614_1.jpg" width="700" alt="3D 动漫视觉小说游戏封面">
 </div>
 
 #### 📌 Details
@@ -249,7 +247,7 @@
 - **Published:** 2026-04-13
 - **Language:** en
 
-**[👉 在 AtlasCloud 看更多](https://www.atlascloud.ai/prompts-hub)**
+**[👉 在 AtlasCloud 查看完整提示词库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**
 
 ---
 
@@ -268,7 +266,7 @@
 #### 🖼️ Generated Image
 
 <div align="center">
-<img src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/prompt/gpt-image2/images/14569_1.jpg" width="700" alt="优雅酒吧咖啡桌旁的女性">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14569_1.jpg" width="700" alt="优雅酒吧咖啡桌旁的女性">
 </div>
 
 #### 📌 Details
@@ -279,7 +277,7 @@
 - **Published:** 2026-04-21
 - **Language:** en
 
-**[👉 在 AtlasCloud 看更多](https://www.atlascloud.ai/prompts-hub)**
+**[👉 在 AtlasCloud 查看完整提示词库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**
 
 ---
 
@@ -299,7 +297,7 @@ A breathtaking and extremely complex conceptual world-building infographic maste
 #### 🖼️ Generated Image
 
 <div align="center">
-<img src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/prompt/gpt-image2/images/14137_1.jpg" width="700" alt="Philosophical Concept Infographic Manuscript">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14137_1.jpg" width="700" alt="Philosophical Concept Infographic Manuscript">
 </div>
 
 #### 📌 Details
@@ -310,7 +308,7 @@ A breathtaking and extremely complex conceptual world-building infographic maste
 - **Published:** 2026-04-21
 - **Language:** zh
 
-**[👉 在 AtlasCloud 看更多](https://www.atlascloud.ai/prompts-hub)**
+**[👉 在 AtlasCloud 查看完整提示词库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**
 
 ---
 
@@ -329,7 +327,7 @@ A highly detailed, isometric 3D miniature diorama map of {argument name="city na
 #### 🖼️ Generated Image
 
 <div align="center">
-<img src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/prompt/gpt-image2/images/14256_1.jpg" width="700" alt="Miniature 3D City Diorama Map">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14256_1.jpg" width="700" alt="Miniature 3D City Diorama Map">
 </div>
 
 #### 📌 Details
@@ -340,7 +338,7 @@ A highly detailed, isometric 3D miniature diorama map of {argument name="city na
 - **Published:** 2026-04-20
 - **Language:** en
 
-**[👉 在 AtlasCloud 看更多](https://www.atlascloud.ai/prompts-hub)**
+**[👉 在 AtlasCloud 查看完整提示词库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**
 
 ---
 
@@ -406,7 +404,7 @@ A highly detailed, isometric 3D miniature diorama map of {argument name="city na
 #### 🖼️ Generated Image
 
 <div align="center">
-<img src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/prompt/gpt-image2/images/14044_1.jpg" width="700" alt="气泡饮料广告横幅">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14044_1.jpg" width="700" alt="气泡饮料广告横幅">
 </div>
 
 #### 📌 Details
@@ -417,7 +415,7 @@ A highly detailed, isometric 3D miniature diorama map of {argument name="city na
 - **Published:** 2026-04-18
 - **Language:** en
 
-**[👉 在 AtlasCloud 看更多](https://www.atlascloud.ai/prompts-hub)**
+**[👉 在 AtlasCloud 查看完整提示词库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**
 
 ---
 
@@ -468,7 +466,7 @@ Generates a cute, pink-themed VTuber stream thumbnail with customizable text rib
 #### 🖼️ Generated Image
 
 <div align="center">
-<img src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/prompt/gpt-image2/images/14242_1.jpg" width="700" alt="VTuber Chat Stream Thumbnail">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14242_1.jpg" width="700" alt="VTuber Chat Stream Thumbnail">
 </div>
 
 #### 📌 Details
@@ -479,7 +477,7 @@ Generates a cute, pink-themed VTuber stream thumbnail with customizable text rib
 - **Published:** 2026-04-20
 - **Language:** en
 
-**[👉 在 AtlasCloud 看更多](https://www.atlascloud.ai/prompts-hub)**
+**[👉 在 AtlasCloud 查看完整提示词库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**
 
 ---
 
@@ -498,7 +496,7 @@ Generates a cute, pink-themed VTuber stream thumbnail with customizable text rib
 #### 🖼️ Generated Image
 
 <div align="center">
-<img src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/prompt/gpt-image2/images/14076_1.jpg" width="700" alt="科技主题演讲演示 Slides">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14076_1.jpg" width="700" alt="科技主题演讲演示 Slides">
 </div>
 
 #### 📌 Details
@@ -509,7 +507,7 @@ Generates a cute, pink-themed VTuber stream thumbnail with customizable text rib
 - **Published:** 2026-04-15
 - **Language:** en
 
-**[👉 在 AtlasCloud 看更多](https://www.atlascloud.ai/prompts-hub)**
+**[👉 在 AtlasCloud 查看完整提示词库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**
 
 ---
 
@@ -556,7 +554,7 @@ Generates a modern, futuristic website landing page mockup featuring a smart mir
 #### 🖼️ Generated Image
 
 <div align="center">
-<img src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/prompt/gpt-image2/images/14176_1.jpg" width="700" alt="Futuristic Smart Mirror Website Mockup">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14176_1.jpg" width="700" alt="Futuristic Smart Mirror Website Mockup">
 </div>
 
 #### 📌 Details
@@ -567,7 +565,7 @@ Generates a modern, futuristic website landing page mockup featuring a smart mir
 - **Published:** 2026-04-20
 - **Language:** en
 
-**[👉 在 AtlasCloud 看更多](https://www.atlascloud.ai/prompts-hub)**
+**[👉 在 AtlasCloud 查看完整提示词库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**
 
 ---
 
@@ -617,7 +615,7 @@ Generates a modern, futuristic website landing page mockup featuring a smart mir
 #### 🖼️ Generated Image
 
 <div align="center">
-<img src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/prompt/gpt-image2/images/13611_1.jpg" width="700" alt="动漫艺术创作流程信息图">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13611_1.jpg" width="700" alt="动漫艺术创作流程信息图">
 </div>
 
 #### 📌 Details
@@ -628,7 +626,7 @@ Generates a modern, futuristic website landing page mockup featuring a smart mir
 - **Published:** 2026-04-13
 - **Language:** en
 
-**[👉 在 AtlasCloud 看更多](https://www.atlascloud.ai/prompts-hub)**
+**[👉 在 AtlasCloud 查看完整提示词库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**
 
 ---
 
@@ -647,7 +645,7 @@ Generates a modern, futuristic website landing page mockup featuring a smart mir
 #### 🖼️ Generated Image
 
 <div align="center">
-<img src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/prompt/gpt-image2/images/14545_1.jpg" width="700" alt="日式丛林主题公园恶搞海报">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14545_1.jpg" width="700" alt="日式丛林主题公园恶搞海报">
 </div>
 
 #### 📌 Details
@@ -658,7 +656,7 @@ Generates a modern, futuristic website landing page mockup featuring a smart mir
 - **Published:** 2026-04-22
 - **Language:** en
 
-**[👉 在 AtlasCloud 看更多](https://www.atlascloud.ai/prompts-hub)**
+**[👉 在 AtlasCloud 查看完整提示词库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**
 
 ---
 
@@ -677,7 +675,7 @@ Generates a modern, futuristic website landing page mockup featuring a smart mir
 #### 🖼️ Generated Image
 
 <div align="center">
-<img src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/prompt/gpt-image2/images/13958_1.jpg" width="700" alt="精确图像复刻">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/13958_1.jpg" width="700" alt="精确图像复刻">
 </div>
 
 #### 📌 Details
@@ -688,7 +686,7 @@ Generates a modern, futuristic website landing page mockup featuring a smart mir
 - **Published:** 2026-04-17
 - **Language:** en
 
-**[👉 在 AtlasCloud 看更多](https://www.atlascloud.ai/prompts-hub)**
+**[👉 在 AtlasCloud 查看完整提示词库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**
 
 ---
 
@@ -707,7 +705,7 @@ Generates a modern, futuristic website landing page mockup featuring a smart mir
 #### 🖼️ Generated Image
 
 <div align="center">
-<img src="https://res-atlascloud.oss-us-west-1.aliyuncs.com/prompt/gpt-image2/images/14342_1.jpg" width="700" alt="模块化知识百科信息图">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14342_1.jpg" width="700" alt="模块化知识百科信息图">
 </div>
 
 #### 📌 Details
@@ -718,7 +716,7 @@ Generates a modern, futuristic website landing page mockup featuring a smart mir
 - **Published:** 2026-04-21
 - **Language:** zh
 
-**[👉 在 AtlasCloud 看更多](https://www.atlascloud.ai/prompts-hub)**
+**[👉 在 AtlasCloud 查看完整提示词库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**
 
 ---
 
@@ -726,41 +724,12 @@ Generates a modern, futuristic website landing page mockup featuring a smart mir
 
 1. 复制某条 `Prompt` 到 GPT-Image-2。
 2. 替换 `{argument name="..." default="..."}` 占位参数。
-3. 如果要找更多风格，访问：**[AtlasCloud Prompts Hub](https://www.atlascloud.ai/prompts-hub)**。
+3. 查看更多可直接复用的模板：**[AtlasCloud 中文提示词库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**。
 
 ---
 
-## 🛠️ 本地生成
+##  致谢与声明
 
-```bash
-cd /Users/zby/atlascloud/gpt-image2-prompt-awesome
-node scripts/generate-readme.mjs
-```
-
-可选环境变量：
-
-- `PROMPTS_SOURCE`: 指向数据源 JSON 路径
-- `MAX_ITEMS`: 控制输出条目数（默认 18）
-
----
-
-## 🔐 API Key 与本地验证
-
-- API Key 文档：<https://www.atlascloud.ai/docs/zh/api-keys>
-- 本地开发说明：`docs/LOCAL_DEVELOPMENT.md`
-- 本地验证命令：
-
-```bash
-source .env
-npm run verify:key
-```
-
----
-
-## 🙏 致谢与声明
-
-- 数据来源：`/Users/zby/atlascloud/prompts-hub/src/data/records.json`
+- 数据来源：`prompts-hub` 数据集
 - 本仓库用于学习与示例整理，请保留原作者与来源链接
 - 侵权或不当内容请提交 issue，我们会及时处理
-# gpt-image2-prompt-awesome
-# gpt-image2-prompt-awesome
