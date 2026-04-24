@@ -1,24 +1,23 @@
 # Contributing
 
-感谢贡献！这是一个用于整理 GPT-Image-2 提示词示例的仓库。
+Thanks for contributing! This repository curates GPT-Image-2 prompt examples.
 
-## 提交建议
+## Submission Guidelines
 
-1. 提交内容需包含：
-   - 标题
-   - 描述
-   - Prompt 原文
-   - 预览图链接
-   - 来源链接（可追溯）
-2. 若涉及他人作品，请保留原作者与来源信息。
-3. 不接受明显侵权或无法确认来源的内容。
+1. Each submission should include:
+   - Title
+   - Description
+   - Original prompt text
+   - Preview image URL
+   - Source URL (traceable)
+2. If content comes from others, keep original author and source info.
+3. We do not accept obviously infringing or untraceable content.
 
-## 推荐格式
+## Recommended Format
 
-可参考 `README.md` 中每条示例的结构：
+Use the structure from each example in `README.md`:
 
 - `Description`
 - `Prompt`
 - `Generated Image`
 - `Details`
-

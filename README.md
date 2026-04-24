@@ -2,44 +2,45 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![AtlasCloud](https://img.shields.io/badge/AtlasCloud-Prompts%20Hub-blue)](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)
+[![AtlasCloud](https://img.shields.io/badge/AtlasCloud-Prompts%20Hub-blue)](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US)
 
-> 基于 `prompts-hub` 数据自动生成的 GPT-Image-2 提示词精选仓库。
+> Automatically generated GPT-Image-2 prompt collection from `prompts-hub` data.
 >
-> 目标：提供一个类似 awesome 风格的可读清单，同时引导到 AtlasCloud 网页端进行完整检索。
+> Goal: provide an awesome-style curated list and link to AtlasCloud for full browsing.
 
 ---
 
-## 🌐 在线浏览（推荐）
+## 🌐 Browse Online (Recommended)
 
-**[👉 访问 AtlasCloud GPT-Image-2 中文提示词库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**
+**[👉 Open AtlasCloud GPT-Image-2 Prompt Library](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US)**
+**Language:** [English](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US) | [中文](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)
 
 ---
 
-## 📊 快速统计
+## 📊 Quick Stats
 
 | Metric | Value |
 |---|---|
-| 本次精选条目 | **18** |
-| 数据来源 | `prompts-hub records dataset` |
-| 语言分布 | en: 16 | zh: 2 |
-| 生成时间 | 2026-04-24 03:34:51 UTC |
+| Curated Items | **18** |
+| Data Source | `prompts-hub records dataset` |
+| Language Mix | en: 16 | zh: 2 |
+| Generated At | 2026-04-24 10:56:14 UTC |
 
 ---
 
-## 📖 目录
+## 📖 Table Of Contents
 
-- [🌐 在线浏览（推荐）](#-在线浏览推荐)
-- [📊 快速统计](#-快速统计)
-- [🔥 精选 Prompt 示例](#-精选-prompt-示例)
-- [🧭 使用方式](#-使用方式)
-- [🙏 致谢与声明](#-致谢与声明)
+- [🌐 Browse Online (Recommended)](#-browse-online-recommended)
+- [📊 Quick Stats](#-quick-stats)
+- [🔥 Featured Prompt Examples](#-featured-prompt-examples)
+- [🧭 How To Use](#-how-to-use)
+- [🙏 Acknowledgements And Notes](#-acknowledgements-and-notes)
 
 ---
 
-## 🔥 精选 Prompt 示例
+## 🔥 Featured Prompt Examples
 
-> 这些样例来自 `prompts-hub/src/data/records.json`，并随机抽样生成。
+> These examples are sampled from `prompts-hub/src/data/records.json`.
 
 ### No. 1: 竞技场中的动漫女性摔跤手
 
@@ -67,7 +68,7 @@
 - **Published:** 2026-04-16
 - **Language:** en
 
-**[👉 在 AtlasCloud 查看完整提示词库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**
+**[👉 View Full Prompt Library On AtlasCloud](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US)**
 
 ---
 
@@ -97,7 +98,7 @@
 - **Published:** 2026-04-21
 - **Language:** en
 
-**[👉 在 AtlasCloud 查看完整提示词库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**
+**[👉 View Full Prompt Library On AtlasCloud](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US)**
 
 ---
 
@@ -127,7 +128,7 @@
 - **Published:** 2026-04-21
 - **Language:** en
 
-**[👉 在 AtlasCloud 查看完整提示词库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**
+**[👉 View Full Prompt Library On AtlasCloud](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US)**
 
 ---
 
@@ -157,7 +158,7 @@
 - **Published:** 2026-04-17
 - **Language:** en
 
-**[👉 在 AtlasCloud 查看完整提示词库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**
+**[👉 View Full Prompt Library On AtlasCloud](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US)**
 
 ---
 
@@ -187,7 +188,7 @@
 - **Published:** 2026-04-21
 - **Language:** en
 
-**[👉 在 AtlasCloud 查看完整提示词库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**
+**[👉 View Full Prompt Library On AtlasCloud](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US)**
 
 ---
 
@@ -217,7 +218,7 @@
 - **Published:** 2026-04-15
 - **Language:** en
 
-**[👉 在 AtlasCloud 查看完整提示词库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**
+**[👉 View Full Prompt Library On AtlasCloud](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US)**
 
 ---
 
@@ -247,7 +248,7 @@
 - **Published:** 2026-04-13
 - **Language:** en
 
-**[👉 在 AtlasCloud 查看完整提示词库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**
+**[👉 View Full Prompt Library On AtlasCloud](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US)**
 
 ---
 
@@ -277,7 +278,7 @@
 - **Published:** 2026-04-21
 - **Language:** en
 
-**[👉 在 AtlasCloud 查看完整提示词库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**
+**[👉 View Full Prompt Library On AtlasCloud](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US)**
 
 ---
 
@@ -308,7 +309,7 @@ A breathtaking and extremely complex conceptual world-building infographic maste
 - **Published:** 2026-04-21
 - **Language:** zh
 
-**[👉 在 AtlasCloud 查看完整提示词库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**
+**[👉 View Full Prompt Library On AtlasCloud](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US)**
 
 ---
 
@@ -338,7 +339,7 @@ A highly detailed, isometric 3D miniature diorama map of {argument name="city na
 - **Published:** 2026-04-20
 - **Language:** en
 
-**[👉 在 AtlasCloud 查看完整提示词库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**
+**[👉 View Full Prompt Library On AtlasCloud](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US)**
 
 ---
 
@@ -415,7 +416,7 @@ A highly detailed, isometric 3D miniature diorama map of {argument name="city na
 - **Published:** 2026-04-18
 - **Language:** en
 
-**[👉 在 AtlasCloud 查看完整提示词库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**
+**[👉 View Full Prompt Library On AtlasCloud](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US)**
 
 ---
 
@@ -477,7 +478,7 @@ Generates a cute, pink-themed VTuber stream thumbnail with customizable text rib
 - **Published:** 2026-04-20
 - **Language:** en
 
-**[👉 在 AtlasCloud 查看完整提示词库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**
+**[👉 View Full Prompt Library On AtlasCloud](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US)**
 
 ---
 
@@ -507,7 +508,7 @@ Generates a cute, pink-themed VTuber stream thumbnail with customizable text rib
 - **Published:** 2026-04-15
 - **Language:** en
 
-**[👉 在 AtlasCloud 查看完整提示词库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**
+**[👉 View Full Prompt Library On AtlasCloud](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US)**
 
 ---
 
@@ -565,7 +566,7 @@ Generates a modern, futuristic website landing page mockup featuring a smart mir
 - **Published:** 2026-04-20
 - **Language:** en
 
-**[👉 在 AtlasCloud 查看完整提示词库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**
+**[👉 View Full Prompt Library On AtlasCloud](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US)**
 
 ---
 
@@ -626,7 +627,7 @@ Generates a modern, futuristic website landing page mockup featuring a smart mir
 - **Published:** 2026-04-13
 - **Language:** en
 
-**[👉 在 AtlasCloud 查看完整提示词库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**
+**[👉 View Full Prompt Library On AtlasCloud](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US)**
 
 ---
 
@@ -656,7 +657,7 @@ Generates a modern, futuristic website landing page mockup featuring a smart mir
 - **Published:** 2026-04-22
 - **Language:** en
 
-**[👉 在 AtlasCloud 查看完整提示词库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**
+**[👉 View Full Prompt Library On AtlasCloud](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US)**
 
 ---
 
@@ -686,7 +687,7 @@ Generates a modern, futuristic website landing page mockup featuring a smart mir
 - **Published:** 2026-04-17
 - **Language:** en
 
-**[👉 在 AtlasCloud 查看完整提示词库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**
+**[👉 View Full Prompt Library On AtlasCloud](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US)**
 
 ---
 
@@ -716,20 +717,21 @@ Generates a modern, futuristic website landing page mockup featuring a smart mir
 - **Published:** 2026-04-21
 - **Language:** zh
 
-**[👉 在 AtlasCloud 查看完整提示词库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**
+**[👉 View Full Prompt Library On AtlasCloud](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US)**
 
 ---
 
-## 🧭 使用方式
+## 🧭 How To Use
 
-1. 复制某条 `Prompt` 到 GPT-Image-2。
-2. 替换 `{argument name="..." default="..."}` 占位参数。
-3. 查看更多可直接复用的模板：**[AtlasCloud 中文提示词库](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN)**。
+1. Copy one `Prompt` into GPT-Image-2.
+2. Replace placeholder params like `{argument name="..." default="..."}`.
+3. Browse more reusable templates: **[AtlasCloud Prompt Library](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US)**.
+4. Switch languages quickly: [English](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US) | [中文](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN).
 
 ---
 
-##  致谢与声明
+## 🙏 Acknowledgements And Notes
 
-- 数据来源：`prompts-hub` 数据集
-- 本仓库用于学习与示例整理，请保留原作者与来源链接
-- 侵权或不当内容请提交 issue，我们会及时处理
+- Data source: `prompts-hub` dataset.
+- This repository is for learning and curation; keep original author and source links.
+- If you find infringement or inappropriate content, please open an issue.

@@ -11,7 +11,12 @@ const sourcePath =
   path.resolve(projectRoot, "../prompts-hub/src/data/records.json");
 const outputPath = path.resolve(projectRoot, "README.md");
 const maxItems = Number(process.env.MAX_ITEMS || 18);
-const atlasLink = "https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-CN";
+const atlasBaseUrl = "https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt";
+const defaultLocale = process.env.ATLASCLOUD_DEFAULT_LOCALE || "en-US";
+
+function atlasLink(locale = defaultLocale) {
+  return `${atlasBaseUrl}?locale=${encodeURIComponent(locale)}`;
+}
 
 function mulberry32(seed) {
   return function () {
@@ -51,7 +56,7 @@ function toDate(iso) {
 
 function renderItem(item, index) {
   const prompt = shorten(sanitize(item.prompt), 1200);
-  const desc = sanitize(item.description || "暂无描述");
+  const desc = sanitize(item.description || "No description available.");
   const title = sanitize(item.title || `Prompt ${item.id}`);
   const author = sanitize(item.author_name || "Unknown");
   const authorLink = sanitize(item.author_link || "");
@@ -65,7 +70,7 @@ function renderItem(item, index) {
   const sourcePart = sourceLink ? `[Twitter Post](${sourceLink})` : "N/A";
   const imagePart = image
     ? `<div align="center">\n<img src="${image}" width="700" alt="${title}">\n</div>`
-    : "_暂无示意图_";
+    : "_No preview image available._";
 
   return `### No. ${index + 1}: ${title}
 
@@ -91,7 +96,7 @@ ${imagePart}
 - **Published:** ${published}
 - **Language:** ${language}
 
-**[👉 在 AtlasCloud 查看完整提示词库](${atlasLink})**
+**[👉 View Full Prompt Library On AtlasCloud](${atlasLink()})**
 
 ---
 `;
@@ -122,66 +127,69 @@ function main() {
     .join(" | ");
 
   const generatedAt = new Date().toISOString().replace("T", " ").replace(/\..+/, " UTC");
+  const localeSwitch = `**Language:** [English](${atlasLink("en-US")}) | [中文](${atlasLink("zh-CN")})`;
 
   const header = `# 🚀 Awesome GPT-Image-2 Prompts (AtlasCloud Edition)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![AtlasCloud](https://img.shields.io/badge/AtlasCloud-Prompts%20Hub-blue)](${atlasLink})
+[![AtlasCloud](https://img.shields.io/badge/AtlasCloud-Prompts%20Hub-blue)](${atlasLink()})
 
-> 基于 \`prompts-hub\` 数据自动生成的 GPT-Image-2 提示词精选仓库。
+> Automatically generated GPT-Image-2 prompt collection from \`prompts-hub\` data.
 >
-> 目标：提供一个类似 awesome 风格的可读清单，同时引导到 AtlasCloud 网页端进行完整检索。
+> Goal: provide an awesome-style curated list and link to AtlasCloud for full browsing.
 
 ---
 
-## 🌐 在线浏览（推荐）
+## 🌐 Browse Online (Recommended)
 
-**[👉 访问 AtlasCloud GPT-Image-2 中文提示词库](${atlasLink})**
+**[👉 Open AtlasCloud GPT-Image-2 Prompt Library](${atlasLink()})**
+${localeSwitch}
 
 ---
 
-## 📊 快速统计
+## 📊 Quick Stats
 
 | Metric | Value |
 |---|---|
-| 本次精选条目 | **${scored.length}** |
-| 数据来源 | \`prompts-hub records dataset\` |
-| 语言分布 | ${langLine || "N/A"} |
-| 生成时间 | ${generatedAt} |
+| Curated Items | **${scored.length}** |
+| Data Source | \`prompts-hub records dataset\` |
+| Language Mix | ${langLine || "N/A"} |
+| Generated At | ${generatedAt} |
 
 ---
 
-## 📖 目录
+## 📖 Table Of Contents
 
-- [🌐 在线浏览（推荐）](#-在线浏览推荐)
-- [📊 快速统计](#-快速统计)
-- [🔥 精选 Prompt 示例](#-精选-prompt-示例)
-- [🧭 使用方式](#-使用方式)
-- [🙏 致谢与声明](#-致谢与声明)
+- [🌐 Browse Online (Recommended)](#-browse-online-recommended)
+- [📊 Quick Stats](#-quick-stats)
+- [🔥 Featured Prompt Examples](#-featured-prompt-examples)
+- [🧭 How To Use](#-how-to-use)
+- [🙏 Acknowledgements And Notes](#-acknowledgements-and-notes)
 
 ---
 
-## 🔥 精选 Prompt 示例
+## 🔥 Featured Prompt Examples
 
-> 这些样例来自 \`prompts-hub/src/data/records.json\`，并随机抽样生成。
+> These examples are sampled from \`prompts-hub/src/data/records.json\`.
 
 `;
 
   const footer = `
-## 🧭 使用方式
+## 🧭 How To Use
 
-1. 复制某条 \`Prompt\` 到 GPT-Image-2。
-2. 替换 \`{argument name="..." default="..."}\` 占位参数。
-3. 查看更多可直接复用的模板：**[AtlasCloud 中文提示词库](${atlasLink})**。
+1. Copy one \`Prompt\` into GPT-Image-2.
+2. Replace placeholder params like \`{argument name="..." default="..."}\`.
+3. Browse more reusable templates: **[AtlasCloud Prompt Library](${atlasLink()})**.
+4. Switch languages quickly: [English](${atlasLink("en-US")}) | [中文](${atlasLink("zh-CN")}).
 
 ---
 
-##  致谢与声明
+## 🙏 Acknowledgements And Notes
 
-- 数据来源：\`prompts-hub\` 数据集
-- 本仓库用于学习与示例整理，请保留原作者与来源链接
-- 侵权或不当内容请提交 issue，我们会及时处理
+- Data source: \`prompts-hub\` dataset.
+- This repository is for learning and curation; keep original author and source links.
+- If you find infringement or inappropriate content, please open an issue.
 `;
 
   const body = scored.map((item, index) => renderItem(item, index)).join("\n");
