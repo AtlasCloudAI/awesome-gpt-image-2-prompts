@@ -1,0 +1,42 @@
+name: 🎨 Submit a Prompt
+description: Contribute a GPT Image 2 prompt to the collection
+title: "[Prompt] <short title>"
+labels: ["prompt-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing! Approved prompts are added to the README and you're credited in the acknowledgements.
+        Bonus: attach a **real preview image generated via [Atlas Cloud](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_medium=link&utm_campaign=awesome-gpt-image2-prompt)**.
+  - type: input
+    id: title
+    attributes:
+      label: Title
+      placeholder: e.g. "Neon cyberpunk portrait"
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Prompt
+      description: The full prompt text.
+      render: text
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options: [Portrait, E-commerce, Cinematic, Social, Poster, UI, Character, Other]
+    validations:
+      required: true
+  - type: input
+    id: preview
+    attributes:
+      label: Preview image URL (optional)
+      description: A preview generated via Atlas Cloud (GPT Image 2 / Nano Banana Pro / Flux 2…).
+  - type: input
+    id: author
+    attributes:
+      label: Your handle (for credit)
+      placeholder: "@yourname"
