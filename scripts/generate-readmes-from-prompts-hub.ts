@@ -40,7 +40,7 @@ const PROMPTS_DIR = path.join(PROMPTS_HUB_ROOT, "src/data/records_by_locale");
 const MAX_REGULAR_PROMPTS_TO_DISPLAY = 120;
 const FEATURED_PROMPT_IDS = [14492, 14490, 14370, 14630, 14507, 14448];
 
-const REPO_SLUG = "awesome-gpt-image2-prompt";
+const REPO_SLUG = "awesome-gpt-image-2-prompts";
 const REPO_FULL = `AtlasCloudAI/${REPO_SLUG}`;
 const UTM = `utm_source=github&utm_campaign=${REPO_SLUG}`;
 
@@ -280,22 +280,22 @@ function getGalleryFeaturesLead(locale: string): string {
 
 function getGptImageFamilyLabel(locale: string): string {
   const labels: Record<string, string> = {
-    en: "Explore AtlasCloud GPT Image Family",
-    zh: "探索 AtlasCloud GPT Image 家族页",
-    "zh-TW": "探索 AtlasCloud GPT Image 家族頁",
-    "ja-JP": "AtlasCloud GPT Image ファミリーを見る",
-    "ko-KR": "AtlasCloud GPT Image 패밀리 보기",
-    "th-TH": "สำรวจ AtlasCloud GPT Image Family",
-    "vi-VN": "Kham pha AtlasCloud GPT Image Family",
-    "hi-IN": "AtlasCloud GPT Image Family dekhen",
-    "es-ES": "Explorar la familia GPT Image de AtlasCloud",
-    "es-419": "Explorar la familia GPT Image de AtlasCloud",
-    "de-DE": "AtlasCloud GPT Image-Familie entdecken",
-    "fr-FR": "Explorer la famille GPT Image d'AtlasCloud",
-    "it-IT": "Esplora la famiglia GPT Image di AtlasCloud",
-    "pt-BR": "Explorar a familia GPT Image da AtlasCloud",
-    "pt-PT": "Explorar a familia GPT Image da AtlasCloud",
-    "tr-TR": "AtlasCloud GPT Image ailesini kesfedin",
+    en: "Explore Atlas Cloud GPT Image Family",
+    zh: "探索 Atlas Cloud GPT Image 家族页",
+    "zh-TW": "探索 Atlas Cloud GPT Image 家族頁",
+    "ja-JP": "Atlas Cloud GPT Image ファミリーを見る",
+    "ko-KR": "Atlas Cloud GPT Image 패밀리 보기",
+    "th-TH": "สำรวจ Atlas Cloud GPT Image Family",
+    "vi-VN": "Kham pha Atlas Cloud GPT Image Family",
+    "hi-IN": "Atlas Cloud GPT Image Family dekhen",
+    "es-ES": "Explorar la familia GPT Image de Atlas Cloud",
+    "es-419": "Explorar la familia GPT Image de Atlas Cloud",
+    "de-DE": "Atlas Cloud GPT Image-Familie entdecken",
+    "fr-FR": "Explorer la famille GPT Image d'Atlas Cloud",
+    "it-IT": "Esplora la famiglia GPT Image di Atlas Cloud",
+    "pt-BR": "Explorar a familia GPT Image da Atlas Cloud",
+    "pt-PT": "Explorar a familia GPT Image da Atlas Cloud",
+    "tr-TR": "Atlas Cloud GPT Image ailesini kesfedin",
   };
 
   return labels[locale] ?? labels.en;
