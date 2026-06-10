@@ -9,7 +9,7 @@
 
 > 🎨 คอลเลกชันคำสั่งสร้างสรรค์สำหรับ OpenAI GPT Image 2 — with **real previews generated via Atlas Cloud**.
 
-> ⚠️ **ประกาศลิขสิทธิ์**: คำสั่งทั้งหมดรวบรวมจากชุมชนเพื่อการศึกษา หากคุณเชื่อว่าเนื้อหาใดละเมิดสิทธิ์ของคุณ โปรด [เปิดปัญหา](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome/issues/new?template=bug-report.yml) และเราจะลบออกทันที
+> ⚠️ **ประกาศลิขสิทธิ์**: คำสั่งทั้งหมดรวบรวมจากชุมชนเพื่อการศึกษา หากคุณเชื่อว่าเนื้อหาใดละเมิดสิทธิ์ของคุณ โปรด [เปิดปัญหา](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts/issues/new?template=bug-report.yml) และเราจะลบออกทันที
 
 ### 🧩 Supported Models
 
@@ -149,7 +149,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 คำสั่งทั้งหมด | **1123** |
 | ⭐ แนะนำ | **6** |
-| 🔄 อัปเดตล่าสุด | **วันพุธที่ 10 มิถุนายน พ.ศ. 2569 เวลา 9 นาฬิกา 41 นาที 42 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันพุธที่ 10 มิถุนายน พ.ศ. 2569 เวลา 10 นาฬิกา 13 นาที 47 วินาที UTC** |
 
 </div>
 
@@ -4884,7 +4884,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 
 ## ⭐ ประวัติดาว
 
-[![Star History Chart](https://api.star-history.com/svg?repos=AtlasCloudAI/awesome-gpt-image2-prompt&type=Date)](https://star-history.com/#AtlasCloudAI/awesome-gpt-image2-prompt&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=AtlasCloudAI/awesome-gpt-image-2-prompts&type=Date)](https://star-history.com/#AtlasCloudAI/awesome-gpt-image-2-prompts&Date)
 
 ---
 
@@ -4894,6 +4894,6 @@ generate a image of physical {argument name="subject" default="high school exam"
 **[📝 ส่งคำสั่ง](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts/issues/new?template=prompt.yml)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-06-10T09:41:42.777Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-06-10T10:13:47.765Z</sub>
 
 </div>

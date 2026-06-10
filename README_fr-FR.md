@@ -9,7 +9,7 @@
 
 > 🎨 Une collection de prompts créatifs pour GPT Image 2 d'OpenAI — with **real previews generated via Atlas Cloud**.
 
-> ⚠️ **Avis de droit d'auteur**: Tous les prompts sont collectés auprès de la communauté à des fins éducatives. Si vous pensez qu'un contenu enfreint vos droits, veuillez [ouvrir un problème](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome/issues/new?template=bug-report.yml) et nous le supprimerons rapidement.
+> ⚠️ **Avis de droit d'auteur**: Tous les prompts sont collectés auprès de la communauté à des fins éducatives. Si vous pensez qu'un contenu enfreint vos droits, veuillez [ouvrir un problème](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts/issues/new?template=bug-report.yml) et nous le supprimerons rapidement.
 
 ### 🧩 Supported Models
 
@@ -149,7 +149,7 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 |--------|-------|
 | 📝 Total des prompts | **1123** |
 | ⭐ En vedette | **6** |
-| 🔄 Dernière mise à jour | **mercredi 10 juin 2026 à 09:41:42 UTC** |
+| 🔄 Dernière mise à jour | **mercredi 10 juin 2026 à 10:13:47 UTC** |
 
 </div>
 
@@ -4884,7 +4884,7 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## ⭐ Historique des étoiles
 
-[![Star History Chart](https://api.star-history.com/svg?repos=AtlasCloudAI/awesome-gpt-image2-prompt&type=Date)](https://star-history.com/#AtlasCloudAI/awesome-gpt-image2-prompt&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=AtlasCloudAI/awesome-gpt-image-2-prompts&type=Date)](https://star-history.com/#AtlasCloudAI/awesome-gpt-image-2-prompts&Date)
 
 ---
 
@@ -4894,6 +4894,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Soumettre un prompt](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts/issues/new?template=prompt.yml)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-06-10T09:41:42.905Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-06-10T10:13:47.898Z</sub>
 
 </div>

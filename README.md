@@ -9,7 +9,7 @@
 
 > 🎨 A curated collection of creative prompts for OpenAI's GPT Image 2 — with **real previews generated via Atlas Cloud**.
 
-> ⚠️ **Copyright Notice**: All prompts are collected from the community for educational purposes. If you believe any content infringes on your rights, please [open an issue](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome/issues/new?template=bug-report.yml) and we will remove it promptly.
+> ⚠️ **Copyright Notice**: All prompts are collected from the community for educational purposes. If you believe any content infringes on your rights, please [open an issue](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts/issues/new?template=bug-report.yml) and we will remove it promptly.
 
 ### 🧩 Supported Models
 
@@ -149,7 +149,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 |--------|-------|
 | 📝 Total Prompts | **1123** |
 | ⭐ Featured | **6** |
-| 🔄 Last Updated | **Wednesday, June 10, 2026 at 9:41:42 AM UTC** |
+| 🔄 Last Updated | **Wednesday, June 10, 2026 at 10:13:47 AM UTC** |
 
 </div>
 
@@ -4884,7 +4884,7 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=AtlasCloudAI/awesome-gpt-image2-prompt&type=Date)](https://star-history.com/#AtlasCloudAI/awesome-gpt-image2-prompt&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=AtlasCloudAI/awesome-gpt-image-2-prompts&type=Date)](https://star-history.com/#AtlasCloudAI/awesome-gpt-image-2-prompts&Date)
 
 ---
 
@@ -4894,6 +4894,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts/issues/new?template=prompt.yml)** •
 **[⭐ Star this repo](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-10T09:41:42.629Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-10T10:13:47.593Z</sub>
 
 </div>

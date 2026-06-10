@@ -9,7 +9,7 @@
 
 > 🎨 OpenAI GPT Image 2 के लिए रचनात्मक प्रॉम्पट्स का संग्रह — with **real previews generated via Atlas Cloud**.
 
-> ⚠️ **कॉपीराइट सूचना**: सभी प्रॉम्पट्स शैक्षिक उद्देश्यों के लिए समुदाय से एकत्र किए गए हैं। यदि आपको लगता है कि कोई सामग्री आपके अधिकारों का उल्लंघन करती है, तो कृपया [एक समस्या खोलें](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome/issues/new?template=bug-report.yml) और हम इसे तुरंत हटा देंगे।
+> ⚠️ **कॉपीराइट सूचना**: सभी प्रॉम्पट्स शैक्षिक उद्देश्यों के लिए समुदाय से एकत्र किए गए हैं। यदि आपको लगता है कि कोई सामग्री आपके अधिकारों का उल्लंघन करती है, तो कृपया [एक समस्या खोलें](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts/issues/new?template=bug-report.yml) और हम इसे तुरंत हटा देंगे।
 
 ### 🧩 Supported Models
 
@@ -149,7 +149,7 @@ Raycast में उपयोग करते समय, आप त्वरि
 |--------|-------|
 | 📝 कुल प्रॉम्पट्स | **1123** |
 | ⭐ विशेष | **6** |
-| 🔄 अंतिम अपडेट | **बुधवार, 10 जून 2026 को 9:41:42 am UTC बजे** |
+| 🔄 अंतिम अपडेट | **बुधवार, 10 जून 2026 को 10:13:47 am UTC बजे** |
 
 </div>
 
@@ -4884,7 +4884,7 @@ Gallery me ye features bhi hain:
 
 ## ⭐ स्टार इतिहास
 
-[![Star History Chart](https://api.star-history.com/svg?repos=AtlasCloudAI/awesome-gpt-image2-prompt&type=Date)](https://star-history.com/#AtlasCloudAI/awesome-gpt-image2-prompt&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=AtlasCloudAI/awesome-gpt-image-2-prompts&type=Date)](https://star-history.com/#AtlasCloudAI/awesome-gpt-image-2-prompts&Date)
 
 ---
 
@@ -4894,6 +4894,6 @@ Gallery me ye features bhi hain:
 **[📝 एक प्रॉम्पट जमा करें](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts/issues/new?template=prompt.yml)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-06-10T09:41:42.821Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-06-10T10:13:47.811Z</sub>
 
 </div>

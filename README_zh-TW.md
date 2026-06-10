@@ -9,7 +9,7 @@
 
 > 🎨 OpenAI GPT Image 2 創意提示詞精選集合 — with **real previews generated via Atlas Cloud**.
 
-> ⚠️ **版權聲明**：所有提示詞均收集自社區，僅供教育目的使用。如果您認為任何內容侵犯了您的權利，請[提交 issue](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome/issues/new?template=bug-report.yml)，我們將立即移除。
+> ⚠️ **版權聲明**：所有提示詞均收集自社區，僅供教育目的使用。如果您認為任何內容侵犯了您的權利，請[提交 issue](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts/issues/new?template=bug-report.yml)，我們將立即移除。
 
 ### 🧩 Supported Models
 
@@ -149,7 +149,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示詞總數 | **1123** |
 | ⭐ 精選 | **6** |
-| 🔄 最後更新 | **2026年6月10日 星期三 上午9:41:42 [UTC]** |
+| 🔄 最後更新 | **2026年6月10日 星期三 上午10:13:47 [UTC]** |
 
 </div>
 
@@ -4884,7 +4884,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ## ⭐ Star 歷史
 
-[![Star History Chart](https://api.star-history.com/svg?repos=AtlasCloudAI/awesome-gpt-image2-prompt&type=Date)](https://star-history.com/#AtlasCloudAI/awesome-gpt-image2-prompt&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=AtlasCloudAI/awesome-gpt-image-2-prompts&type=Date)](https://star-history.com/#AtlasCloudAI/awesome-gpt-image-2-prompts&Date)
 
 ---
 
@@ -4894,6 +4894,6 @@ by {argument name="author" default="Steve Jobs"}
 **[📝 提交提示詞](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts/issues/new?template=prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-06-10T09:41:42.685Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-06-10T10:13:47.668Z</sub>
 
 </div>

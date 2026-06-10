@@ -9,7 +9,7 @@
 
 > 🎨 OpenAI'nin GPT Image 2'si için yaratıcı istemler koleksiyonu — with **real previews generated via Atlas Cloud**.
 
-> ⚠️ **Telif Hakkı Bildirimi**: Tüm istemler eğitim amaçlı olarak topluluktan toplanmıştır. Herhangi bir içeriğin haklarınızı ihlal ettiğini düşünüyorsanız, lütfen [bir sorun açın](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome/issues/new?template=bug-report.yml) ve derhal kaldıralım.
+> ⚠️ **Telif Hakkı Bildirimi**: Tüm istemler eğitim amaçlı olarak topluluktan toplanmıştır. Herhangi bir içeriğin haklarınızı ihlal ettiğini düşünüyorsanız, lütfen [bir sorun açın](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts/issues/new?template=bug-report.yml) ve derhal kaldıralım.
 
 ### 🧩 Supported Models
 
@@ -149,7 +149,7 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 |--------|-------|
 | 📝 Toplam İstem | **1123** |
 | ⭐ Öne Çıkan | **6** |
-| 🔄 Son Güncelleme | **10 Haziran 2026 Çarşamba 09:41:42 UTC** |
+| 🔄 Son Güncelleme | **10 Haziran 2026 Çarşamba 10:13:47 UTC** |
 
 </div>
 
@@ -4884,7 +4884,7 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 
 ## ⭐ Yıldız Geçmişi
 
-[![Star History Chart](https://api.star-history.com/svg?repos=AtlasCloudAI/awesome-gpt-image2-prompt&type=Date)](https://star-history.com/#AtlasCloudAI/awesome-gpt-image2-prompt&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=AtlasCloudAI/awesome-gpt-image-2-prompts&type=Date)](https://star-history.com/#AtlasCloudAI/awesome-gpt-image-2-prompts&Date)
 
 ---
 
@@ -4894,6 +4894,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts/issues/new?template=prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-10T09:41:42.995Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-10T10:13:48.003Z</sub>
 
 </div>
