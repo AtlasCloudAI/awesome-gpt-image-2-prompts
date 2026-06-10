@@ -40,6 +40,18 @@ const PROMPTS_DIR = path.join(PROMPTS_HUB_ROOT, "src/data/records_by_locale");
 const MAX_REGULAR_PROMPTS_TO_DISPLAY = 120;
 const FEATURED_PROMPT_IDS = [14492, 14490, 14370, 14630, 14507, 14448];
 
+const REPO_SLUG = "awesome-gpt-image2-prompt";
+const REPO_FULL = `AtlasCloudAI/${REPO_SLUG}`;
+const UTM = `utm_source=github&utm_campaign=${REPO_SLUG}`;
+
+// Round the prompt count down to a clean floor for the "X+ prompts" badge.
+function promptsCountFloor(total: number): number {
+  if (total >= 1000) return Math.floor(total / 100) * 100;
+  if (total >= 100) return Math.floor(total / 50) * 50;
+  if (total >= 10) return Math.floor(total / 10) * 10;
+  return total;
+}
+
 const SUPPORTED_LANGUAGES: LanguageConfig[] = [
   { code: "en", name: "English", readmeFileName: "README.md" },
   { code: "zh", name: "简体中文", readmeFileName: "README_zh.md" },
@@ -145,12 +157,14 @@ function buildPromptsUrl(locale: string, extraParams: Record<string, string> = {
   const params = new URLSearchParams({
     locale: getGalleryLocale(locale),
     ...extraParams,
+    utm_source: "github",
+    utm_campaign: REPO_SLUG,
   });
   return `https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?${params.toString()}`;
 }
 
 function buildGptImageFamilyUrl(): string {
-  return "https://www.atlascloud.ai/models/media";
+  return `https://www.atlascloud.ai/models/media?${UTM}`;
 }
 
 function cleanPromptContent(content: string): string {
@@ -287,23 +301,44 @@ function getGptImageFamilyLabel(locale: string): string {
   return labels[locale] ?? labels.en;
 }
 
-function generateHeader(locale: string): string {
+function generateSupportedModels(): string {
+  return `### 🧩 Supported Models
+
+- 🎬 **Video** — Seedance 2.0 · Kling 3 · Sora 2 · Veo 3.1 · HappyHorse 1 · Grok Imagine 1.5 · Wan 2.7
+- 🎨 **Image** — Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5
+- 💬 **LLM** — Claude · GPT · DeepSeek · MiniMax · Kimi · GLM · Qwen
+- 🔊 **Audio** — Grok TTS
+- 📚 **Explore more** — https://www.atlascloud.ai/models?${UTM}
+
+`;
+}
+
+function generateRunAnyPrompt(): string {
+  return `**▶ Run any prompt via Atlas Cloud**
+
+- 🧠 **Skill (recommended)** — install [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) in Claude Code / Codex / Gemini CLI, then ask: *"Generate this with GPT Image 2 on Atlas Cloud: &lt;paste a prompt&gt;"*.
+- 💻 **CLI** — prefer the terminal? Use [atlascloud-cli](https://github.com/AtlasCloudAI/cli).
+- 🔑 **[Get a free API key →](https://www.atlascloud.ai/console/api-keys?${UTM})** · 300+ models, one key.
+
+`;
+}
+
+function generateHeader(locale: string, total: number): string {
+  const floor = promptsCountFloor(total);
   return `
 # 🚀 ${t("title", locale)}
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
-[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-gpt-image2-prompt?style=social)](https://github.com/AtlasCloudAI/awesome-gpt-image2-prompt)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Update README](https://github.com/AtlasCloudAI/awesome-gpt-image2-prompt/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/awesome-gpt-image2-prompt/actions)
+[![GitHub stars](https://img.shields.io/github/stars/${REPO_FULL}?style=social)](https://github.com/${REPO_FULL})
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
+[![Prompts](https://img.shields.io/badge/prompts-${floor}%2B-blue.svg)](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?${UTM})
 
-> 🎨 ${t("subtitle", locale)}
+> 🎨 ${t("subtitle", locale)} — with **real previews generated via Atlas Cloud**.
 
 > ⚠️ ${t("copyright", locale)}
 
-**▶ Run any prompt via Atlas Cloud** — install the [Atlas Cloud Skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) in Claude Code / Codex / Gemini CLI and ask: *"Generate this with GPT Image 2 on Atlas Cloud: &lt;paste a prompt&gt;"*. Prefer the terminal? Use [atlascloud-cli](https://github.com/AtlasCloudAI/cli). **[→ Get a free API key](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_medium=link&utm_campaign=awesome-gpt-image2-prompt)** · 300+ models, one key.
-
----
+${generateSupportedModels()}${generateRunAnyPrompt()}---
 
 `;
 }
@@ -360,7 +395,7 @@ ${generateCategoriesSection(locale)}---
 }
 
 function generateTOC(locale: string): string {
-  return `## 📖 ${t("toc", locale)}
+  return `## 📖 Contents
 
 - [🌐 ${t("viewInGallery", locale)}](#-view-in-web-gallery)
 - [🤔 ${t("whatIs", locale)}](#-what-is-gpt-image-2)
@@ -532,7 +567,7 @@ ${t("welcomeContributions", locale)}
 
 ### 🐛 ${t("githubIssue", locale)}
 
-1. Click [**${t("submitNewPrompt", locale)}**](https://github.com/AtlasCloudAI/awesome-gpt-image2-prompt/issues/new?template=submit-prompt.yml)
+1. Click [**${t("submitNewPrompt", locale)}**](https://github.com/${REPO_FULL}/issues/new?template=prompt.yml)
 2. ${t("fillForm", locale)}
 3. ${t("submitWait", locale)}
 4. ${t("approvedSync", locale)}
@@ -547,6 +582,22 @@ ${t("seeContributing", locale)}
 `;
 }
 
+function generateMoreTools(): string {
+  return `## 🧰 More Atlas Cloud Tools
+
+- 💻 **[atlascloud-cli](https://github.com/AtlasCloudAI/cli)** — run any model from your terminal.
+- 🔌 **[MCP Server](https://github.com/AtlasCloudAI/mcp-server)** — connect Atlas Cloud to any MCP client.
+- 🧠 **[atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills)** — Agent Skills for Claude Code / Codex / Gemini CLI.
+- 🖼️ **[atlascloud_comfyui](https://github.com/AtlasCloudAI/atlascloud_comfyui)** — ComfyUI custom nodes for Atlas Cloud.
+- 🔁 **[n8n-nodes-atlascloud](https://github.com/AtlasCloudAI/n8n-nodes-atlascloud)** — n8n automation nodes.
+- 💬 **[Discord](https://discord.gg/MWmMr4q9es)** — join the community.
+- 🌐 **[Website](https://www.atlascloud.ai/?${UTM})** — 300+ models, one API key.
+
+---
+
+`;
+}
+
 function generateFooter(locale: string): string {
   return `## 📄 ${t("license", locale)}
 
@@ -554,10 +605,10 @@ ${t("licensedUnder", locale)}
 
 ---
 
-## 🙏 ${t("acknowledgements", locale)}
+${generateMoreTools()}## 🙏 ${t("acknowledgements", locale)}
 
 - [Payload CMS](https://payloadcms.com/)
-- [atlascloud.ai](https://www.atlascloud.ai)
+- [atlascloud.ai](https://www.atlascloud.ai/?${UTM})
 
 ---
 
@@ -570,8 +621,8 @@ ${t("licensedUnder", locale)}
 <div align="center">
 
 **[🌐 ${t("viewInGallery", locale)}](${buildPromptsUrl(locale)})** •
-**[📝 ${t("submitPrompt", locale)}](https://github.com/AtlasCloudAI/awesome-gpt-image2-prompt/issues/new?template=submit-prompt.yml)** •
-**[⭐ ${t("starRepo", locale)}](https://github.com/AtlasCloudAI/awesome-gpt-image2-prompt)**
+**[📝 ${t("submitPrompt", locale)}](https://github.com/${REPO_FULL}/issues/new?template=prompt.yml)** •
+**[⭐ ${t("starRepo", locale)}](https://github.com/${REPO_FULL})**
 
 <sub>🤖 ${t("autoGenerated", locale)} ${new Date().toISOString()}</sub>
 
@@ -587,7 +638,7 @@ function generateMarkdown(locale: string, prompts: HubPrompt[]): string {
   const hiddenCount = Math.max(regular.length - displayedRegular.length, 0);
 
   let md = "";
-  md += generateHeader(locale);
+  md += generateHeader(locale, sortedPrompts.length);
   md += generateLanguageNavigation(locale);
   md += generateGallerySection(locale);
   md += generateTOC(locale);

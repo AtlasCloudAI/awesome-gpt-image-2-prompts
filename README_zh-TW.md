@@ -2,14 +2,28 @@
 # 🚀 GPT Image 2 提示詞大全
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
-[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/gpt-image2-prompt-awesome?style=social)](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Update README](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome/actions)
+[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-gpt-image2-prompt?style=social)](https://github.com/AtlasCloudAI/awesome-gpt-image2-prompt)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
+[![Prompts](https://img.shields.io/badge/prompts-1100%2B-blue.svg)](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
 
-> 🎨 OpenAI GPT Image 2 創意提示詞精選集合
+> 🎨 OpenAI GPT Image 2 創意提示詞精選集合 — with **real previews generated via Atlas Cloud**.
 
 > ⚠️ **版權聲明**：所有提示詞均收集自社區，僅供教育目的使用。如果您認為任何內容侵犯了您的權利，請[提交 issue](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome/issues/new?template=bug-report.yml)，我們將立即移除。
+
+### 🧩 Supported Models
+
+- 🎬 **Video** — Seedance 2.0 · Kling 3 · Sora 2 · Veo 3.1 · HappyHorse 1 · Grok Imagine 1.5 · Wan 2.7
+- 🎨 **Image** — Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5
+- 💬 **LLM** — Claude · GPT · DeepSeek · MiniMax · Kimi · GLM · Qwen
+- 🔊 **Audio** — Grok TTS
+- 📚 **Explore more** — https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-gpt-image2-prompt
+
+**▶ Run any prompt via Atlas Cloud**
+
+- 🧠 **Skill (recommended)** — install [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) in Claude Code / Codex / Gemini CLI, then ask: *"Generate this with GPT Image 2 on Atlas Cloud: &lt;paste a prompt&gt;"*.
+- 💻 **CLI** — prefer the terminal? Use [atlascloud-cli](https://github.com/AtlasCloudAI/cli).
+- 🔑 **[Get a free API key →](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gpt-image2-prompt)** · 300+ models, one key.
 
 ---
 
@@ -21,9 +35,9 @@
 
 <div align="center">
 
-**[👉 瀏覽 AtlasCloud GPT Image 2 提示詞圖庫](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW)**
+**[👉 瀏覽 AtlasCloud GPT Image 2 提示詞圖庫](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
-**[探索 AtlasCloud GPT Image 家族頁](https://www.atlascloud.ai/models/media)**
+**[探索 AtlasCloud GPT Image 家族頁](https://www.atlascloud.ai/models/media?utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 </div>
 
@@ -40,53 +54,53 @@
 ### 🏷️ 按分類瀏覽
 
 - **Use Cases**
-  - [Profile / Avatar](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=profile-avatar)
-  - [Social Media Post](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=social-media-post)
-  - [Infographic / Edu Visual](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=infographic-edu-visual)
-  - [YouTube Thumbnail](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=youtube-thumbnail)
-  - [Comic / Storyboard](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=comic-storyboard)
-  - [Product Marketing](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=product-marketing)
-  - [E-commerce Main Image](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=ecommerce-main-image)
-  - [Game Asset](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=game-asset)
-  - [Poster / Flyer](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=poster-flyer)
-  - [App / Web Design](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=app-web-design)
+  - [Profile / Avatar](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=profile-avatar&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Social Media Post](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=social-media-post&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Infographic / Edu Visual](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=infographic-edu-visual&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [YouTube Thumbnail](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=youtube-thumbnail&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Comic / Storyboard](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=comic-storyboard&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Product Marketing](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=product-marketing&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [E-commerce Main Image](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=ecommerce-main-image&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Game Asset](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=game-asset&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Poster / Flyer](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=poster-flyer&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [App / Web Design](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=app-web-design&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
 - **Style**
-  - [Photography](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=photography)
-  - [Cinematic / Film Still](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=cinematic-film-still)
-  - [Anime / Manga](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=anime-manga)
-  - [Illustration](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=illustration)
-  - [Sketch / Line Art](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=sketch-line-art)
-  - [Comic / Graphic Novel](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=comic-graphic-novel)
-  - [3D Render](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=3d-render)
-  - [Chibi / Q-Style](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=chibi-q-style)
-  - [Isometric](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=isometric)
-  - [Pixel Art](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=pixel-art)
-  - [Oil Painting](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=oil-painting)
-  - [Watercolor](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=watercolor)
-  - [Ink / Chinese Style](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=ink-chinese-style)
-  - [Retro / Vintage](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=retro-vintage)
-  - [Cyberpunk / Sci-Fi](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=cyberpunk-sci-fi)
-  - [Minimalism](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=minimalism)
+  - [Photography](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=photography&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Cinematic / Film Still](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=cinematic-film-still&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Anime / Manga](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=anime-manga&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Illustration](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=illustration&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Sketch / Line Art](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=sketch-line-art&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Comic / Graphic Novel](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=comic-graphic-novel&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [3D Render](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=3d-render&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Chibi / Q-Style](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=chibi-q-style&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Isometric](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=isometric&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Pixel Art](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=pixel-art&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Oil Painting](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=oil-painting&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Watercolor](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=watercolor&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Ink / Chinese Style](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=ink-chinese-style&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Retro / Vintage](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=retro-vintage&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Cyberpunk / Sci-Fi](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=cyberpunk-sci-fi&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Minimalism](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=minimalism&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
 - **Subjects**
-  - [Portrait / Selfie](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=portrait-selfie)
-  - [Influencer / Model](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=influencer-model)
-  - [Character](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=character)
-  - [Group / Couple](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=group-couple)
-  - [Product](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=product)
-  - [Food / Drink](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=food-drink)
-  - [Fashion Item](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=fashion-item)
-  - [Animal / Creature](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=animal-creature)
-  - [Vehicle](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=vehicle)
-  - [Architecture / Interior](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=architecture-interior)
-  - [Landscape / Nature](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=landscape-nature)
-  - [Cityscape / Street](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=cityscape-street)
-  - [Diagram / Chart](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=diagram-chart)
-  - [Text / Typography](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=text-typography)
-  - [Abstract / Background](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=abstract-background)
+  - [Portrait / Selfie](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=portrait-selfie&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Influencer / Model](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=influencer-model&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Character](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=character&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Group / Couple](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=group-couple&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Product](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=product&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Food / Drink](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=food-drink&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Fashion Item](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=fashion-item&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Animal / Creature](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=animal-creature&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Vehicle](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=vehicle&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Architecture / Interior](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=architecture-interior&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Landscape / Nature](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=landscape-nature&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Cityscape / Street](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=cityscape-street&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Diagram / Chart](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=diagram-chart&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Text / Typography](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=text-typography&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Abstract / Background](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&categories=abstract-background&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
 
 ---
 
-## 📖 目錄
+## 📖 Contents
 
 - [🌐 在網頁圖庫中查看](#-view-in-web-gallery)
 - [🤔 什麼是 GPT Image 2？](#-what-is-gpt-image-2)
@@ -135,7 +149,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示詞總數 | **1123** |
 | ⭐ 精選 | **6** |
-| 🔄 最後更新 | **2026年4月24日 星期五 下午2:59:46 [UTC]** |
+| 🔄 最後更新 | **2026年6月10日 星期三 凌晨2:32:45 [UTC]** |
 
 </div>
 
@@ -176,7 +190,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14492)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14492&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -210,7 +224,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14490)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14490&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -245,7 +259,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** ZH
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14370)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14370&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -280,7 +294,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14630)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14630&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -314,7 +328,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14507)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14507&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -349,7 +363,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14448)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14448&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -387,7 +401,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** ZH
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14341)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14341&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -421,7 +435,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14628)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14628&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -455,7 +469,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14629)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14629&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -559,7 +573,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14471)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14471&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -593,7 +607,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14616)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14616&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -627,7 +641,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14437)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14437&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -660,7 +674,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14508)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14508&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -693,7 +707,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14413)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14413&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -738,7 +752,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14432)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14432&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -771,7 +785,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14617)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14617&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -805,7 +819,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14556)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14556&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -839,7 +853,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14558)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14558&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -873,7 +887,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14563)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14563&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -907,7 +921,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14515)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14515&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -941,7 +955,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14683)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14683&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -975,7 +989,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14685)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14685&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1009,7 +1023,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14638)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14638&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1043,7 +1057,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14637)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14637&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1076,7 +1090,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14469)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14469&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1110,7 +1124,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14686)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14686&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1144,7 +1158,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14436)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14436&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1178,7 +1192,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14697)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14697&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1212,7 +1226,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14405)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14405&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1246,7 +1260,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14324)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14324&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1280,7 +1294,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14553)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14553&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1318,7 +1332,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14555)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14555&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1370,7 +1384,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14340)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14340&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1404,7 +1418,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14310)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14310&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1438,7 +1452,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14545)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14545&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1478,7 +1492,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14315)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14315&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1517,7 +1531,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14430)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14430&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1553,7 +1567,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14311)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14311&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1587,7 +1601,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14552)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14552&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1621,7 +1635,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14554)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14554&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1654,7 +1668,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14433)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14433&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1687,7 +1701,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14434)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14434&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1721,7 +1735,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14565)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14565&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1755,7 +1769,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14564)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14564&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1793,7 +1807,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14374)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14374&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1849,7 +1863,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** JA
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14352)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14352&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1882,7 +1896,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14512)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14512&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1915,7 +1929,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14487)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14487&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1949,7 +1963,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14504)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14504&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1988,7 +2002,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14424)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14424&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2022,7 +2036,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14306)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14306&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2056,7 +2070,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** ZH
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14347)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14347&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2090,7 +2104,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14547)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14547&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2124,7 +2138,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14426)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14426&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2158,7 +2172,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** JA
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14369)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14369&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2198,7 +2212,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14372)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14372&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2231,7 +2245,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14468)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14468&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2265,7 +2279,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14673)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14673&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2299,7 +2313,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14676)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14676&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2333,7 +2347,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14675)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14675&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2367,7 +2381,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14674)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14674&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2401,7 +2415,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14396)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14396&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2452,7 +2466,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14641)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14641&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2486,7 +2500,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14506)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14506&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2520,7 +2534,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14476)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14476&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2560,7 +2574,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** JA
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14368)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14368&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2600,7 +2614,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14321)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14321&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2652,7 +2666,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14397)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14397&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2685,7 +2699,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14417)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14417&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2719,7 +2733,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14639)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14639&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2753,7 +2767,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** JA
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14355)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14355&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2787,7 +2801,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14535)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14535&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2908,7 +2922,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14536)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14536&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2955,7 +2969,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14537)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14537&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2988,7 +3002,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14613)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14613&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3022,7 +3036,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** JA
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14362)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14362&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3055,7 +3069,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14477)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14477&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3088,7 +3102,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14475)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14475&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3122,7 +3136,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14551)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14551&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3162,7 +3176,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14411)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14411&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3196,7 +3210,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14695)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14695&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3230,7 +3244,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14612)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14612&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3263,7 +3277,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14614)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14614&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3297,7 +3311,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14325)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14325&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3331,7 +3345,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14619)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14619&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3365,7 +3379,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14606)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14606&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3403,7 +3417,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** JA
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14356)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14356&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3437,7 +3451,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14386)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14386&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3471,7 +3485,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** JA
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14348)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14348&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3505,7 +3519,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14509)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14509&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3539,7 +3553,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14383)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14383&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3585,7 +3599,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14532)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14532&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3619,7 +3633,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14472)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14472&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3653,7 +3667,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14550)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14550&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3687,7 +3701,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14313)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14313&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3727,7 +3741,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14590)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14590&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3760,7 +3774,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14657)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14657&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3793,7 +3807,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14503)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14503&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3830,7 +3844,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14533)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14533&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3863,7 +3877,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14632)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14632&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3897,7 +3911,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14631)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14631&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3949,7 +3963,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14382)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14382&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3983,7 +3997,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14399)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14399&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4016,7 +4030,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14670)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14670&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4050,7 +4064,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14598)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14598&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4083,7 +4097,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14531)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14531&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4116,7 +4130,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14579)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14579&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4150,7 +4164,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** JA
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14354)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14354&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4184,7 +4198,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14656)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14656&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4239,7 +4253,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** ZH
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14336)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14336&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4277,7 +4291,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14412)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14412&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4311,7 +4325,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14316)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14316&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4344,7 +4358,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14595)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14595&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4378,7 +4392,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14611)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14611&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4412,7 +4426,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14415)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14415&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4446,7 +4460,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14571)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14571&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4485,7 +4499,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14422)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14422&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4524,7 +4538,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14420)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14420&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4558,7 +4572,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14605)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14605&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4592,7 +4606,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14391)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14391&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4628,7 +4642,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14514)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14514&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4662,7 +4676,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14634)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14634&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4695,7 +4709,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14572)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14572&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4729,7 +4743,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14610)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14610&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4763,7 +4777,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14594)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14594&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4797,7 +4811,7 @@ by {argument name="author" default="Steve Jobs"}
 - **發布時間:** 2026年4月22日
 - **多語言:** EN
 
-**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14618)**
+**[👉 立即嘗試 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&id=14618&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4809,7 +4823,7 @@ by {argument name="author" default="Steve Jobs"}
 
 由於 GitHub 內容長度限制，此 README 僅展示前 120 條常規提示詞。
 
-**[👉 在網頁圖庫中查看所有提示詞](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW)**
+**[👉 在網頁圖庫中查看所有提示詞](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 圖庫還提供：
 
@@ -4831,7 +4845,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ### 🐛 GitHub Issue
 
-1. Click [**提交新提示詞**](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome/issues/new?template=submit-prompt.yml)
+1. Click [**提交新提示詞**](https://github.com/AtlasCloudAI/awesome-gpt-image2-prompt/issues/new?template=prompt.yml)
 2. 填寫表單，包含提示詞詳情和圖片
 3. 提交並等待團隊審核
 4. 如果通過審核（我們會添加 `approved` 標籤），它將自動同步到 CMS
@@ -4849,25 +4863,37 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
+## 🧰 More Atlas Cloud Tools
+
+- 💻 **[atlascloud-cli](https://github.com/AtlasCloudAI/cli)** — run any model from your terminal.
+- 🔌 **[MCP Server](https://github.com/AtlasCloudAI/mcp-server)** — connect Atlas Cloud to any MCP client.
+- 🧠 **[atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills)** — Agent Skills for Claude Code / Codex / Gemini CLI.
+- 🖼️ **[atlascloud_comfyui](https://github.com/AtlasCloudAI/atlascloud_comfyui)** — ComfyUI custom nodes for Atlas Cloud.
+- 🔁 **[n8n-nodes-atlascloud](https://github.com/AtlasCloudAI/n8n-nodes-atlascloud)** — n8n automation nodes.
+- 💬 **[Discord](https://discord.gg/MWmMr4q9es)** — join the community.
+- 🌐 **[Website](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-gpt-image2-prompt)** — 300+ models, one API key.
+
+---
+
 ## 🙏 致謝
 
 - [Payload CMS](https://payloadcms.com/)
-- [atlascloud.ai](https://www.atlascloud.ai)
+- [atlascloud.ai](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
 
 ---
 
 ## ⭐ Star 歷史
 
-[![Star History Chart](https://api.star-history.com/svg?repos=AtlasCloudAI/gpt-image2-prompt-awesome&type=Date)](https://star-history.com/#AtlasCloudAI/gpt-image2-prompt-awesome&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=AtlasCloudAI/awesome-gpt-image2-prompt&type=Date)](https://star-history.com/#AtlasCloudAI/awesome-gpt-image2-prompt&Date)
 
 ---
 
 <div align="center">
 
-**[🌐 在網頁圖庫中查看](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW)** •
-**[📝 提交提示詞](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome/issues/new?template=submit-prompt.yml)** •
-**[⭐ 給倉庫點星](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome)**
+**[🌐 在網頁圖庫中查看](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=zh-TW&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)** •
+**[📝 提交提示詞](https://github.com/AtlasCloudAI/awesome-gpt-image2-prompt/issues/new?template=prompt.yml)** •
+**[⭐ 給倉庫點星](https://github.com/AtlasCloudAI/awesome-gpt-image2-prompt)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-04-24T14:59:46.011Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-06-10T02:32:45.666Z</sub>
 
 </div>

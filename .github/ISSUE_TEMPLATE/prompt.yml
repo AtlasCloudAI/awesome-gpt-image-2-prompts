@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         Thanks for contributing! Approved prompts are added to the README and you're credited in the acknowledgements.
-        Bonus: attach a **real preview image generated via [Atlas Cloud](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_medium=link&utm_campaign=awesome-gpt-image2-prompt)**.
+        Bonus: attach a **real preview image generated via [Atlas Cloud](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**.
   - type: input
     id: title
     attributes:

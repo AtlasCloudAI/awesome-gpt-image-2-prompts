@@ -2,14 +2,28 @@
 # 🚀 Awesome GPT Image 2 Prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
-[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/gpt-image2-prompt-awesome?style=social)](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Update README](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome/actions)
+[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-gpt-image2-prompt?style=social)](https://github.com/AtlasCloudAI/awesome-gpt-image2-prompt)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
+[![Prompts](https://img.shields.io/badge/prompts-1100%2B-blue.svg)](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
 
-> 🎨 A curated collection of creative prompts for OpenAI's GPT Image 2
+> 🎨 A curated collection of creative prompts for OpenAI's GPT Image 2 — with **real previews generated via Atlas Cloud**.
 
 > ⚠️ **Copyright Notice**: All prompts are collected from the community for educational purposes. If you believe any content infringes on your rights, please [open an issue](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome/issues/new?template=bug-report.yml) and we will remove it promptly.
+
+### 🧩 Supported Models
+
+- 🎬 **Video** — Seedance 2.0 · Kling 3 · Sora 2 · Veo 3.1 · HappyHorse 1 · Grok Imagine 1.5 · Wan 2.7
+- 🎨 **Image** — Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5
+- 💬 **LLM** — Claude · GPT · DeepSeek · MiniMax · Kimi · GLM · Qwen
+- 🔊 **Audio** — Grok TTS
+- 📚 **Explore more** — https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-gpt-image2-prompt
+
+**▶ Run any prompt via Atlas Cloud**
+
+- 🧠 **Skill (recommended)** — install [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) in Claude Code / Codex / Gemini CLI, then ask: *"Generate this with GPT Image 2 on Atlas Cloud: &lt;paste a prompt&gt;"*.
+- 💻 **CLI** — prefer the terminal? Use [atlascloud-cli](https://github.com/AtlasCloudAI/cli).
+- 🔑 **[Get a free API key →](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gpt-image2-prompt)** · 300+ models, one key.
 
 ---
 
@@ -21,9 +35,9 @@
 
 <div align="center">
 
-**[👉 Browse on AtlasCloud GPT Image 2 Prompts Gallery](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US)**
+**[👉 Browse on AtlasCloud GPT Image 2 Prompts Gallery](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
-**[Explore AtlasCloud GPT Image Family](https://www.atlascloud.ai/models/media)**
+**[Explore AtlasCloud GPT Image Family](https://www.atlascloud.ai/models/media?utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 </div>
 
@@ -40,53 +54,53 @@ Why use our gallery?
 ### 🏷️ Browse by Category
 
 - **Use Cases**
-  - [Profile / Avatar](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=profile-avatar)
-  - [Social Media Post](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=social-media-post)
-  - [Infographic / Edu Visual](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=infographic-edu-visual)
-  - [YouTube Thumbnail](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=youtube-thumbnail)
-  - [Comic / Storyboard](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=comic-storyboard)
-  - [Product Marketing](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=product-marketing)
-  - [E-commerce Main Image](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=ecommerce-main-image)
-  - [Game Asset](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=game-asset)
-  - [Poster / Flyer](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=poster-flyer)
-  - [App / Web Design](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=app-web-design)
+  - [Profile / Avatar](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=profile-avatar&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Social Media Post](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=social-media-post&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Infographic / Edu Visual](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=infographic-edu-visual&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [YouTube Thumbnail](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=youtube-thumbnail&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Comic / Storyboard](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=comic-storyboard&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Product Marketing](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=product-marketing&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [E-commerce Main Image](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=ecommerce-main-image&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Game Asset](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=game-asset&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Poster / Flyer](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=poster-flyer&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [App / Web Design](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=app-web-design&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
 - **Style**
-  - [Photography](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=photography)
-  - [Cinematic / Film Still](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=cinematic-film-still)
-  - [Anime / Manga](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=anime-manga)
-  - [Illustration](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=illustration)
-  - [Sketch / Line Art](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=sketch-line-art)
-  - [Comic / Graphic Novel](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=comic-graphic-novel)
-  - [3D Render](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=3d-render)
-  - [Chibi / Q-Style](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=chibi-q-style)
-  - [Isometric](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=isometric)
-  - [Pixel Art](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=pixel-art)
-  - [Oil Painting](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=oil-painting)
-  - [Watercolor](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=watercolor)
-  - [Ink / Chinese Style](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=ink-chinese-style)
-  - [Retro / Vintage](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=retro-vintage)
-  - [Cyberpunk / Sci-Fi](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=cyberpunk-sci-fi)
-  - [Minimalism](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=minimalism)
+  - [Photography](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=photography&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Cinematic / Film Still](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=cinematic-film-still&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Anime / Manga](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=anime-manga&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Illustration](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=illustration&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Sketch / Line Art](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=sketch-line-art&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Comic / Graphic Novel](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=comic-graphic-novel&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [3D Render](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=3d-render&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Chibi / Q-Style](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=chibi-q-style&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Isometric](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=isometric&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Pixel Art](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=pixel-art&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Oil Painting](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=oil-painting&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Watercolor](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=watercolor&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Ink / Chinese Style](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=ink-chinese-style&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Retro / Vintage](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=retro-vintage&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Cyberpunk / Sci-Fi](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=cyberpunk-sci-fi&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Minimalism](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=minimalism&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
 - **Subjects**
-  - [Portrait / Selfie](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=portrait-selfie)
-  - [Influencer / Model](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=influencer-model)
-  - [Character](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=character)
-  - [Group / Couple](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=group-couple)
-  - [Product](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=product)
-  - [Food / Drink](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=food-drink)
-  - [Fashion Item](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=fashion-item)
-  - [Animal / Creature](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=animal-creature)
-  - [Vehicle](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=vehicle)
-  - [Architecture / Interior](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=architecture-interior)
-  - [Landscape / Nature](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=landscape-nature)
-  - [Cityscape / Street](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=cityscape-street)
-  - [Diagram / Chart](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=diagram-chart)
-  - [Text / Typography](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=text-typography)
-  - [Abstract / Background](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=abstract-background)
+  - [Portrait / Selfie](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=portrait-selfie&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Influencer / Model](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=influencer-model&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Character](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=character&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Group / Couple](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=group-couple&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Product](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=product&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Food / Drink](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=food-drink&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Fashion Item](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=fashion-item&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Animal / Creature](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=animal-creature&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Vehicle](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=vehicle&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Architecture / Interior](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=architecture-interior&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Landscape / Nature](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=landscape-nature&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Cityscape / Street](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=cityscape-street&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Diagram / Chart](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=diagram-chart&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Text / Typography](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=text-typography&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Abstract / Background](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&categories=abstract-background&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
 
 ---
 
-## 📖 Table of Contents
+## 📖 Contents
 
 - [🌐 View in Web Gallery](#-view-in-web-gallery)
 - [🤔 What is GPT Image 2?](#-what-is-gpt-image-2)
@@ -135,7 +149,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 |--------|-------|
 | 📝 Total Prompts | **1123** |
 | ⭐ Featured | **6** |
-| 🔄 Last Updated | **Friday, April 24, 2026 at 2:59:45 PM UTC** |
+| 🔄 Last Updated | **Wednesday, June 10, 2026 at 2:32:45 AM UTC** |
 
 </div>
 
@@ -176,7 +190,7 @@ This prompt generates a soft, romantic four-panel Japanese comic celebrating a m
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14492)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14492&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -210,7 +224,7 @@ A 15-panel sticker-style sheet of an expressive black kitten with Japanese phras
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14490)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14490&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -245,7 +259,7 @@ Create a poster for a {argument name="city" default="Paris"} {argument name="top
 - **Published:** April 22, 2026
 - **Languages:** ZH
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14370)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14370&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -280,7 +294,7 @@ A candid, photorealistic vertical smartphone photo of a young East Asian woman s
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14630)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14630&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -314,7 +328,7 @@ A cinematic cyberpunk night raid on a rain-soaked rooftop balcony in a dense fut
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14507)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14507&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -349,7 +363,7 @@ A vertical reference poster showing the same Chinese phrase rendered in five fam
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14448)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14448&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -387,7 +401,7 @@ A prompt testing character consistency and dynamic expressions in a mirror selfi
 - **Published:** April 22, 2026
 - **Languages:** ZH
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14341)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14341&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -421,7 +435,7 @@ A realistic studio portrait of a young East Asian woman seated on a simple black
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14628)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14628&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -455,7 +469,7 @@ A candid vertical smartphone photo of a {argument name="woman age" default="youn
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14629)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14629&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -559,7 +573,7 @@ A polished four-panel anime manga page showing catgirl characters reacting to im
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14471)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14471&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -593,7 +607,7 @@ A cinematic fantasy portrait of a fierce female warrior walking forward across a
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14616)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14616&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -627,7 +641,7 @@ A dreamy East Asian ink-and-watercolor fantasy illustration of a woman's side-pr
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14437)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14437&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -660,7 +674,7 @@ A hyper-luxurious fantasy portrait of an elegant woman in side profile, centered
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14508)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14508&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -693,7 +707,7 @@ A polished anime fantasy illustration sheet in a 2x2 grid showing the same elega
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14413)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14413&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -738,7 +752,7 @@ Create a high-impact vertical mobile game advertisement poster in glossy anime a
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14432)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14432&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -771,7 +785,7 @@ A dynamic high-fantasy anime illustration in a vertical poster composition, show
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14617)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14617&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -805,7 +819,7 @@ A polished promotional 2x2 collage showing a cute robot painting four different 
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14556)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14556&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -839,7 +853,7 @@ A vintage mid-century space-race propaganda poster pasted on a rough white plast
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14558)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14558&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -873,7 +887,7 @@ A clean black-and-white brand guideline and merchandise presentation board for a
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14563)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14563&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -907,7 +921,7 @@ A photorealistic waist-up portrait of a {argument name="subject" default="young 
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14515)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14515&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -941,7 +955,7 @@ A detailed satirical countryball meme illustration of the {argument name="waterw
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14683)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14683&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -975,7 +989,7 @@ A humorous political meme illustration in a simple countryball cartoon style, sh
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14685)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14685&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1009,7 +1023,7 @@ A bold anime pop-art poster of a tall white-haired male sorcerer in a dark navy 
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14638)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14638&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1043,7 +1057,7 @@ A high-impact shonen manga anime illustration of a powerful white-haired sorcere
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14637)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14637&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1076,7 +1090,7 @@ A dramatic Japanese fantasy movie poster in a painterly, ultra-detailed cinemati
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14469)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14469&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1110,7 +1124,7 @@ A realistic indoor selfie-style portrait of a young East Asian man from the ches
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14686)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14686&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1144,7 +1158,7 @@ A nostalgic Chinese retro collage poster about {argument name="theme title" defa
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14436)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14436&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1178,7 +1192,7 @@ A colorful single-page Japanese comic manga set in a whimsical lunar public bath
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14697)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14697&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1212,7 +1226,7 @@ A Meiji-era-inspired Japanese fantasy newspaper front page with a giant magical 
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14405)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14405&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1246,7 +1260,7 @@ Create a character design sheet for {argument name="character" default="Hermes A
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14324)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14324&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1280,7 +1294,7 @@ A bold Korean beverage advertisement poster in a glossy commercial photography s
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14553)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14553&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1318,7 +1332,7 @@ At the bottom foreground, place 2 food elements: a brass bowl filled with sweet 
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14555)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14555&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1370,7 +1384,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14340)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14340&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1404,7 +1418,7 @@ A page of a comic book in the style of {argument name="comic style" default="mod
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14310)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14310&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1438,7 +1452,7 @@ A hyper-detailed Japanese parody theme park advertisement poster in a vertical f
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14545)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14545&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1478,7 +1492,7 @@ Keep all visible text in English. Use a theatrical poster composition.
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14315)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14315&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1517,7 +1531,7 @@ A cinematic surreal space scene showing 1 astronaut floating in open space besid
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14430)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14430&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1553,7 +1567,7 @@ Additional instructions: Aspect ratio: Portrait 1440x2560. The pen should have a
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14311)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14311&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1587,7 +1601,7 @@ Create a full-screen fictional video platform homepage in a richly detailed stea
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14552)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14552&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1621,7 +1635,7 @@ Create a vintage Korean food poster on aged beige parchment paper with a slightl
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14554)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14554&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1654,7 +1668,7 @@ A highly realistic casual smartphone selfie taken indoors at a McDonald's restau
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14433)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14433&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1687,7 +1701,7 @@ A candid, highly realistic smartphone photo inside a busy Sam’s Club warehouse
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14434)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14434&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1721,7 +1735,7 @@ Create a full-screen fictional video streaming website homepage in a richly deta
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14565)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14565&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1755,7 +1769,7 @@ A richly illustrated antique-style French recipe poster showing butter crepes, i
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14564)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14564&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1793,7 +1807,7 @@ There are no visible dividing lines between seasons; the weather, lighting, and 
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14374)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14374&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1849,7 +1863,7 @@ Create a minimalist theater-style vertical poster for {argument name="user input
 - **Published:** April 22, 2026
 - **Languages:** JA
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14352)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14352&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1882,7 +1896,7 @@ A minimalist flat vector illustration on a light gray background showing a whims
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14512)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14512&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1915,7 +1929,7 @@ Using the provided reference image, keep the same garden, pond, trees, hillside,
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14487)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14487&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1949,7 +1963,7 @@ A bright, hyper-energetic Japanese movie poster illustration in a polished anime
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14504)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14504&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1988,7 +2002,7 @@ This prompt generates a dense, single-page editorial science infographic that ex
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14424)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14424&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2022,7 +2036,7 @@ Create an {argument name="format" default="infographic"} for {argument name="pla
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14306)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14306&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2056,7 +2070,7 @@ Style: An Instagram story snapshot of an {argument name="character" default="Alb
 - **Published:** April 22, 2026
 - **Languages:** ZH
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14347)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14347&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2090,7 +2104,7 @@ A high-quality anime illustration of a {argument name="character type" default="
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14547)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14547&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2124,7 +2138,7 @@ A polished promotional mockup showing 3 tall smartphone screens displayed side b
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14426)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14426&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2158,7 +2172,7 @@ A fictional Japanese advertisement. A horizontal 6-panel layout featuring ads fo
 - **Published:** April 22, 2026
 - **Languages:** JA
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14369)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14369&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2198,7 +2212,7 @@ A futuristic {argument name="scene" default="cyberpunk outdoor music market"} sc
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14372)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14372&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2231,7 +2245,7 @@ Create a black-and-white manga page with 4 stacked horizontal panels, clean blac
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14468)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14468&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2265,7 +2279,7 @@ A cinematic candid photo of a {argument name="person" default="young woman"} sta
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14673)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14673&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2299,7 +2313,7 @@ A high-end editorial fashion photograph shown as an open large-format hardcover 
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14676)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14676&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2333,7 +2347,7 @@ A candid documentary-style photo of a {argument name="setting" default="high sch
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14675)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14675&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2367,7 +2381,7 @@ A slightly surreal but photorealistic portrait of a seated person in a quiet cou
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14674)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14674&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2401,7 +2415,7 @@ line graph from an important and prestigious {argument name="field" default="eco
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14396)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14396&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2452,7 +2466,7 @@ A cinematic Renaissance art studio interior lit by soft warm window light, showi
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14641)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14641&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2486,7 +2500,7 @@ A dramatic full-body photo of a woman dancing powerfully in a dark upscale loung
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14506)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14506&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2520,7 +2534,7 @@ Using the provided reference image as the exact background base, keep the same u
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14476)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14476&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2560,7 +2574,7 @@ A short prompt for generating a character reference sheet for a mecha-style char
 - **Published:** April 22, 2026
 - **Languages:** JA
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14368)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14368&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2600,7 +2614,7 @@ Can you put {argument name="subject" default="my girl dog"} in the movie {argume
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14321)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14321&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2652,7 +2666,7 @@ A prompt that generates a creative interpretation of an AI task horizons graph u
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14397)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14397&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2685,7 +2699,7 @@ A highly detailed retro pixel art landscape of a bright alpine valley in summer,
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14417)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14417&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2719,7 +2733,7 @@ This prompt generates a Portuguese black-and-white manga-style eight-panel comic
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14639)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14639&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2753,7 +2767,7 @@ Create an advertisement for {argument name="product" default="iced coffee"}. A s
 - **Published:** April 22, 2026
 - **Languages:** JA
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14355)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14355&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2787,7 +2801,7 @@ A realistic parody medical statement in Japanese for an AI model, useful for cre
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14535)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14535&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2908,7 +2922,7 @@ A realistic overhead photo of a humorous Japanese prescription form for an AI mo
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14536)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14536&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2955,7 +2969,7 @@ Style: photorealistic documentary product shot, comedic fake prescription prop d
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14537)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14537&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2988,7 +3002,7 @@ A sleek futuristic Japanese tech advertisement in a dark sci-fi showroom with gl
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14613)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14613&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3022,7 +3036,7 @@ Please create an {argument name="atmosphere" default="emotional"} Japanese movie
 - **Published:** April 22, 2026
 - **Languages:** JA
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14362)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14362&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3055,7 +3069,7 @@ A dramatic black-and-white manga page in a seinen style, rendered with dense scr
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14477)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14477&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3088,7 +3102,7 @@ A cute sticker-style 3D figurine illustration on a clean light gray background, 
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14475)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14475&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3122,7 +3136,7 @@ A bold four-quadrant Japanese promotional thumbnail for coaching or self-improve
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14551)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14551&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3162,7 +3176,7 @@ Create a 4:5 editorial fashion lookbook moodboard for a fictional brand called {
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14411)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14411&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3196,7 +3210,7 @@ A clean modern YouTube thumbnail on a bright white background, split visually be
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14695)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14695&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3230,7 +3244,7 @@ A realistic lifestyle stock photo of {argument name="subject" default="a young w
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14612)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14612&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3263,7 +3277,7 @@ A cinematic candid photo of 4 young adults standing in front of a smooth studio 
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14614)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14614&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3297,7 +3311,7 @@ A traditional Chinese ink and color painting in {argument name="style" default="
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14325)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14325&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3331,7 +3345,7 @@ A photorealistic, cinematic vertical portrait of a medieval or fantasy woman wit
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14619)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14619&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3365,7 +3379,7 @@ A highly detailed glossy anime idol portrait in a vertical composition, showing 
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14606)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14606&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3403,7 +3417,7 @@ A structured layout prompt designed for Japanese advertising and posters, focusi
 - **Published:** April 22, 2026
 - **Languages:** JA
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14356)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14356&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3437,7 +3451,7 @@ a {argument name="player count" default="20"} person horde raid is fighting {arg
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14386)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14386&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3471,7 +3485,7 @@ Please draw a manga where a {argument name="subject" default="cat"} {argument na
 - **Published:** April 22, 2026
 - **Languages:** JA
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14348)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14348&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3505,7 +3519,7 @@ This prompt generates a white-background anime character collage with multiple p
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14509)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14509&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3539,7 +3553,7 @@ a screenshot of {argument name="software" default="Photoshop"} in {argument name
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14383)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14383&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3585,7 +3599,7 @@ A four-panel pastel fantasy office manga page showing a sheep-horned clerk and a
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14532)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14532&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3619,7 +3633,7 @@ A breathtaking anime movie poster at golden-hour sunset, vertical theatrical one
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14472)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14472&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3653,7 +3667,7 @@ A polished one-page anime manga introduces coin collecting to beginners, useful 
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14550)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14550&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3687,7 +3701,7 @@ Create a single full-scene image in a 9:16 vertical format, retro 16-bit pixel a
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14313)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14313&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3727,7 +3741,7 @@ This prompt generates a clean automotive concept presentation board showing a mo
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14590)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14590&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3760,7 +3774,7 @@ A minimalist vector-style illustration on a flat light gray background showing a
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14657)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14657&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3793,7 +3807,7 @@ A cute hand-drawn four-panel comic in a soft, warm, slice-of-life style on a lig
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14503)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14503&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3830,7 +3844,7 @@ The rendering should be extremely dense and crisp, like a 4k fantasy illustratio
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14533)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14533&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3863,7 +3877,7 @@ A realistic documentary-style photo of an elementary school classroom during a m
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14632)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14632&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3897,7 +3911,7 @@ Create a vertical printable educational worksheet in Brazilian Portuguese, clean
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14631)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14631&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3949,7 +3963,7 @@ Create a polished multi-page (multiple images) brand kit for {argument name="bra
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14382)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14382&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3983,7 +3997,7 @@ A vintage travel poster illustration for {argument name="destination" default="M
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14399)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14399&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4016,7 +4030,7 @@ Using the provided reference image, turn the cat into a realistic human portrait
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14670)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14670&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4050,7 +4064,7 @@ A dark epic sci-fi movie poster for {argument name="film title" default="EMPIRE 
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14598)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14598&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4083,7 +4097,7 @@ A 2x2 collage of faux Japanese TV and anime posters featuring a middle-aged man 
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14531)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14531&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4116,7 +4130,7 @@ A surreal cinematic outdoor portrait of a masked archer standing in a dry field 
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14579)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14579&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4150,7 +4164,7 @@ Use GPT-image-2 to create a photobook of two women that matches the local aftern
 - **Published:** April 22, 2026
 - **Languages:** JA
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14354)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14354&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4184,7 +4198,7 @@ A polished personal AI portfolio homepage mockup for showcasing projects, writin
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14656)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14656&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4239,7 +4253,7 @@ Round 4: Do another version in the style of {argument name="movie 3" default="20
 - **Published:** April 22, 2026
 - **Languages:** ZH
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14336)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14336&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4277,7 +4291,7 @@ Keep the composition highly organized, poster-like, and visually dense, with eac
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14412)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14412&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4311,7 +4325,7 @@ Create a {argument name="aspect ratio" default="9:16"} image of an {argument nam
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14316)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14316&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4344,7 +4358,7 @@ A realistic outdoor sports portrait of two American football players standing si
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14595)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14595&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4378,7 +4392,7 @@ A highly polished studio photograph of a {argument name="animal" default="chamel
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14611)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14611&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4412,7 +4426,7 @@ A top-down cinematic still life of a vintage classified investigation dossier on
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14415)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14415&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4446,7 +4460,7 @@ A dramatic ultra-wide aerial tiny-planet photograph of {argument name="city name
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14571)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14571&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4485,7 +4499,7 @@ A hyper-realistic full-body studio portrait of a disturbing humanoid alien stand
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14422)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14422&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4524,7 +4538,7 @@ A full-body cinematic portrait of a deeply unsettling humanoid alien standing al
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14420)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14420&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4558,7 +4572,7 @@ A four-panel fantasy anime comic page showing a silver-haired moon-themed girl d
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14605)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14605&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4592,7 +4606,7 @@ Make a wheatpaste poster setup on a brick wall in {argument name="location" defa
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14391)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14391&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4628,7 +4642,7 @@ Design it as a fully typeset Japanese film poster with elegant serif display typ
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14514)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14514&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4662,7 +4676,7 @@ A satirical AAA game expansion poster styled like an official World of Warcraft:
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14634)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14634&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4695,7 +4709,7 @@ A dark fantasy matte painting of a bleak hilltop encampment overlooking a vast c
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14572)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14572&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4729,7 +4743,7 @@ An epic cinematic poster in a dark golden bronze palette, styled like a mythic g
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14610)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14610&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4763,7 +4777,7 @@ A polished studio portrait of a glamorous pop-star-like woman from the chest up,
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14594)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14594&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4797,7 +4811,7 @@ A dramatic dark-fantasy portrait of an elderly wizard standing in a stormy waste
 - **Published:** April 22, 2026
 - **Languages:** EN
 
-**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14618)**
+**[👉 Try it now →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&id=14618&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4809,7 +4823,7 @@ A dramatic dark-fantasy portrait of an elderly wizard standing in a stormy waste
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
-**[👉 View all prompts in our Web Gallery](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US)**
+**[👉 View all prompts in our Web Gallery](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 The gallery features:
 
@@ -4831,7 +4845,7 @@ We welcome contributions! You can submit prompts via:
 
 ### 🐛 GitHub Issue
 
-1. Click [**Submit New Prompt**](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome/issues/new?template=submit-prompt.yml)
+1. Click [**Submit New Prompt**](https://github.com/AtlasCloudAI/awesome-gpt-image2-prompt/issues/new?template=prompt.yml)
 2. Fill in the form with prompt details and image
 3. Submit and wait for team review
 4. If approved (we'll add `approved` label), it will automatically sync to CMS
@@ -4849,25 +4863,37 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ---
 
+## 🧰 More Atlas Cloud Tools
+
+- 💻 **[atlascloud-cli](https://github.com/AtlasCloudAI/cli)** — run any model from your terminal.
+- 🔌 **[MCP Server](https://github.com/AtlasCloudAI/mcp-server)** — connect Atlas Cloud to any MCP client.
+- 🧠 **[atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills)** — Agent Skills for Claude Code / Codex / Gemini CLI.
+- 🖼️ **[atlascloud_comfyui](https://github.com/AtlasCloudAI/atlascloud_comfyui)** — ComfyUI custom nodes for Atlas Cloud.
+- 🔁 **[n8n-nodes-atlascloud](https://github.com/AtlasCloudAI/n8n-nodes-atlascloud)** — n8n automation nodes.
+- 💬 **[Discord](https://discord.gg/MWmMr4q9es)** — join the community.
+- 🌐 **[Website](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-gpt-image2-prompt)** — 300+ models, one API key.
+
+---
+
 ## 🙏 Acknowledgements
 
 - [Payload CMS](https://payloadcms.com/)
-- [atlascloud.ai](https://www.atlascloud.ai)
+- [atlascloud.ai](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
 
 ---
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=AtlasCloudAI/gpt-image2-prompt-awesome&type=Date)](https://star-history.com/#AtlasCloudAI/gpt-image2-prompt-awesome&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=AtlasCloudAI/awesome-gpt-image2-prompt&type=Date)](https://star-history.com/#AtlasCloudAI/awesome-gpt-image2-prompt&Date)
 
 ---
 
 <div align="center">
 
-**[🌐 View in Web Gallery](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US)** •
-**[📝 Submit a Prompt](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome/issues/new?template=submit-prompt.yml)** •
-**[⭐ Star this repo](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome)**
+**[🌐 View in Web Gallery](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)** •
+**[📝 Submit a Prompt](https://github.com/AtlasCloudAI/awesome-gpt-image2-prompt/issues/new?template=prompt.yml)** •
+**[⭐ Star this repo](https://github.com/AtlasCloudAI/awesome-gpt-image2-prompt)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-04-24T14:59:45.952Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-10T02:32:45.605Z</sub>
 
 </div>

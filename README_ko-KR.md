@@ -2,14 +2,28 @@
 # 🚀 GPT Image 2 프롬프트 모음
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
-[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/gpt-image2-prompt-awesome?style=social)](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Update README](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome/actions)
+[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-gpt-image2-prompt?style=social)](https://github.com/AtlasCloudAI/awesome-gpt-image2-prompt)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
+[![Prompts](https://img.shields.io/badge/prompts-1100%2B-blue.svg)](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
 
-> 🎨 OpenAI GPT Image 2를 위한 창의적인 프롬프트 컬렉션
+> 🎨 OpenAI GPT Image 2를 위한 창의적인 프롬프트 컬렉션 — with **real previews generated via Atlas Cloud**.
 
 > ⚠️ **저작권 고지**: 모든 프롬프트는 교육 목적으로 커뮤니티에서 수집되었습니다. 귀하의 권리를 침해하는 콘텐츠가 있다고 생각되면 [이슈를 열어주세요](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome/issues/new?template=bug-report.yml). 즉시 삭제하겠습니다.
+
+### 🧩 Supported Models
+
+- 🎬 **Video** — Seedance 2.0 · Kling 3 · Sora 2 · Veo 3.1 · HappyHorse 1 · Grok Imagine 1.5 · Wan 2.7
+- 🎨 **Image** — Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5
+- 💬 **LLM** — Claude · GPT · DeepSeek · MiniMax · Kimi · GLM · Qwen
+- 🔊 **Audio** — Grok TTS
+- 📚 **Explore more** — https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-gpt-image2-prompt
+
+**▶ Run any prompt via Atlas Cloud**
+
+- 🧠 **Skill (recommended)** — install [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) in Claude Code / Codex / Gemini CLI, then ask: *"Generate this with GPT Image 2 on Atlas Cloud: &lt;paste a prompt&gt;"*.
+- 💻 **CLI** — prefer the terminal? Use [atlascloud-cli](https://github.com/AtlasCloudAI/cli).
+- 🔑 **[Get a free API key →](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gpt-image2-prompt)** · 300+ models, one key.
 
 ---
 
@@ -21,9 +35,9 @@
 
 <div align="center">
 
-**[👉 AtlasCloud GPT Image 2 프롬프트 갤러리 둘러보기](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR)**
+**[👉 AtlasCloud GPT Image 2 프롬프트 갤러리 둘러보기](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
-**[AtlasCloud GPT Image 패밀리 보기](https://www.atlascloud.ai/models/media)**
+**[AtlasCloud GPT Image 패밀리 보기](https://www.atlascloud.ai/models/media?utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 </div>
 
@@ -40,53 +54,53 @@
 ### 🏷️ 카테고리별 탐색
 
 - **Use Cases**
-  - [Profile / Avatar](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=profile-avatar)
-  - [Social Media Post](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=social-media-post)
-  - [Infographic / Edu Visual](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=infographic-edu-visual)
-  - [YouTube Thumbnail](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=youtube-thumbnail)
-  - [Comic / Storyboard](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=comic-storyboard)
-  - [Product Marketing](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=product-marketing)
-  - [E-commerce Main Image](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=ecommerce-main-image)
-  - [Game Asset](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=game-asset)
-  - [Poster / Flyer](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=poster-flyer)
-  - [App / Web Design](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=app-web-design)
+  - [Profile / Avatar](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=profile-avatar&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Social Media Post](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=social-media-post&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Infographic / Edu Visual](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=infographic-edu-visual&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [YouTube Thumbnail](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=youtube-thumbnail&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Comic / Storyboard](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=comic-storyboard&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Product Marketing](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=product-marketing&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [E-commerce Main Image](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=ecommerce-main-image&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Game Asset](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=game-asset&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Poster / Flyer](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=poster-flyer&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [App / Web Design](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=app-web-design&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
 - **Style**
-  - [Photography](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=photography)
-  - [Cinematic / Film Still](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=cinematic-film-still)
-  - [Anime / Manga](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=anime-manga)
-  - [Illustration](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=illustration)
-  - [Sketch / Line Art](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=sketch-line-art)
-  - [Comic / Graphic Novel](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=comic-graphic-novel)
-  - [3D Render](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=3d-render)
-  - [Chibi / Q-Style](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=chibi-q-style)
-  - [Isometric](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=isometric)
-  - [Pixel Art](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=pixel-art)
-  - [Oil Painting](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=oil-painting)
-  - [Watercolor](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=watercolor)
-  - [Ink / Chinese Style](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=ink-chinese-style)
-  - [Retro / Vintage](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=retro-vintage)
-  - [Cyberpunk / Sci-Fi](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=cyberpunk-sci-fi)
-  - [Minimalism](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=minimalism)
+  - [Photography](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=photography&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Cinematic / Film Still](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=cinematic-film-still&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Anime / Manga](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=anime-manga&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Illustration](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=illustration&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Sketch / Line Art](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=sketch-line-art&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Comic / Graphic Novel](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=comic-graphic-novel&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [3D Render](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=3d-render&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Chibi / Q-Style](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=chibi-q-style&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Isometric](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=isometric&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Pixel Art](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=pixel-art&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Oil Painting](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=oil-painting&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Watercolor](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=watercolor&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Ink / Chinese Style](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=ink-chinese-style&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Retro / Vintage](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=retro-vintage&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Cyberpunk / Sci-Fi](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=cyberpunk-sci-fi&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Minimalism](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=minimalism&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
 - **Subjects**
-  - [Portrait / Selfie](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=portrait-selfie)
-  - [Influencer / Model](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=influencer-model)
-  - [Character](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=character)
-  - [Group / Couple](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=group-couple)
-  - [Product](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=product)
-  - [Food / Drink](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=food-drink)
-  - [Fashion Item](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=fashion-item)
-  - [Animal / Creature](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=animal-creature)
-  - [Vehicle](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=vehicle)
-  - [Architecture / Interior](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=architecture-interior)
-  - [Landscape / Nature](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=landscape-nature)
-  - [Cityscape / Street](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=cityscape-street)
-  - [Diagram / Chart](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=diagram-chart)
-  - [Text / Typography](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=text-typography)
-  - [Abstract / Background](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=abstract-background)
+  - [Portrait / Selfie](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=portrait-selfie&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Influencer / Model](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=influencer-model&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Character](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=character&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Group / Couple](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=group-couple&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Product](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=product&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Food / Drink](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=food-drink&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Fashion Item](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=fashion-item&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Animal / Creature](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=animal-creature&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Vehicle](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=vehicle&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Architecture / Interior](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=architecture-interior&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Landscape / Nature](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=landscape-nature&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Cityscape / Street](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=cityscape-street&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Diagram / Chart](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=diagram-chart&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Text / Typography](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=text-typography&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
+  - [Abstract / Background](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&categories=abstract-background&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
 
 ---
 
-## 📖 목차
+## 📖 Contents
 
 - [🌐 웹 갤러리에서 보기](#-view-in-web-gallery)
 - [🤔 GPT Image 2란 무엇인가요?](#-what-is-gpt-image-2)
@@ -135,7 +149,7 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 |--------|-------|
 | 📝 총 프롬프트 수 | **1123** |
 | ⭐ 추천 | **6** |
-| 🔄 마지막 업데이트 | **2026년 4월 24일 금요일 PM 2시 59분 46초 UTC** |
+| 🔄 마지막 업데이트 | **2026년 6월 10일 수요일 AM 2시 32분 45초 UTC** |
 
 </div>
 
@@ -176,7 +190,7 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14492)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14492&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -210,7 +224,7 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14490)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14490&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -245,7 +259,7 @@ GPT Image 2에서 사용할 수 있도록 설계된 도시 음식 순위 포스�
 - **게시일:** 2026년 4월 22일
 - **언어:** ZH
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14370)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14370&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -280,7 +294,7 @@ GPT Image 2에서 사용할 수 있도록 설계된 도시 음식 순위 포스�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14630)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14630&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -314,7 +328,7 @@ GPT Image 2에서 사용할 수 있도록 설계된 도시 음식 순위 포스�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14507)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14507&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -349,7 +363,7 @@ GPT Image 2에서 사용할 수 있도록 설계된 도시 음식 순위 포스�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14448)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14448&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -387,7 +401,7 @@ GPT Image 2에서 사용할 수 있도록 설계된 도시 음식 순위 포스�
 - **게시일:** 2026년 4월 22일
 - **언어:** ZH
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14341)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14341&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -421,7 +435,7 @@ GPT Image 2에서 사용할 수 있도록 설계된 도시 음식 순위 포스�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14628)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14628&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -455,7 +469,7 @@ GPT Image 2에서 사용할 수 있도록 설계된 도시 음식 순위 포스�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14629)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14629&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -559,7 +573,7 @@ GPT Image 2에서 사용할 수 있도록 설계된 도시 음식 순위 포스�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14471)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14471&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -593,7 +607,7 @@ GPT Image 2에서 사용할 수 있도록 설계된 도시 음식 순위 포스�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14616)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14616&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -627,7 +641,7 @@ GPT Image 2에서 사용할 수 있도록 설계된 도시 음식 순위 포스�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14437)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14437&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -660,7 +674,7 @@ GPT Image 2에서 사용할 수 있도록 설계된 도시 음식 순위 포스�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14508)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14508&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -693,7 +707,7 @@ GPT Image 2에서 사용할 수 있도록 설계된 도시 음식 순위 포스�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14413)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14413&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -738,7 +752,7 @@ GPT Image 2에서 사용할 수 있도록 설계된 도시 음식 순위 포스�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14432)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14432&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -771,7 +785,7 @@ GPT Image 2에서 사용할 수 있도록 설계된 도시 음식 순위 포스�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14617)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14617&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -805,7 +819,7 @@ GPT Image 2에서 사용할 수 있도록 설계된 도시 음식 순위 포스�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14556)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14556&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -839,7 +853,7 @@ ChatGPT Images 2.0을 우주 시대 로켓 광고로 표현한 빈티지한 레�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14558)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14558&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -873,7 +887,7 @@ ChatGPT Images 2.0을 우주 시대 로켓 광고로 표현한 빈티지한 레�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14563)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14563&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -907,7 +921,7 @@ ChatGPT Images 2.0을 우주 시대 로켓 광고로 표현한 빈티지한 레�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14515)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14515&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -941,7 +955,7 @@ ChatGPT Images 2.0을 우주 시대 로켓 광고로 표현한 빈티지한 레�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14683)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14683&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -975,7 +989,7 @@ ChatGPT Images 2.0을 우주 시대 로켓 광고로 표현한 빈티지한 레�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14685)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14685&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1009,7 +1023,7 @@ ChatGPT Images 2.0을 우주 시대 로켓 광고로 표현한 빈티지한 레�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14638)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14638&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1043,7 +1057,7 @@ ChatGPT Images 2.0을 우주 시대 로켓 광고로 표현한 빈티지한 레�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14637)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14637&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1076,7 +1090,7 @@ ChatGPT Images 2.0을 우주 시대 로켓 광고로 표현한 빈티지한 레�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14469)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14469&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1110,7 +1124,7 @@ ChatGPT Images 2.0을 우주 시대 로켓 광고로 표현한 빈티지한 레�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14686)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14686&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1144,7 +1158,7 @@ ChatGPT Images 2.0을 우주 시대 로켓 광고로 표현한 빈티지한 레�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14436)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14436&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1178,7 +1192,7 @@ ChatGPT Images 2.0을 우주 시대 로켓 광고로 표현한 빈티지한 레�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14697)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14697&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1212,7 +1226,7 @@ ChatGPT Images 2.0을 우주 시대 로켓 광고로 표현한 빈티지한 레�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14405)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14405&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1246,7 +1260,7 @@ ChatGPT Images 2.0을 우주 시대 로켓 광고로 표현한 빈티지한 레�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14324)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14324&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1280,7 +1294,7 @@ ChatGPT Images 2.0을 우주 시대 로켓 광고로 표현한 빈티지한 레�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14553)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14553&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1318,7 +1332,7 @@ ChatGPT Images 2.0을 우주 시대 로켓 광고로 표현한 빈티지한 레�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14555)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14555&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1370,7 +1384,7 @@ ChatGPT Images 2.0을 우주 시대 로켓 광고로 표현한 빈티지한 레�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14340)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14340&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1404,7 +1418,7 @@ ChatGPT Images 2.0을 우주 시대 로켓 광고로 표현한 빈티지한 레�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14310)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14310&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1438,7 +1452,7 @@ ChatGPT Images 2.0을 우주 시대 로켓 광고로 표현한 빈티지한 레�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14545)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14545&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1478,7 +1492,7 @@ ChatGPT Images 2.0을 우주 시대 로켓 광고로 표현한 빈티지한 레�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14315)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14315&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1517,7 +1531,7 @@ ChatGPT Images 2.0을 우주 시대 로켓 광고로 표현한 빈티지한 레�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14430)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14430&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1553,7 +1567,7 @@ ChatGPT Images 2.0을 우주 시대 로켓 광고로 표현한 빈티지한 레�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14311)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14311&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1587,7 +1601,7 @@ ChatGPT Images 2.0을 우주 시대 로켓 광고로 표현한 빈티지한 레�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14552)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14552&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1621,7 +1635,7 @@ ChatGPT Images 2.0을 우주 시대 로켓 광고로 표현한 빈티지한 레�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14554)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14554&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1654,7 +1668,7 @@ ChatGPT Images 2.0을 우주 시대 로켓 광고로 표현한 빈티지한 레�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14433)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14433&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1687,7 +1701,7 @@ ChatGPT Images 2.0을 우주 시대 로켓 광고로 표현한 빈티지한 레�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14434)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14434&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1721,7 +1735,7 @@ AI 이미지 텍스트 렌더링에 관한 레트로 퓨처리즘 웹 UI 콘셉�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14565)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14565&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1755,7 +1769,7 @@ AI 이미지 텍스트 렌더링에 관한 레트로 퓨처리즘 웹 UI 콘셉�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14564)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14564&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1793,7 +1807,7 @@ AI 이미지 텍스트 렌더링에 관한 레트로 퓨처리즘 웹 UI 콘셉�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14374)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14374&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1849,7 +1863,7 @@ AI 이미지 텍스트 렌더링에 관한 레트로 퓨처리즘 웹 UI 콘셉�
 - **게시일:** 2026년 4월 22일
 - **언어:** JA
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14352)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14352&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1882,7 +1896,7 @@ AI 이미지 텍스트 렌더링에 관한 레트로 퓨처리즘 웹 UI 콘셉�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14512)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14512&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1915,7 +1929,7 @@ AI 이미지 텍스트 렌더링에 관한 레트로 퓨처리즘 웹 UI 콘셉�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14487)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14487&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1949,7 +1963,7 @@ AI 이미지 텍스트 렌더링에 관한 레트로 퓨처리즘 웹 UI 콘셉�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14504)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14504&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -1988,7 +2002,7 @@ AI 이미지 텍스트 렌더링에 관한 레트로 퓨처리즘 웹 UI 콘셉�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14424)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14424&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2022,7 +2036,7 @@ AI 이미지 텍스트 렌더링에 관한 레트로 퓨처리즘 웹 UI 콘셉�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14306)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14306&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2056,7 +2070,7 @@ AI 이미지 텍스트 렌더링에 관한 레트로 퓨처리즘 웹 UI 콘셉�
 - **게시일:** 2026년 4월 22일
 - **언어:** ZH
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14347)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14347&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2090,7 +2104,7 @@ AI 이미지 텍스트 렌더링에 관한 레트로 퓨처리즘 웹 UI 콘셉�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14547)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14547&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2124,7 +2138,7 @@ AI로 생성한 코스메틱 브랜드 랜딩 페이지 콘셉트를 소셜 미�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14426)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14426&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2158,7 +2172,7 @@ AI로 생성한 코스메틱 브랜드 랜딩 페이지 콘셉트를 소셜 미�
 - **게시일:** 2026년 4월 22일
 - **언어:** JA
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14369)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14369&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2198,7 +2212,7 @@ AI로 생성한 코스메틱 브랜드 랜딩 페이지 콘셉트를 소셜 미�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14372)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14372&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2231,7 +2245,7 @@ AI로 생성한 코스메틱 브랜드 랜딩 페이지 콘셉트를 소셜 미�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14468)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14468&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2265,7 +2279,7 @@ AI로 생성한 코스메틱 브랜드 랜딩 페이지 콘셉트를 소셜 미�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14673)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14673&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2299,7 +2313,7 @@ AI로 생성한 코스메틱 브랜드 랜딩 페이지 콘셉트를 소셜 미�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14676)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14676&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2333,7 +2347,7 @@ AI로 생성한 코스메틱 브랜드 랜딩 페이지 콘셉트를 소셜 미�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14675)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14675&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2367,7 +2381,7 @@ AI로 생성한 코스메틱 브랜드 랜딩 페이지 콘셉트를 소셜 미�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14674)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14674&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2401,7 +2415,7 @@ AI로 생성한 코스메틱 브랜드 랜딩 페이지 콘셉트를 소셜 미�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14396)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14396&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2452,7 +2466,7 @@ AI로 생성한 코스메틱 브랜드 랜딩 페이지 콘셉트를 소셜 미�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14641)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14641&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2486,7 +2500,7 @@ AI로 생성한 코스메틱 브랜드 랜딩 페이지 콘셉트를 소셜 미�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14506)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14506&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2520,7 +2534,7 @@ AI로 생성한 코스메틱 브랜드 랜딩 페이지 콘셉트를 소셜 미�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14476)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14476&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2560,7 +2574,7 @@ AI로 생성한 코스메틱 브랜드 랜딩 페이지 콘셉트를 소셜 미�
 - **게시일:** 2026년 4월 22일
 - **언어:** JA
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14368)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14368&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2600,7 +2614,7 @@ AI로 생성한 코스메틱 브랜드 랜딩 페이지 콘셉트를 소셜 미�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14321)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14321&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2652,7 +2666,7 @@ Jean-Michel Basquiat의 독특한 스타일과 Voynich manuscript의 미학을 �
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14397)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14397&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2685,7 +2699,7 @@ Jean-Michel Basquiat의 독특한 스타일과 Voynich manuscript의 미학을 �
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14417)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14417&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2719,7 +2733,7 @@ Jean-Michel Basquiat의 독특한 스타일과 Voynich manuscript의 미학을 �
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14639)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14639&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2753,7 +2767,7 @@ Jean-Michel Basquiat의 독특한 스타일과 Voynich manuscript의 미학을 �
 - **게시일:** 2026년 4월 22일
 - **언어:** JA
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14355)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14355&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2787,7 +2801,7 @@ AI 모델을 위한 사실적인 일본어 의료 명세서 패러디로, 유머
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14535)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14535&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2908,7 +2922,7 @@ AI 모델을 위한 유머러스한 일본어 처방전 양식을 담은 사실�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14536)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14536&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2955,7 +2969,7 @@ ChatGPT를 위한 유머러스한 일본식 의약품 처방전 세트를 담은
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14537)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14537&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -2988,7 +3002,7 @@ ChatGPT를 위한 유머러스한 일본식 의약품 처방전 세트를 담은
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14613)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14613&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3022,7 +3036,7 @@ ChatGPT를 위한 유머러스한 일본식 의약품 처방전 세트를 담은
 - **게시일:** 2026년 4월 22일
 - **언어:** JA
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14362)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14362&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3055,7 +3069,7 @@ ChatGPT를 위한 유머러스한 일본식 의약품 처방전 세트를 담은
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14477)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14477&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3088,7 +3102,7 @@ ChatGPT를 위한 유머러스한 일본식 의약품 처방전 세트를 담은
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14475)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14475&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3122,7 +3136,7 @@ ChatGPT를 위한 유머러스한 일본식 의약품 처방전 세트를 담은
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14551)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14551&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3162,7 +3176,7 @@ ChatGPT를 위한 유머러스한 일본식 의약품 처방전 세트를 담은
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14411)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14411&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3196,7 +3210,7 @@ ChatGPT를 위한 유머러스한 일본식 의약품 처방전 세트를 담은
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14695)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14695&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3230,7 +3244,7 @@ ChatGPT를 위한 유머러스한 일본식 의약품 처방전 세트를 담은
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14612)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14612&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3263,7 +3277,7 @@ ChatGPT를 위한 유머러스한 일본식 의약품 처방전 세트를 담은
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14614)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14614&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3297,7 +3311,7 @@ ChatGPT를 위한 유머러스한 일본식 의약품 처방전 세트를 담은
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14325)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14325&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3331,7 +3345,7 @@ ChatGPT를 위한 유머러스한 일본식 의약품 처방전 세트를 담은
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14619)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14619&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3365,7 +3379,7 @@ ChatGPT를 위한 유머러스한 일본식 의약품 처방전 세트를 담은
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14606)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14606&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3403,7 +3417,7 @@ ChatGPT를 위한 유머러스한 일본식 의약품 처방전 세트를 담은
 - **게시일:** 2026년 4월 22일
 - **언어:** JA
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14356)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14356&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3437,7 +3451,7 @@ ChatGPT를 위한 유머러스한 일본식 의약품 처방전 세트를 담은
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14386)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14386&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3471,7 +3485,7 @@ ChatGPT를 위한 유머러스한 일본식 의약품 처방전 세트를 담은
 - **게시일:** 2026년 4월 22일
 - **언어:** JA
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14348)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14348&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3505,7 +3519,7 @@ ChatGPT를 위한 유머러스한 일본식 의약품 처방전 세트를 담은
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14509)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14509&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3539,7 +3553,7 @@ ChatGPT를 위한 유머러스한 일본식 의약품 처방전 세트를 담은
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14383)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14383&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3585,7 +3599,7 @@ ChatGPT를 위한 유머러스한 일본식 의약품 처방전 세트를 담은
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14532)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14532&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3619,7 +3633,7 @@ ChatGPT를 위한 유머러스한 일본식 의약품 처방전 세트를 담은
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14472)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14472&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3653,7 +3667,7 @@ ChatGPT를 위한 유머러스한 일본식 의약품 처방전 세트를 담은
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14550)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14550&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3687,7 +3701,7 @@ ChatGPT를 위한 유머러스한 일본식 의약품 처방전 세트를 담은
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14313)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14313&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3727,7 +3741,7 @@ ChatGPT를 위한 유머러스한 일본식 의약품 처방전 세트를 담은
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14590)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14590&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3760,7 +3774,7 @@ ChatGPT를 위한 유머러스한 일본식 의약품 처방전 세트를 담은
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14657)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14657&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3793,7 +3807,7 @@ ChatGPT를 위한 유머러스한 일본식 의약품 처방전 세트를 담은
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14503)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14503&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3830,7 +3844,7 @@ ChatGPT를 위한 유머러스한 일본식 의약품 처방전 세트를 담은
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14533)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14533&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3863,7 +3877,7 @@ ChatGPT를 위한 유머러스한 일본식 의약품 처방전 세트를 담은
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14632)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14632&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3897,7 +3911,7 @@ ChatGPT를 위한 유머러스한 일본식 의약품 처방전 세트를 담은
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14631)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14631&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3949,7 +3963,7 @@ ChatGPT를 위한 유머러스한 일본식 의약품 처방전 세트를 담은
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14382)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14382&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -3983,7 +3997,7 @@ ChatGPT를 위한 유머러스한 일본식 의약품 처방전 세트를 담은
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14399)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14399&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4016,7 +4030,7 @@ ChatGPT를 위한 유머러스한 일본식 의약품 처방전 세트를 담은
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14670)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14670&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4050,7 +4064,7 @@ ChatGPT를 위한 유머러스한 일본식 의약품 처방전 세트를 담은
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14598)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14598&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4083,7 +4097,7 @@ ChatGPT를 위한 유머러스한 일본식 의약품 처방전 세트를 담은
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14531)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14531&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4116,7 +4130,7 @@ ChatGPT를 위한 유머러스한 일본식 의약품 처방전 세트를 담은
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14579)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14579&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4150,7 +4164,7 @@ GPT-image-2를 사용하여 {argument name="coordinates" default="36.57813406185
 - **게시일:** 2026년 4월 22일
 - **언어:** JA
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14354)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14354&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4184,7 +4198,7 @@ GPT-image-2를 사용하여 {argument name="coordinates" default="36.57813406185
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14656)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14656&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4239,7 +4253,7 @@ Her, Blade Runner 2049, 2001: A Space Odyssey 스타일을 통해 제품 포스�
 - **게시일:** 2026년 4월 22일
 - **언어:** ZH
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14336)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14336&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4277,7 +4291,7 @@ Her, Blade Runner 2049, 2001: A Space Odyssey 스타일을 통해 제품 포스�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14412)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14412&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4311,7 +4325,7 @@ Her, Blade Runner 2049, 2001: A Space Odyssey 스타일을 통해 제품 포스�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14316)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14316&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4344,7 +4358,7 @@ Her, Blade Runner 2049, 2001: A Space Odyssey 스타일을 통해 제품 포스�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14595)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14595&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4378,7 +4392,7 @@ Her, Blade Runner 2049, 2001: A Space Odyssey 스타일을 통해 제품 포스�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14611)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14611&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4412,7 +4426,7 @@ Her, Blade Runner 2049, 2001: A Space Odyssey 스타일을 통해 제품 포스�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14415)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14415&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4446,7 +4460,7 @@ Her, Blade Runner 2049, 2001: A Space Odyssey 스타일을 통해 제품 포스�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14571)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14571&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4485,7 +4499,7 @@ Her, Blade Runner 2049, 2001: A Space Odyssey 스타일을 통해 제품 포스�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14422)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14422&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4524,7 +4538,7 @@ Her, Blade Runner 2049, 2001: A Space Odyssey 스타일을 통해 제품 포스�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14420)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14420&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4558,7 +4572,7 @@ Her, Blade Runner 2049, 2001: A Space Odyssey 스타일을 통해 제품 포스�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14605)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14605&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4592,7 +4606,7 @@ Her, Blade Runner 2049, 2001: A Space Odyssey 스타일을 통해 제품 포스�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14391)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14391&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4628,7 +4642,7 @@ Her, Blade Runner 2049, 2001: A Space Odyssey 스타일을 통해 제품 포스�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14514)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14514&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4662,7 +4676,7 @@ Her, Blade Runner 2049, 2001: A Space Odyssey 스타일을 통해 제품 포스�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14634)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14634&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4695,7 +4709,7 @@ Her, Blade Runner 2049, 2001: A Space Odyssey 스타일을 통해 제품 포스�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14572)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14572&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4729,7 +4743,7 @@ Her, Blade Runner 2049, 2001: A Space Odyssey 스타일을 통해 제품 포스�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14610)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14610&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4763,7 +4777,7 @@ Her, Blade Runner 2049, 2001: A Space Odyssey 스타일을 통해 제품 포스�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14594)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14594&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4797,7 +4811,7 @@ Her, Blade Runner 2049, 2001: A Space Odyssey 스타일을 통해 제품 포스�
 - **게시일:** 2026년 4월 22일
 - **언어:** EN
 
-**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14618)**
+**[👉 지금 시도하기 →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&id=14618&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 ---
 
@@ -4809,7 +4823,7 @@ Her, Blade Runner 2049, 2001: A Space Odyssey 스타일을 통해 제품 포스�
 
 GitHub 콘텐츠 길이 제한으로 인해 이 README에는 일반 프롬프트 상위 120개만 표시됩니다.
 
-**[👉 웹 갤러리에서 모든 프롬프트 보기](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR)**
+**[👉 웹 갤러리에서 모든 프롬프트 보기](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)**
 
 갤러리에서 추가로 제공하는 기능:
 
@@ -4831,7 +4845,7 @@ GitHub 콘텐츠 길이 제한으로 인해 이 README에는 일반 프롬프트
 
 ### 🐛 GitHub Issue
 
-1. Click [**새 프롬프트 제출**](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome/issues/new?template=submit-prompt.yml)
+1. Click [**새 프롬프트 제출**](https://github.com/AtlasCloudAI/awesome-gpt-image2-prompt/issues/new?template=prompt.yml)
 2. 프롬프트 세부 정보와 이미지로 양식 작성
 3. 제출하고 팀 검토 대기
 4. 승인되면 (`approved` 레이블 추가) CMS에 자동으로 동기화됩니다
@@ -4849,25 +4863,37 @@ GitHub 콘텐츠 길이 제한으로 인해 이 README에는 일반 프롬프트
 
 ---
 
+## 🧰 More Atlas Cloud Tools
+
+- 💻 **[atlascloud-cli](https://github.com/AtlasCloudAI/cli)** — run any model from your terminal.
+- 🔌 **[MCP Server](https://github.com/AtlasCloudAI/mcp-server)** — connect Atlas Cloud to any MCP client.
+- 🧠 **[atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills)** — Agent Skills for Claude Code / Codex / Gemini CLI.
+- 🖼️ **[atlascloud_comfyui](https://github.com/AtlasCloudAI/atlascloud_comfyui)** — ComfyUI custom nodes for Atlas Cloud.
+- 🔁 **[n8n-nodes-atlascloud](https://github.com/AtlasCloudAI/n8n-nodes-atlascloud)** — n8n automation nodes.
+- 💬 **[Discord](https://discord.gg/MWmMr4q9es)** — join the community.
+- 🌐 **[Website](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-gpt-image2-prompt)** — 300+ models, one API key.
+
+---
+
 ## 🙏 감사의 말
 
 - [Payload CMS](https://payloadcms.com/)
-- [atlascloud.ai](https://www.atlascloud.ai)
+- [atlascloud.ai](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-gpt-image2-prompt)
 
 ---
 
 ## ⭐ 스타 히스토리
 
-[![Star History Chart](https://api.star-history.com/svg?repos=AtlasCloudAI/gpt-image2-prompt-awesome&type=Date)](https://star-history.com/#AtlasCloudAI/gpt-image2-prompt-awesome&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=AtlasCloudAI/awesome-gpt-image2-prompt&type=Date)](https://star-history.com/#AtlasCloudAI/awesome-gpt-image2-prompt&Date)
 
 ---
 
 <div align="center">
 
-**[🌐 웹 갤러리에서 보기](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR)** •
-**[📝 프롬프트 제출](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome/issues/new?template=submit-prompt.yml)** •
-**[⭐ 이 저장소에 스타 추가](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome)**
+**[🌐 웹 갤러리에서 보기](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=ko-KR&utm_source=github&utm_campaign=awesome-gpt-image2-prompt)** •
+**[📝 프롬프트 제출](https://github.com/AtlasCloudAI/awesome-gpt-image2-prompt/issues/new?template=prompt.yml)** •
+**[⭐ 이 저장소에 스타 추가](https://github.com/AtlasCloudAI/awesome-gpt-image2-prompt)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-04-24T14:59:46.077Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-10T02:32:45.728Z</sub>
 
 </div>
