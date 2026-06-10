@@ -17,7 +17,7 @@
 - 🎨 **Image** — Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5
 - 💬 **LLM** — Claude · GPT · DeepSeek · MiniMax · Kimi · GLM · Qwen
 - 🔊 **Audio** — Grok TTS
-- 📚 **Explore more** — https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-gpt-image-2-prompts
+- 📚 **Explore more** — [300+ models »](https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
 
 **▶ Run any prompt via Atlas Cloud**
 
@@ -149,7 +149,7 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 |--------|-------|
 | 📝 Toplam İstem | **1123** |
 | ⭐ Öne Çıkan | **6** |
-| 🔄 Son Güncelleme | **10 Haziran 2026 Çarşamba 03:50:14 UTC** |
+| 🔄 Son Güncelleme | **10 Haziran 2026 Çarşamba 09:41:42 UTC** |
 
 </div>
 
@@ -4894,6 +4894,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts/issues/new?template=prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-10T03:50:14.095Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-10T09:41:42.995Z</sub>
 
 </div>

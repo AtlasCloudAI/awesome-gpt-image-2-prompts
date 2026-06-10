@@ -17,7 +17,7 @@
 - 🎨 **Image** — Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5
 - 💬 **LLM** — Claude · GPT · DeepSeek · MiniMax · Kimi · GLM · Qwen
 - 🔊 **Audio** — Grok TTS
-- 📚 **Explore more** — https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-gpt-image-2-prompts
+- 📚 **Explore more** — [300+ models »](https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
 
 **▶ Run any prompt via Atlas Cloud**
 
@@ -149,7 +149,7 @@ Raycast में उपयोग करते समय, आप त्वरि
 |--------|-------|
 | 📝 कुल प्रॉम्पट्स | **1123** |
 | ⭐ विशेष | **6** |
-| 🔄 अंतिम अपडेट | **बुधवार, 10 जून 2026 को 3:50:13 am UTC बजे** |
+| 🔄 अंतिम अपडेट | **बुधवार, 10 जून 2026 को 9:41:42 am UTC बजे** |
 
 </div>
 
@@ -4894,6 +4894,6 @@ Gallery me ye features bhi hain:
 **[📝 एक प्रॉम्पट जमा करें](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts/issues/new?template=prompt.yml)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-06-10T03:50:13.925Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-06-10T09:41:42.821Z</sub>
 
 </div>

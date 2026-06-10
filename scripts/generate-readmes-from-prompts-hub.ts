@@ -308,7 +308,7 @@ function generateSupportedModels(): string {
 - 🎨 **Image** — Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5
 - 💬 **LLM** — Claude · GPT · DeepSeek · MiniMax · Kimi · GLM · Qwen
 - 🔊 **Audio** — Grok TTS
-- 📚 **Explore more** — https://www.atlascloud.ai/models?${UTM}
+- 📚 **Explore more** — [300+ models »](https://www.atlascloud.ai/models?${UTM})
 
 `;
 }

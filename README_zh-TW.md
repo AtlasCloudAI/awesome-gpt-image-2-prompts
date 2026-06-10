@@ -17,7 +17,7 @@
 - 🎨 **Image** — Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5
 - 💬 **LLM** — Claude · GPT · DeepSeek · MiniMax · Kimi · GLM · Qwen
 - 🔊 **Audio** — Grok TTS
-- 📚 **Explore more** — https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-gpt-image-2-prompts
+- 📚 **Explore more** — [300+ models »](https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
 
 **▶ Run any prompt via Atlas Cloud**
 
@@ -149,7 +149,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示詞總數 | **1123** |
 | ⭐ 精選 | **6** |
-| 🔄 最後更新 | **2026年6月10日 星期三 凌晨3:50:13 [UTC]** |
+| 🔄 最後更新 | **2026年6月10日 星期三 上午9:41:42 [UTC]** |
 
 </div>
 
@@ -4894,6 +4894,6 @@ by {argument name="author" default="Steve Jobs"}
 **[📝 提交提示詞](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts/issues/new?template=prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-06-10T03:50:13.794Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-06-10T09:41:42.685Z</sub>
 
 </div>
