@@ -149,7 +149,7 @@ Raycast में उपयोग करते समय, आप त्वरि
 |--------|-------|
 | 📝 कुल प्रॉम्पट्स | **1123** |
 | ⭐ विशेष | **6** |
-| 🔄 अंतिम अपडेट | **गुरुवार, 11 जून 2026 को 6:00:01 am UTC बजे** |
+| 🔄 अंतिम अपडेट | **गुरुवार, 11 जून 2026 को 6:37:18 am UTC बजे** |
 
 </div>
 
@@ -159,7 +159,7 @@ Raycast में उपयोग करते समय, आप त्वरि
 
 > ⭐ असाधारण गुणवत्ता और रचनात्मकता के लिए हमारी टीम द्वारा हाथ से चुना गया
 
-### No. 1: हार्दिक 4-पैनल विवाहित जोड़े का मंगा
+### No. 1: हार्दिक 4-पैनल विवाहित जोड़े की मंगा
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
@@ -167,7 +167,7 @@ Raycast में उपयोग करते समय, आप त्वरि
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट एक विवाहित जोड़े का जश्न मनाते हुए एक नरम, रोमांटिक चार-पैनल जापानी कॉमिक उत्पन्न करता है, जो सोशल पोस्ट्स, स्मारकीय चित्रण, या रिश्ता-थीम वाले मंगा आर्ट के लिए आदर्श है।
+यह प्रॉम्प्ट एक विवाहित जोड़े का जश्न मनाते हुए एक नरम, रोमांटिक चार-पैनल जापानी कॉमिक बनाता है, जो सोशल पोस्ट, स्मारक चित्रण, या रिश्ते-थीम वाली मंगा कला के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -180,7 +180,7 @@ Raycast में उपयोग करते समय, आप त्वरि
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14492_1.jpg" width="700" alt="हार्दिक 4-पैनल विवाहित जोड़े का मंगा - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14492_1.jpg" width="700" alt="हार्दिक 4-पैनल विवाहित जोड़े की मंगा - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -194,14 +194,14 @@ Raycast में उपयोग करते समय, आप त्वरि
 
 ---
 
-### No. 2: प्यारा ब्लैक किटन जापानी स्टिकर शीट
+### No. 2: क्यूट ब्लैक किटन जापानी स्टिकर शीट
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 
 #### 📖 विवरण
 
-जापानी वाक्यांशों वाले एक अभिव्यंजक ब्लैक किटन की 15-पैनल स्टिकर-शैली शीट, चैट स्टिकर्स, लाइन स्टैंप अवधारणाओं, या सोशल मीडिया विजुअल्स के लिए आदर्श।
+जापानी वाक्यांशों के साथ एक अभिव्यंजनात्मक काले बिल्ली के बच्चे की 15-पैनल स्टिकर-शैली शीट, चैट स्टिकर, लाइन स्टैम्प अवधारणाओं, या सोशल मीडिया दृश्यों के लिए आदर्श।
 
 #### 📝 प्रॉम्पट
 
@@ -214,7 +214,7 @@ Raycast में उपयोग करते समय, आप त्वरि
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14490_1.jpg" width="700" alt="प्यारा ब्लैक किटन जापानी स्टिकर शीट - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14490_1.jpg" width="700" alt="क्यूट ब्लैक किटन जापानी स्टिकर शीट - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -228,7 +228,7 @@ Raycast में उपयोग करते समय, आप त्वरि
 
 ---
 
-### No. 3: पेरिस खाद्य रैंकिंग पोस्टर प्रॉम्प्ट
+### No. 3: पेरिस फूड रैंकिंग पोस्टर प्रॉम्प्ट
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
@@ -236,7 +236,7 @@ Raycast में उपयोग करते समय, आप त्वरि
 
 #### 📖 विवरण
 
-जीपीटी इमेज 2 के साथ उपयोग के लिए डिजाइन किया गया, एक शहर के खाद्य रैंकिंग के लिए एक पोस्टर बनाने के लिए एक सरल प्रॉम्प्ट।
+एक शहर के भोजन रैंकिंग के लिए पोस्टर बनाने के लिए एक सरल प्रॉम्प्ट, जिसे जीपीटी इमेज 2 के साथ उपयोग के लिए डिज़ाइन किया गया है।
 
 #### 📝 प्रॉम्पट
 
@@ -249,7 +249,7 @@ Create a poster for a {argument name="city" default="Paris"} {argument name="top
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14370_1.jpg" width="700" alt="पेरिस खाद्य रैंकिंग पोस्टर प्रॉम्प्ट - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14370_1.jpg" width="700" alt="पेरिस फूड रैंकिंग पोस्टर प्रॉम्प्ट - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -263,7 +263,7 @@ Create a poster for a {argument name="city" default="Paris"} {argument name="top
 
 ---
 
-### No. 4: ब्राउन में सहज बुटीक चित्र
+### No. 4: ब्राउन में कैंडिड बुटीक पोर्ट्रेट
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
@@ -271,7 +271,7 @@ Create a poster for a {argument name="city" default="Paris"} {argument name="top
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट गर्म रंगों वाले दुकान के आंतरिक भाग में एक महिला का यथार्थवादी ऊर्ध्वाधर लाइफस्टाइल फोटो बनाता है, जो फैशन, रिटेल या सोशल मीडिया संपादकीय इमेजरी के लिए उपयोगी है।
+यह प्रॉम्प्ट एक गर्म-टोन वाली दुकान के इंटीरियर में एक महिला का यथार्थवादी ऊर्ध्वाधर लाइफस्टाइल फोटो जनरेट करता है, जो फैशन, रिटेल या सोशल मीडिया संपादकीय इमेजरी के लिए उपयोगी है।
 
 #### 📝 प्रॉम्पट
 
@@ -284,7 +284,7 @@ A candid, photorealistic vertical smartphone photo of a young East Asian woman s
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14630_1.jpg" width="700" alt="ब्राउन में सहज बुटीक चित्र - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14630_1.jpg" width="700" alt="ब्राउन में कैंडिड बुटीक पोर्ट्रेट - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -298,14 +298,14 @@ A candid, photorealistic vertical smartphone photo of a young East Asian woman s
 
 ---
 
-### No. 5: साइबरपंक रूफटॉप ब्रीच रेड
+### No. 5: साइबरपंक छत पर घुसपैठ छापा
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट बारिश वाली नीयन-रोशनी वाली छत पर एक दरवाजे को तोड़ते हुए पांच-सदस्यीय सामरिक टीम का नाटकीय विस्तृत साइबरपंक एक्शन दृश्य बनाता है, जो डायस्टोपियन साइ-फाई कॉन्सेप्ट आर्ट या सिनेमाई गेम विज़ुअल्स के लिए आदर्श है।
+यह प्रॉम्प्ट बारिश वाली नीयन-रोशनी वाली छत पर एक दरवाजे में घुस रहे पांच-सदस्यीय सामरिक दल का एक नाटकीय विस्तृत साइबरपंक एक्शन दृश्य उत्पन्न करता है, जो डायस्टोपियन साइ-फाई कॉन्सेप्ट आर्ट या सिनेमाई गेम दृश्यों के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -318,7 +318,7 @@ A cinematic cyberpunk night raid on a rain-soaked rooftop balcony in a dense fut
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14507_1.jpg" width="700" alt="साइबरपंक रूफटॉप ब्रीच रेड - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14507_1.jpg" width="700" alt="साइबरपंक छत पर घुसपैठ छापा - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -332,7 +332,7 @@ A cinematic cyberpunk night raid on a rain-soaked rooftop balcony in a dense fut
 
 ---
 
-### No. 6: चीनी कैलिग्राफी स्टाइल तुलना शीट
+### No. 6: चीनी कैलिग्राफी शैली तुलना पत्र
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
@@ -340,7 +340,7 @@ A cinematic cyberpunk night raid on a rain-soaked rooftop balcony in a dense fut
 
 #### 📖 विवरण
 
-एक ऊर्ध्वाधर संदर्भ पोस्टर जो एक ही चीनी वाक्यांश को पांच प्रसिद्ध कैलिग्राफी शैलियों में प्रस्तुत करता है, जो टाइपोग्राफी परीक्षणों, सांस्कृतिक डिज़ाइन अध्ययनों और ब्रश-स्क्रिप्ट तुलनाओं के लिए उपयोगी है।
+एक ऊर्ध्वाधर रेफरेंस पोस्टर जो एक ही चीनी वाक्यांश को पाँच प्रसिद्ध कैलिग्राफी शैलियों में प्रस्तुत करता है, जो टाइपोग्राफी टेस्ट, सांस्कृतिक डिज़ाइन अध्ययन और ब्रश-स्क्रिप्ट तुलना के लिए उपयोगी है।
 
 #### 📝 प्रॉम्पट
 
@@ -353,7 +353,7 @@ A cinematic cyberpunk night raid on a rain-soaked rooftop balcony in a dense fut
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14448_1.jpg" width="700" alt="चीनी कैलिग्राफी स्टाइल तुलना शीट - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14448_1.jpg" width="700" alt="चीनी कैलिग्राफी शैली तुलना पत्र - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -371,14 +371,14 @@ A cinematic cyberpunk night raid on a rain-soaked rooftop balcony in a dense fut
 
 > 📝 प्रकाशन तिथि के अनुसार क्रमबद्ध (नवीनतम पहले)
 
-### No. 1: ओवरहेड मिरर सेल्फी एक्सैजरेटेड पोज़ के साथ
+### No. 1: ओवरहेड मिरर सेल्फी अतिरंजित मुद्राओं के साथ
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-एक टॉप-डाउन परिप्रेक्ष्य से मिरर सेल्फी में कैरेक्टर कंसिस्टेंसी और डायनामिक एक्सप्रेशन का परीक्षण करने वाला एक प्रॉम्प्ट।
+एक ऊपर से नीचे के दृष्टिकोण से दर्पण सेल्फी में पात्र स्थिरता और गतिशील अभिव्यक्तियों का परीक्षण करने वाला एक प्रॉम्प्ट।
 
 #### 📝 प्रॉम्पट
 
@@ -391,7 +391,7 @@ A cinematic cyberpunk night raid on a rain-soaked rooftop balcony in a dense fut
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14341_1.jpg" width="600" alt="ओवरहेड मिरर सेल्फी एक्सैजरेटेड पोज़ के साथ - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14341_1.jpg" width="600" alt="ओवरहेड मिरर सेल्फी अतिरंजित मुद्राओं के साथ - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -412,7 +412,7 @@ A cinematic cyberpunk night raid on a rain-soaked rooftop balcony in a dense fut
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट एक समन्वित भूरे परिधान में बैठी हुई महिला का एक फोटोरियलिस्टिक इंडोर फैशन पोर्ट्रेट उत्पन्न करता है, जो संपादकीय लाइफस्टाइल या परिधान इमेजरी के लिए उपयुक्त है।
+यह प्रॉम्प्ट एक समन्वित भूरे परिधान में बैठी महिला का फोटोरियलिस्टिक इंडोर फैशन पोर्ट्रेट उत्पन्न करता है, जो संपादकीय लाइफस्टाइल या परिधान छवियों के लिए उपयुक्त है।
 
 #### 📝 प्रॉम्पट
 
@@ -439,14 +439,14 @@ A realistic studio portrait of a young East Asian woman seated on a simple black
 
 ---
 
-### No. 3: किराना गलियारा अंडे के डिब्बे पोर्ट्रेट
+### No. 3: किराने की गलियारे में अंडे के डिब्बे का पोर्ट्रेट
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट किराने की दुकान में एक स्टाइलिश महिला का एक यथार्थवादी ऊर्ध्वाधर लाइफस्टाइल फोटो उत्पन्न करता है जो अंडों के छह के खुले डिब्बे को पकड़े हुए है, जो सोशल मीडिया या संपादकीय-शैली की शॉपिंग इमेजरी के लिए उपयुक्त है।
+यह प्रॉम्प्ट एक स्टाइलिश महिला का किराने की दुकान में खुले छह अंडों के डिब्बे को पकड़े हुए एक यथार्थवादी लंबवत लाइफस्टाइल फोटो उत्पन्न करता है, जो सोशल मीडिया या संपादकीय-शैली की खरीदारी छवियों के लिए उपयुक्त है।
 
 #### 📝 प्रॉम्पट
 
@@ -459,7 +459,7 @@ A candid vertical smartphone photo of a {argument name="woman age" default="youn
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14629_1.jpg" width="600" alt="किराना गलियारा अंडे के डिब्बे पोर्ट्रेट - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14629_1.jpg" width="600" alt="किराने की गलियारे में अंडे के डिब्बे का पोर्ट्रेट - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -480,7 +480,7 @@ A candid vertical smartphone photo of a {argument name="woman age" default="youn
 
 #### 📖 विवरण
 
-एक पॉलिश किया हुआ चार-पैनल एनीमे मंगा पृष्ठ जो कैटगर्ल कैरेक्टर्स को प्रभावशाली रूप से रेंडर किए गए जापानी डायलॉग पर प्रतिक्रिया देते हुए दिखाता है, एआई कॉमिक टेक्स्ट क्वालिटी प्रदर्शित करने के लिए आदर्श।
+एक पॉलिश किया हुआ चार-पैनल एनीमे मंगा पेज जो कैटगर्ल पात्रों को प्रभावशाली रूप से प्रस्तुत जापानी संवाद पर प्रतिक्रिया देते हुए दिखाता है, एआई कॉमिक पाठ गुणवत्ता प्रदर्शित करने के लिए आदर्श।
 
 #### 📝 प्रॉम्पट
 
@@ -577,14 +577,14 @@ A candid vertical smartphone photo of a {argument name="woman age" default="youn
 
 ---
 
-### No. 5: जंगली फंतासी योद्धा भेड़िये के साथ
+### No. 5: वाइल्ड फंतासी वॉरियर विद वुल्फ
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट एक सिनेमाई फुल-बॉडी फंतासी नायिका का चित्र बनाता है, जिसमें अलंकृत कवच, एक भाला और एक भेड़िया साथी है, जो महाकाव्य कैरेक्टर आर्ट और डार्क फंतासी की विजुअल्स के लिए आदर्श है।
+यह प्रॉम्प्ट एक भव्य कवच, एक भाला और एक भेड़िया साथी के साथ एक सिनेमाई फुल-बॉडी फंतासी नायिका चित्र उत्पन्न करता है, जो एपिक कैरेक्टर आर्ट और डार्क फंतासी की-विजुअल्स के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -597,7 +597,7 @@ A cinematic fantasy portrait of a fierce female warrior walking forward across a
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14616_1.jpg" width="600" alt="जंगली फंतासी योद्धा भेड़िये के साथ - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14616_1.jpg" width="600" alt="वाइल्ड फंतासी वॉरियर विद वुल्फ - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -618,7 +618,7 @@ A cinematic fantasy portrait of a fierce female warrior walking forward across a
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट चीनी परिदृश्य चित्रकला के रूपांकनों के साथ मिश्रित एक महिला प्रोफ़ाइल की काव्यात्मक ऊर्ध्वाधर फंतासी कलाकृति उत्पन्न करता है, जो पोस्टर, पुस्तक कवर और सुरुचिपूर्ण दीवार कला के लिए आदर्श है।
+यह प्रॉम्प्ट चीनी लैंडस्केप पेंटिंग मोटिफ्स के साथ मिश्रित एक महिला प्रोफ़ाइल की एक काव्यात्मक ऊर्ध्वाधर फंतासी कलाकृति उत्पन्न करता है, जो पोस्टर, बुक कवर और सुरुचिपूर्ण दीवार कला के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -645,13 +645,13 @@ A dreamy East Asian ink-and-watercolor fantasy illustration of a woman's side-pr
 
 ---
 
-### No. 7: ओपुलेंट शरद ऋतु साम्राज्ञी सूर्यास्त पर
+### No. 7: शानदार शरद ऋतु साम्राज्ञी सूर्यास्त में
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट एक धधकती हुई, जवाहरात-जड़ित शरद ऋतु फंतासी पोर्ट्रेट उत्पन्न करता है, जो नाटकीय प्रदर्शन कला और उच्च-प्रभाव सोशल मीडिया दृश्यों के लिए उपयुक्त है।
+यह प्रॉम्प्ट एक भड़कीली, जवाहरात से जड़ी शरद ऋतु फ़ैंटेसी पोर्ट्रेट बनाता है जो नाटकीय प्रदर्शनी कला और उच्च प्रभाव वाले सोशल मीडिया विज़ुअल्स के लिए उपयुक्त है।
 
 #### 📝 प्रॉम्पट
 
@@ -664,7 +664,7 @@ A hyper-luxurious fantasy portrait of an elegant woman in side profile, centered
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14508_1.jpg" width="600" alt="ओपुलेंट शरद ऋतु साम्राज्ञी सूर्यास्त पर - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14508_1.jpg" width="600" alt="शानदार शरद ऋतु साम्राज्ञी सूर्यास्त में - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -678,13 +678,13 @@ A hyper-luxurious fantasy portrait of an elegant woman in side profile, centered
 
 ---
 
-### No. 8: सुरुचिपूर्ण एनिमे तलवारबाज महिला 4-पैनल शीट
+### No. 8: एलिगेंट एनीमे स्वॉर्ड्सवुमन 4-पैनल शीट
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट एक उच्च-विवरण वाली चार-पैनल एनिमे चरित्र चित्रण उत्पन्न करता है जो एक कुलीन सफेद बालों वाली तलवारबाज महिला का है, जो फंतासी की आर्ट, चरित्र प्रदर्शन, या प्रीमियम सोशल मीडिया पोस्ट के लिए आदर्श है।
+यह प्रॉम्प्ट एक कुलीन सफेद बालों वाली तलवारबाज महिला का उच्च-विवरण वाला चार-पैनल एनीमे कैरेक्टर चित्रण जनरेट करता है, जो फंतासी की आर्ट, कैरेक्टर शोकेस या प्रीमियम सोशल मीडिया पोस्ट के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -697,7 +697,7 @@ A polished anime fantasy illustration sheet in a 2x2 grid showing the same elega
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14413_1.jpg" width="600" alt="सुरुचिपूर्ण एनिमे तलवारबाज महिला 4-पैनल शीट - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14413_1.jpg" width="600" alt="एलिगेंट एनीमे स्वॉर्ड्सवुमन 4-पैनल शीट - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -711,13 +711,13 @@ A polished anime fantasy illustration sheet in a 2x2 grid showing the same elega
 
 ---
 
-### No. 9: एनीमे सामुराई गेम एड पोस्टर
+### No. 9: एनीम समुराई गेम विज्ञापन पोस्टर
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 
 #### 📖 विवरण
 
-दो सूटेड तलवारबाजों, एक विशाल सामुराई मेका, गेमप्ले यूआई, क्यूआर कोड और ऐप स्टोर डाउनलोड प्रॉम्प्ट्स वाला एक भड़कीला वर्टिकल मोबाइल गेम विज्ञापन, जो ऐप प्रचार उपयोग के लिए है।
+दो सूटेड तलवारबाजों, एक विशाल समुराई मेका, गेमप्ले यूआई, क्यूआर कोड और ऐप प्रचार उपयोग के लिए ऐप स्टोर डाउनलोड प्रॉम्प्ट वाला एक चमकीला लंबवत मोबाइल गेम विज्ञापन।
 
 #### 📝 प्रॉम्पट
 
@@ -730,19 +730,19 @@ Create a high-impact vertical mobile game advertisement poster in glossy anime a
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14432_1.jpg" width="600" alt="एनीमे सामुराई गेम एड पोस्टर - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14432_1.jpg" width="600" alt="एनीम समुराई गेम विज्ञापन पोस्टर - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14432_2.jpg" width="600" alt="एनीमे सामुराई गेम एड पोस्टर - Image 2">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14432_2.jpg" width="600" alt="एनीम समुराई गेम विज्ञापन पोस्टर - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14432_3.jpg" width="600" alt="एनीमे सामुराई गेम एड पोस्टर - Image 3">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14432_3.jpg" width="600" alt="एनीम समुराई गेम विज्ञापन पोस्टर - Image 3">
 </div>
 
 #### 📌 विवरण
@@ -756,13 +756,13 @@ Create a high-impact vertical mobile game advertisement poster in glossy anime a
 
 ---
 
-### No. 10: महाकाव्य नॉर्स आकाश योद्धा क्रिस्टल जानवरों के साथ
+### No. 10: महाकाव्य नॉर्स स्काई वॉरियर विद क्रिस्टल बीस्ट्स
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट एक नाटकीय लंबवत फंतासी-एनीमे स्प्लैश चित्र बनाता है, जिसमें एक सींग वाला आकाश योद्धा और तीन क्रिस्टल-कवच वाले पशु साथी हैं, जो पोस्टर, कार्ड आर्ट, या गेम की विजुअल्स के लिए आदर्श है।
+यह प्रॉम्प्ट तीन क्रिस्टल-आर्मर्ड जानवरों के साथ एक सींग वाले आकाश योद्धा का एक नाटकीय वर्टिकल फंतासी-एनिमे स्प्लैश चित्रण उत्पन्न करता है, जो पोस्टर, कार्ड आर्ट, या गेम की-विजुअल्स के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -775,7 +775,7 @@ A dynamic high-fantasy anime illustration in a vertical poster composition, show
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14617_1.jpg" width="600" alt="महाकाव्य नॉर्स आकाश योद्धा क्रिस्टल जानवरों के साथ - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14617_1.jpg" width="600" alt="महाकाव्य नॉर्स स्काई वॉरियर विद क्रिस्टल बीस्ट्स - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -796,7 +796,7 @@ A dynamic high-fantasy anime illustration in a vertical poster composition, show
 
 #### 📖 विवरण
 
-एक पॉलिश किया हुआ प्रचारात्मक 2x2 कोलाज जो एक प्यारा रोबोट चार अलग-अलग कलाकृतियों को पेंट करते हुए दिखाता है, जो एआई इमेज टूल घोषणाओं और सोशल मीडिया बैनर के लिए आदर्श है।
+एक प्यारा रोबोट चार अलग-अलग कलाकृतियों को पेंट करते हुए दिखाता हुआ एक परिष्कृत प्रचार 2x2 कोलाज, एआई इमेज टूल घोषणाओं और सोशल मीडिया बैनर के लिए आदर्श।
 
 #### 📝 प्रॉम्पट
 
@@ -823,14 +823,14 @@ A dynamic high-fantasy anime illustration in a vertical poster composition, show
 
 ---
 
-### No. 12: रेट्रो चैटजीपीटी इमेजेस 2.0 स्पेस पोस्टर
+### No. 12: रेट्रो चैटजीपीटी इमेजेज 2.0 स्पेस पोस्टर
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-चैटजीपीटी इमेजेस 2.0 को एक स्पेस-एज रॉकेट विज्ञापन के रूप में दिखाता हुआ एक जीर्ण-शीर्ण रेट्रो-फ्यूचरिस्ट पोस्टर, जो एआई इमेज जनरेशन की सफलताओं के बारे में एडिटोरियल विजुअल्स के लिए आदर्श है।
+एक जीर्ण-शीर्ण रेट्रो-फ्यूचरिस्ट पोस्टर जो चैटजीपीटी इमेजेज 2.0 को एक अंतरिक्ष-युग रॉकेट विज्ञापन के रूप में दर्शाता है, जो एआई छवि निर्माण सफलताओं के बारे में संपादकीय दृश्यों के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -843,7 +843,7 @@ A vintage mid-century space-race propaganda poster pasted on a rough white plast
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14558_1.jpg" width="600" alt="रेट्रो चैटजीपीटी इमेजेस 2.0 स्पेस पोस्टर - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14558_1.jpg" width="600" alt="रेट्रो चैटजीपीटी इमेजेज 2.0 स्पेस पोस्टर - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -857,14 +857,14 @@ A vintage mid-century space-race propaganda poster pasted on a rough white plast
 
 ---
 
-### No. 13: मोनोक्रोम इंफ्रा ब्रांड किट बोर्ड
+### No. 13: मोनोक्रोम इन्फ्रा ब्रांड किट बोर्ड
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-एक काल्पनिक इंफ्रास्ट्रक्चर टेक ब्रांड के लिए एक साफ़ काले-सफेद ब्रांड गाइडलाइन और मर्चेंडाइज़ प्रेजेंटेशन बोर्ड, जो पिच डेक, ब्रांडिंग प्रदर्शनियों और पेशेवर डिज़ाइन मॉकअप्स के लिए उपयुक्त है।
+एक काल्पनिक इन्फ्रास्ट्रक्चर टेक ब्रांड के लिए एक साफ़ काले-सफेद ब्रांड गाइडलाइन और मर्चेंडाइज प्रेजेंटेशन बोर्ड, जो पिच डेक, ब्रांडिंग प्रदर्शनियों और पेशेवर डिज़ाइन मॉकअप के लिए उपयुक्त है।
 
 #### 📝 प्रॉम्पट
 
@@ -877,7 +877,7 @@ A vintage mid-century space-race propaganda poster pasted on a rough white plast
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14563_1.jpg" width="600" alt="मोनोक्रोम इंफ्रा ब्रांड किट बोर्ड - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14563_1.jpg" width="600" alt="मोनोक्रोम इन्फ्रा ब्रांड किट बोर्ड - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -891,14 +891,14 @@ A vintage mid-century space-race propaganda poster pasted on a rough white plast
 
 ---
 
-### No. 14: फोटोरियलिस्टिक स्कूल यूनिफॉर्म श्राइन पोर्ट्रेट
+### No. 14: फोटोरियल स्कूल यूनिफॉर्म श्राइन पोर्ट्रेट
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट एक स्कूल यूनिफॉर्म में एक युवा महिला का पॉलिश किया हुआ फोटोरियलिस्टिक पोर्ट्रेट बनाता है, जो एडिटोरियल फैशन, कैरेक्टर विजुअल्स, या लाइफस्टाइल-शैली के एआई पोर्ट्रेट के लिए आदर्श है।
+यह प्रॉम्प्ट एक स्कूल यूनिफॉर्म में बाहर एक युवा महिला का एक पॉलिश किया गया फोटोरियलिस्टिक पोर्ट्रेट उत्पन्न करता है, जो संपादकीय फैशन, पात्र दृश्य या लाइफस्टाइल-शैली के एआई पोर्ट्रेट के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -911,7 +911,7 @@ A photorealistic waist-up portrait of a {argument name="subject" default="young 
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14515_1.jpg" width="600" alt="फोटोरियलिस्टिक स्कूल यूनिफॉर्म श्राइन पोर्ट्रेट - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14515_1.jpg" width="600" alt="फोटोरियल स्कूल यूनिफॉर्म श्राइन पोर्ट्रेट - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -925,14 +925,14 @@ A photorealistic waist-up portrait of a {argument name="subject" default="young 
 
 ---
 
-### No. 15: कंट्रीबॉल होर्मुज जलडमरूमध्य का सामना
+### No. 15: कंट्रीबॉल होर्मुज जलडमरूमध्य गतिरोध
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-एक हास्यपूर्ण भू-राजनीतिक मीम चित्रण जो संयुक्त राज्य अमेरिका और ईरान के कंट्रीबॉल को होर्मुज जलडमरूमध्य में एक-दूसरे का सामना करते हुए दिखाता है, जो संपादकीय व्यंग्य या सोशल मीडिया टिप्पणी के लिए आदर्श है।
+एक विनोदी भू-राजनीतिक मीम चित्रण जो संकीर्ण होर्मुज जलडमरूमध्य में USA और ईरान कंट्रीबॉल्स का आमना-सामना दिखाता है, संपादकीय व्यंग्य या सोशल मीडिया टिप्पणी के लिए आदर्श।
 
 #### 📝 प्रॉम्पट
 
@@ -945,7 +945,7 @@ A detailed satirical countryball meme illustration of the {argument name="waterw
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14683_1.jpg" width="600" alt="कंट्रीबॉल होर्मुज जलडमरूमध्य का सामना - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14683_1.jpg" width="600" alt="कंट्रीबॉल होर्मुज जलडमरूमध्य गतिरोध - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -966,7 +966,7 @@ A detailed satirical countryball meme illustration of the {argument name="waterw
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट एक व्यंग्यात्मक कंट्रीबॉल मीम बनाता है जो होर्मुज जलडमरूमध्य पर अमेरिका और ईरान को एक-दूसरे को रोकते हुए दिखाता है, जो संपादकीय हास्य या भू-राजनीतिक सोशल मीडिया पोस्ट के लिए उपयोगी है।
+यह प्रॉम्प्ट एक व्यंग्यात्मक कंट्रीबॉल मीम उत्पन्न करता है जो होर्मुज जलडमरूमध्य पर अमेरिका और ईरान को एक-दूसरे को अवरुद्ध करते हुए दिखाता है, संपादकीय हास्य या भू-राजनीतिक सोशल मीडिया पोस्ट के लिए उपयोगी।
 
 #### 📝 प्रॉम्पट
 
@@ -993,14 +993,14 @@ A humorous political meme illustration in a simple countryball cartoon style, sh
 
 ---
 
-### No. 17: एनिमे पॉप-आर्ट प्रदर्शन पोस्टर
+### No. 17: अनीमे पॉप-आर्ट प्रोटेस्ट पोस्टर
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट एक सेंसर किए गए चेहरे वाले चरित्र, शांति के इशारे और बड़े नारे बुलबुले के साथ एक बोल्ड ऊर्ध्वाधर एनिमे पोस्टर उत्पन्न करता है, जो मीम आर्ट, सोशल पोस्ट, या ग्राफिक पोस्टर प्रयोगों के लिए है।
+यह प्रॉम्प्ट एक सेंसर किए गए चेहरे वाले कैरेक्टर, शांति संकेत इशारे और ओवरसाइज़्ड स्लोगन बबल वाला एक बोल्ड वर्टिकल अनीमे पोस्टर जनरेट करता है, जो मीम आर्ट, सोशल पोस्ट्स या ग्राफिक पोस्टर प्रयोगों के लिए है।
 
 #### 📝 प्रॉम्पट
 
@@ -1013,7 +1013,7 @@ A bold anime pop-art poster of a tall white-haired male sorcerer in a dark navy 
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14638_1.jpg" width="600" alt="एनिमे पॉप-आर्ट प्रदर्शन पोस्टर - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14638_1.jpg" width="600" alt="अनीमे पॉप-आर्ट प्रोटेस्ट पोस्टर - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -1027,14 +1027,14 @@ A bold anime pop-art poster of a tall white-haired male sorcerer in a dark navy 
 
 ---
 
-### No. 18: आंखों पर पट्टी वाला जादूगर विजय मुद्रा
+### No. 18: आंखों पर पट्टी बंधे जादूगर की विजय मुद्रा
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट एक विस्फोटक नीली ऊर्जा और एक बोल्ड मंगा स्पीच बबल के साथ आंखों पर पट्टी बांधे सफेद बालों वाले जादूगर का एक नाटकीय ऊर्ध्वाधर एनिमे एक्शन पोस्टर उत्पन्न करता है, जो शैलीबद्ध चरित्र कला या फैंडम-प्रेरित दृश्यों के लिए आदर्श है।
+यह प्रॉम्प्ट एक नाटकीय लंबवत एनीमे एक्शन पोस्टर बनाता है, जिसमें आंखों पर पट्टी बंधे सफेद बालों वाले जादूगर को विस्फोटक नीली ऊर्जा और एक बोल्ड मंगा स्पीच बबल के साथ दिखाया गया है, जो स्टाइलाइज्ड कैरेक्टर आर्ट या फैंडम-प्रेरित विजुअल्स के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -1047,7 +1047,7 @@ A high-impact shonen manga anime illustration of a powerful white-haired sorcere
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14637_1.jpg" width="600" alt="आंखों पर पट्टी वाला जादूगर विजय मुद्रा - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14637_1.jpg" width="600" alt="आंखों पर पट्टी बंधे जादूगर की विजय मुद्रा - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -1061,13 +1061,13 @@ A high-impact shonen manga anime illustration of a powerful white-haired sorcere
 
 ---
 
-### No. 19: जापानी फंतासी विंग्ड पिग फिल्म पोस्टर
+### No. 19: जापानी फंतासी पंखों वाला सूअर फिल्म पोस्टर
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 
 #### 📖 विवरण
 
-एक पंखों वाले सूअर जैसे नायक को एक कड़वी-मीठी शहरी फंतासी मोंटाज में दिखाते हुए एक विस्तृत जापानी एनिमेटेड मूवी पोस्टर उत्पन्न करने के लिए एक टेक्स्ट प्रॉम्प्ट।
+एक विस्तृत जापानी एनिमेटेड मूवी पोस्टर जनरेट करने के लिए एक टेक्स्ट प्रॉम्प्ट जो एक पंखों वाले सूअर जैसे नायक को एक कटु-मधुर शहरी फंतासी मोंटाज में दर्शाता है।
 
 #### 📝 प्रॉम्पट
 
@@ -1080,7 +1080,7 @@ A dramatic Japanese fantasy movie poster in a painterly, ultra-detailed cinemati
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14469_1.jpg" width="600" alt="जापानी फंतासी विंग्ड पिग फिल्म पोस्टर - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14469_1.jpg" width="600" alt="जापानी फंतासी पंखों वाला सूअर फिल्म पोस्टर - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -1094,14 +1094,14 @@ A dramatic Japanese fantasy movie poster in a painterly, ultra-detailed cinemati
 
 ---
 
-### No. 20: मूडी सेंसर्ड इंडोर सेल्फी पोर्ट्रेट
+### No. 20: मूडी सेंसर्ड इंडोर सेल्फ़ी पोर्ट्रेट
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट एक खिड़की के पास डार्क ओपन-कॉलर शर्ट पहने एक युवा व्यक्ति का फोटोरियलिस्टिक स्टाइलिश सेल्फी बनाता है, जो विश्वसनीय सोशल-मीडिया पोर्ट्रेट फोटो बनाने के लिए उपयोगी है।
+यह प्रॉम्प्ट एक खिड़की के पास डार्क ओपन-कॉलर शर्ट पहने एक युवा व्यक्ति का फ़ोटोरियलिस्टिक स्टाइलिश सेल्फ़ी बनाता है, जो विश्वसनीय सोशल-मीडिया पोर्ट्रेट फ़ोटो बनाने के लिए उपयोगी है।
 
 #### 📝 प्रॉम्पट
 
@@ -1114,7 +1114,7 @@ A realistic indoor selfie-style portrait of a young East Asian man from the ches
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14686_1.jpg" width="600" alt="मूडी सेंसर्ड इंडोर सेल्फी पोर्ट्रेट - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14686_1.jpg" width="600" alt="मूडी सेंसर्ड इंडोर सेल्फ़ी पोर्ट्रेट - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -1135,7 +1135,7 @@ A realistic indoor selfie-style portrait of a young East Asian man from the ches
 
 #### 📖 विवरण
 
-1980-1990 के दशक की चीनी बचपन की यादों का एक गर्मजोशी से भरा नॉस्टैल्जिक पोस्टर-शैली कोलाज, संपादकीय कला, सोशल पोस्ट, या रेट्रो सांस्कृतिक कहानी कहने के लिए आदर्श।
+1980-1990 के दशक की चीनी बचपन की यादों का एक गर्म नॉस्टैल्जिक पोस्टर-स्टाइल कोलाज, संपादकीय कला, सोशल पोस्ट या रेट्रो सांस्कृतिक कहानी कहने के लिए आदर्श।
 
 #### 📝 प्रॉम्पट
 
@@ -1169,7 +1169,7 @@ A nostalgic Chinese retro collage poster about {argument name="theme title" defa
 
 #### 📖 विवरण
 
-एक रेट्रो-फ्यूचरिस्टिक एनीमे कॉमिक पेज जो चंद्रमा पर एक मनमोहक सेंटो को दर्शाता है, जो कई पात्र-संचालित पैनलों के साथ खेल-भरे एआई मंगा दृश्य बनाने के लिए आदर्श है।
+एक रेट्रो-फ़्यूचरिस्टिक एनिमे कॉमिक पेज जो चंद्रमा पर एक विंसिकल सेंटो को दर्शाता है, जो कई कैरेक्टर-ड्रिवन पैनलों के साथ मनोरंजक एआई मंगा सीन बनाने के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -1203,7 +1203,7 @@ A colorful single-page Japanese comic manga set in a whimsical lunar public bath
 
 #### 📖 विवरण
 
-एक विशाल जादुई हेडलाइन, हवा के बालों वाली एक रहस्यमय लड़की की केंद्रीय उत्कीर्ण पोर्ट्रेट, और कई विचित्र साइड लेख और चित्रों के साथ एक मेइजी-युग से प्रेरित जापानी फंतासी अखबार का फ्रंट पेज।
+एक मेइजी-युग से प्रेरित जापानी फंतासी अखबार का फ्रंट पेज जिसमें एक विशाल जादुई हेडलाइन, हवा से उड़ते बालों वाली एक रहस्यमय लड़की का केंद्रीय उत्कीर्ण चित्र और कई विचित्र साइड लेख और चित्र शामिल हैं।
 
 #### 📝 प्रॉम्पट
 
@@ -1230,14 +1230,14 @@ A colorful single-page Japanese comic manga set in a whimsical lunar public bath
 
 ---
 
-### No. 24: कैरेक्टर डिज़ाइन रेफरेंस शीट
+### No. 24: पात्र डिज़ाइन संदर्भ शीट
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-एक विशिष्ट पात्र के लिए एक व्यापक डिज़ाइन शीट जनरेट करता है, जिसमें मुख्य जानकारी और दृश्य संदर्भ शामिल होते हैं।
+एक विशिष्ट पात्र के लिए एक व्यापक डिजाइन शीट उत्पन्न करता है, जिसमें महत्वपूर्ण जानकारी और दृश्य संदर्भ शामिल हैं।
 
 #### 📝 प्रॉम्पट
 
@@ -1250,7 +1250,7 @@ Create a character design sheet for {argument name="character" default="Hermes A
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14324_1.jpg" width="600" alt="कैरेक्टर डिज़ाइन रेफरेंस शीट - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14324_1.jpg" width="600" alt="पात्र डिज़ाइन संदर्भ शीट - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -1264,14 +1264,14 @@ Create a character design sheet for {argument name="character" default="Hermes A
 
 ---
 
-### No. 25: कोरियाई स्पोर्ट्स ड्रिंक सेलिब्रिटी विज्ञापन पोस्टर
+### No. 25: कोरियाई स्पोर्ट्स ड्रिंक सेलिब्रिटी एड पोस्टर
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट एक चमकदार कोरियाई-शैली का हाइड्रेशन ड्रिंक पोस्टर बनाता है जिसमें एक सेलिब्रिटी जैसा प्रवक्ता, ओवरसाइज्ड प्रोडक्ट बोतल और बोल्ड प्रचार टाइपोग्राफी है, जो वाणिज्यिक विज्ञापन के लिए उपयुक्त है।
+यह प्रॉम्प्ट एक चमकदार कोरियाई-शैली के हाइड्रेशन ड्रिंक पोस्टर को एक सेलिब्रिटी-जैसे प्रवक्ता, ओवरसाइज़्ड प्रोडक्ट बोतल और बोल्ड प्रमोशनल टाइपोग्राफ़ी के साथ बनाता है, जो वाणिज्यिक विज्ञापन के लिए उपयोगी है।
 
 #### 📝 प्रॉम्पट
 
@@ -1284,7 +1284,7 @@ A bold Korean beverage advertisement poster in a glossy commercial photography s
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14553_1.jpg" width="600" alt="कोरियाई स्पोर्ट्स ड्रिंक सेलिब्रिटी विज्ञापन पोस्टर - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14553_1.jpg" width="600" alt="कोरियाई स्पोर्ट्स ड्रिंक सेलिब्रिटी एड पोस्टर - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -1298,14 +1298,14 @@ A bold Korean beverage advertisement poster in a glossy commercial photography s
 
 ---
 
-### No. 26: कोरियन राइस ड्रिंक पैरोडी विज्ञापन पोस्टर
+### No. 26: कोरियाई राइस ड्रिंक पैरोडी विज्ञापन पोस्टर
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट एक मज़ाकिया, उच्च-प्रभाव वाला पैरोडी पेय विज्ञापन पोस्टर बनाता है, जिसमें एक कोरियन कैन्ड राइस ड्रिंक को प्रमोट करते हुए एक प्रसिद्ध राजनीतिज्ञ-जैसे प्रवक्ता को दिखाया गया है।
+यह प्रॉम्प्ट एक प्रसिद्ध राजनेता जैसे प्रवक्ता द्वारा एक कोरियाई कैन्ड राइस ड्रिंक को प्रचारित करते हुए एक हास्यपूर्ण, उच्च-प्रभाव वाला पैरोडी पेय विज्ञापन पोस्टर उत्पन्न करता है।
 
 #### 📝 प्रॉम्पट
 
@@ -1322,7 +1322,7 @@ At the bottom foreground, place 2 food elements: a brass bowl filled with sweet 
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14555_1.jpg" width="600" alt="कोरियन राइस ड्रिंक पैरोडी विज्ञापन पोस्टर - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14555_1.jpg" width="600" alt="कोरियाई राइस ड्रिंक पैरोडी विज्ञापन पोस्टर - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -1336,14 +1336,14 @@ At the bottom foreground, place 2 food elements: a brass bowl filled with sweet 
 
 ---
 
-### No. 27: फिजिकल एग्जाम प्रश्न लेआउट
+### No. 27: शारीरिक परीक्षा प्रश्न लेआउट
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-कई प्रश्नों और उत्तरों के साथ एक हाई स्कूल परीक्षा पेपर की छवि बनाने के लिए डिज़ाइन किया गया एक प्रॉम्प्ट।
+एक प्रॉम्प्ट जिसे कई प्रश्नों और उत्तरों के साथ एक हाई स्कूल परीक्षा पेपर की छवि बनाने के लिए डिज़ाइन किया गया है।
 
 #### 📝 प्रॉम्पट
 
@@ -1356,25 +1356,25 @@ generate a image of physical {argument name="subject" default="high school exam"
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14340_1.jpg" width="600" alt="फिजिकल एग्जाम प्रश्न लेआउट - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14340_1.jpg" width="600" alt="शारीरिक परीक्षा प्रश्न लेआउट - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14340_2.jpg" width="600" alt="फिजिकल एग्जाम प्रश्न लेआउट - Image 2">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14340_2.jpg" width="600" alt="शारीरिक परीक्षा प्रश्न लेआउट - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14340_3.jpg" width="600" alt="फिजिकल एग्जाम प्रश्न लेआउट - Image 3">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14340_3.jpg" width="600" alt="शारीरिक परीक्षा प्रश्न लेआउट - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14340_4.jpg" width="600" alt="फिजिकल एग्जाम प्रश्न लेआउट - Image 4">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14340_4.jpg" width="600" alt="शारीरिक परीक्षा प्रश्न लेआउट - Image 4">
 </div>
 
 #### 📌 विवरण
@@ -1429,7 +1429,7 @@ A page of a comic book in the style of {argument name="comic style" default="mod
 
 #### 📖 विवरण
 
-एक काल्पनिक जंगल डायनासोर थीम पार्क के लिए एक सिनेमाई व्यंग्यात्मक जापानी विज्ञापन पोस्टर, जो पैरोडी अभियान, सोशल मीडिया विजुअल्स, या मॉक प्रचार की आर्ट के लिए आदर्श है।
+एक काल्पनिक जंगल डायनासोर थीम पार्क के लिए एक सिनेमाई व्यंग्यात्मक जापानी विज्ञापन पोस्टर, पैरोडी अभियानों, सोशल मीडिया विज़ुअल या मॉक प्रचार कला के लिए आदर्श।
 
 #### 📝 प्रॉम्पट
 
@@ -1456,14 +1456,14 @@ A hyper-detailed Japanese parody theme park advertisement poster in a vertical f
 
 ---
 
-### No. 30: 1960s फ्रेंच न्यू वेव मूवी पोस्टर
+### No. 30: 1960 के दशक की फ्रेंच न्यू वेव फिल्म पोस्टर
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-विशिष्ट टाइपोग्राफी निर्देशों के साथ फोटोमोंटाज और पॉप-आर्ट रंगों को जोड़ने वाली एक विंटेज थिएट्रिकल पोस्टर शैली के लिए एक परिष्कृत प्रॉम्प्ट।
+एक विन्टेज थिएट्रिकल पोस्टर शैली के लिए एक परिष्कृत प्रॉम्प्ट, जो फोटोमोंटेज और पॉप-आर्ट रंगों को विशिष्ट टाइपोग्राफी निर्देशों के साथ जोड़ता है।
 
 #### 📝 प्रॉम्पट
 
@@ -1482,7 +1482,7 @@ Keep all visible text in English. Use a theatrical poster composition.
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14315_1.jpg" width="600" alt="1960s फ्रेंच न्यू वेव मूवी पोस्टर - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14315_1.jpg" width="600" alt="1960 के दशक की फ्रेंच न्यू वेव फिल्म पोस्टर - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -1502,7 +1502,7 @@ Keep all visible text in English. Use a theatrical poster composition.
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट एक जड़ों से ढकी पृथ्वी के बगल में तैरते एक अकेले अंतरिक्ष यात्री की एक मूडी सिनेमाई साइ-फाई छवि उत्पन्न करता है, जो सररियल स्पेस आर्ट या एआई-थीम वाली संपादकीय विजुअल्स के लिए आदर्श है।
+यह प्रॉम्प्ट जड़ों से ढकी पृथ्वी के बगल में तैरते एक अकेले अंतरिक्ष यात्री का एक मूडी सिनेमैटिक साइ-फाई चित्र उत्पन्न करता है, जो अतियथार्थवादी अंतरिक्ष कला या AI-थीम वाली संपादकीय दृश्य सामग्री के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -1571,14 +1571,14 @@ Additional instructions: Aspect ratio: Portrait 1440x2560. The pen should have a
 
 ---
 
-### No. 33: स्टीमपंक विन्टेज वीडियो प्लेटफॉर्म यूआई
+### No. 33: स्टीमपंक विंटेज वीडियो प्लेटफ़ॉर्म यूआई
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट एक अलंकृत स्टीमपंक-शैली का काल्पनिक वीडियो स्ट्रीमिंग होमपेज बनाता है, जो उन्नत टेक्स्ट रेंडरिंग और थीम्ड इंटरफ़ेस डिज़ाइन प्रदर्शित करने के लिए आदर्श है।
+यह प्रॉम्प्ट एक अलंकृत स्टीमपंक-शैली का काल्पनिक वीडियो स्ट्रीमिंग होमपेज बनाता है, जो उन्नत टेक्स्ट रेंडरिंग और थीम्ड इंटरफ़ेस डिज़ाइन को प्रदर्शित करने के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -1591,7 +1591,7 @@ Create a full-screen fictional video platform homepage in a richly detailed stea
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14552_1.jpg" width="600" alt="स्टीमपंक विन्टेज वीडियो प्लेटफॉर्म यूआई - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14552_1.jpg" width="600" alt="स्टीमपंक विंटेज वीडियो प्लेटफ़ॉर्म यूआई - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -1605,14 +1605,14 @@ Create a full-screen fictional video platform homepage in a richly detailed stea
 
 ---
 
-### No. 34: विंटेज कोरियन गिमबाप रेसिपी पोस्टर
+### No. 34: विंटेज कोरियन गिम्बाप रेसिपी पोस्टर
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट गिमबाप के लिए एक पुरानी शैली का कोरियन रेसिपी इन्फोग्राफिक पोस्टर बनाता है, जो फूड मार्केटिंग, रेस्तरां सजावट, या सांस्कृतिक खाना पकाने के विजुअल्स के लिए उपयुक्त है।
+यह प्रॉम्प्ट गिम्बाप के लिए एक एंटीक-स्टाइल कोरियन रेसिपी इन्फोग्राफिक पोस्टर बनाता है, जो फूड मार्केटिंग, रेस्तरां डेकोर या सांस्कृतिक कुकिंग विज़ुअल्स के लिए उपयुक्त है।
 
 #### 📝 प्रॉम्पट
 
@@ -1625,7 +1625,7 @@ Create a vintage Korean food poster on aged beige parchment paper with a slightl
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14554_1.jpg" width="600" alt="विंटेज कोरियन गिमबाप रेसिपी पोस्टर - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14554_1.jpg" width="600" alt="विंटेज कोरियन गिम्बाप रेसिपी पोस्टर - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -1645,7 +1645,7 @@ Create a vintage Korean food poster on aged beige parchment paper with a slightl
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट मैकडॉनल्ड्स के अंदर एक व्यक्ति का एक फोटोरियलिस्टिक कैजुअल सेल्फी उत्पन्न करता है, जो विश्वसनीय सोशल-मीडिया-शैली वाले रेस्तरां स्नैपशॉट्स बनाने के लिए उपयोगी है।
+यह प्रॉम्प्ट मैकडॉनल्ड्स के अंदर एक आदमी का एक फोटोरियलिस्टिक कैजुअल सेल्फी बनाता है, जो विश्वसनीय सोशल-मीडिया-स्टाइल रेस्तरां स्नैपशॉट बनाने के लिए उपयोगी है।
 
 #### 📝 प्रॉम्पट
 
@@ -1678,7 +1678,7 @@ A highly realistic casual smartphone selfie taken indoors at a McDonald's restau
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट एक फोटोरियलिस्टिक कैंडिड वेयरहाउस-स्टोर पोर्ट्रेट उत्पन्न करता है जो ब्रांडेड रिटेल साइनेज और उत्पाद पकड़े एक खरीदार के साथ एक प्रामाणिक खरीदारी दृश्य को पुनः सृजित करने के लिए उपयुक्त है।
+यह प्रॉम्प्ट एक ब्रांडेड रिटेल साइनेज और उत्पाद पकड़े एक खरीदार वाले एक प्रामाणिक खरीदारी दृश्य को पुनः बनाने के लिए उपयुक्त एक फोटोरियलिस्टिक कैंडिड वेयरहाउस-स्टोर पोर्ट्रेट उत्पन्न करता है।
 
 #### 📝 प्रॉम्पट
 
@@ -1712,7 +1712,7 @@ A candid, highly realistic smartphone photo inside a busy Sam’s Club warehouse
 
 #### 📖 विवरण
 
-एक विस्तृत स्टीमपंक वीडियो-प्लेटफॉर्म होमपेज मॉकअप, जो रेट्रो-फ्यूचरिस्ट वेब यूआई अवधारणाओं, पोस्टरों, या एआई छवि पाठ रेंडरिंग के बारे में सोशल मीडिया विज़ुअल्स बनाने के लिए है।
+एआई इमेज टेक्स्ट रेंडरिंग के बारे में रेट्रो-फ्यूचरिस्ट वेब यूआई कॉन्सेप्ट्स, पोस्टर या सोशल मीडिया विजुअल्स बनाने के लिए एक विस्तृत स्टीमपंक वीडियो-प्लेटफॉर्म होमपेज मॉकअप।
 
 #### 📝 प्रॉम्पट
 
@@ -1746,7 +1746,7 @@ Create a full-screen fictional video streaming website homepage in a richly deta
 
 #### 📖 विवरण
 
-एक समृद्ध रूप से चित्रित एंटीक-स्टाइल फ्रेंच रेसिपी पोस्टर जो मक्खन क्रेप, सामग्री और छह पकाने के चरण दिखाता है, जो खाद्य-थीम वाले संपादकीय कला या सजावटी रसोई प्रिंट्स के लिए आदर्श है।
+बटर क्रेप, सामग्री और छह पकाने के चरण दिखाता हुआ एक समृद्ध रूप से चित्रित एंटीक-शैली का फ्रेंच रेसिपी पोस्टर, जो फूड-थीम वाले संपादकीय कला या सजावटी रसोई प्रिंट के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -1773,14 +1773,14 @@ Create a full-screen fictional video streaming website homepage in a richly deta
 
 ---
 
-### No. 39: चार ऋतुओं की निरंतरता पैनोरमा
+### No. 39: चार ऋतुओं का निरंतरता पैनोरमा
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-एक ही पैनोरमिक डिजिटल चित्रण में सभी चार ऋतुओं के माध्यम से एक सहज संक्रमण बनाने के लिए एक जटिल प्रॉम्प्ट, जिसे शंघाई बंद जलकिनारे के साथ प्रदर्शित किया गया है।
+एक ही पैनोरमिक डिजिटल चित्रण में सभी चार ऋतुओं के माध्यम से एक सहज संक्रमण बनाने के लिए एक जटिल प्रॉम्प्ट, जिसे शंघाई बंद तटबंध के साथ प्रदर्शित किया गया है।
 
 #### 📝 प्रॉम्पट
 
@@ -1797,7 +1797,7 @@ There are no visible dividing lines between seasons; the weather, lighting, and 
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14374_1.jpg" width="600" alt="चार ऋतुओं की निरंतरता पैनोरमा - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14374_1.jpg" width="600" alt="चार ऋतुओं का निरंतरता पैनोरमा - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -1811,14 +1811,14 @@ There are no visible dividing lines between seasons; the weather, lighting, and 
 
 ---
 
-### No. 40: मिनिमलिस्ट सिनेमैटिक वर्टिकल पोस्टर कैरेक्टर रेफरेंस के साथ
+### No. 40: मिनिमलिस्ट सिनेमैटिक वर्टिकल पोस्टर चरित्र संदर्भ के साथ
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-एक रेफरेंस इमेज से कैरेक्टर कंसिस्टेंसी बनाए रखते हुए मिनिमलिस्ट, मोनोक्रोम पोस्टर बनाने के लिए एक परिष्कृत प्रॉम्प्ट जिसमें सिंगल एक्सेंट कलर होते हैं।
+एक संदर्भ छवि से चरित्र स्थिरता बनाए रखते हुए एकल उच्चारण रंगों के साथ मिनिमलिस्ट, मोनोक्रोम पोस्टर बनाने के लिए एक परिष्कृत प्रॉम्प्ट।
 
 #### 📝 प्रॉम्पट
 
@@ -1853,7 +1853,7 @@ Create a minimalist theater-style vertical poster for {argument name="user input
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14352_1.jpg" width="600" alt="मिनिमलिस्ट सिनेमैटिक वर्टिकल पोस्टर कैरेक्टर रेफरेंस के साथ - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14352_1.jpg" width="600" alt="मिनिमलिस्ट सिनेमैटिक वर्टिकल पोस्टर चरित्र संदर्भ के साथ - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -1867,13 +1867,13 @@ Create a minimalist theater-style vertical poster for {argument name="user input
 
 ---
 
-### No. 41: ज्यामितीय पक्षी साइकिल चलाते हुए
+### No. 41: ज्यामितीय पक्षी साइकिल की सवारी करते हुए
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट एक स्टाइलिश पक्षी साइकिल चालक का साफ मिनिमलिस्ट वेक्टर इलस्ट्रेशन बनाता है, जो प्लेफुल एडिटोरियल ग्राफिक्स, लोगो, या आधुनिक पोस्टर आर्ट के लिए उपयुक्त है।
+यह प्रॉम्प्ट एक स्टाइलाइज्ड पक्षी साइकिल चालक का एक साफ मिनिमलिस्ट वेक्टर चित्रण उत्पन्न करता है, जो चंचल संपादकीय ग्राफिक्स, लोगो या आधुनिक पोस्टर आर्ट के लिए उपयुक्त है।
 
 #### 📝 प्रॉम्पट
 
@@ -1886,7 +1886,7 @@ A minimalist flat vector illustration on a light gray background showing a whims
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14512_1.png" width="600" alt="ज्यामितीय पक्षी साइकिल चलाते हुए - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14512_1.png" width="600" alt="ज्यामितीय पक्षी साइकिल की सवारी करते हुए - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -1900,13 +1900,13 @@ A minimalist flat vector illustration on a light gray background showing a whims
 
 ---
 
-### No. 42: प्रदर्शन स्टैंड को डेक पर ले जाएं
+### No. 42: डिस्प्ले स्टैंड को डेक पर ले जाएं
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट संदर्भ प्रचारात्मक प्रदर्शन को उसी बाहरी दृश्य में लकड़ी के डेक पर रखता है, जो यथार्थवादी पर्यावरणीय विज्ञापन मॉकअप के लिए है।
+यह प्रॉम्प्ट संदर्भ प्रचार डिस्प्ले को यथार्थवादी पर्यावरणीय विज्ञापन मॉकअप के लिए उसी आउटडोर दृश्य में लकड़ी के डेक पर रखता है।
 
 #### 📝 प्रॉम्पट
 
@@ -1919,7 +1919,7 @@ Using the provided reference image, keep the same garden, pond, trees, hillside,
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14487_1.jpg" width="600" alt="प्रदर्शन स्टैंड को डेक पर ले जाएं - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14487_1.jpg" width="600" alt="डिस्प्ले स्टैंड को डेक पर ले जाएं - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -1940,7 +1940,7 @@ Using the provided reference image, keep the same garden, pond, trees, hillside,
 
 #### 📖 विवरण
 
-बच्चों की समुद्री साहसिक फिल्म के लिए एक रंगीन जापानी-शैली का एनीमे पोस्टर, जो प्यारे पात्रों और नाटकीय शीर्षक टाइपोग्राफी के साथ बोल्ड प्रचारात्मक कला को पुनर्निर्मित करने के लिए आदर्श है।
+बच्चों के समुद्री साहसिक फिल्म के लिए एक रंगीन जापानी-शैली का एनीम पोस्टर, जो प्यारे पात्रों और नाटकीय शीर्षक टाइपोग्राफी के साथ बोल्ड प्रचारक कला को पुनः बनाने के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -1967,13 +1967,13 @@ A bright, hyper-energetic Japanese movie poster illustration in a polished anime
 
 ---
 
-### No. 44: किशोरों के अनुकूल ब्लैक होल भौतिकी इन्फोग्राफिक
+### No. 44: किशोर-अनुकूल ब्लैक होल भौतिकी इन्फोग्राफिक
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट एक जटिल ब्लैक होल और डार्क मैटर शोध पत्र को एक पृष्ठ के सघन संपादकीय विज्ञान इन्फोग्राफिक के रूप में प्रस्तुत करता है, जो सोशल पोस्ट्स या शैक्षिक लेखों के लिए मनोरंजक और सुलभ शैली में समझाता है।
+यह प्रॉम्प्ट एक सघन, एकल-पृष्ठ संपादकीय विज्ञान इन्फोग्राफिक उत्पन्न करता है जो एक जटिल ब्लैक होल और डार्क मैटर पेपर को एक चंचल, सुलभ शैली में समझाता है, जो सोशल पोस्ट या शैक्षिक लेखों के लिए उपयुक्त है।
 
 #### 📝 प्रॉम्पट
 
@@ -1986,13 +1986,13 @@ A bright, hyper-energetic Japanese movie poster illustration in a polished anime
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14424_1.jpg" width="600" alt="किशोरों के अनुकूल ब्लैक होल भौतिकी इन्फोग्राफिक - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14424_1.jpg" width="600" alt="किशोर-अनुकूल ब्लैक होल भौतिकी इन्फोग्राफिक - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14424_2.jpg" width="600" alt="किशोरों के अनुकूल ब्लैक होल भौतिकी इन्फोग्राफिक - Image 2">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14424_2.jpg" width="600" alt="किशोर-अनुकूल ब्लैक होल भौतिकी इन्फोग्राफिक - Image 2">
 </div>
 
 #### 📌 विवरण
@@ -2013,7 +2013,7 @@ A bright, hyper-energetic Japanese movie poster illustration in a polished anime
 
 #### 📖 विवरण
 
-जटिल पाठ्य सूचना के साथ सूचनात्मक सोशल मीडिया ग्राफिक्स बनाने के लिए एक पेशेवर प्रॉम्प्ट।
+जटिल पाठ्य सूचना के साथ जानकारीपूर्ण सोशल मीडिया ग्राफिक्स बनाने के लिए एक पेशेवर प्रॉम्प्ट।
 
 #### 📝 प्रॉम्पट
 
@@ -2040,14 +2040,14 @@ Create an {argument name="format" default="infographic"} for {argument name="pla
 
 ---
 
-### No. 46: एल्बेडो कॉसप्ले इंस्टाग्राम स्नैपशॉट
+### No. 46: अल्बेडो कॉसप्ले इंस्टाग्राम स्नैपशॉट
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-इंस्टाग्राम स्टोरी की शैली में एक विद्रोही और अभिव्यंजक कॉसप्ले फोटो उत्पन्न करने के लिए एक संक्षिप्त प्रॉम्प्ट।
+इंस्टाग्राम स्टोरी की शैली में एक विद्रोही और अभिव्यंजक कॉसप्ले फोटो जनरेट करने के लिए एक संक्षिप्त प्रॉम्प्ट।
 
 #### 📝 प्रॉम्पट
 
@@ -2060,7 +2060,7 @@ Style: An Instagram story snapshot of an {argument name="character" default="Alb
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14347_1.jpg" width="600" alt="एल्बेडो कॉसप्ले इंस्टाग्राम स्नैपशॉट - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14347_1.jpg" width="600" alt="अल्बेडो कॉसप्ले इंस्टाग्राम स्नैपशॉट - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -2074,14 +2074,14 @@ Style: An Instagram story snapshot of an {argument name="character" default="Alb
 
 ---
 
-### No. 47: सनसेट कैटगर्ल स्कूल रूफटॉप एनिमे
+### No. 47: सनसेट कैटगर्ल स्कूल रूफटॉप एनीमे
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-सूर्यास्त के समय एक बिल्ली के कानों वाली स्कूली छात्रा की सिनेमाई एनिमे-शैली की छत की पोर्ट्रेट, जो नोस्टैल्जिक की विजुअल्स, कैरेक्टर आर्ट, या सोशल मीडिया शोकेस इमेज के लिए आदर्श है।
+सूर्यास्त के समय कान वाली स्कूली लड़की का एक सिनेमाई एनीमे-स्टाइल रूफटॉप पोर्ट्रेट, जो नॉस्टैल्जिक की विज़ुअल्स, कैरेक्टर आर्ट या सोशल मीडिया शोकेस इमेजेस के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -2094,7 +2094,7 @@ A high-quality anime illustration of a {argument name="character type" default="
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14547_1.jpg" width="600" alt="सनसेट कैटगर्ल स्कूल रूफटॉप एनिमे - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14547_1.jpg" width="600" alt="सनसेट कैटगर्ल स्कूल रूफटॉप एनीमे - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -2108,14 +2108,14 @@ A high-quality anime illustration of a {argument name="character type" default="
 
 ---
 
-### No. 48: तीन सौंदर्य मोबाइल लैंडिंग पेज
+### No. 48: थ्री ब्यूटी मोबाइल लैंडिंग पेजेस
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-तीन स्मार्टफोन सौंदर्य वेबसाइट डिजाइनों का एक प्रीमियम ट्रिप्टिक मॉकअप, जो सोशल मीडिया पर एआई-जनित कॉस्मेटिक ब्रांड लैंडिंग पेज अवधारणाओं को प्रदर्शित करने के लिए आदर्श है।
+तीन स्मार्टफोन ब्यूटी वेबसाइट डिज़ाइनों का एक प्रीमियम ट्रिप्टिक मॉकअप, सोशल मीडिया पर एआई-जनित कॉस्मेटिक ब्रांड लैंडिंग पेज अवधारणाओं को प्रदर्शित करने के लिए आदर्श।
 
 #### 📝 प्रॉम्पट
 
@@ -2128,7 +2128,7 @@ A polished promotional mockup showing 3 tall smartphone screens displayed side b
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14426_1.jpg" width="600" alt="तीन सौंदर्य मोबाइल लैंडिंग पेज - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14426_1.jpg" width="600" alt="थ्री ब्यूटी मोबाइल लैंडिंग पेजेस - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -2149,7 +2149,7 @@ A polished promotional mockup showing 3 tall smartphone screens displayed side b
 
 #### 📖 विवरण
 
-जापानी भाषा में एक बहु-उद्योग विज्ञापन कोलाज उत्पन्न करने के लिए एक प्रॉम्प्ट, जिसमें समकालीन डिजाइन शैली में छह अलग-अलग उद्योग खंड शामिल हैं।
+जापानी भाषा में एक बहु-उद्योग विज्ञापन कोलाज उत्पन्न करने के लिए एक प्रॉम्प्ट, जिसमें समकालीन डिज़ाइन शैली में छह अलग-अलग उद्योग खंड दिखाई देते हैं।
 
 #### 📝 प्रॉम्पट
 
@@ -2183,7 +2183,7 @@ A fictional Japanese advertisement. A horizontal 6-panel layout featuring ads fo
 
 #### 📖 विवरण
 
-एक विशाल साउंड सिस्टम और एक भीड़-भाड़ वाले नियॉन बाजार वाले एक डायस्टोपियन साइबरपंक दृश्य को उत्पन्न करने के लिए एक अत्यधिक विस्तृत प्रॉम्प्ट।
+एक विशाल साउंड सिस्टम और एक भीड़-भाड़ वाले नियॉन बाजार वाले डायस्टोपियन साइबरपंक दृश्य उत्पन्न करने के लिए एक अत्यधिक विस्तृत प्रॉम्प्ट।
 
 #### 📝 प्रॉम्पट
 
@@ -2216,13 +2216,13 @@ A futuristic {argument name="scene" default="cyberpunk outdoor music market"} sc
 
 ---
 
-### No. 51: चार-पैनल रोमांटिक कॉमेडी मंगा पेज
+### No. 51: चार-पैनल रोमांटिक कॉमेडी मंगा पृष्ठ
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट जापानी संवाद के साथ एक मोनोक्रोम चार-पैनल मंगा पेज उत्पन्न करता है, जो अभिव्यंजक चरित्र अभिनय के साथ नाटकीय रोमांटिक-कॉमेडी बहस दृश्य बनाने के लिए आदर्श है।
+यह प्रॉम्प्ट जापानी संवाद के साथ एक मोनोक्रोम चार-पैनल मंगा पृष्ठ जनरेट करता है, जो अभिव्यंजक चरित्र अभिनय के साथ नाटकीय रोमांटिक-कॉमेडी बहस दृश्य बनाने के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -2235,7 +2235,7 @@ Create a black-and-white manga page with 4 stacked horizontal panels, clean blac
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14468_1.jpg" width="600" alt="चार-पैनल रोमांटिक कॉमेडी मंगा पेज - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14468_1.jpg" width="600" alt="चार-पैनल रोमांटिक कॉमेडी मंगा पृष्ठ - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -2249,14 +2249,14 @@ Create a black-and-white manga page with 4 stacked horizontal panels, clean blac
 
 ---
 
-### No. 52: मूडी तटीय सड़क यात्रा का चित्र
+### No. 52: मूडी तटीय सड़क यात्रा चित्र
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट एक सिनेमाई, अनौपचारिक समुद्र तटीय सड़क किनारे का चित्र बनाता है, जिसमें एक पार्क की गई विन्टेज सेडन कार है, जो उदासीन यात्रा फोटोग्राफी और लाइफस्टाइल इमेजरी के लिए आदर्श है।
+यह प्रॉम्प्ट एक सिनेमाई कैंडिड समुद्र तटीय सड़क किनारे का चित्र उत्पन्न करता है जिसमें एक पार्क की गई विन्टेज सेडान कार है। यह नॉस्टैल्जिक ट्रैवल फोटोग्राफी और लाइफस्टाइल इमेजरी के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -2269,7 +2269,7 @@ A cinematic candid photo of a {argument name="person" default="young woman"} sta
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14673_1.jpg" width="600" alt="मूडी तटीय सड़क यात्रा का चित्र - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14673_1.jpg" width="600" alt="मूडी तटीय सड़क यात्रा चित्र - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -2283,14 +2283,14 @@ A cinematic candid photo of a {argument name="person" default="young woman"} sta
 
 ---
 
-### No. 53: लक्ज़री फैशन बुक स्प्रेड
+### No. 53: लक्जरी फैशन बुक स्प्रेड
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट एक खुली फैशन बुक का यथार्थवादी ओवरहेड फोटो बनाता है, जिसमें एक दो-पेज कूतुर संपादकीय स्प्रेड है, जो लक्ज़री ब्रांडिंग, मैगज़ीन मॉकअप, या स्टाइल कैंपेन विजुअल्स के लिए आदर्श है।
+यह प्रॉम्प्ट एक खुली फैशन बुक का एक यथार्थवादी ओवरहेड फोटो उत्पन्न करता है, जिसमें दो-पेज क्यूचर एडिटोरियल स्प्रेड दिखाया गया है, जो लक्जरी ब्रांडिंग, मैगज़ीन मॉकअप, या स्टाइल कैंपेन विजुअल्स के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -2303,7 +2303,7 @@ A high-end editorial fashion photograph shown as an open large-format hardcover 
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14676_1.jpg" width="600" alt="लक्ज़री फैशन बुक स्प्रेड - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14676_1.jpg" width="600" alt="लक्जरी फैशन बुक स्प्रेड - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -2317,14 +2317,14 @@ A high-end editorial fashion photograph shown as an open large-format hardcover 
 
 ---
 
-### No. 54: 2000 के दशक की शुरुआत का कंप्यूटर लैब ChatGPT के साथ
+### No. 54: शुरुआती 2000 के कंप्यूटर लैब विद चैटजीपीटी
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट छात्रों का एक उदासीन अनौपचारिक कक्षा फोटो बनाता है, जो सीआरटी कंप्यूटर पर ChatGPT का उपयोग कर रहे हैं, जो रोजमर्रा की शिक्षा में एआई के बारे में संपादकीय या सोशल-मीडिया विजुअल्स के लिए आदर्श है।
+यह प्रॉम्प्ट सीआरटी कंप्यूटर पर चैटजीपीटी का उपयोग करते छात्रों की एक नॉस्टैल्जिक कैंडिड क्लासरूम फोटो उत्पन्न करता है, जो रोजमर्रा की शिक्षा में एआई के बारे में एडिटोरियल या सोशल-मीडिया विजुअल्स के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -2337,7 +2337,7 @@ A candid documentary-style photo of a {argument name="setting" default="high sch
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14675_1.jpg" width="600" alt="2000 के दशक की शुरुआत का कंप्यूटर लैब ChatGPT के साथ - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14675_1.jpg" width="600" alt="शुरुआती 2000 के कंप्यूटर लैब विद चैटजीपीटी - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -2351,14 +2351,14 @@ A candid documentary-style photo of a {argument name="setting" default="high sch
 
 ---
 
-### No. 55: सरियल पेटियो चित्र कौवे और कुत्ते के साथ
+### No. 55: कौवे और कुत्ते के साथ अतियथार्थवादी पैटियो चित्र
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट एक बैठे व्यक्ति का एक फोटोरियलिस्टिक, थोड़ा अजीब चित्र बनाता है, जो एक छोटे कुत्ते को पकड़े हुए है, जबकि एक काले पक्षी का उसके सिर पर बैठना दिखाता है, जो संपादकीय-शैली की सरियल फोटोग्राफी के लिए आदर्श है।
+यह प्रॉम्प्ट एक बैठे हुए व्यक्ति का फोटोरियलिस्टिक, थोड़ा अजीब चित्र उत्पन्न करता है जो एक छोटे कुत्ते को पकड़े हुए है जबकि एक काला पक्षी उसके सिर पर बैठा है, जो संपादकीय-शैली की अतियथार्थवादी फोटोग्राफी के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -2371,7 +2371,7 @@ A slightly surreal but photorealistic portrait of a seated person in a quiet cou
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14674_1.jpg" width="600" alt="सरियल पेटियो चित्र कौवे और कुत्ते के साथ - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14674_1.jpg" width="600" alt="कौवे और कुत्ते के साथ अतियथार्थवादी पैटियो चित्र - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -2385,14 +2385,14 @@ A slightly surreal but photorealistic portrait of a seated person in a quiet cou
 
 ---
 
-### No. 56: शैक्षणिक अर्थशास्त्र चार्ट सिमुलेशन
+### No. 56: अकादमिक अर्थशास्त्र चार्ट सिमुलेशन
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-एक प्रॉम्प्ट जो अत्यधिक यथार्थवादी लेकिन काल्पनिक शैक्षणिक चार्ट बनाने के लिए डिज़ाइन किया गया है, विशेष रूप से अर्थशास्त्र पेपर शैली में तेल की कीमतों और शार्क के हमलों के बीच सहसंबंध दिखाता है।
+यह प्रॉम्प्ट अत्यधिक यथार्थवादी लेकिन काल्पनिक अकादमिक चार्ट उत्पन्न करने के लिए डिज़ाइन किया गया है, जो विशेष रूप से एक अर्थशास्त्र पेपर शैली में तेल की कीमतों और शार्क के हमलों के बीच संबंध दर्शाता है।
 
 #### 📝 प्रॉम्पट
 
@@ -2405,7 +2405,7 @@ line graph from an important and prestigious {argument name="field" default="eco
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14396_1.jpg" width="600" alt="शैक्षणिक अर्थशास्त्र चार्ट सिमुलेशन - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14396_1.jpg" width="600" alt="अकादमिक अर्थशास्त्र चार्ट सिमुलेशन - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -2419,13 +2419,13 @@ line graph from an important and prestigious {argument name="field" default="eco
 
 ---
 
-### No. 57: लियोनार्दो मोना लिसा चित्रित करते हुए
+### No. 57: मोना लिसा चित्रित करते हुए लियोनार्डो
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट लियोनार्दो दा विंची द्वारा एक जीवित मॉडल से मोना लिसा चित्रित करने का एक सिनेमाई ऐतिहासिक दृश्य उत्पन्न करता है, जो नाटकीय ललित कला और पुनर्जागरण-थीम वाले दृश्यों के लिए आदर्श है।
+यह प्रॉम्प्ट लियोनार्डो दा विंची को एक जीवित मॉडल से मोना लिसा चित्रित करते हुए एक सिनेमाई ऐतिहासिक दृश्य उत्पन्न करता है, जो नाटकीय ललित कला और पुनर्जागरण-थीम वाले दृश्यों के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -2438,25 +2438,25 @@ A cinematic Renaissance art studio interior lit by soft warm window light, showi
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14641_1.jpg" width="600" alt="लियोनार्दो मोना लिसा चित्रित करते हुए - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14641_1.jpg" width="600" alt="मोना लिसा चित्रित करते हुए लियोनार्डो - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14641_2.jpg" width="600" alt="लियोनार्दो मोना लिसा चित्रित करते हुए - Image 2">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14641_2.jpg" width="600" alt="मोना लिसा चित्रित करते हुए लियोनार्डो - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14641_3.jpg" width="600" alt="लियोनार्दो मोना लिसा चित्रित करते हुए - Image 3">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14641_3.jpg" width="600" alt="मोना लिसा चित्रित करते हुए लियोनार्डो - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14641_4.jpg" width="600" alt="लियोनार्दो मोना लिसा चित्रित करते हुए - Image 4">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14641_4.jpg" width="600" alt="मोना लिसा चित्रित करते हुए लियोनार्डो - Image 4">
 </div>
 
 #### 📌 विवरण
@@ -2470,14 +2470,14 @@ A cinematic Renaissance art studio interior lit by soft warm window light, showi
 
 ---
 
-### No. 58: काले ड्रेस में नृत्य करती महिला
+### No. 58: काले ड्रेस में नाचती हुई महिला
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट एक मंद लाउंज में लहराती काले ड्रेस में सुंदरता से नृत्य करती एक महिला का सिनेमाई फोटोरियलिस्टिक नाइटलाइफ़ चित्र बनाता है, जो फैशन, प्रदर्शन या सोशल मीडिया विज़ुअल्स के लिए आदर्श है।
+यह प्रॉम्प्ट एक धुंधले लाउंज में लहराती काले ड्रेस में शान से नाचती हुई महिला का एक सिनेमाई फोटोरियलिस्टिक नाइटलाइफ़ पोर्ट्रेट उत्पन्न करता है, जो फैशन, प्रदर्शन या सोशल मीडिया दृश्यों के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -2490,7 +2490,7 @@ A dramatic full-body photo of a woman dancing powerfully in a dark upscale loung
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14506_1.jpg" width="600" alt="काले ड्रेस में नृत्य करती महिला - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14506_1.jpg" width="600" alt="काले ड्रेस में नाचती हुई महिला - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -2504,14 +2504,14 @@ A dramatic full-body photo of a woman dancing powerfully in a dark upscale loung
 
 ---
 
-### No. 59: रेफरेंस लाउंज में एनीमे गर्ल जोड़ें
+### No. 59: संदर्भ लाउंज में एनीमे लड़की जोड़ें
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट एक बड़ी एनीमे गर्ल कैरेक्टर को दिए गए वास्तविक इंटीरियर बैकग्राउंड में रखता है, जबकि मूल कमरे की संरचना को कैरेक्टर कंपोजिटिंग टेस्ट या बैकग्राउंड-रेफरेंस प्रयोगों के लिए संरक्षित रखता है।
+यह प्रॉम्प्ट एक बड़ी एनीमे लड़की चरित्र को एक आपूर्ति की गई वास्तविक आंतरिक पृष्ठभूमि में रखता है, जबकि मूल कमरे की संरचना को चरित्र कंपोज़िटिंग परीक्षणों या पृष्ठभूमि-संदर्भ प्रयोगों के लिए संरक्षित रखता है।
 
 #### 📝 प्रॉम्पट
 
@@ -2524,7 +2524,7 @@ Using the provided reference image as the exact background base, keep the same u
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14476_1.jpg" width="600" alt="रेफरेंस लाउंज में एनीमे गर्ल जोड़ें - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14476_1.jpg" width="600" alt="संदर्भ लाउंज में एनीमे लड़की जोड़ें - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -2545,7 +2545,7 @@ Using the provided reference image as the exact background base, keep the same u
 
 #### 📖 विवरण
 
-वेल्वेडिया नाम के एक मेचा-शैली वाले चरित्र के लिए एक चरित्र संदर्भ शीट उत्पन्न करने के लिए एक संक्षिप्त प्रॉम्प्ट।
+वेल्वेडिया नाम के एक मेचा-शैली वाले चरित्र के लिए चरित्र संदर्भ शीट उत्पन्न करने के लिए एक संक्षिप्त प्रॉम्प्ट।
 
 #### 📝 प्रॉम्पट
 
@@ -2585,7 +2585,7 @@ Using the provided reference image as the exact background base, keep the same u
 
 #### 📖 विवरण
 
-एक प्रसिद्ध सिनेमाई शैली में, इस मामले में एक कुरोसावा फिल्म में, एक व्यक्तिगत पालतू जानवर को सम्मिलित करने के लिए एक प्रॉम्प्ट।
+एक प्रसिद्ध सिनेमाई शैली, इस मामले में एक कुरोसावा फिल्म, में व्यक्तिगत पालतू जानवर को शामिल करने के लिए एक प्रॉम्प्ट।
 
 #### 📝 प्रॉम्पट
 
@@ -2625,7 +2625,7 @@ Can you put {argument name="subject" default="my girl dog"} in the movie {argume
 
 #### 📖 विवरण
 
-एक प्रॉम्प्ट जो जीन-मिशेल बास्कियाट की विशिष्ट शैली और वॉयनिच पांडुलिपि सौंदर्यशास्त्र का उपयोग करके एआई कार्य क्षितिज ग्राफ की रचनात्मक व्याख्या बनाता है।
+यह एक प्रॉम्प्ट है जो जीन-मिशेल बास्कियाट की विशिष्ट शैली और वॉयनिच पांडुलिपि सौंदर्यशास्त्र का उपयोग करते हुए एक एआई टास्क होराइजन्स ग्राफ की रचनात्मक व्याख्या उत्पन्न करता है।
 
 #### 📝 प्रॉम्पट
 
@@ -2670,13 +2670,13 @@ Can you put {argument name="subject" default="my girl dog"} in the movie {argume
 
 ---
 
-### No. 63: रेट्रो पिक्सेल पर्वत घाटी
+### No. 63: रेट्रो पिक्सल माउंटेन वैली
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 
 #### 📖 विवरण
 
-हाफटोन कॉमिक शेडिंग के साथ एक जीवंत पिक्सेल आर्ट अल्पाइन परिदृश्य, जो रेट्रो गेम पृष्ठभूमि, दृश्य पोस्टर, या नॉस्टैल्जिक पर्यावरण कला के लिए आदर्श है।
+हाफ़टोन कॉमिक शेडिंग के साथ एक जीवंत पिक्सल आर्ट अल्पाइन लैंडस्केप, रेट्रो गेम बैकग्राउंड, सीनिक पोस्टर या नॉस्टैल्जिक एनवायरनमेंट आर्ट के लिए आदर्श।
 
 #### 📝 प्रॉम्पट
 
@@ -2689,7 +2689,7 @@ A highly detailed retro pixel art landscape of a bright alpine valley in summer,
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14417_1.jpg" width="600" alt="रेट्रो पिक्सेल पर्वत घाटी - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14417_1.jpg" width="600" alt="रेट्रो पिक्सल माउंटेन वैली - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -2703,14 +2703,14 @@ A highly detailed retro pixel art landscape of a bright alpine valley in summer,
 
 ---
 
-### No. 64: 8-पैनल जीपीटी-इमेज-2 मंगा प्रोमो
+### No. 64: 8-पैनल GPT-Image-2 मंगा प्रोमो
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट जीपीटी-इमेज-2 की घोषणा और व्याख्या करने के लिए एक सोशल-मीडिया-अनुकूल प्रचारात्मक प्रारूप में पुर्तगाली काले-सफेद मंगा-शैली का आठ-पैनल कॉमिक पेज उत्पन्न करता है।
+यह प्रॉम्प्ट GPT-Image-2 की घोषणा और व्याख्या करने के लिए सोशल-मीडिया-अनुकूल प्रमोशनल फॉर्मेट में एक पुर्तगाली ब्लैक-एंड-व्हाइट मंगा-शैली का आठ-पैनल कॉमिक पेज जनरेट करता है।
 
 #### 📝 प्रॉम्पट
 
@@ -2723,7 +2723,7 @@ A highly detailed retro pixel art landscape of a bright alpine valley in summer,
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14639_1.jpg" width="600" alt="8-पैनल जीपीटी-इमेज-2 मंगा प्रोमो - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14639_1.jpg" width="600" alt="8-पैनल GPT-Image-2 मंगा प्रोमो - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -2737,14 +2737,14 @@ A highly detailed retro pixel art landscape of a bright alpine valley in summer,
 
 ---
 
-### No. 65: मॉडर्न आइस्ड कॉफी विज्ञापन डिज़ाइन
+### No. 65: आधुनिक आइस्ड कॉफी विज्ञापन डिज़ाइन
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-जापानी बाजार के लिए एक आधुनिक, स्टाइलिश आइस्ड कॉफी विज्ञापन बनाने के लिए एक प्रॉम्प्ट, जिसमें डायनामिक टाइपोग्राफी शामिल है।
+जापानी बाजार के लिए एक आधुनिक, स्टाइलिश आइस्ड कॉफी विज्ञापन बनाने के लिए एक प्रॉम्प्ट, जिसमें गतिशील टाइपोग्राफी शामिल है।
 
 #### 📝 प्रॉम्पट
 
@@ -2757,7 +2757,7 @@ Create an advertisement for {argument name="product" default="iced coffee"}. A s
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14355_1.jpg" width="600" alt="मॉडर्न आइस्ड कॉफी विज्ञापन डिज़ाइन - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14355_1.jpg" width="600" alt="आधुनिक आइस्ड कॉफी विज्ञापन डिज़ाइन - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -2778,7 +2778,7 @@ Create an advertisement for {argument name="product" default="iced coffee"}. A s
 
 #### 📖 विवरण
 
-एक एआई मॉडल के लिए जापानी में एक यथार्थवादी पैरोडी मेडिकल स्टेटमेंट, जो हास्यपूर्ण क्लिनिक-शैली के कागजात और दस्तावेज़ मॉकअप बनाने के लिए उपयोगी है।
+एक एआई मॉडल के लिए जापानी भाषा में एक यथार्थवादी पैरोडी मेडिकल स्टेटमेंट, हास्यपूर्ण क्लिनिक-शैली के कागजी कार्य और दस्तावेज़ मॉकअप बनाने के लिए उपयोगी।
 
 #### 📝 प्रॉम्पट
 
@@ -2812,7 +2812,7 @@ Create an advertisement for {argument name="product" default="iced coffee"}. A s
 
 #### 📖 विवरण
 
-एक एआई मॉडल के लिए एक हास्यपूर्ण जापानी प्रिस्क्रिप्शन फॉर्म की यथार्थवादी ओवरहेड फोटो, जो आधिकारिक दिखने वाले पैरोडी दस्तावेज़ और मॉक कागजात बनाने के लिए उपयोगी है।
+एक एआई मॉडल के लिए एक हास्यपूर्ण जापानी प्रिस्क्रिप्शन फॉर्म की यथार्थवादी ओवरहेड तस्वीर, आधिकारिक दिखने वाले पैरोडी दस्तावेज़ और मॉक कागजी कार्य उत्पन्न करने के लिए उपयोगी।
 
 #### 📝 प्रॉम्पट
 
@@ -2932,7 +2932,7 @@ Create an advertisement for {argument name="product" default="iced coffee"}. A s
 
 #### 📖 विवरण
 
-चैटजीपीटी के लिए एक मज़ाकिया जापानी मेडिकल प्रिस्क्रिप्शन और दवा सेट की यथार्थवादी ओवरहेड तस्वीर, जो पैरोडी स्वास्थ्य-थीम वाली प्रॉप ग्राफिक्स या सोशल मीडिया कॉन्सेप्ट आर्ट के लिए आदर्श है।
+चैटजीपीटी के लिए एक मज़ाकिया जापानी मेडिकल प्रिस्क्रिप्शन और दवा सेट की यथार्थवादी ओवरहेड तस्वीर, जो पैरोडी हेल्थकेयर-थीम्ड प्रॉप ग्राफिक्स या सोशल मीडिया कॉन्सेप्ट आर्ट के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -2973,13 +2973,13 @@ Style: photorealistic documentary product shot, comedic fake prescription prop d
 
 ---
 
-### No. 69: Gatebox3 होलोग्राम डिवाइस विज्ञापन
+### No. 69: गेटबॉक्स3 होलोग्राम डिवाइस विज्ञापन
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट एक होलोग्राम साथी डिवाइस के लिए एक पॉलिश्ड फ्यूचरिस्टिक जापानी उत्पाद विज्ञापन बनाता है, जो टेक मार्केटिंग विजुअल्स और कॉन्सेप्ट कैंपेन के लिए उपयुक्त है।
+यह प्रॉम्प्ट एक होलोग्राम साथी डिवाइस के लिए एक पॉलिश किया हुआ भविष्यवादी जापानी उत्पाद विज्ञापन उत्पन्न करता है, जो तकनीक विपणन विज़ुअल्स और कॉन्सेप्ट अभियानों के लिए उपयुक्त है।
 
 #### 📝 प्रॉम्पट
 
@@ -2992,7 +2992,7 @@ A sleek futuristic Japanese tech advertisement in a dark sci-fi showroom with gl
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14613_1.jpg" width="600" alt="Gatebox3 होलोग्राम डिवाइस विज्ञापन - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14613_1.jpg" width="600" alt="गेटबॉक्स3 होलोग्राम डिवाइस विज्ञापन - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -3013,7 +3013,7 @@ A sleek futuristic Japanese tech advertisement in a dark sci-fi showroom with gl
 
 #### 📖 विवरण
 
-एक विशिष्ट कैरेक्टर को लीड के रूप में उपयोग करते हुए एक सिनेमाई जापानी मूवी पोस्टर बनाने के लिए एक प्रॉम्प्ट।
+एक विशिष्ट चरित्र को मुख्य भूमिका में उपयोग करते हुए एक सिनेमाई जापानी मूवी पोस्टर बनाने के लिए एक प्रॉम्प्ट।
 
 #### 📝 प्रॉम्पट
 
@@ -3040,13 +3040,13 @@ Please create an {argument name="atmosphere" default="emotional"} Japanese movie
 
 ---
 
-### No. 71: सेंसर किया गया ऑफिस मंगा टकराव
+### No. 71: सेंसर्ड ऑफिस मंगा कन्फ्रंटेशन
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 
 #### 📖 विवरण
 
-एक उग्र एकरंगा मंगा पृष्ठ जो एक गर्म ऑफिस बहस को दिखाता है जो एक काबेडॉन दृश्य में बदल जाता है, जो नाटकीय वायरल मंगा-शैली स्क्रीनशॉट को पुनर्निर्मित करने के लिए उपयोगी है।
+एक ग्रिटी मोनोक्रोम मंगा पेज जो एक गर्मजोशी वाली ऑफिस बहस दिखाता है जो एक काबेडॉन दृश्य में बदल जाती है, नाटकीय वायरल मंगा-शैली स्क्रीनशॉट को पुनः बनाने के लिए उपयोगी।
 
 #### 📝 प्रॉम्पट
 
@@ -3059,7 +3059,7 @@ A dramatic black-and-white manga page in a seinen style, rendered with dense scr
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14477_1.jpg" width="600" alt="सेंसर किया गया ऑफिस मंगा टकराव - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14477_1.jpg" width="600" alt="सेंसर्ड ऑफिस मंगा कन्फ्रंटेशन - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -3079,7 +3079,7 @@ A dramatic black-and-white manga page in a seinen style, rendered with dense scr
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट एक चांदी की टैब्बी बिल्ली के बगल में हाथ हिलाती हुई एक चिबी महिला का एक खिलौने जैसा 3डी स्टिकर चित्रण उत्पन्न करता है जिसमें जापानी सुबह का पाठ है, जो सोशल मीडिया स्टैम्प या अभिवादन ग्राफिक्स के लिए आदर्श है।
+यह प्रॉम्प्ट एक चांदी की तब्बी बिल्ली के बगल में हाथ हिलाती हुई एक चिबी महिला का खिलौने जैसा 3D स्टिकर चित्रण उत्पन्न करता है, जिसमें जापानी सुबह का टेक्स्ट है, जो सोशल मीडिया स्टैम्प या अभिवादन ग्राफिक्स के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -3106,14 +3106,14 @@ A cute sticker-style 3D figurine illustration on a clean light gray background, 
 
 ---
 
-### No. 73: जापानी फोर-पैनल हीलिंग विज्ञापन कोलाज
+### No. 73: जापानी चार-पैनल हीलिंग विज्ञापन कोलाज
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-कोचिंग या आत्म-सुधार सेवाओं के लिए एक बोल्ड चार-चतुर्थांश जापानी प्रचार थंबनेल, जो सोशल मीडिया पोस्ट, प्रोफाइल लिंक, या मार्केटप्लेस कवर छवियों के लिए डिज़ाइन किया गया है।
+कोचिंग या आत्म-सुधार सेवाओं के लिए एक साहसिक चार-चतुर्थांश वाला जापानी प्रचार थंबनेल, सोशल मीडिया पोस्ट, प्रोफाइल लिंक या मार्केटप्लेस कवर छवियों के लिए डिज़ाइन किया गया।
 
 #### 📝 प्रॉम्पट
 
@@ -3126,7 +3126,7 @@ A cute sticker-style 3D figurine illustration on a clean light gray background, 
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14551_1.jpg" width="600" alt="जापानी फोर-पैनल हीलिंग विज्ञापन कोलाज - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14551_1.jpg" width="600" alt="जापानी चार-पैनल हीलिंग विज्ञापन कोलाज - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -3147,7 +3147,7 @@ A cute sticker-style 3D figurine illustration on a clean light gray background, 
 
 #### 📖 विवरण
 
-एक काल्पनिक स्ट्रीटवियर और नेचुरल-वाइन ब्रांड के लिए छह-छवि एडिटोरियल फैशन अवधारणा दिखाता हुआ एक स्क्रीनशॉट-शैली वाला एआई मूडबोर्ड, जो कला निर्देशन डेक या अभियान संदर्भ बोर्डों को पुनर्निर्मित करने के लिए उपयोगी है।
+एक स्क्रीनशॉट-शैली वाला AI मूडबोर्ड जो एक काल्पनिक स्ट्रीटवियर और नेचुरल-वाइन ब्रांड के लिए छह-छवि एडिटोरियल फैशन अवधारणा दिखाता है, जो आर्ट डायरेक्शन डेक या अभियान संदर्भ बोर्डों को पुनः बनाने के लिए उपयोगी है।
 
 #### 📝 प्रॉम्पट
 
@@ -3180,14 +3180,14 @@ Create a 4:5 editorial fashion lookbook moodboard for a fictional brand called {
 
 ---
 
-### No. 75: यूआई मॉकअप के साथ टेक ट्यूटोरियल थंबनेल
+### No. 75: टेक ट्यूटोरियल थंबनेल यूआई मॉकअप के साथ
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-एक बोल्ड यूट्यूब-शैली का थंबनेल जिसमें एक ट्यूटोरियल हेडलाइन, एक डिज़ाइन ऐप डैशबोर्ड मॉकअप और एक प्रस्तुतकर्ता इंटरफ़ेस की ओर इशारा करते हुए दिखाया गया है, जो ब्रांडिंग या डिज़ाइन-सिस्टम सामग्री के लिए उपयुक्त है।
+एक बोल्ड यूट्यूब-स्टाइल थंबनेल जिसमें एक ट्यूटोरियल हेडलाइन, एक डिज़ाइन ऐप डैशबोर्ड मॉकअप और ब्रांडिंग या डिज़ाइन-सिस्टम कंटेंट के लिए इंटरफ़ेस की ओर इशारा करता एक प्रेजेंटर दिखाया गया है।
 
 #### 📝 प्रॉम्पट
 
@@ -3200,7 +3200,7 @@ A clean modern YouTube thumbnail on a bright white background, split visually be
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14695_1.jpg" width="600" alt="यूआई मॉकअप के साथ टेक ट्यूटोरियल थंबनेल - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14695_1.jpg" width="600" alt="टेक ट्यूटोरियल थंबनेल यूआई मॉकअप के साथ - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -3214,14 +3214,14 @@ A clean modern YouTube thumbnail on a bright white background, split visually be
 
 ---
 
-### No. 76: शरद ऋतु पार्क में पढ़ने की स्टॉक फोटो
+### No. 76: शरद ऋतु पार्क पठन स्टॉक फोटो
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट एक शरद ऋतु पार्क में एक पेड़ के पास बैठकर पढ़ने वाले व्यक्ति की एक गर्म, यथार्थवादी स्टॉक-शैली वाली छवि बनाता है, जो लाइफस्टाइल, शिक्षा, या मौसमी संपादकीय उपयोग के लिए आदर्श है।
+यह प्रॉम्प्ट एक शरद ऋतु पार्क में एक पेड़ के पास पढ़ते हुए व्यक्ति की गर्म, यथार्थवादी स्टॉक-शैली की छवि उत्पन्न करता है, जो जीवनशैली, शिक्षा, या मौसमी संपादकीय उपयोग के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -3234,7 +3234,7 @@ A realistic lifestyle stock photo of {argument name="subject" default="a young w
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14612_1.jpg" width="600" alt="शरद ऋतु पार्क में पढ़ने की स्टॉक फोटो - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14612_1.jpg" width="600" alt="शरद ऋतु पार्क पठन स्टॉक फोटो - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -3248,13 +3248,13 @@ A realistic lifestyle stock photo of {argument name="subject" default="a young w
 
 ---
 
-### No. 77: सिनेमाई ग्रुप ग्रीन स्क्रीन के सामने
+### No. 77: ग्रीन स्क्रीन के सामने सिनेमाई समूह
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट चार युवा वयस्कों का एक यथार्थवादी बीहाइंड-द-सीन्स स्टूडियो फोटो बनाता है, जो एक क्रोमा ग्रीन बैकग्राउंड के सामने हैं, जो सिनेमाई प्रोडक्शन या एआई वीडियो वर्कफ़्लो विजुअल्स के लिए उपयोगी है।
+यह प्रॉम्प्ट चार युवा वयस्कों का एक यथार्थवादी बीहाइंड-द-सीन स्टूडियो फोटो उत्पन्न करता है, जो क्रोमा ग्रीन बैकग्राउंड के सामने हैं, जो सिनेमाई प्रोडक्शन या एआई वीडियो वर्कफ्लो विजुअल्स के लिए उपयोगी है।
 
 #### 📝 प्रॉम्पट
 
@@ -3267,7 +3267,7 @@ A cinematic candid photo of 4 young adults standing in front of a smooth studio 
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14614_1.jpg" width="600" alt="सिनेमाई ग्रुप ग्रीन स्क्रीन के सामने - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14614_1.jpg" width="600" alt="ग्रीन स्क्रीन के सामने सिनेमाई समूह - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -3281,14 +3281,14 @@ A cinematic candid photo of 4 young adults standing in front of a smooth studio 
 
 ---
 
-### No. 78: तांग राजवंश की रानी और मिनियंस गोंगबी पेंटिंग
+### No. 78: तांग राजवंश रानी और मिनियन्स गोंगबी पेंटिंग
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-एक रचनात्मक प्रॉम्प्ट जो पारंपरिक चीनी गोंगबी इंक पेंटिंग को हेयर ड्रायर और मिनियंस जैसे आधुनिक तत्वों के साथ मिलाकर एक मज़ाकिया काल-दोषपूर्ण दृश्य बनाता है।
+एक रचनात्मक प्रॉम्प्ट जो पारंपरिक चीनी गोंगबी स्याही चित्रकला को हेयर ड्रायर और मिनियन्स जैसे आधुनिक तत्वों के साथ मिलाकर एक हास्यपूर्ण कालानुक्रमिक दृश्य बनाता है।
 
 #### 📝 प्रॉम्पट
 
@@ -3301,7 +3301,7 @@ A traditional Chinese ink and color painting in {argument name="style" default="
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14325_1.jpg" width="600" alt="तांग राजवंश की रानी और मिनियंस गोंगबी पेंटिंग - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14325_1.jpg" width="600" alt="तांग राजवंश रानी और मिनियन्स गोंगबी पेंटिंग - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -3315,14 +3315,14 @@ A traditional Chinese ink and color painting in {argument name="style" default="
 
 ---
 
-### No. 79: फंतासी महिला एक सफेद मेढ़े को गले लगाते हुए
+### No. 79: फंतासी महिला एक सफेद भेड़ के बच्चे को गले लगाते हुए
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट एक लाल बालों वाली महिला का एक यथार्थवादी मध्यकालीन-फंतासी चित्र बनाता है, जो एक सींग वाले सफेद मेढ़े को गले लगा रही है, जो वातावरणपूर्ण कैरेक्टर आर्ट या संपादकीय-शैली की फंतासी विजुअल्स के लिए आदर्श है।
+यह प्रॉम्प्ट एक लाल बालों वाली महिला को सींग वाले सफेद भेड़ के बच्चे को गले लगाते हुए का एक यथार्थवादी मध्ययुगीन-फंतासी चित्र जनरेट करता है, जो वातावरणपूर्ण चरित्र कला या संपादकीय-शैली के फंतासी विजुअल्स के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -3335,7 +3335,7 @@ A photorealistic, cinematic vertical portrait of a medieval or fantasy woman wit
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14619_1.jpg" width="600" alt="फंतासी महिला एक सफेद मेढ़े को गले लगाते हुए - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14619_1.jpg" width="600" alt="फंतासी महिला एक सफेद भेड़ के बच्चे को गले लगाते हुए - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -3356,7 +3356,7 @@ A photorealistic, cinematic vertical portrait of a medieval or fantasy woman wit
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट एक चमकदार एनीमे आइडल-शैली का चित्र बनाता है, जो पोस्टर, सोशल मीडिया कला, या प्यारे कैरेक्टर की की विजुअल्स के लिए उपयुक्त है।
+यह प्रॉम्प्ट पोस्टर, सोशल मीडिया आर्ट या प्यारे कैरेक्टर की-विजुअल्स के लिए एक चमकदार एनिमे आइडल-स्टाइल चित्र उत्पन्न करता है।
 
 #### 📝 प्रॉम्पट
 
@@ -3383,14 +3383,14 @@ A highly detailed glossy anime idol portrait in a vertical composition, showing 
 
 ---
 
-### No. 81: मॉडर्न विज्ञापन लेआउट डिज़ाइन
+### No. 81: आधुनिक विज्ञापन लेआउट डिज़ाइन
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-जापानी विज्ञापन और पोस्टर के लिए डिज़ाइन किया गया एक संरचित लेआउट प्रॉम्प्ट, जो विशिष्ट टेक्स्ट और आकर्षक विजुअल्स पर केंद्रित है।
+जापानी विज्ञापन और पोस्टरों के लिए डिज़ाइन किया गया एक संरचित लेआउट प्रॉम्प्ट, जो विशिष्ट पाठ और आकर्षक दृश्यों पर केंद्रित है।
 
 #### 📝 प्रॉम्पट
 
@@ -3407,7 +3407,7 @@ A highly detailed glossy anime idol portrait in a vertical composition, showing 
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14356_1.jpg" width="600" alt="मॉडर्न विज्ञापन लेआउट डिज़ाइन - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14356_1.jpg" width="600" alt="आधुनिक विज्ञापन लेआउट डिज़ाइन - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -3428,7 +3428,7 @@ A highly detailed glossy anime idol portrait in a vertical composition, showing 
 
 #### 📖 विवरण
 
-क्लासिक 2004 वर्ल्ड ऑफ वारक्राफ्ट कला शैली में एक विशाल हॉर्ड रेड का विस्तृत दृश्य बनाता है, जिसमें एक महाकाव्य लड़ाई में विशिष्ट पात्र शामिल हैं।
+यह एक महाकाव्य लड़ाई में विशिष्ट पात्रों के साथ क्लासिक 2004 वर्ल्ड ऑफ वारक्राफ्ट आर्ट शैली में एक विशाल हॉर्ड रेड का विस्तृत दृश्य उत्पन्न करता है।
 
 #### 📝 प्रॉम्पट
 
@@ -3462,7 +3462,7 @@ a {argument name="player count" default="20"} person horde raid is fighting {arg
 
 #### 📖 विवरण
 
-एक बिल्ली को क्वांटम भौतिकी व्यवहार प्रदर्शित करते हुए दर्शाने वाले मंगा पैनल को जनरेट करने के लिए एक संक्षिप्त, रचनात्मक प्रॉम्प्ट।
+एक बिल्ली को क्वांटम भौतिकी व्यवहार प्रदर्शित करते हुए दिखाने वाले मंगा पैनल को उत्पन्न करने के लिए एक छोटा, रचनात्मक प्रॉम्प्ट।
 
 #### 📝 प्रॉम्पट
 
@@ -3489,14 +3489,14 @@ Please draw a manga where a {argument name="subject" default="cat"} {argument na
 
 ---
 
-### No. 84: नीले बालों वाला एनिमे चरित्र शीट
+### No. 84: नीली-बालों वाली एनीमे किरदार शीट
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट कई पोर्ट्रेट और पोज़ के साथ एक सफेद पृष्ठभूमि वाला एनिमे चरित्र कोलाज उत्पन्न करता है, जो कॉन्सेप्ट आर्ट, शैली अन्वेषण, या स्टोरीबोर्ड चरित्र डिज़ाइन के लिए उपयोगी है।
+यह प्रॉम्प्ट एक सफेद पृष्ठभूमि वाला एनीमे किरदार कोलाज बनाता है जिसमें कई पोर्ट्रेट और पोज़ हैं, जो कॉन्सेप्ट आर्ट, स्टाइल एक्सप्लोरेशन या स्टोरीबोर्ड किरदार डिज़ाइन के लिए उपयोगी है।
 
 #### 📝 प्रॉम्पट
 
@@ -3509,7 +3509,7 @@ Please draw a manga where a {argument name="subject" default="cat"} {argument na
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14509_1.jpg" width="600" alt="नीले बालों वाला एनिमे चरित्र शीट - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14509_1.jpg" width="600" alt="नीली-बालों वाली एनीमे किरदार शीट - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -3523,14 +3523,14 @@ Please draw a manga where a {argument name="subject" default="cat"} {argument na
 
 ---
 
-### No. 85: नॉस्टैल्जिक सॉफ्टवेयर इंटरफेस
+### No. 85: नॉस्टैल्जिक सॉफ़्टवेयर इंटरफ़ेस
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-1990 के दशक के रचनात्मक सॉफ्टवेयर के यूआई सौंदर्यशास्त्र को पुनर्निर्मित करने के लिए एक प्रॉम्प्ट।
+1990 के दशक के रचनात्मक सॉफ़्टवेयर के यूआई सौंदर्यशास्त्र को फिर से बनाने के लिए एक प्रॉम्प्ट।
 
 #### 📝 प्रॉम्पट
 
@@ -3543,7 +3543,7 @@ a screenshot of {argument name="software" default="Photoshop"} in {argument name
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14383_1.jpg" width="600" alt="नॉस्टैल्जिक सॉफ्टवेयर इंटरफेस - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14383_1.jpg" width="600" alt="नॉस्टैल्जिक सॉफ़्टवेयर इंटरफ़ेस - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -3564,7 +3564,7 @@ a screenshot of {argument name="software" default="Photoshop"} in {argument name
 
 #### 📖 विवरण
 
-चार-पैनल वाला पेस्टल फंतासी ऑफिस मंगा पेज जो एक भेड़ के सींग वाले क्लर्क और एक फुल्फी भेड़ को दिखाता है, जो कागजी कार्य को एक नींद भरे, आरामदायक मजाकिया दृश्य में बदल रहे हैं।
+एक चार-पैनल पेस्टल फ़ैंटेसी ऑफिस मंगा पेज जो भेड़ के सींगों वाली एक क्लर्क और एक रोएँदार भेड़ को दिखाता है, जो कागज़ी कार्यवाही को एक नींद भरी, आरामदायक गैग सीन में बदल रहे हैं।
 
 #### 📝 प्रॉम्पट
 
@@ -3603,14 +3603,14 @@ a screenshot of {argument name="software" default="Photoshop"} in {argument name
 
 ---
 
-### No. 87: एनीमे सनसेट फिल्म पोस्टर
+### No. 87: एनिमे सनसेट फिल्म पोस्टर
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट एक पॉलिश किया हुआ जापानी एनीमे मूवी पोस्टर उत्पन्न करता है जिसमें सूर्यास्त के समय समुद्रतटीय शहर को देखते हुए दो छात्र दिखाई देते हैं, जो सिनेमाई की विजुअल्स और रोमांटिक ड्रामा प्रचार कला के लिए आदर्श है।
+यह प्रॉम्प्ट एक पॉलिश किया हुआ जापानी एनिमे मूवी पोस्टर उत्पन्न करता है जिसमें सूर्यास्त के समय एक समुद्रतटीय शहर को देखते हुए दो छात्र शामिल हैं, जो सिनेमाई की विज़ुअल और रोमांटिक ड्रामा प्रमोशनल आर्ट के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -3623,7 +3623,7 @@ A breathtaking anime movie poster at golden-hour sunset, vertical theatrical one
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14472_1.jpg" width="600" alt="एनीमे सनसेट फिल्म पोस्टर - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14472_1.jpg" width="600" alt="एनिमे सनसेट फिल्म पोस्टर - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -3644,7 +3644,7 @@ A breathtaking anime movie poster at golden-hour sunset, vertical theatrical one
 
 #### 📖 विवरण
 
-एक पॉलिश किया हुआ एक-पृष्ठ एनीमे मंगा जो शुरुआती लोगों को सिक्का संग्रहण से परिचित कराता है, जो शैक्षिक सोशल पोस्ट, एक्सप्लेनर कॉमिक्स, या शौक-थीम वाले प्रचार कला के लिए उपयोगी है।
+एक पॉलिश एक-पेज एनिमे मंगा जो शुरुआती लोगों को सिक्का संग्रहण से परिचित कराता है, जो शैक्षिक सोशल पोस्ट, एक्सप्लेनर कॉमिक्स या शौक-थीम प्रमोशनल आर्ट के लिए उपयोगी है।
 
 #### 📝 प्रॉम्पट
 
@@ -3678,7 +3678,7 @@ A breathtaking anime movie poster at golden-hour sunset, vertical theatrical one
 
 #### 📖 विवरण
 
-एक बडी कॉप थीम में ज़ोंबी जासूसों को दिखाते हुए रेट्रो 16-बिट पिक्सेल आर्ट शैली के मूवी पोस्टर के लिए एक प्रॉम्प्ट।
+एक बडी कॉप थीम में ज़ोंबी जासूसों वाले रेट्रो 16-बिट पिक्सेल आर्ट शैली के मूवी पोस्टर के लिए एक प्रॉम्प्ट।
 
 #### 📝 प्रॉम्पट
 
@@ -3712,7 +3712,7 @@ Create a single full-scene image in a 9:16 vertical format, retro 16-bit pixel a
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट एक संशोधित वोल्वो 240 को छह कोणों से दिखाते हुए लेबल किए गए स्पेक-शीट सेक्शन के साथ एक साफ़ ऑटोमोटिव कॉन्सेप्ट प्रेजेंटेशन बोर्ड उत्पन्न करता है, जो कार डिज़ाइन प्रदर्शनियों और ट्यूनिंग ब्रांड मॉकअप्स के लिए आदर्श है।
+यह प्रॉम्प्ट एक स्वच्छ ऑटोमोटिव कॉन्सेप्ट प्रेजेंटेशन बोर्ड जनरेट करता है जो एक संशोधित वोल्वो 240 को छह कोणों से लेबल किए गए स्पेक-शीट सेक्शन के साथ दिखाता है, कार डिज़ाइन प्रदर्शनियों और ट्यूनिंग ब्रांड मॉकअप के लिए आदर्श।
 
 #### 📝 प्रॉम्पट
 
@@ -3745,13 +3745,13 @@ Create a single full-scene image in a 9:16 vertical format, retro 16-bit pixel a
 
 ---
 
-### No. 91: मिनिमल पेलिकन साइकिल चलाता हुआ
+### No. 91: मिनिमल पेलिकन राइडिंग बाइसिकल
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट एक साइकिल पर बैठे पेलिकन का एक सादा ज्यामितीय वेक्टर चित्रण उत्पन्न करता है, जो सरल आकार संरचना का परीक्षण करने या एक चंचल अमूर्त आइकन-शैली की छवि बनाने के लिए उपयोगी है।
+यह प्रॉम्प्ट एक साइकिल पर सवार पेलिकन का एक स्पार्स ज्योमेट्रिक वेक्टर इलस्ट्रेशन जनरेट करता है, जो सरल आकार संरचना का परीक्षण करने या एक चंचल अमूर्त आइकन-शैली की छवि बनाने के लिए उपयोगी है।
 
 #### 📝 प्रॉम्पट
 
@@ -3764,7 +3764,7 @@ A minimalist vector-style illustration on a flat light gray background showing a
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14657_1.png" width="600" alt="मिनिमल पेलिकन साइकिल चलाता हुआ - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14657_1.png" width="600" alt="मिनिमल पेलिकन राइडिंग बाइसिकल - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -3778,13 +3778,13 @@ A minimalist vector-style illustration on a flat light gray background showing a
 
 ---
 
-### No. 92: प्यारी चार-पैनल बिल्ली ईर्ष्या कॉमिक
+### No. 92: प्यारा चार-पैनल बिल्ली ईर्ष्या कॉमिक
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट एक गर्म, हाथ से बनी चार-पैनल बिल्ली कॉमिक बनाता है जो सोशल पोस्ट, मंगा-शैली के हास्य या आरामदायक पालतू चित्रण के लिए आदर्श है।
+यह प्रॉम्प्ट एक सौम्य, हाथ से बनी चार-पैनल बिल्ली कॉमिक उत्पन्न करता है जो सोशल पोस्ट, मंगा-शैली वाले हास्य, या आरामदायक पालतू चित्रण के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -3797,7 +3797,7 @@ A cute hand-drawn four-panel comic in a soft, warm, slice-of-life style on a lig
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14503_1.jpg" width="600" alt="प्यारी चार-पैनल बिल्ली ईर्ष्या कॉमिक - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14503_1.jpg" width="600" alt="प्यारा चार-पैनल बिल्ली ईर्ष्या कॉमिक - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -3811,13 +3811,13 @@ A cute hand-drawn four-panel comic in a soft, warm, slice-of-life style on a lig
 
 ---
 
-### No. 93: 108 चिबी फंतासी मंडला
+### No. 93: 108 चिबी फ़ैंटेसी मंडला
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 
 #### 📖 विवरण
 
-एक अत्यधिक विस्तृत चौड़ा फंतासी पोस्टर जो ठीक 108 अद्वितीय चिबी पौराणिक प्राणियों को संकेंद्रित मंडला रिंगों में व्यवस्थित दिखाता है, जो सजावटी की आर्ट या प्रदर्शनी चित्रों के लिए आदर्श है।
+एक अत्यधिक विस्तृत चौड़ा फ़ैंटेसी पोस्टर जो ठीक 108 अद्वितीय चिबी पौराणिक जीवों को संकेंद्रित मंडला रिंग्स में व्यवस्थित दिखाता है, जो सजावटी की आर्ट या शोकेस इलस्ट्रेशन के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -3834,7 +3834,7 @@ The rendering should be extremely dense and crisp, like a 4k fantasy illustratio
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14533_1.jpg" width="600" alt="108 चिबी फंतासी मंडला - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14533_1.jpg" width="600" alt="108 चिबी फ़ैंटेसी मंडला - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -3854,7 +3854,7 @@ The rendering should be extremely dense and crisp, like a 4k fantasy illustratio
 
 #### 📖 विवरण
 
-बच्चों द्वारा एक रंगीन गुणा डोमिनो बोर्ड गेम का उपयोग करते हुए दिखाता एक यथार्थवादी कक्षा फोटो, शैक्षिक सामग्री, स्कूल प्रचार, या गणित गतिविधि दृश्यों के लिए आदर्श।
+एक यथार्थवादी कक्षा का फोटो जो बच्चों को एक रंगीन गुणा डोमिनो बोर्ड गेम का उपयोग करते हुए दिखाता है, जो शैक्षिक सामग्री, स्कूल प्रचार या गणित गतिविधि विज़ुअल्स के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -3881,14 +3881,14 @@ A realistic documentary-style photo of an elementary school classroom during a m
 
 ---
 
-### No. 95: प्रिंट करने योग्य गुणा डोमिनो वर्कशीट
+### No. 95: प्रिंटेबल गुणा डोमिनो वर्कशीट
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-डोमिनो मिलान गेम के माध्यम से गुणा का अभ्यास करने के लिए एक रंगीन ब्राज़ीलियाई पुर्तगाली कक्षा वर्कशीट, शिक्षकों, होमस्कूलिंग और प्रिंट करने योग्य गणित गतिविधियों के लिए आदर्श।
+गुणा का अभ्यास करने के लिए डोमिनो मिलान गेम के माध्यम से एक रंगीन ब्राज़ीलियाई पुर्तगाली कक्षा वर्कशीट, जो शिक्षकों, होमस्कूलिंग और प्रिंटेबल गणित गतिविधियों के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -3901,7 +3901,7 @@ Create a vertical printable educational worksheet in Brazilian Portuguese, clean
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14631_1.jpg" width="600" alt="प्रिंट करने योग्य गुणा डोमिनो वर्कशीट - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14631_1.jpg" width="600" alt="प्रिंटेबल गुणा डोमिनो वर्कशीट - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -3915,14 +3915,14 @@ Create a vertical printable educational worksheet in Brazilian Portuguese, clean
 
 ---
 
-### No. 96: मल्टी-पेज ब्रांड किट जनरेटर
+### No. 96: मल्टी-पेज ब्रांड किट जेनरेटर
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-एक प्रॉम्प्ट जिसे विभिन्न डिज़ाइन तत्वों और लेआउट सहित एक व्यापक मल्टी-पेज ब्रांड आइडेंटिटी किट बनाने के लिए डिज़ाइन किया गया है।
+एक प्रॉम्प्ट जिसे विभिन्न डिज़ाइन तत्वों और लेआउट सहित एक व्यापक मल्टी-पेज ब्रांड आइडेंटिटी किट जनरेट करने के लिए डिज़ाइन किया गया है।
 
 #### 📝 प्रॉम्पट
 
@@ -3935,25 +3935,25 @@ Create a polished multi-page (multiple images) brand kit for {argument name="bra
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14382_1.jpg" width="600" alt="मल्टी-पेज ब्रांड किट जनरेटर - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14382_1.jpg" width="600" alt="मल्टी-पेज ब्रांड किट जेनरेटर - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14382_2.jpg" width="600" alt="मल्टी-पेज ब्रांड किट जनरेटर - Image 2">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14382_2.jpg" width="600" alt="मल्टी-पेज ब्रांड किट जेनरेटर - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14382_3.jpg" width="600" alt="मल्टी-पेज ब्रांड किट जनरेटर - Image 3">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14382_3.jpg" width="600" alt="मल्टी-पेज ब्रांड किट जेनरेटर - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14382_4.jpg" width="600" alt="मल्टी-पेज ब्रांड किट जनरेटर - Image 4">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14382_4.jpg" width="600" alt="मल्टी-पेज ब्रांड किट जेनरेटर - Image 4">
 </div>
 
 #### 📌 विवरण
@@ -3967,14 +3967,14 @@ Create a polished multi-page (multiple images) brand kit for {argument name="bra
 
 ---
 
-### No. 97: विंटेज माल्टा ट्रैवल पोस्टर
+### No. 97: विंटेज माल्टा यात्रा पोस्टर
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट माल्टा का एक नॉस्टैल्जिक चित्रित पर्यटन पोस्टर उत्पन्न करता है जिसमें बोल्ड हेडलाइन टेक्स्ट, एक तटीय सड़क, क्लासिक कार, बंदरगाह नौकाएं और धूप से भरी ऐतिहासिक वास्तुकला है, जो यात्रा ब्रांडिंग या दीवार कला के लिए है।
+यह प्रॉम्प्ट माल्टा का एक उदासीन सचित्र पर्यटन पोस्टर जनरेट करता है जिसमें बोल्ड हेडलाइन टेक्स्ट, एक तटीय सड़क, क्लासिक कार, बंदरगाह नौकाएं और धूप से जगमगाती ऐतिहासिक वास्तुकला है, यात्रा ब्रांडिंग या दीवार कला के लिए।
 
 #### 📝 प्रॉम्पट
 
@@ -3987,7 +3987,7 @@ A vintage travel poster illustration for {argument name="destination" default="M
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14399_1.jpg" width="600" alt="विंटेज माल्टा ट्रैवल पोस्टर - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14399_1.jpg" width="600" alt="विंटेज माल्टा यात्रा पोस्टर - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -4007,7 +4007,7 @@ A vintage travel poster illustration for {argument name="destination" default="M
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट एक बिल्ली के संदर्भ फोटो को एक फोटोरियलिस्टिक मानव संस्करण में बदलता है, जबकि मूल मुद्रा, कंपोज़िशन और सेटिंग को संरक्षित रखता है, जो पालतू जानवर से व्यक्ति के चित्रों के लिए उपयुक्त है।
+यह प्रॉम्प्ट एक बिल्ली के संदर्भ फोटो को एक फोटोरियलिस्टिक मानव संस्करण में बदलता है, जबकि मूल मुद्रा, कंपोजिशन और सेटिंग को बनाए रखता है, जिससे पालतू जानवर से व्यक्ति के मनोरंजक चित्र बनते हैं।
 
 #### 📝 प्रॉम्पट
 
@@ -4034,14 +4034,14 @@ Using the provided reference image, turn the cat into a realistic human portrait
 
 ---
 
-### No. 99: डार्क स्पेस सम्राट मूवी पोस्टर
+### No. 99: डार्क स्पेस एम्परर मूवी पोस्टर
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-एक सिनेमाई साइ-फाई पोस्टर जो एक स्टारशिप ब्रिज पर कवचधारी एलियन शासक को दिखाता है, ब्लॉकबस्टर स्पेस-ओपेरा की कला और फिल्म प्रचार के लिए आदर्श।
+यह एक स्टारशिप ब्रिज पर कवचधारी एलियन शासक को दर्शाता हुआ एक सिनेमाई साइ-फाई पोस्टर है, जो ब्लॉकबस्टर स्पेस-ओपेरा की आर्ट और फिल्म प्रचार के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -4054,7 +4054,7 @@ A dark epic sci-fi movie poster for {argument name="film title" default="EMPIRE 
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14598_1.jpg" width="600" alt="डार्क स्पेस सम्राट मूवी पोस्टर - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14598_1.jpg" width="600" alt="डार्क स्पेस एम्परर मूवी पोस्टर - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -4068,13 +4068,13 @@ A dark epic sci-fi movie poster for {argument name="film title" default="EMPIRE 
 
 ---
 
-### No. 100: जापानी ओजिसन की चार पैरोडी पोस्टर्स
+### No. 100: चार जापानी ओजिसन पैरोडी पोस्टर
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 
 #### 📖 विवरण
 
-एक 2x2 कोलाज जिसमें नकली जापानी टीवी और एनीमे पोस्टर हैं, जो एक मध्यम आयु वर्ग के व्यक्ति को विभिन्न महिला शैली के आदर्शों में बदलते हुए दिखाते हैं, जो पैरोडी की आर्ट और सोशल मीडिया प्रचार छवियों के लिए आदर्श हैं।
+एक मध्यम आयु वर्ग के व्यक्ति को विभिन्न महिला शैली रूपकों में रूपांतरित करते हुए दिखाने वाले नकली जापानी टीवी और एनीम पोस्टरों का एक 2x2 कोलाज, पैरोडी की आर्ट और सोशल मीडिया प्रोमो छवियों के लिए आदर्श।
 
 #### 📝 प्रॉम्पट
 
@@ -4087,7 +4087,7 @@ A dark epic sci-fi movie poster for {argument name="film title" default="EMPIRE 
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14531_1.jpg" width="600" alt="जापानी ओजिसन की चार पैरोडी पोस्टर्स - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14531_1.jpg" width="600" alt="चार जापानी ओजिसन पैरोडी पोस्टर - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -4101,13 +4101,13 @@ A dark epic sci-fi movie poster for {argument name="film title" default="EMPIRE 
 
 ---
 
-### No. 101: पक्षियों और जानवरों के साथ अलौकिक धनुर्धर
+### No. 101: पक्षियों और जानवरों के साथ सरियल आर्चर
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट पक्षियों और जानवरों से घिरे एक मास्कधारी धनुर्धर का स्वप्निल सिनेमाई फैशन-शैली का चित्र बनाता है, जो अलौकिक संपादकीय या ललित कला छवि निर्माण के लिए उपयोगी है।
+यह प्रॉम्प्ट पक्षियों और जानवरों से घिरे एक मास्कधारी धनुर्धर का स्वप्निल सिनेमाई फैशन-शैली का पोर्ट्रेट जनरेट करता है, जो सरियल संपादकीय या फाइन-आर्ट छवि निर्माण के लिए उपयोगी है।
 
 #### 📝 प्रॉम्पट
 
@@ -4120,7 +4120,7 @@ A surreal cinematic outdoor portrait of a masked archer standing in a dry field 
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14579_1.jpg" width="600" alt="पक्षियों और जानवरों के साथ अलौकिक धनुर्धर - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14579_1.jpg" width="600" alt="पक्षियों और जानवरों के साथ सरियल आर्चर - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -4134,14 +4134,14 @@ A surreal cinematic outdoor portrait of a masked archer standing in a dry field 
 
 ---
 
-### No. 102: कोऑर्डिनेट-आधारित टूरिज्म मैगज़ीन कवर
+### No. 102: निर्देशांक-आधारित पर्यटन पत्रिका कवर
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-सटीक भौगोलिक निर्देशांक और विशिष्ट स्थानीय परिस्थितियों का उपयोग करके एक यथार्थवादी मैगज़ीन कवर बनाने के लिए जिसमें सुसंगत पात्र शामिल हों।
+सटीक भौगोलिक निर्देशांक और विशिष्ट स्थानीय परिस्थितियों का उपयोग करके एक यथार्थवादी पत्रिका कवर बनाने के लिए, जिसमें सुसंगत पात्र दिखाई देते हैं।
 
 #### 📝 प्रॉम्पट
 
@@ -4154,7 +4154,7 @@ Use GPT-image-2 to create a photobook of two women that matches the local aftern
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14354_1.jpg" width="600" alt="कोऑर्डिनेट-आधारित टूरिज्म मैगज़ीन कवर - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14354_1.jpg" width="600" alt="निर्देशांक-आधारित पर्यटन पत्रिका कवर - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -4175,7 +4175,7 @@ Use GPT-image-2 to create a photobook of two women that matches the local aftern
 
 #### 📖 विवरण
 
-प्रोजेक्ट्स, लेखन और शोध विषयों को प्रदर्शित करने के लिए एक चमकदार संपादकीय वेबसाइट डिज़ाइन में एक पॉलिश किया गया व्यक्तिगत एआई पोर्टफोलियो होमपेज मॉकअप।
+प्रोजेक्ट्स, लेखन और शोध विषयों को प्रदर्शित करने के लिए एक उज्ज्वल संपादकीय वेबसाइट डिज़ाइन में एक पॉलिश्ड पर्सनल एआई पोर्टफोलियो होमपेज मॉकअप।
 
 #### 📝 प्रॉम्पट
 
@@ -4202,14 +4202,14 @@ Use GPT-image-2 to create a photobook of two women that matches the local aftern
 
 ---
 
-### No. 104: पुनरावृत्तिमूलक सिनेमाई पोस्टर प्रॉम्प्ट्स
+### No. 104: इटरेटिव सिनेमैटिक पोस्टर प्रॉम्प्ट्स
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-एक बहु-चरणीय संवादात्मक प्रॉम्प्ट सेट जो एक उत्पाद पोस्टर को हेर, ब्लेड रनर 2049 और 2001: ए स्पेस ओडिसी शैलियों के माध्यम से परिष्कृत करता है।
+एक मल्टी-स्टेप कन्वर्सेशनल प्रॉम्प्ट सेट जो हेर, ब्लेड रनर 2049, और 2001: ए स्पेस ओडिसी शैलियों के माध्यम से एक उत्पाद पोस्टर को परिष्कृत करता है।
 
 #### 📝 प्रॉम्पट
 
@@ -4225,25 +4225,25 @@ Round 4: Do another version in the style of {argument name="movie 3" default="20
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14336_1.jpg" width="600" alt="पुनरावृत्तिमूलक सिनेमाई पोस्टर प्रॉम्प्ट्स - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14336_1.jpg" width="600" alt="इटरेटिव सिनेमैटिक पोस्टर प्रॉम्प्ट्स - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14336_2.jpg" width="600" alt="पुनरावृत्तिमूलक सिनेमाई पोस्टर प्रॉम्प्ट्स - Image 2">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14336_2.jpg" width="600" alt="इटरेटिव सिनेमैटिक पोस्टर प्रॉम्प्ट्स - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14336_3.jpg" width="600" alt="पुनरावृत्तिमूलक सिनेमाई पोस्टर प्रॉम्प्ट्स - Image 3">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14336_3.jpg" width="600" alt="इटरेटिव सिनेमैटिक पोस्टर प्रॉम्प्ट्स - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14336_4.jpg" width="600" alt="पुनरावृत्तिमूलक सिनेमाई पोस्टर प्रॉम्प्ट्स - Image 4">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14336_4.jpg" width="600" alt="इटरेटिव सिनेमैटिक पोस्टर प्रॉम्प्ट्स - Image 4">
 </div>
 
 #### 📌 विवरण
@@ -4264,7 +4264,7 @@ Round 4: Do another version in the style of {argument name="movie 3" default="20
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट इतिहास भर में लेबल किए गए आविष्कार डायोरामा के ग्रिड को दर्शाता हुआ एक चर्मपत्र-शैली वाला शैक्षिक पोस्टर उत्पन्न करता है, जो समयरेखा इन्फोग्राफिक्स और दुनिया बदलने वाली प्रौद्योगिकी तुलना के लिए आदर्श है।
+यह प्रॉम्प्ट एक चर्मपत्र-शैली वाला शैक्षिक पोस्टर उत्पन्न करता है जो इतिहास भर में लेबल किए गए आविष्कार डायोरामा का एक ग्रिड दिखाता है, जो समयरेखा इन्फोग्राफिक्स और विश्व-परिवर्तनकारी प्रौद्योगिकी तुलनाओं के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -4302,7 +4302,7 @@ Keep the composition highly organized, poster-like, and visually dense, with eac
 
 #### 📖 विवरण
 
-सोशल मीडिया सामग्री प्रदर्शित करते हुए एक आईफोन की छवि उत्पन्न करने के लिए एक सरल प्रॉम्प्ट, जिसमें एक विशिष्ट पहलू अनुपात है।
+सोशल मीडिया कंटेंट दिखाते हुए एक आईफोन की इमेज जनरेट करने के लिए एक सरल प्रॉम्प्ट, जिसमें एक विशिष्ट एस्पेक्ट रेशियो है।
 
 #### 📝 प्रॉम्पट
 
@@ -4329,13 +4329,13 @@ Create a {argument name="aspect ratio" default="9:16"} image of an {argument nam
 
 ---
 
-### No. 107: गोल्डन गेट ब्रिज पर फुटबॉल टीम के साथी
+### No. 107: गोल्डन गेट ब्रिज पर फुटबॉल टीममेट्स
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट दो गंदे फुटबॉल खिलाड़ियों की एक यथार्थवादी पोस्ट-गेम पोर्ट्रेट उत्पन्न करता है, जो पानी के किनारे गोल्डन गेट ब्रिज की पृष्ठभूमि में पोज़ दे रहे हैं, जो खेल संपादकीय या लाइफस्टाइल इमेजरी के लिए उपयोगी है।
+यह प्रॉम्प्ट पानी के किनारे गोल्डन गेट ब्रिज को पृष्ठभूमि में लिए खड़े दो कीचड़ से सने फुटबॉल खिलाड़ियों का एक यथार्थवादी पोस्ट-गेम पोर्ट्रेट बनाता है, जो स्पोर्ट्स एडिटोरियल या लाइफस्टाइल इमेजरी के लिए उपयोगी है।
 
 #### 📝 प्रॉम्पट
 
@@ -4348,7 +4348,7 @@ A realistic outdoor sports portrait of two American football players standing si
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14595_1.jpg" width="600" alt="गोल्डन गेट ब्रिज पर फुटबॉल टीम के साथी - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14595_1.jpg" width="600" alt="गोल्डन गेट ब्रिज पर फुटबॉल टीममेट्स - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -4369,7 +4369,7 @@ A realistic outdoor sports portrait of two American football players standing si
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट एक डिस्को बॉल पर एक दर्पण वाले गिरगिट मूर्ति का एक फोटोरियलिस्टिक स्टूडियो-शैली वाली छवि बनाता है, जो सरियल लक्ज़री पशु कला या आकर्षक सोशल मीडिया विजुअल्स के लिए आदर्श है।
+यह प्रॉम्प्ट एक डिस्को बॉल पर दर्पण-सा गिरगिट मूर्ति की फोटोरियलिस्टिक स्टूडियो-शैली की छवि उत्पन्न करता है, जो अतियथार्थवादी लक्ज़री पशु कला या आकर्षक सोशल मीडिया विज़ुअल्स के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -4396,14 +4396,14 @@ A highly polished studio photograph of a {argument name="animal" default="chamel
 
 ---
 
-### No. 109: विंटेज कॉन्फिडेंशियल केस फाइल
+### No. 109: विंटेज गोपनीय केस फ़ाइल
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट कहानी कहने, जासूसी विश्व निर्माण और सिनेमाई प्रॉप इमेजरी के लिए आदर्श, एक यथार्थवादी टॉप-डाउन नोयर-शैली की गोपनीय दस्तावेज़ पृष्ठ उत्पन्न करता है।
+यह प्रॉम्प्ट एक यथार्थवादी शीर्ष-से-नीचे नोयर-शैली की गोपनीय डॉसियर पृष्ठ उत्पन्न करता है, जो कहानी कहने, जासूस विश्व-निर्माण और सिनेमाई प्रॉप छवियों के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -4416,7 +4416,7 @@ A top-down cinematic still life of a vintage classified investigation dossier on
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14415_1.jpg" width="600" alt="विंटेज कॉन्फिडेंशियल केस फाइल - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14415_1.jpg" width="600" alt="विंटेज गोपनीय केस फ़ाइल - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -4430,14 +4430,14 @@ A top-down cinematic still life of a vintage classified investigation dossier on
 
 ---
 
-### No. 110: चनक्कले का टाइनी प्लैनेट एरियल दृश्य
+### No. 110: कानक्काले का टाइनी प्लैनेट एरियल व्यू
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट चनक्कले के वाटरफ्रंट लैंडमार्क्स का यथार्थवादी 360-डिग्री टाइनी-प्लैनेट ड्रोन दृश्य बनाता है, जो ट्रैवल इमेजरी और सिटी-पोस्टर विज़ुअल्स के लिए आदर्श है।
+यह प्रॉम्प्ट कानक्काले के वाटरफ्रंट लैंडमार्क्स का एक यथार्थवादी 360-डिग्री टाइनी-प्लैनेट ड्रोन व्यू बनाता है, जो ट्रैवल इमेजरी और सिटी-पोस्टर विजुअल्स के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -4450,7 +4450,7 @@ A dramatic ultra-wide aerial tiny-planet photograph of {argument name="city name
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14571_1.jpg" width="600" alt="चनक्कले का टाइनी प्लैनेट एरियल दृश्य - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14571_1.jpg" width="600" alt="कानक्काले का टाइनी प्लैनेट एरियल व्यू - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -4464,13 +4464,13 @@ A dramatic ultra-wide aerial tiny-planet photograph of {argument name="city name
 
 ---
 
-### No. 111: अस्वाभाविक फुल-बॉडी एलियन पोर्ट्रेट
+### No. 111: अस्वाभाविक पूर्ण-शरीर एलियन पोर्ट्रेट
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 
 #### 📖 विवरण
 
-कृत्रिम प्राणी अवधारणा कला, साइ-फाई की आर्ट, या बेचैन कर देने वाले मॉडल क्षमता प्रदर्शन के लिए उपयुक्त, एक दुबले-पतले ह्यूमनॉइड एलियन की एक अंधेरी फोटोरियलिस्टिक स्टूडियो छवि।
+एक दुर्बल मानवरूपी एलियन की एक अंधेरे फोटोरियलिस्टिक स्टूडियो छवि, जो क्रिएचर कॉन्सेप्ट आर्ट, विज्ञान-कथा की प्रमुख कला, या असहज मॉडल क्षमता डेमो के लिए उपयुक्त है।
 
 #### 📝 प्रॉम्पट
 
@@ -4483,13 +4483,13 @@ A hyper-realistic full-body studio portrait of a disturbing humanoid alien stand
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14422_1.jpg" width="600" alt="अस्वाभाविक फुल-बॉडी एलियन पोर्ट्रेट - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14422_1.jpg" width="600" alt="अस्वाभाविक पूर्ण-शरीर एलियन पोर्ट्रेट - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14422_2.jpg" width="600" alt="अस्वाभाविक फुल-बॉडी एलियन पोर्ट्रेट - Image 2">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14422_2.jpg" width="600" alt="अस्वाभाविक पूर्ण-शरीर एलियन पोर्ट्रेट - Image 2">
 </div>
 
 #### 📌 विवरण
@@ -4503,13 +4503,13 @@ A hyper-realistic full-body studio portrait of a disturbing humanoid alien stand
 
 ---
 
-### No. 112: अंधेरी खड्ड में फोटोरियलिस्टिक एलियन
+### No. 112: डार्क रैविन में फोटोरियल एलियन
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 
 #### 📖 विवरण
 
-यह प्रॉम्प्ट एक निराशाजनक चट्टानी घाटी में एक यथार्थवादी ह्यूमनॉइड एलियन का एक विचलित कर देने वाला फुल-बॉडी साइ-फाई हॉरर पोर्ट्रेट उत्पन्न करता है, जो सिनेमाई अवधारणा कला और कृत्रिम प्राणी डिजाइन के लिए आदर्श है।
+यह प्रॉम्प्ट एक उजाड़ चट्टानी घाटी में एक यथार्थवादी मानवरूपी एलियन का विचलित करने वाला पूर्ण-शरीर साइ-फाई हॉरर चित्र उत्पन्न करता है, जो सिनेमाई कॉन्सेप्ट आर्ट और क्रिएचर डिज़ाइन के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -4522,13 +4522,13 @@ A full-body cinematic portrait of a deeply unsettling humanoid alien standing al
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14420_1.jpg" width="600" alt="अंधेरी खड्ड में फोटोरियलिस्टिक एलियन - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14420_1.jpg" width="600" alt="डार्क रैविन में फोटोरियल एलियन - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14420_2.jpg" width="600" alt="अंधेरी खड्ड में फोटोरियलिस्टिक एलियन - Image 2">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14420_2.jpg" width="600" alt="डार्क रैविन में फोटोरियल एलियन - Image 2">
 </div>
 
 #### 📌 विवरण
@@ -4542,14 +4542,14 @@ A full-body cinematic portrait of a deeply unsettling humanoid alien standing al
 
 ---
 
-### No. 113: मून मार्क एडवेंचर कॉमिक पेज
+### No. 113: चंद्र चिह्न साहसिक कॉमिक पृष्ठ
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-एक चार-पैनल फंतासी एनीमे कॉमिक पेज जो एक चांदी बालों वाली चंद्रमा-थीम वाली लड़की को एक नक्शा खोजते हुए, एक गुफा पहेली को सुलझाते हुए और अगले रोमांच के लिए एक जादुई निमंत्रण पाते हुए दिखाता है।
+चार-पैनल की काल्पनिक एनीमे कॉमिक पृष्ठ जो एक चांदी बालों वाली चंद्रमा-थीम वाली लड़की को एक नक्शा खोजते, एक गुफा की पहेली सुलझाते और अगले साहस के लिए एक जादुई निमंत्रण पाते हुए दिखाती है।
 
 #### 📝 प्रॉम्पट
 
@@ -4562,7 +4562,7 @@ A full-body cinematic portrait of a deeply unsettling humanoid alien standing al
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14605_1.jpg" width="600" alt="मून मार्क एडवेंचर कॉमिक पेज - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14605_1.jpg" width="600" alt="चंद्र चिह्न साहसिक कॉमिक पृष्ठ - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -4583,7 +4583,7 @@ A full-body cinematic portrait of a deeply unsettling humanoid alien standing al
 
 #### 📖 विवरण
 
-एक शहरी ईंट की दीवार पर व्हीटपेस्ट पोस्टरों का यथार्थवादी दृश्य बनाने के लिए एक प्रॉम्प्ट, जो संस्थागत ज्ञान या विशिष्ट विषयों को प्रदर्शित करता है।
+एक शहरी ईंट की दीवार पर व्हीटपेस्ट पोस्टरों के एक यथार्थवादी दृश्य को उत्पन्न करने के लिए एक प्रॉम्प्ट, जो संस्थागत ज्ञान या विशिष्ट थीम प्रदर्शित करता है।
 
 #### 📝 प्रॉम्पट
 
@@ -4610,14 +4610,14 @@ Make a wheatpaste poster setup on a brick wall in {argument name="location" defa
 
 ---
 
-### No. 115: Celestial Anime Fantasy Movie Poster
+### No. 115: सौर एनीमे फैंटेसी मूवी पोस्टर
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-This prompt generates a fully typeset Japanese fantasy anime film poster featuring a silver-haired moon-themed heroine, ideal for cinematic key art and promotional poster concepts.
+यह प्रॉम्प्ट एक चांदी के बालों वाली चंद्र-थीम वाली नायिका वाला एक पूरी तरह से टाइपसेट जापानी फैंटेसी एनीमे फिल्म पोस्टर बनाता है, जो सिनेमाई की आर्ट और प्रमोशनल पोस्टर कॉन्सेप्ट्स के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -4632,7 +4632,7 @@ Design it as a fully typeset Japanese film poster with elegant serif display typ
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14514_1.jpg" width="600" alt="Celestial Anime Fantasy Movie Poster - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14514_1.jpg" width="600" alt="सौर एनीमे फैंटेसी मूवी पोस्टर - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -4646,14 +4646,14 @@ Design it as a fully typeset Japanese film poster with elegant serif display typ
 
 ---
 
-### No. 116: Fantasy MMO America Invasion Poster
+### No. 116: फ़ैंटेसी एमएमओ अमेरिका आक्रमण पोस्टर
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-A satirical AAA game expansion poster styled like an official World of Warcraft: Legion promo, useful for generating dense multi-panel fantasy marketing art.
+एक व्यंग्यात्मक एएए गेम विस्तार पोस्टर जो आधिकारिक वर्ल्ड ऑफ़ वारक्राफ्ट: लीजन प्रोमो की तरह डिज़ाइन किया गया है, जो सघन मल्टी-पैनल फ़ैंटेसी मार्केटिंग कला बनाने के लिए उपयोगी है।
 
 #### 📝 प्रॉम्पट
 
@@ -4666,7 +4666,7 @@ A satirical AAA game expansion poster styled like an official World of Warcraft:
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14634_1.jpg" width="600" alt="Fantasy MMO America Invasion Poster - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14634_1.jpg" width="600" alt="फ़ैंटेसी एमएमओ अमेरिका आक्रमण पोस्टर - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -4680,13 +4680,13 @@ A satirical AAA game expansion poster styled like an official World of Warcraft:
 
 ---
 
-### No. 117: Dark Fantasy Cliffside Outpost
+### No. 117: डार्क फैंटेसी चट्टानी चौकी
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 
 #### 📖 विवरण
 
-This prompt generates a moody dark-fantasy landscape painting of a ruined encampment on a cliff, ideal for worldbuilding art, RPG settings, or ominous book-cover style scenes.
+यह प्रॉम्प्ट एक चट्टान पर बने खंडहर शिविर के मूडी डार्क-फैंटेसी लैंडस्केप पेंटिंग को उत्पन्न करता है, जो वर्ल्डबिल्डिंग आर्ट, आरपीजी सेटिंग्स, या अशुभ बुक-कवर शैली के दृश्यों के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -4699,7 +4699,7 @@ A dark fantasy matte painting of a bleak hilltop encampment overlooking a vast c
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14572_1.jpg" width="600" alt="Dark Fantasy Cliffside Outpost - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14572_1.jpg" width="600" alt="डार्क फैंटेसी चट्टानी चौकी - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -4713,14 +4713,14 @@ A dark fantasy matte painting of a bleak hilltop encampment overlooking a vast c
 
 ---
 
-### No. 118: Epic Senna vs Prost Gladiator Poster
+### No. 118: महाकाव्य सेना बनाम प्रोस्ट ग्लैडिएटर पोस्टर
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-A dramatic vintage-style motorsport poster depicting Senna and Prost as mythic gladiator rivals, ideal for recreating cinematic tribute art or high-impact F1 legend posters.
+सेना और प्रोस्ट को पौराणिक ग्लैडिएटर प्रतिद्वंद्वियों के रूप में दर्शाता एक नाटकीय विंटेज-शैली का मोटरस्पोर्ट पोस्टर, जो सिनेमाई श्रद्धांजलि कला या उच्च-प्रभाव वाले एफ1 लीजेंड पोस्टरों को फिर से बनाने के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -4733,7 +4733,7 @@ An epic cinematic poster in a dark golden bronze palette, styled like a mythic g
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14610_1.jpg" width="600" alt="Epic Senna vs Prost Gladiator Poster - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14610_1.jpg" width="600" alt="महाकाव्य सेना बनाम प्रोस्ट ग्लैडिएटर पोस्टर - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -4747,14 +4747,14 @@ An epic cinematic poster in a dark golden bronze palette, styled like a mythic g
 
 ---
 
-### No. 119: Studio Portrait With Strawberry Ice Cream
+### No. 119: स्ट्रॉबेरी आइसक्रीम के साथ स्टूडियो पोर्ट्रेट
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-This prompt generates a sleek celebrity-style studio portrait of a dark-haired woman holding a strawberry ice cream cone in front of her face, ideal for editorial beauty or pop-culture imagery.
+यह प्रॉम्प्ट एक गहरे बालों वाली महिला का एक स्टाइलिश सेलिब्रिटी-शैली स्टूडियो पोर्ट्रेट बनाता है जो अपने चेहरे के सामने स्ट्रॉबेरी आइसक्रीम कोन पकड़े हुए है, जो एडिटोरियल ब्यूटी या पॉप-कल्चर इमेजरी के लिए आदर्श है।
 
 #### 📝 प्रॉम्पट
 
@@ -4767,7 +4767,7 @@ A polished studio portrait of a glamorous pop-star-like woman from the chest up,
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14594_1.jpg" width="600" alt="Studio Portrait With Strawberry Ice Cream - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14594_1.jpg" width="600" alt="स्ट्रॉबेरी आइसक्रीम के साथ स्टूडियो पोर्ट्रेट - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -4781,14 +4781,14 @@ A polished studio portrait of a glamorous pop-star-like woman from the chest up,
 
 ---
 
-### No. 120: Storm Wizard Casting Lightning
+### No. 120: तूफानी जादूगर बिजली गिराते हुए
 
 ![Language-HI-IN](https://img.shields.io/badge/Language-HI-IN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-A cinematic photorealistic fantasy prompt for generating a dramatic wizard portrait with storm lighting and crackling magical energy.
+तूफानी रोशनी और चटकती जादुई ऊर्जा के साथ एक नाटकीय जादूगर चित्र जनरेट करने के लिए एक सिनेमाई फोटोरियलिस्टिक फंतासी प्रॉम्प्ट।
 
 #### 📝 प्रॉम्पट
 
@@ -4801,7 +4801,7 @@ A dramatic dark-fantasy portrait of an elderly wizard standing in a stormy waste
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14618_1.jpg" width="600" alt="Storm Wizard Casting Lightning - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14618_1.jpg" width="600" alt="तूफानी जादूगर बिजली गिराते हुए - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -4894,6 +4894,6 @@ Gallery me ye features bhi hain:
 **[📝 एक प्रॉम्पट जमा करें](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts/issues/new?template=prompt.yml)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-06-11T06:00:01.070Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-06-11T06:37:18.077Z</sub>
 
 </div>

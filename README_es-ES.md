@@ -149,7 +149,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 Total de prompts | **1123** |
 | ⭐ Destacado | **6** |
-| 🔄 Última actualización | **jueves, 11 de junio de 2026, 6:00:01 UTC** |
+| 🔄 Última actualización | **jueves, 11 de junio de 2026, 6:37:18 UTC** |
 
 </div>
 
@@ -159,7 +159,7 @@ by {argument name="author" default="Steve Jobs"}
 
 > ⭐ Seleccionados a mano por nuestro equipo por su calidad y creatividad excepcionales
 
-### No. 1: Manga Cálido de 4 Viñetas sobre una Pareja Casada
+### No. 1: Manga Cálido de Pareja Casada en 4 Paneles
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
@@ -167,7 +167,7 @@ by {argument name="author" default="Steve Jobs"}
 
 #### 📖 Descripción
 
-Este prompt genera un cómic japonés suave y romántico de cuatro viñetas que celebra a una pareja casada, ideal para publicaciones en redes sociales, ilustraciones conmemorativas o arte manga con temática de relaciones.
+Este prompt genera un cómic japonés romántico y suave de cuatro paneles que celebra a una pareja casada, ideal para publicaciones sociales, ilustraciones conmemorativas o arte manga con temática de relaciones.
 
 #### 📝 Prompt
 
@@ -180,7 +180,7 @@ Este prompt genera un cómic japonés suave y romántico de cuatro viñetas que 
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14492_1.jpg" width="700" alt="Manga Cálido de 4 Viñetas sobre una Pareja Casada - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14492_1.jpg" width="700" alt="Manga Cálido de Pareja Casada en 4 Paneles - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -194,14 +194,14 @@ Este prompt genera un cómic japonés suave y romántico de cuatro viñetas que 
 
 ---
 
-### No. 2: Hoja de Pegatinas Japonesa de un Gatito Negro Tierno
+### No. 2: Hoja de Pegatinas de Gatito Negro Japonés
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 
 #### 📖 Descripción
 
-Una hoja de 15 paneles con estilo de pegatina de un gatito negro expresivo con frases en japonés, ideal para pegatinas de chat, conceptos de sellos LINE o imágenes para redes sociales.
+Una hoja de estilo pegatina de 15 paneles con un gatito negro expresivo y frases en japonés, ideal para pegatinas de chat, conceptos de sellos LINE o imágenes para redes sociales.
 
 #### 📝 Prompt
 
@@ -214,7 +214,7 @@ Una hoja de 15 paneles con estilo de pegatina de un gatito negro expresivo con f
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14490_1.jpg" width="700" alt="Hoja de Pegatinas Japonesa de un Gatito Negro Tierno - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14490_1.jpg" width="700" alt="Hoja de Pegatinas de Gatito Negro Japonés - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -228,7 +228,7 @@ Una hoja de 15 paneles con estilo de pegatina de un gatito negro expresivo con f
 
 ---
 
-### No. 3: Prompt para Póster de Clasificación de Comida de París
+### No. 3: Prompt para Póster de Ranking de Comida de París
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
@@ -236,7 +236,7 @@ Una hoja de 15 paneles con estilo de pegatina de un gatito negro expresivo con f
 
 #### 📖 Descripción
 
-Un prompt simple para crear un póster para una clasificación de comida de ciudad, diseñado para usar con GPT Image 2.
+Un prompt sencillo para crear un póster para un ranking de comida de ciudad, diseñado para usar con GPT Image 2.
 
 #### 📝 Prompt
 
@@ -249,7 +249,7 @@ Create a poster for a {argument name="city" default="Paris"} {argument name="top
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14370_1.jpg" width="700" alt="Prompt para Póster de Clasificación de Comida de París - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14370_1.jpg" width="700" alt="Prompt para Póster de Ranking de Comida de París - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -263,7 +263,7 @@ Create a poster for a {argument name="city" default="Paris"} {argument name="top
 
 ---
 
-### No. 4: Retrato de Boutique Cándido en Marrón
+### No. 4: Retrato Espontáneo en una Boutique en Tonos Marrones
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
@@ -284,7 +284,7 @@ A candid, photorealistic vertical smartphone photo of a young East Asian woman s
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14630_1.jpg" width="700" alt="Retrato de Boutique Cándido en Marrón - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14630_1.jpg" width="700" alt="Retrato Espontáneo en una Boutique en Tonos Marrones - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -298,14 +298,14 @@ A candid, photorealistic vertical smartphone photo of a young East Asian woman s
 
 ---
 
-### No. 5: Incursión de Brecha en Azotea Cyberpunk
+### No. 5: Asalto en la Azotea Ciberpunk
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 
 #### 📖 Descripción
 
-Este prompt genera una escena de acción cyberpunk dramática y amplia de un equipo táctico de cinco personas forzando una puerta en una azotea iluminada con neón bajo la lluvia, ideal para arte conceptual de ciencia ficción distópica o imágenes cinematográficas para videojuegos.
+Esta indicación genera una escena de acción ciberpunk dramática y amplia de un equipo táctico de cinco personas forzando una puerta en una azotea lluviosa iluminada con neón, ideal para arte conceptual de ciencia ficción distópica o visuales cinematográficos para juegos.
 
 #### 📝 Prompt
 
@@ -318,7 +318,7 @@ A cinematic cyberpunk night raid on a rain-soaked rooftop balcony in a dense fut
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14507_1.jpg" width="700" alt="Incursión de Brecha en Azotea Cyberpunk - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14507_1.jpg" width="700" alt="Asalto en la Azotea Ciberpunk - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -340,7 +340,7 @@ A cinematic cyberpunk night raid on a rain-soaked rooftop balcony in a dense fut
 
 #### 📖 Descripción
 
-Un póster de referencia vertical que muestra la misma frase china representada en cinco estilos de caligrafía famosos, útil para pruebas de tipografía, estudios de diseño cultural y comparaciones de escritura con pincel.
+Un póster de referencia vertical que muestra la misma frase china representada en cinco estilos de caligrafía famosos, útil para pruebas tipográficas, estudios de diseño cultural y comparaciones de escritura a pincel.
 
 #### 📝 Prompt
 
@@ -371,14 +371,14 @@ Un póster de referencia vertical que muestra la misma frase china representada 
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
-### No. 1: Selfie en Espejo Cenital con Poses Exageradas
+### No. 1: Selfie en Espejo desde Arriba con Poses Exageradas
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un prompt que prueba la consistencia del personaje y las expresiones dinámicas en un selfie en espejo desde una perspectiva cenital.
+Una indicación para probar la consistencia de personajes y expresiones dinámicas en un selfie en espejo desde una perspectiva cenital.
 
 #### 📝 Prompt
 
@@ -391,7 +391,7 @@ Un prompt que prueba la consistencia del personaje y las expresiones dinámicas 
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14341_1.jpg" width="600" alt="Selfie en Espejo Cenital con Poses Exageradas - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14341_1.jpg" width="600" alt="Selfie en Espejo desde Arriba con Poses Exageradas - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -405,14 +405,14 @@ Un prompt que prueba la consistencia del personaje y las expresiones dinámicas 
 
 ---
 
-### No. 2: Retrato de Estudio en Monocromo Marrón con Modelo Sentada
+### No. 2: Retrato de Estudio Monocromático en Marrón Sentado
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Este prompt genera un retrato de moda fotorrealista en interior de una mujer sentada con un atuendo coordinado en marrón, adecuado para imágenes editoriales de estilo de vida o de indumentaria.
+Este prompt genera un retrato de moda foto realista en interiores de una mujer sentada con un atuendo marrón coordinado, adecuado para imágenes editoriales de estilo de vida o de prendas de vestir.
 
 #### 📝 Prompt
 
@@ -425,7 +425,7 @@ A realistic studio portrait of a young East Asian woman seated on a simple black
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14628_1.jpg" width="600" alt="Retrato de Estudio en Monocromo Marrón con Modelo Sentada - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14628_1.jpg" width="600" alt="Retrato de Estudio Monocromático en Marrón Sentado - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -439,14 +439,14 @@ A realistic studio portrait of a young East Asian woman seated on a simple black
 
 ---
 
-### No. 3: Retrato con Cartón de Huevos en el Pasillo del Supermercado
+### No. 3: Retrato de Cartón de Huevos en el Pasillo del Supermercado
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Este prompt genera una foto de estilo de vida realista en formato vertical de una mujer con estilo en un supermercado sosteniendo un cartón abierto de seis huevos, adecuada para redes sociales o imágenes editoriales de compras.
+Este prompt genera una foto de estilo de vida vertical realista de una mujer con estilo en un supermercado sosteniendo un cartón abierto de seis huevos, adecuada para imágenes de compras de estilo editorial o para redes sociales.
 
 #### 📝 Prompt
 
@@ -459,7 +459,7 @@ A candid vertical smartphone photo of a {argument name="woman age" default="youn
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14629_1.jpg" width="600" alt="Retrato con Cartón de Huevos en el Pasillo del Supermercado - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14629_1.jpg" width="600" alt="Retrato de Cartón de Huevos en el Pasillo del Supermercado - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -480,7 +480,7 @@ A candid vertical smartphone photo of a {argument name="woman age" default="youn
 
 #### 📖 Descripción
 
-Una página pulida de manga anime de cuatro viñetas que muestra personajes chica-gato reaccionando a diálogos japoneses impresionantemente renderizados, ideal para mostrar la calidad de texto en cómics generados por IA.
+Una página de manga anime pulida de cuatro viñetas que muestra personajes chicas gato reaccionando a diálogos japoneses impresionantemente renderizados, ideal para mostrar la calidad de texto de cómics generados por IA.
 
 #### 📝 Prompt
 
@@ -577,7 +577,7 @@ Una página pulida de manga anime de cuatro viñetas que muestra personajes chic
 
 ---
 
-### No. 5: Guerrera de Fantasía Salvaje con Lobo
+### No. 5: Guerrera Fantasía Salvaje con Lobo
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -597,7 +597,7 @@ A cinematic fantasy portrait of a fierce female warrior walking forward across a
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14616_1.jpg" width="600" alt="Guerrera de Fantasía Salvaje con Lobo - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14616_1.jpg" width="600" alt="Guerrera Fantasía Salvaje con Lobo - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -611,14 +611,14 @@ A cinematic fantasy portrait of a fierce female warrior walking forward across a
 
 ---
 
-### No. 6: Silueta Onírica de Mujer en Paisaje Shanshui
+### No. 6: Silueta de Mujer Onírica en Estilo Shanshui
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Este prompt genera una obra de arte fantástica y poética en formato vertical que fusiona el perfil femenino con motivos de la pintura paisajística china, ideal para pósters, portadas de libros y arte mural elegante.
+Este prompt genera una obra de arte fantástica vertical y poética de un perfil femenino fusionado con motivos de pintura paisajística china, ideal para carteles, portadas de libros y arte mural elegante.
 
 #### 📝 Prompt
 
@@ -631,7 +631,7 @@ A dreamy East Asian ink-and-watercolor fantasy illustration of a woman's side-pr
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14437_1.jpg" width="600" alt="Silueta Onírica de Mujer en Paisaje Shanshui - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14437_1.jpg" width="600" alt="Silueta de Mujer Onírica en Estilo Shanshui - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -651,7 +651,7 @@ A dreamy East Asian ink-and-watercolor fantasy illustration of a woman's side-pr
 
 #### 📖 Descripción
 
-Este prompt genera un retrato fantástico otoñal, ardiente y enjoyado, adecuado para arte de exhibición dramático y visuales de alto impacto para redes sociales.
+Este prompt genera un retrato fantástico otoñal ardiente y enjoyado, adecuado para arte dramático de exhibición y visuales de alto impacto para redes sociales.
 
 #### 📝 Prompt
 
@@ -678,13 +678,13 @@ A hyper-luxurious fantasy portrait of an elegant woman in side profile, centered
 
 ---
 
-### No. 8: Lámina de 4 Paneles de una Espadachina Anime Elegante
+### No. 8: Hoja de 4 Paneles de una Espadachina de Anime Elegante
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 
 #### 📖 Descripción
 
-Este prompt genera una ilustración de personaje anime de alta definición en cuatro paneles de una noble espadachina de cabello blanco, ideal para arte conceptual de fantasía, presentaciones de personajes o publicaciones premium en redes sociales.
+Este prompt genera una ilustración de personaje de anime de cuatro paneles y alto detalle de una noble espadachina de cabello blanco, ideal para arte clave de fantasía, presentaciones de personajes o publicaciones premium en redes sociales.
 
 #### 📝 Prompt
 
@@ -697,7 +697,7 @@ A polished anime fantasy illustration sheet in a 2x2 grid showing the same elega
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14413_1.jpg" width="600" alt="Lámina de 4 Paneles de una Espadachina Anime Elegante - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14413_1.jpg" width="600" alt="Hoja de 4 Paneles de una Espadachina de Anime Elegante - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -711,13 +711,13 @@ A polished anime fantasy illustration sheet in a 2x2 grid showing the same elega
 
 ---
 
-### No. 9: Póster Publicitario de Videojuego de Samuráis Anime
+### No. 9: Póster Publicitario de Juego de Samuráis Anime
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 
 #### 📖 Descripción
 
-Un llamativo anuncio vertical para videojuego móvil que presenta a dos espadachines con traje, un mecha samurái gigante, interfaz de juego, código QR y llamadas a la acción para descarga en tiendas de aplicaciones, para uso promocional de apps.
+Un llamativo anuncio vertical para móvil de un juego con dos espadachines con traje, un mecha samurái gigante, interfaz de juego, código QR y mensajes de descarga en tiendas de aplicaciones, para uso promocional.
 
 #### 📝 Prompt
 
@@ -730,19 +730,19 @@ Create a high-impact vertical mobile game advertisement poster in glossy anime a
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14432_1.jpg" width="600" alt="Póster Publicitario de Videojuego de Samuráis Anime - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14432_1.jpg" width="600" alt="Póster Publicitario de Juego de Samuráis Anime - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14432_2.jpg" width="600" alt="Póster Publicitario de Videojuego de Samuráis Anime - Image 2">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14432_2.jpg" width="600" alt="Póster Publicitario de Juego de Samuráis Anime - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14432_3.jpg" width="600" alt="Póster Publicitario de Videojuego de Samuráis Anime - Image 3">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14432_3.jpg" width="600" alt="Póster Publicitario de Juego de Samuráis Anime - Image 3">
 </div>
 
 #### 📌 Detalles
@@ -756,13 +756,13 @@ Create a high-impact vertical mobile game advertisement poster in glossy anime a
 
 ---
 
-### No. 10: Guerrero Nórdico Épico del Cielo con Bestias de Cristal
+### No. 10: Guerrero del Cielo Nórdico Épico con Bestias de Cristal
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 
 #### 📖 Descripción
 
-Este prompt genera una ilustración dramática vertical de fantasía y anime, de un guerrero del cielo con cuernos y tres compañeros animales con armadura de cristal, ideal para pósters, arte de cartas o imágenes clave para videojuegos.
+Este prompt genera una ilustración dramática vertical de fantasía-anime de un guerrero del cielo con cuernos y tres compañeros animales con armadura de cristal, ideal para pósters, arte de cartas o imágenes clave de videojuegos.
 
 #### 📝 Prompt
 
@@ -775,7 +775,7 @@ A dynamic high-fantasy anime illustration in a vertical poster composition, show
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14617_1.jpg" width="600" alt="Guerrero Nórdico Épico del Cielo con Bestias de Cristal - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14617_1.jpg" width="600" alt="Guerrero del Cielo Nórdico Épico con Bestias de Cristal - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -796,7 +796,7 @@ A dynamic high-fantasy anime illustration in a vertical poster composition, show
 
 #### 📖 Descripción
 
-Un collage promocional pulido de 2x2 que muestra a un robot tierno pintando cuatro obras de arte diferentes, ideal para anuncios de herramientas de imagen con IA y banners para redes sociales.
+Un collage promocional pulido de 2x2 que muestra un robot lindo pintando cuatro obras de arte diferentes, ideal para anuncios de herramientas de imagen IA y banners de redes sociales.
 
 #### 📝 Prompt
 
@@ -823,14 +823,14 @@ Un collage promocional pulido de 2x2 que muestra a un robot tierno pintando cuat
 
 ---
 
-### No. 12: Póster Espacial Retro de ChatGPT Imágenes 2.0
+### No. 12: Póster Espacial Retro ChatGPT Imágenes 2.0
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un póster retro-futurista desgastado que muestra ChatGPT Imágenes 2.0 como un anuncio de cohete de la era espacial, ideal para imágenes editoriales sobre avances en generación de imágenes de IA.
+Un póster retrofuturista desgastado que muestra ChatGPT Imágenes 2.0 como un anuncio de cohete de la era espacial, ideal para imágenes editoriales sobre avances en generación de imágenes de IA.
 
 #### 📝 Prompt
 
@@ -843,7 +843,7 @@ A vintage mid-century space-race propaganda poster pasted on a rough white plast
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14558_1.jpg" width="600" alt="Póster Espacial Retro de ChatGPT Imágenes 2.0 - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14558_1.jpg" width="600" alt="Póster Espacial Retro ChatGPT Imágenes 2.0 - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -864,7 +864,7 @@ A vintage mid-century space-race propaganda poster pasted on a rough white plast
 
 #### 📖 Descripción
 
-Un tablero de presentación de línea de marca y merchandising en blanco y negro para una marca ficticia de tecnología de infraestructura, adecuado para presentaciones, muestras de branding y maquetas de diseño profesional.
+Un tablero de presentación de pautas de marca y mercancía limpio en blanco y negro para una marca ficticia de tecnología de infraestructura, adecuado para presentaciones, muestras de branding y maquetas de diseño profesional.
 
 #### 📝 Prompt
 
@@ -891,14 +891,14 @@ Un tablero de presentación de línea de marca y merchandising en blanco y negro
 
 ---
 
-### No. 14: Retrato Foto realista de Uniforme Escolar en Santuario
+### No. 14: Retrato Fotorealista de Uniforme Escolar en un Santuario
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Este prompt genera un retrato pulido y foto realista de una mujer joven en uniforme escolar al aire libre, ideal para moda editorial, imágenes visuales de personajes o retratos de IA estilo lifestyle.
+Este prompt genera un retrato pulido y fotorealista de una joven con uniforme escolar al aire libre, ideal para moda editorial, visuales de personajes o retratos de IA con estilo de vida.
 
 #### 📝 Prompt
 
@@ -911,7 +911,7 @@ A photorealistic waist-up portrait of a {argument name="subject" default="young 
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14515_1.jpg" width="600" alt="Retrato Foto realista de Uniforme Escolar en Santuario - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14515_1.jpg" width="600" alt="Retrato Fotorealista de Uniforme Escolar en un Santuario - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -932,7 +932,7 @@ A photorealistic waist-up portrait of a {argument name="subject" default="young 
 
 #### 📖 Descripción
 
-Una ilustración humorística de meme geopolítico que muestra a countryballs de EE.UU. e Irán enfrentándose en el angosto Estrecho de Ormuz, ideal para sátira editorial o comentario en redes sociales.
+Una ilustración humorística de meme geopolítico que muestra a los countryballs de EE.UU. e Irán enfrentándose en el estrecho Estrecho de Ormuz, ideal para sátira editorial o comentarios en redes sociales.
 
 #### 📝 Prompt
 
@@ -993,14 +993,14 @@ A humorous political meme illustration in a simple countryball cartoon style, sh
 
 ---
 
-### No. 17: Póster de Protesta Anime Pop-Art
+### No. 17: Póster de Protesta de Arte Pop Anime
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Este prompt genera un póster anime vertical y llamativo con un personaje de rostro censurado, haciendo el gesto de la paz y una burbuja de eslogan gigante, ideal para memes, publicaciones en redes sociales o experimentos gráficos de póster.
+Este prompt genera un póster vertical audaz de anime con un personaje de rostro censurado, gesto de signo de paz y burbuja de eslogan de gran tamaño para arte de memes, publicaciones sociales o experimentos de carteles gráficos.
 
 #### 📝 Prompt
 
@@ -1013,7 +1013,7 @@ A bold anime pop-art poster of a tall white-haired male sorcerer in a dark navy 
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14638_1.jpg" width="600" alt="Póster de Protesta Anime Pop-Art - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14638_1.jpg" width="600" alt="Póster de Protesta de Arte Pop Anime - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1027,14 +1027,14 @@ A bold anime pop-art poster of a tall white-haired male sorcerer in a dark navy 
 
 ---
 
-### No. 18: Pose de Victoria de un Hechicero con los Ojos Vendados
+### No. 18: Pose de Victoria del Hechicero con los Ojos Vendados
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Este prompt genera un póster de acción anime dramático en formato vertical de un hechicero de cabello blanco con los ojos vendados, rodeado de energía azul explosiva y una burbuja de diálogo manga audaz, ideal para arte de personajes estilizado o visuales inspiradas en el fandom.
+Este prompt genera un póster de acción anime vertical y dramático de un hechicero de cabello blanco con los ojos vendados, con energía azul explosiva y un audaz bocadillo de cómic manga, ideal para arte de personajes estilizado o visuales inspirados en fandoms.
 
 #### 📝 Prompt
 
@@ -1047,7 +1047,7 @@ A high-impact shonen manga anime illustration of a powerful white-haired sorcere
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14637_1.jpg" width="600" alt="Pose de Victoria de un Hechicero con los Ojos Vendados - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14637_1.jpg" width="600" alt="Pose de Victoria del Hechicero con los Ojos Vendados - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1061,13 +1061,13 @@ A high-impact shonen manga anime illustration of a powerful white-haired sorcere
 
 ---
 
-### No. 19: Póster de Película Japonesa de Fantasía con Cerdo Alado
+### No. 19: Póster de Película Japonesa de Cerdo Alado Fantástico
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 
 #### 📖 Descripción
 
-Un prompt de texto para generar un póster de película animada japonesa ricamente detallado, con un protagonista parecido a un cerdo alado en un montaje de fantasía urbana agridulce.
+Un prompt de texto para generar un póster de película animada japonesa ricamente detallado que presenta a un protagonista con forma de cerdo alado en un montaje de fantasía urbana agridulce.
 
 #### 📝 Prompt
 
@@ -1080,7 +1080,7 @@ A dramatic Japanese fantasy movie poster in a painterly, ultra-detailed cinemati
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14469_1.jpg" width="600" alt="Póster de Película Japonesa de Fantasía con Cerdo Alado - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14469_1.jpg" width="600" alt="Póster de Película Japonesa de Cerdo Alado Fantástico - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1094,14 +1094,14 @@ A dramatic Japanese fantasy movie poster in a painterly, ultra-detailed cinemati
 
 ---
 
-### No. 20: Autorretrato Interior Censurado con Ambiente
+### No. 20: Autorretrato Censurado de Interiores con Ambiente
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Este prompt genera un selfie fotorrealista y estilizado de un hombre joven con una camisa oscura desabrochada junto a una ventana, útil para crear fotos de retrato creíbles para redes sociales.
+Este prompt genera un selfie fotorrealista y estilizado de un hombre joven con una camisa oscura de cuello abierto junto a una ventana, útil para crear fotos de retrato creíbles para redes sociales.
 
 #### 📝 Prompt
 
@@ -1114,7 +1114,7 @@ A realistic indoor selfie-style portrait of a young East Asian man from the ches
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14686_1.jpg" width="600" alt="Autorretrato Interior Censurado con Ambiente - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14686_1.jpg" width="600" alt="Autorretrato Censurado de Interiores con Ambiente - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1135,7 +1135,7 @@ A realistic indoor selfie-style portrait of a young East Asian man from the ches
 
 #### 📖 Descripción
 
-Un collage nostálgico y cálido al estilo póster que evoca recuerdos de la infancia china de los años 80 y 90, ideal para arte editorial, publicaciones en redes sociales o narrativas culturales retro.
+Un cálido collage al estilo póster de recuerdos de la infancia china de los años 80-90, ideal para arte editorial, publicaciones sociales o narrativas culturales retro.
 
 #### 📝 Prompt
 
@@ -1162,14 +1162,14 @@ A nostalgic Chinese retro collage poster about {argument name="theme title" defa
 
 ---
 
-### No. 22: Página de Manga Cómico del Baño Lunar
+### No. 22: Página de Manga Cómico de Baño Lunar
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Una página de cómic anime retrofuturista que representa un sento caprichoso en la luna, ideal para generar escenas de manga con IA juguetonas y con múltiples viñetas impulsadas por personajes.
+Una página de cómic anime retrofuturista que representa un 'sento' caprichoso en la luna, ideal para generar escenas de manga lúdicas con IA y múltiples viñetas impulsadas por personajes.
 
 #### 📝 Prompt
 
@@ -1182,7 +1182,7 @@ A colorful single-page Japanese comic manga set in a whimsical lunar public bath
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14697_1.jpg" width="600" alt="Página de Manga Cómico del Baño Lunar - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14697_1.jpg" width="600" alt="Página de Manga Cómico de Baño Lunar - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1196,14 +1196,14 @@ A colorful single-page Japanese comic manga set in a whimsical lunar public bath
 
 ---
 
-### No. 23: Periódico de Fantasía Mágica Japonés Vintage
+### No. 23: Periódico Fantástico Japonés Vintage
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Una portada de periódico de fantasía japonesa inspirada en la era Meiji, con un titular mágico gigante, un retrato central grabado de una misteriosa chica de cabello al viento y muchos artículos e ilustraciones laterales caprichosos.
+Una portada de periódico fantástico japonés inspirada en la era Meiji, con un titular mágico gigante, un retrato central grabado de una misteriosa chica de cabello al viento, y muchos artículos e ilustraciones laterales caprichosos.
 
 #### 📝 Prompt
 
@@ -1216,7 +1216,7 @@ Una portada de periódico de fantasía japonesa inspirada en la era Meiji, con u
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14405_1.jpg" width="600" alt="Periódico de Fantasía Mágica Japonés Vintage - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14405_1.jpg" width="600" alt="Periódico Fantástico Japonés Vintage - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1264,14 +1264,14 @@ Create a character design sheet for {argument name="character" default="Hermes A
 
 ---
 
-### No. 25: Póster Publicitario de Bebida Deportiva Coreana con Celebridad
+### No. 25: Póster Publicitario Coreano de Bebida Deportiva con Celebridad
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Este prompt genera un póster llamativo de estilo coreano para una bebida hidratante, con un portavoz similar a una celebridad, una botella de producto gigante y tipografía promocional en negrita, para uso publicitario comercial.
+Este prompt genera un póster llamativo al estilo coreano para una bebida hidratante, con un portavoz similar a una celebridad, una botella de producto gigante y tipografía promocional audaz, para uso en publicidad comercial.
 
 #### 📝 Prompt
 
@@ -1284,7 +1284,7 @@ A bold Korean beverage advertisement poster in a glossy commercial photography s
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14553_1.jpg" width="600" alt="Póster Publicitario de Bebida Deportiva Coreana con Celebridad - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14553_1.jpg" width="600" alt="Póster Publicitario Coreano de Bebida Deportiva con Celebridad - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1298,14 +1298,14 @@ A bold Korean beverage advertisement poster in a glossy commercial photography s
 
 ---
 
-### No. 26: Póster de Anuncio Paródico de Bebida de Arroz Coreana
+### No. 26: Póster de Parodia Publicitaria de Bebida de Arroz Coreana
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Este prompt genera un póster de anuncio de bebida paródico, de alto impacto y humorístico, con un portavoz famoso similar a un político promocionando una bebida coreana de arroz enlatada.
+Este prompt genera un póster publicitario de parodia humorístico y de alto impacto con un portavoz parecido a un político famoso promocionando una bebida coreana de arroz enlatada.
 
 #### 📝 Prompt
 
@@ -1322,7 +1322,7 @@ At the bottom foreground, place 2 food elements: a brass bowl filled with sweet 
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14555_1.jpg" width="600" alt="Póster de Anuncio Paródico de Bebida de Arroz Coreana - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14555_1.jpg" width="600" alt="Póster de Parodia Publicitaria de Bebida de Arroz Coreana - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1343,7 +1343,7 @@ At the bottom foreground, place 2 food elements: a brass bowl filled with sweet 
 
 #### 📖 Descripción
 
-Un prompt diseñado para crear una imagen de un examen de secundaria con múltiples preguntas y respuestas.
+Una indicación diseñada para crear una imagen de un examen de instituto con múltiples preguntas y respuestas.
 
 #### 📝 Prompt
 
@@ -1388,14 +1388,14 @@ generate a image of physical {argument name="subject" default="high school exam"
 
 ---
 
-### No. 28: Página de Cómic Indie
+### No. 28: Página de Cómic Independiente
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Crea un diseño de página de cómic en un estilo indie moderno adaptado para historias infantiles.
+Crea un diseño de página de cómic en un estilo independiente moderno adaptado para historias infantiles.
 
 #### 📝 Prompt
 
@@ -1408,7 +1408,7 @@ A page of a comic book in the style of {argument name="comic style" default="mod
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14310_1.jpg" width="600" alt="Página de Cómic Indie - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14310_1.jpg" width="600" alt="Página de Cómic Independiente - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1422,14 +1422,14 @@ A page of a comic book in the style of {argument name="comic style" default="mod
 
 ---
 
-### No. 29: Póster de Parodia de Parque Temático Japonés de la Selva
+### No. 29: Póster Paródico Japonés de Parque Temático de la Jungla
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un póster publicitario satírico y cinematográfico japonés para un parque temático ficticio de dinosaurios en la jungla, ideal para campañas de parodia, visuales para redes sociales o arte conceptual promocional ficticio.
+Un póster publicitario satírico y cinematográfico japonés para un parque temático ficticio de dinosaurios en la jungla, ideal para campañas de parodia, visuales de redes sociales o arte clave promocional de imitación.
 
 #### 📝 Prompt
 
@@ -1442,7 +1442,7 @@ A hyper-detailed Japanese parody theme park advertisement poster in a vertical f
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14545_1.jpg" width="600" alt="Póster de Parodia de Parque Temático Japonés de la Selva - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14545_1.jpg" width="600" alt="Póster Paródico Japonés de Parque Temático de la Jungla - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1456,14 +1456,14 @@ A hyper-detailed Japanese parody theme park advertisement poster in a vertical f
 
 ---
 
-### No. 30: Póster de Película de la Nouvelle Vague Francesa de los años 60
+### No. 30: Cartel de Película de la Nueva Ola Francesa de los Años 60
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un prompt sofisticado para un estilo de póster teatral vintage, que combina fotomontaje y colores pop-art con instrucciones específicas de tipografía.
+Una indicación sofisticada para un estilo de cartel teatral vintage, que combina fotomontaje y colores pop-art con instrucciones tipográficas específicas.
 
 #### 📝 Prompt
 
@@ -1482,7 +1482,7 @@ Keep all visible text in English. Use a theatrical poster composition.
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14315_1.jpg" width="600" alt="Póster de Película de la Nouvelle Vague Francesa de los años 60 - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14315_1.jpg" width="600" alt="Cartel de Película de la Nueva Ola Francesa de los Años 60 - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1502,7 +1502,7 @@ Keep all visible text in English. Use a theatrical poster composition.
 
 #### 📖 Descripción
 
-Este prompt genera una imagen de ciencia ficción cinematográfica y atmosférica de un astronauta solitario flotando junto a una Tierra cubierta de raíces, ideal para arte espacial surrealista o imágenes editoriales con temática de IA.
+Este prompt genera una imagen de ciencia ficción cinematográfica y melancólica de un astronauta solitario flotando junto a una Tierra cubierta de raíces, ideal para arte espacial surrealista o imágenes editoriales con temática de IA.
 
 #### 📝 Prompt
 
@@ -1578,7 +1578,7 @@ Additional instructions: Aspect ratio: Portrait 1440x2560. The pen should have a
 
 #### 📖 Descripción
 
-Este prompt genera una página de inicio ficticia de streaming de video con un estilo steampunk ornamentado, ideal para mostrar renderizado de texto avanzado y diseño de interfaz temático.
+Este prompt genera una página de inicio ficticia para streaming de video con un estilo steampunk ornamentado, ideal para mostrar renderizado de texto avanzado y diseño de interfaz temático.
 
 #### 📝 Prompt
 
@@ -1605,14 +1605,14 @@ Create a full-screen fictional video platform homepage in a richly detailed stea
 
 ---
 
-### No. 34: Póster de Receta Antigua de Gimbap Coreano
+### No. 34: Póster de Receta de Gimbap Coreano Vintage
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Este prompt genera un póster infográfico de receta coreana estilo antiguo para gimbap, adecuado para marketing alimentario, decoración de restaurantes o imágenes visuales de cocina cultural.
+Este prompt genera un póster infográfico de receta de estilo antiguo para gimbap coreano, adecuado para marketing de alimentos, decoración de restaurantes o visuales de cocina cultural.
 
 #### 📝 Prompt
 
@@ -1625,7 +1625,7 @@ Create a vintage Korean food poster on aged beige parchment paper with a slightl
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14554_1.jpg" width="600" alt="Póster de Receta Antigua de Gimbap Coreano - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14554_1.jpg" width="600" alt="Póster de Receta de Gimbap Coreano Vintage - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1645,7 +1645,7 @@ Create a vintage Korean food poster on aged beige parchment paper with a slightl
 
 #### 📖 Descripción
 
-Este prompt genera un selfie casual fotorealista de un hombre dentro de un McDonald's, útil para crear instantáneas creíbles de restaurantes al estilo de las redes sociales.
+Este prompt genera un selfie casual fotorrealista de un hombre dentro de un McDonald's, útil para crear instantáneas de restaurante creíbles al estilo de las redes sociales.
 
 #### 📝 Prompt
 
@@ -1678,7 +1678,7 @@ A highly realistic casual smartphone selfie taken indoors at a McDonald's restau
 
 #### 📖 Descripción
 
-Este prompt genera un retrato espontáneo y fotorealista en un almacén minorista, adecuado para recrear una escena de compras auténtica con señalización de marca y un comprador sosteniendo productos agrícolas.
+Este prompt genera un retrato espontáneo fotorealista adecuado para recrear una escena de compras auténtica en un almacén, con señalización de marca y un comprador sosteniendo productos frescos.
 
 #### 📝 Prompt
 
@@ -1705,14 +1705,14 @@ A candid, highly realistic smartphone photo inside a busy Sam’s Club warehouse
 
 ---
 
-### No. 37: Maqueta de Página Principal ElectroVid Steampunk
+### No. 37: Maqueta de Página de Inicio Steampunk ElectroVid
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Una maqueta detallada de la página principal de una plataforma de video steampunk para crear conceptos de interfaz web retrofuturista, pósters o gráficos para redes sociales sobre la generación de imágenes con texto de IA.
+Una maqueta detallada de la página de inicio de una plataforma de video steampunk para crear conceptos de interfaz web retrofuturista, carteles o visuales para redes sociales sobre la representación de texto en imágenes de IA.
 
 #### 📝 Prompt
 
@@ -1725,7 +1725,7 @@ Create a full-screen fictional video streaming website homepage in a richly deta
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14565_1.jpg" width="600" alt="Maqueta de Página Principal ElectroVid Steampunk - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14565_1.jpg" width="600" alt="Maqueta de Página de Inicio Steampunk ElectroVid - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1739,14 +1739,14 @@ Create a full-screen fictional video streaming website homepage in a richly deta
 
 ---
 
-### No. 38: Póster de Receta de Crêpes Francesas Vintage
+### No. 38: Póster de Receta Antigua de Crepes Franceses
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un póster de receta de estilo antiguo ricamente ilustrado que muestra crêpes con mantequilla, ingredientes y seis pasos de cocción, ideal para arte editorial de temática gastronómica o láminas decorativas para cocina.
+Un póster de receta de estilo antiguo ricamente ilustrado que muestra crepes con mantequilla, ingredientes y seis pasos de cocción, ideal para arte editorial de temática gastronómica o láminas decorativas para cocina.
 
 #### 📝 Prompt
 
@@ -1759,7 +1759,7 @@ Un póster de receta de estilo antiguo ricamente ilustrado que muestra crêpes c
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14564_1.jpg" width="600" alt="Póster de Receta de Crêpes Francesas Vintage - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14564_1.jpg" width="600" alt="Póster de Receta Antigua de Crepes Franceses - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1780,7 +1780,7 @@ Un póster de receta de estilo antiguo ricamente ilustrado que muestra crêpes c
 
 #### 📖 Descripción
 
-Un prompt complejo para crear una transición fluida a través de las cuatro estaciones en una sola ilustración digital panorámica, demostrada con el paseo marítimo del Bund de Shanghái.
+Un prompt complejo para crear una transición perfecta a través de las cuatro estaciones en una única ilustración digital panorámica, demostrada con el paseo marítimo del Bund de Shanghái.
 
 #### 📝 Prompt
 
@@ -1818,7 +1818,7 @@ There are no visible dividing lines between seasons; the weather, lighting, and 
 
 #### 📖 Descripción
 
-Un prompt sofisticado para crear pósteres minimalistas y monocromáticos con colores de acento únicos, manteniendo la consistencia del personaje a partir de una imagen de referencia.
+Un mensaje sofisticado para crear pósters minimalistas y monocromáticos con un solo color de acento mientras se mantiene la consistencia del personaje a partir de una imagen de referencia.
 
 #### 📝 Prompt
 
@@ -1873,7 +1873,7 @@ Create a minimalist theater-style vertical poster for {argument name="user input
 
 #### 📖 Descripción
 
-Este prompt genera una ilustración vectorial minimalista y limpia de un pájaro ciclista estilizado, adecuada para gráficos editoriales lúdicos, logotipos o arte de póster moderno.
+Este prompt genera una ilustración vectorial minimalista y limpia de un pájaro estilizado en bicicleta, adecuada para gráficos editoriales lúdicos, logotipos o arte de póster moderno.
 
 #### 📝 Prompt
 
@@ -1900,13 +1900,13 @@ A minimalist flat vector illustration on a light gray background showing a whims
 
 ---
 
-### No. 42: Colocar el Soporte de Exhibición en la Terraza
+### No. 42: Colocar el Expositor en la Terraza
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 
 #### 📖 Descripción
 
-Este prompt sitúa el expositor promocional de referencia sobre la tarima de madera en la misma escena exterior, para maquetas publicitarias ambientadas de forma realista.
+Este prompt coloca el expositor promocional de referencia en la terraza de madera dentro de la misma escena exterior, para crear maquetas publicitarias ambientales realistas.
 
 #### 📝 Prompt
 
@@ -1919,7 +1919,7 @@ Using the provided reference image, keep the same garden, pond, trees, hillside,
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14487_1.jpg" width="600" alt="Colocar el Soporte de Exhibición en la Terraza - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14487_1.jpg" width="600" alt="Colocar el Expositor en la Terraza - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1940,7 +1940,7 @@ Using the provided reference image, keep the same garden, pond, trees, hillside,
 
 #### 📖 Descripción
 
-Un colorido póster de anime al estilo japonés para una película infantil de aventuras oceánicas, ideal para recrear arte clave promocional audaz con personajes lindos y tipografía de título dramática.
+Un colorido póster de anime de estilo japonés para una película infantil de aventuras oceánicas, ideal para recrear arte clave promocional audaz con personajes adorables y tipografía de título dramática.
 
 #### 📝 Prompt
 
@@ -1973,7 +1973,7 @@ A bright, hyper-energetic Japanese movie poster illustration in a polished anime
 
 #### 📖 Descripción
 
-Este prompt genera una infografía editorial científica densa de una sola página que explica un artículo complejo sobre agujeros negros y materia oscura en un estilo lúdico y accesible, ideal para publicaciones en redes sociales o artículos educativos.
+Este prompt genera una infografía científica editorial densa de una sola página que explica un artículo complejo sobre agujeros negros y materia oscura en un estilo lúdico y accesible, para publicaciones sociales o artículos educativos.
 
 #### 📝 Prompt
 
@@ -2040,7 +2040,7 @@ Create an {argument name="format" default="infographic"} for {argument name="pla
 
 ---
 
-### No. 46: Instantánea de Cosplay de Albedo para Instagram
+### No. 46: Instantánea de Instagram de Cosplay de Albedo
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2060,7 +2060,7 @@ Style: An Instagram story snapshot of an {argument name="character" default="Alb
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14347_1.jpg" width="600" alt="Instantánea de Cosplay de Albedo para Instagram - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14347_1.jpg" width="600" alt="Instantánea de Instagram de Cosplay de Albedo - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -2074,14 +2074,14 @@ Style: An Instagram story snapshot of an {argument name="character" default="Alb
 
 ---
 
-### No. 47: Chica Gato en la Azotea al Atardecer Anime
+### No. 47: Anime de Chica Gato en la Azotea de la Escuela al Atardecer
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un retrato cinematográfico estilo anime en una azotea de una colegiala con orejas de gato al atardecer, ideal para imágenes clave nostálgicas, arte de personajes o imágenes de exhibición para redes sociales.
+Un retrato cinematográfico de estilo anime en una azotea de una colegiala con orejas de gato al atardecer, ideal para imágenes clave nostálgicas, arte de personajes o imágenes de exhibición para redes sociales.
 
 #### 📝 Prompt
 
@@ -2094,7 +2094,7 @@ A high-quality anime illustration of a {argument name="character type" default="
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14547_1.jpg" width="600" alt="Chica Gato en la Azotea al Atardecer Anime - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14547_1.jpg" width="600" alt="Anime de Chica Gato en la Azotea de la Escuela al Atardecer - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -2108,14 +2108,14 @@ A high-quality anime illustration of a {argument name="character type" default="
 
 ---
 
-### No. 48: Tres Páginas de Destino Móvil de Belleza
+### No. 48: Tres Páginas de Destino Móviles de Belleza
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Una maqueta premium en tríptico de tres diseños de sitios web de belleza para smartphone, ideal para mostrar conceptos de páginas de destino de marcas cosméticas generadas por IA en redes sociales.
+Un mockup premium en tríptico de tres diseños de sitios web de belleza para smartphones, ideal para mostrar conceptos de páginas de destino de marcas cosméticas generadas por IA en redes sociales.
 
 #### 📝 Prompt
 
@@ -2128,7 +2128,7 @@ A polished promotional mockup showing 3 tall smartphone screens displayed side b
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14426_1.jpg" width="600" alt="Tres Páginas de Destino Móvil de Belleza - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14426_1.jpg" width="600" alt="Tres Páginas de Destino Móviles de Belleza - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -2142,14 +2142,14 @@ A polished promotional mockup showing 3 tall smartphone screens displayed side b
 
 ---
 
-### No. 49: Collage Publicitario Japonés Multiindustria
+### No. 49: Collage Publicitario Japonés Multisectorial
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un prompt para generar un collage publicitario multiindustria en japonés, que presenta seis segmentos industriales distintos en un estilo de diseño contemporáneo.
+Un prompt para generar un collage publicitario multisectorial en japonés, que presenta seis segmentos industriales distintos en un estilo de diseño contemporáneo.
 
 #### 📝 Prompt
 
@@ -2162,7 +2162,7 @@ A fictional Japanese advertisement. A horizontal 6-panel layout featuring ads fo
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14369_1.jpg" width="600" alt="Collage Publicitario Japonés Multiindustria - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14369_1.jpg" width="600" alt="Collage Publicitario Japonés Multisectorial - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -2183,7 +2183,7 @@ A fictional Japanese advertisement. A horizontal 6-panel layout featuring ads fo
 
 #### 📖 Descripción
 
-Un prompt altamente detallado para generar una escena distópica ciberpunk con un sistema de sonido masivo y un mercado abarrotado y luminoso.
+Un prompt altamente detallado para generar una escena distópica ciberpunk que presenta un sistema de sonido masivo y un mercado abarrotado y luminoso con neón.
 
 #### 📝 Prompt
 
@@ -2216,13 +2216,13 @@ A futuristic {argument name="scene" default="cyberpunk outdoor music market"} sc
 
 ---
 
-### No. 51: Página de Manga de Comedia Romántica en Cuatro Paneles
+### No. 51: Página de Manga de Comedia Romántica de Cuatro Paneles
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 
 #### 📖 Descripción
 
-Este prompt genera una página de manga en monocromo de cuatro paneles con diálogo en japonés, ideal para crear escenas de debate dramático de comedia romántica con actuación expresiva de personajes.
+Este prompt genera una página de manga monocromática de cuatro paneles con diálogo en japonés, ideal para crear escenas de debate dramáticas de comedia romántica con actuación expresiva de personajes.
 
 #### 📝 Prompt
 
@@ -2235,7 +2235,7 @@ Create a black-and-white manga page with 4 stacked horizontal panels, clean blac
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14468_1.jpg" width="600" alt="Página de Manga de Comedia Romántica en Cuatro Paneles - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14468_1.jpg" width="600" alt="Página de Manga de Comedia Romántica de Cuatro Paneles - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -2249,14 +2249,14 @@ Create a black-and-white manga page with 4 stacked horizontal panels, clean blac
 
 ---
 
-### No. 52: Retrato de un Viaje por Carretera Costera con Ambiente Melancólico
+### No. 52: Retrato de Viaje por Carretera Costera con Ambiente Melancólico
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Este prompt genera un retrato cinematográfico y espontáneo junto al mar y la carretera, con un sedán vintage aparcado, ideal para fotografía de viajes nostálgica e imágenes de estilo de vida.
+Este prompt genera un retrato cinematográfico y espontáneo junto al mar en la carretera con un sedán vintage estacionado, ideal para fotografía de viaje nostálgica e imágenes de estilo de vida.
 
 #### 📝 Prompt
 
@@ -2269,7 +2269,7 @@ A cinematic candid photo of a {argument name="person" default="young woman"} sta
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14673_1.jpg" width="600" alt="Retrato de un Viaje por Carretera Costera con Ambiente Melancólico - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14673_1.jpg" width="600" alt="Retrato de Viaje por Carretera Costera con Ambiente Melancólico - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -2283,14 +2283,14 @@ A cinematic candid photo of a {argument name="person" default="young woman"} sta
 
 ---
 
-### No. 53: Doble Página de un Libro de Moda de Lujo
+### No. 53: Doble Página de Libro de Moda de Lujo
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Este prompt genera una foto realista cenital de un libro de moda abierto que muestra una doble página editorial de alta costura, ideal para branding de lujo, maquetas de revista o imágenes de campañas de estilo.
+Este prompt genera una foto realista en vista aérea de un libro de moda abierto que presenta una doble página editorial de alta costura, ideal para branding de lujo, maquetas de revista o imágenes visuales de campañas de estilo.
 
 #### 📝 Prompt
 
@@ -2303,7 +2303,7 @@ A high-end editorial fashion photograph shown as an open large-format hardcover 
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14676_1.jpg" width="600" alt="Doble Página de un Libro de Moda de Lujo - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14676_1.jpg" width="600" alt="Doble Página de Libro de Moda de Lujo - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -2317,14 +2317,14 @@ A high-end editorial fashion photograph shown as an open large-format hardcover 
 
 ---
 
-### No. 54: Aula de Informática de los Años 2000 con ChatGPT
+### No. 54: Aula de Informática de Principios de los 2000 con ChatGPT
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Este prompt genera una foto nostálgica y espontánea de un aula, con estudiantes usando ChatGPT en ordenadores CRT, ideal para imágenes editoriales o de redes sociales sobre la IA en la educación cotidiana.
+Este prompt genera una foto nostálgica y espontánea de un aula con estudiantes usando ChatGPT en computadoras CRT, ideal para imágenes editoriales o de redes sociales sobre la IA en la educación cotidiana.
 
 #### 📝 Prompt
 
@@ -2337,7 +2337,7 @@ A candid documentary-style photo of a {argument name="setting" default="high sch
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14675_1.jpg" width="600" alt="Aula de Informática de los Años 2000 con ChatGPT - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14675_1.jpg" width="600" alt="Aula de Informática de Principios de los 2000 con ChatGPT - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -2351,7 +2351,7 @@ A candid documentary-style photo of a {argument name="setting" default="high sch
 
 ---
 
-### No. 55: Retrato Surrealista en el Patio con Cuervo y Perro
+### No. 55: Retrato Surrealista de Patio con Cuervo y Perro
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2371,7 +2371,7 @@ A slightly surreal but photorealistic portrait of a seated person in a quiet cou
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14674_1.jpg" width="600" alt="Retrato Surrealista en el Patio con Cuervo y Perro - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14674_1.jpg" width="600" alt="Retrato Surrealista de Patio con Cuervo y Perro - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -2392,7 +2392,7 @@ A slightly surreal but photorealistic portrait of a seated person in a quiet cou
 
 #### 📖 Descripción
 
-Un prompt diseñado para generar gráficos académicos altamente realistas pero ficticios, mostrando específicamente una correlación entre los precios del petróleo y los ataques de tiburón en estilo de artículo de economía.
+Un prompt diseñado para generar gráficos académicos altamente realistas pero ficticios, mostrando específicamente una correlación entre los precios del petróleo y los ataques de tiburones en el estilo de un artículo de economía.
 
 #### 📝 Prompt
 
@@ -2425,7 +2425,7 @@ line graph from an important and prestigious {argument name="field" default="eco
 
 #### 📖 Descripción
 
-Este prompt genera una escena histórica y cinematográfica de Leonardo da Vinci pintando la Mona Lisa a partir de un modelo vivo, ideal para imágenes dramáticas de bellas artes y visuales con temática renacentista.
+Este prompt genera una escena histórica cinematográfica de Leonardo da Vinci pintando la Mona Lisa a partir de un modelo en vivo, ideal para imágenes visuales dramáticas de bellas artes y temática renacentista.
 
 #### 📝 Prompt
 
@@ -2477,7 +2477,7 @@ A cinematic Renaissance art studio interior lit by soft warm window light, showi
 
 #### 📖 Descripción
 
-Este prompt genera un retrato fotorrealista cinematográfico de vida nocturna de una mujer con un vestido negro fluido bailando elegantemente en un salón tenue, ideal para imágenes de moda, actuación o redes sociales.
+Esta indicación genera un retrato nocturno de vida social cinematográfico y fotorealista de una mujer con un vestido negro fluido bailando elegantemente en un salón tenuemente iluminado, ideal para moda, actuación o visuales para redes sociales.
 
 #### 📝 Prompt
 
@@ -2504,14 +2504,14 @@ A dramatic full-body photo of a woman dancing powerfully in a dark upscale loung
 
 ---
 
-### No. 59: Añadir Chica Anime al Salón de Referencia
+### No. 59: Añadir Chica Anime a un Salón de Referencia
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Este prompt coloca un personaje grande de una chica anime en un fondo interior real proporcionado, preservando la composición original de la habitación, ideal para pruebas de composición de personajes o experimentos con fondos de referencia.
+Este prompt sitúa un personaje grande de chica anime en un fondo interior real proporcionado, preservando la composición original de la habitación, para pruebas de composición de personajes o experimentos con fondos de referencia.
 
 #### 📝 Prompt
 
@@ -2524,7 +2524,7 @@ Using the provided reference image as the exact background base, keep the same u
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14476_1.jpg" width="600" alt="Añadir Chica Anime al Salón de Referencia - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14476_1.jpg" width="600" alt="Añadir Chica Anime a un Salón de Referencia - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -2625,7 +2625,7 @@ Can you put {argument name="subject" default="my girl dog"} in the movie {argume
 
 #### 📖 Descripción
 
-Un prompt que genera una interpretación creativa de un gráfico de horizontes de tareas de IA utilizando el estilo distintivo de Jean-Michel Basquiat y la estética del manuscrito Voynich.
+Un prompt que genera una interpretación creativa de un gráfico de horizontes de tareas de IA, utilizando el estilo distintivo de Jean-Michel Basquiat y la estética del manuscrito Voynich.
 
 #### 📝 Prompt
 
@@ -2710,7 +2710,7 @@ A highly detailed retro pixel art landscape of a bright alpine valley in summer,
 
 #### 📖 Descripción
 
-Este prompt genera una página de cómic en blanco y negro de ocho viñetas al estilo manga, en portugués, para anunciar y explicar GPT-Image-2 en un formato promocional apto para redes sociales.
+Este prompt genera una página de cómic en blanco y negro de ocho paneles con estilo manga en portugués para anunciar y explicar GPT-Image-2 en un formato promocional apto para redes sociales.
 
 #### 📝 Prompt
 
@@ -2744,7 +2744,7 @@ Este prompt genera una página de cómic en blanco y negro de ocho viñetas al e
 
 #### 📖 Descripción
 
-Un prompt para crear un anuncio moderno y elegante de café helado para el mercado japonés, con tipografía dinámica.
+Una indicación para crear un anuncio moderno y elegante de café helado para el mercado japonés, con tipografía dinámica.
 
 #### 📝 Prompt
 
@@ -2778,7 +2778,7 @@ Create an advertisement for {argument name="product" default="iced coffee"}. A s
 
 #### 📖 Descripción
 
-Un estado de cuenta médico paródico y realista en japonés para un modelo de IA, útil para crear documentación humorística al estilo clínico y maquetas de documentos.
+Una declaración médica paródica realista en japonés para un modelo de IA, útil para crear papeleo humorístico de estilo clínico y maquetas de documentos.
 
 #### 📝 Prompt
 
@@ -2805,14 +2805,14 @@ Un estado de cuenta médico paródico y realista en japonés para un modelo de I
 
 ---
 
-### No. 67: Formulario de Prescripción para Modelo de IA Japonés
+### No. 67: Hoja de Prescripción de Modelo de IA Japonesa
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Una foto realista desde arriba de un formulario de prescripción humorístico en japonés para un modelo de IA, útil para generar documentos de parodia de apariencia oficial y papeleo ficticio.
+Una foto realista desde arriba de un formulario de prescripción humorístico en japonés para un modelo de IA, útil para generar documentos de parodia de aspecto oficial y maquetas de papeleo.
 
 #### 📝 Prompt
 
@@ -2912,7 +2912,7 @@ Una foto realista desde arriba de un formulario de prescripción humorístico en
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14536_1.jpg" width="600" alt="Formulario de Prescripción para Modelo de IA Japonés - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14536_1.jpg" width="600" alt="Hoja de Prescripción de Modelo de IA Japonesa - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -2926,13 +2926,13 @@ Una foto realista desde arriba de un formulario de prescripción humorístico en
 
 ---
 
-### No. 68: Set de Receta Médica de Broma para ChatGPT
+### No. 68: Set de Receta Broma de ChatGPT
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 
 #### 📖 Descripción
 
-Una foto cenital realista de una receta médica japonesa humorística y un set de medicamentos para ChatGPT, ideal para gráficos de utilería con temática de parodia de atención médica o arte conceptual para redes sociales.
+Una foto realista cenital de una receta médica japonesa humorística y un set de medicamentos para ChatGPT, ideal para gráficos de utilería de parodia con temática de salud o arte conceptual para redes sociales.
 
 #### 📝 Prompt
 
@@ -2959,7 +2959,7 @@ Style: photorealistic documentary product shot, comedic fake prescription prop d
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14537_1.jpg" width="600" alt="Set de Receta Médica de Broma para ChatGPT - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14537_1.jpg" width="600" alt="Set de Receta Broma de ChatGPT - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -2973,13 +2973,13 @@ Style: photorealistic documentary product shot, comedic fake prescription prop d
 
 ---
 
-### No. 69: Anuncio del Dispositivo de Holograma Gatebox3
+### No. 69: Anuncio del Dispositivo Holográfico Gatebox3
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 
 #### 📖 Descripción
 
-Este prompt genera un anuncio de producto futurista y pulido, de estilo japonés, para un dispositivo de compañero holográfico, adecuado para imágenes de marketing tecnológico y campañas conceptuales.
+Este prompt genera un anuncio de producto japonés futurista y pulido para un dispositivo holográfico de compañía, adecuado para imágenes de marketing tecnológico y campañas conceptuales.
 
 #### 📝 Prompt
 
@@ -2992,7 +2992,7 @@ A sleek futuristic Japanese tech advertisement in a dark sci-fi showroom with gl
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14613_1.jpg" width="600" alt="Anuncio del Dispositivo de Holograma Gatebox3 - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14613_1.jpg" width="600" alt="Anuncio del Dispositivo Holográfico Gatebox3 - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -3006,14 +3006,14 @@ A sleek futuristic Japanese tech advertisement in a dark sci-fi showroom with gl
 
 ---
 
-### No. 70: Prompt para Folleto de Película Japonesa Emocional
+### No. 70: Prompt para Póster Cinematográfico Japonés Emocional
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un prompt para crear un póster cinematográfico de película japonesa utilizando un personaje específico como protagonista.
+Un prompt para crear un póster de película japonés cinematográfico utilizando un personaje específico como protagonista.
 
 #### 📝 Prompt
 
@@ -3026,7 +3026,7 @@ Please create an {argument name="atmosphere" default="emotional"} Japanese movie
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14362_1.jpg" width="600" alt="Prompt para Folleto de Película Japonesa Emocional - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14362_1.jpg" width="600" alt="Prompt para Póster Cinematográfico Japonés Emocional - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -3046,7 +3046,7 @@ Please create an {argument name="atmosphere" default="emotional"} Japanese movie
 
 #### 📖 Descripción
 
-Una página de manga monocromática y cruda que muestra una acalorada discusión de oficina que se convierte en una escena de kabedon, útil para recrear capturas de pantalla virales de estilo manga dramático.
+Una página de manga monocromática y cruda que muestra una acalorada discusión de oficina que se transforma en una escena de kabedon, útil para recrear capturas de pantalla dramáticas y virales de estilo manga.
 
 #### 📝 Prompt
 
@@ -3073,13 +3073,13 @@ A dramatic black-and-white manga page in a seinen style, rendered with dense scr
 
 ---
 
-### No. 72: Pegatina de Figura de Saludo Matutino Tierno
+### No. 72: Pegatina de Figura de Saludo Matutino Tierna
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 
 #### 📖 Descripción
 
-Este prompt genera una ilustración de pegatina 3D tipo juguete de una mujer chibi saludando junto a un gato atigrado plateado con texto japonés de buenos días, ideal para sellos de redes sociales o gráficos de saludo.
+Este prompt genera una ilustración de pegatina en 3D similar a un juguete de una mujer chibi saludando junto a un gato atigrado plateado con texto matutino japonés, ideal para sellos de redes sociales o gráficos de saludo.
 
 #### 📝 Prompt
 
@@ -3092,7 +3092,7 @@ A cute sticker-style 3D figurine illustration on a clean light gray background, 
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14475_1.jpg" width="600" alt="Pegatina de Figura de Saludo Matutino Tierno - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14475_1.jpg" width="600" alt="Pegatina de Figura de Saludo Matutino Tierna - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -3106,14 +3106,14 @@ A cute sticker-style 3D figurine illustration on a clean light gray background, 
 
 ---
 
-### No. 73: Collage Publicitario Japonés de Sanación en Cuatro Paneles
+### No. 73: Collage Publicitario Japonés de Sanación de Cuatro Paneles
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Una miniatura promocional japonesa en negrita de cuatro cuadrantes para servicios de coaching o superación personal, diseñada para publicaciones en redes sociales, enlaces de perfil o imágenes de portada para mercados.
+Una miniatura promocional japonesa en cuatro cuadrantes y de diseño audaz para servicios de coaching o superación personal, diseñada para publicaciones en redes sociales, enlaces de perfil o imágenes de portada de mercados.
 
 #### 📝 Prompt
 
@@ -3126,7 +3126,7 @@ Una miniatura promocional japonesa en negrita de cuatro cuadrantes para servicio
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14551_1.jpg" width="600" alt="Collage Publicitario Japonés de Sanación en Cuatro Paneles - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14551_1.jpg" width="600" alt="Collage Publicitario Japonés de Sanación de Cuatro Paneles - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -3147,7 +3147,7 @@ Una miniatura promocional japonesa en negrita de cuatro cuadrantes para servicio
 
 #### 📖 Descripción
 
-Un moodboard de IA al estilo de captura de pantalla que muestra un concepto editorial de moda de seis imágenes para una marca ficticia de streetwear y vino natural, útil para recrear decks de dirección de arte o tableros de referencia de campañas.
+Un moodboard de IA con estilo de captura de pantalla que muestra un concepto editorial de moda de seis imágenes para una marca ficticia de streetwear y vino natural, útil para recrear decks de dirección de arte o tableros de referencia de campañas.
 
 #### 📝 Prompt
 
@@ -3187,7 +3187,7 @@ Create a 4:5 editorial fashion lookbook moodboard for a fictional brand called {
 
 #### 📖 Descripción
 
-Una miniatura de estilo YouTube con un titular de tutorial, una maqueta del panel de control de una app de diseño y un presentador señalando la interfaz, para contenido sobre marca o sistemas de diseño.
+Una miniatura de estilo YouTube llamativa que presenta un titular de tutorial, una maqueta del panel de control de una aplicación de diseño y un presentador señalando la interfaz, ideal para contenido de branding o sistemas de diseño.
 
 #### 📝 Prompt
 
@@ -3214,14 +3214,14 @@ A clean modern YouTube thumbnail on a bright white background, split visually be
 
 ---
 
-### No. 76: Foto de Archivo de Lectura en un Parque Otoñal
+### No. 76: Foto de Archivo de Lectura en Parque Otoñal
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Este prompt genera una imagen cálida y realista al estilo de foto de archivo, de una persona leyendo junto a un árbol en un parque otoñal, ideal para uso en estilo de vida, educación o editorial estacional.
+Este prompt genera una imagen cálida y realista de estilo stock de una persona leyendo junto a un árbol en un parque otoñal, ideal para uso editorial de estilo de vida, educación o estacional.
 
 #### 📝 Prompt
 
@@ -3234,7 +3234,7 @@ A realistic lifestyle stock photo of {argument name="subject" default="a young w
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14612_1.jpg" width="600" alt="Foto de Archivo de Lectura en un Parque Otoñal - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14612_1.jpg" width="600" alt="Foto de Archivo de Lectura en Parque Otoñal - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -3248,13 +3248,13 @@ A realistic lifestyle stock photo of {argument name="subject" default="a young w
 
 ---
 
-### No. 77: Grupo Cinematográfico frente a una Pantalla Verde
+### No. 77: Grupo Cinematográfico Frente a Pantalla Verde
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 
 #### 📖 Descripción
 
-Este prompt genera una foto realista de detrás de las cámaras en un estudio, con cuatro jóvenes adultos frente a un fondo croma verde, útil para producciones cinematográficas o imágenes de flujo de trabajo de vídeo con IA.
+Este prompt genera una foto realista de estudio detrás de escenas de cuatro jóvenes adultos frente a un fondo croma verde, útil para producción cinematográfica o imágenes visuales de flujos de trabajo de video con IA.
 
 #### 📝 Prompt
 
@@ -3267,7 +3267,7 @@ A cinematic candid photo of 4 young adults standing in front of a smooth studio 
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14614_1.jpg" width="600" alt="Grupo Cinematográfico frente a una Pantalla Verde - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14614_1.jpg" width="600" alt="Grupo Cinematográfico Frente a Pantalla Verde - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -3281,14 +3281,14 @@ A cinematic candid photo of 4 young adults standing in front of a smooth studio 
 
 ---
 
-### No. 78: Pintura Gongbi de la Reina de la Dinastía Tang y los Minions
+### No. 78: Pintura Gongbi de una Reina de la Dinastía Tang y Minions
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un prompt creativo que combina la pintura tradicional china de tinta Gongbi con elementos modernos como secadores de pelo y Minions para una escena anacrónica humorística.
+Una indicación creativa que combina la pintura tradicional china Gongbi con elementos modernos como secadores de pelo y Minions para una escena anacrónica humorística.
 
 #### 📝 Prompt
 
@@ -3301,7 +3301,7 @@ A traditional Chinese ink and color painting in {argument name="style" default="
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14325_1.jpg" width="600" alt="Pintura Gongbi de la Reina de la Dinastía Tang y los Minions - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14325_1.jpg" width="600" alt="Pintura Gongbi de una Reina de la Dinastía Tang y Minions - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -3322,7 +3322,7 @@ A traditional Chinese ink and color painting in {argument name="style" default="
 
 #### 📖 Descripción
 
-Este prompt genera un retrato realista de fantasía medieval de una mujer pelirroja abrazando a un carnero blanco con cuernos, ideal para arte de personajes atmosférico o imágenes de fantasía de estilo editorial.
+Esta propuesta genera un retrato realista de fantasía medieval de una mujer pelirroja abrazando a un carnero blanco con cuernos, ideal para arte de personajes atmosférico o imágenes de fantasía de estilo editorial.
 
 #### 📝 Prompt
 
@@ -3349,14 +3349,14 @@ A photorealistic, cinematic vertical portrait of a medieval or fantasy woman wit
 
 ---
 
-### No. 80: Retrato de Ídolo Kawaii con Lápiz Labial Rosa
+### No. 80: Retrato de Lápiz Labial de Ídolo Kawaii Rosa
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Este prompt genera un retrato brillante al estilo de un ídolo de anime, ideal para pósters, arte para redes sociales o imágenes clave de personajes adorables.
+Este prompt genera un retrato estilo anime de ídolo brillante para pósters, arte en redes sociales o imágenes clave de personajes adorables.
 
 #### 📝 Prompt
 
@@ -3369,7 +3369,7 @@ A highly detailed glossy anime idol portrait in a vertical composition, showing 
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14606_1.jpg" width="600" alt="Retrato de Ídolo Kawaii con Lápiz Labial Rosa - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14606_1.jpg" width="600" alt="Retrato de Lápiz Labial de Ídolo Kawaii Rosa - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -3390,7 +3390,7 @@ A highly detailed glossy anime idol portrait in a vertical composition, showing 
 
 #### 📖 Descripción
 
-Un prompt de maquetación estructurada diseñado para publicidad y pósteres japoneses, centrado en texto específico e imágenes visuales llamativas.
+Una indicación de maquetación estructurada diseñada para publicidad y carteles japoneses, centrada en texto específico y visuales llamativos.
 
 #### 📝 Prompt
 
@@ -3462,7 +3462,7 @@ a {argument name="player count" default="20"} person horde raid is fighting {arg
 
 #### 📖 Descripción
 
-Un prompt corto y creativo para generar una viñeta de manga que muestra a un gato exhibiendo comportamientos de física cuántica.
+Un prompt corto y creativo para generar una viñeta de manga que presenta un gato exhibiendo comportamientos de física cuántica.
 
 #### 📝 Prompt
 
@@ -3489,14 +3489,14 @@ Please draw a manga where a {argument name="subject" default="cat"} {argument na
 
 ---
 
-### No. 84: Ficha de Personaje Anime de Pelo Azul
+### No. 84: Hoja de Personaje de Anime con Cabello Azul
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Este prompt genera un collage de personaje anime sobre fondo blanco con múltiples retratos y poses, útil para arte conceptual, exploración de estilos o diseño de personajes para storyboards.
+Este prompt genera un collage de personaje de anime con fondo blanco con múltiples retratos y poses, útil para arte conceptual, exploración de estilos o diseño de personajes para guiones gráficos.
 
 #### 📝 Prompt
 
@@ -3509,7 +3509,7 @@ Este prompt genera un collage de personaje anime sobre fondo blanco con múltipl
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14509_1.jpg" width="600" alt="Ficha de Personaje Anime de Pelo Azul - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14509_1.jpg" width="600" alt="Hoja de Personaje de Anime con Cabello Azul - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -3530,7 +3530,7 @@ Este prompt genera un collage de personaje anime sobre fondo blanco con múltipl
 
 #### 📖 Descripción
 
-Un prompt para recrear la estética de la interfaz de usuario de software creativo de la década de 1990.
+Una indicación para recrear la estética de la interfaz de usuario de software creativo de la década de 1990.
 
 #### 📝 Prompt
 
@@ -3564,7 +3564,7 @@ a screenshot of {argument name="software" default="Photoshop"} in {argument name
 
 #### 📖 Descripción
 
-Una página de manga de fantasía pastel de cuatro viñetas que muestra a una oficinista con cuernos de oveja y una oveja esponjosa convirtiendo el papeleo en una escena cómica y acogedora.
+Una página de manga de fantasía pastel de cuatro viñetas que muestra a una oficinista con cuernos de oveja y una oveja esponjosa transformando el papeleo en una escena cómica acogedora y somnolienta.
 
 #### 📝 Prompt
 
@@ -3603,14 +3603,14 @@ Una página de manga de fantasía pastel de cuatro viñetas que muestra a una of
 
 ---
 
-### No. 87: Póster de Película Anime al Atardecer
+### No. 87: Póster Cinematográfico de Anime al Atardecer
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Este prompt genera un póster pulido de película de anime japonés que muestra a dos estudiantes contemplando un pueblo costero al atardecer, ideal para arte visual cinematográfico clave y arte promocional de drama romántico.
+Este prompt genera un póster pulido de película de anime japonés con dos estudiantes contemplando un pueblo costero al atardecer, ideal para imágenes clave cinematográficas y arte promocional de drama romántico.
 
 #### 📝 Prompt
 
@@ -3623,7 +3623,7 @@ A breathtaking anime movie poster at golden-hour sunset, vertical theatrical one
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14472_1.jpg" width="600" alt="Póster de Película Anime al Atardecer - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14472_1.jpg" width="600" alt="Póster Cinematográfico de Anime al Atardecer - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -3644,7 +3644,7 @@ A breathtaking anime movie poster at golden-hour sunset, vertical theatrical one
 
 #### 📖 Descripción
 
-Una página de manga anime pulgada que introduce el coleccionismo de monedas a principiantes, útil para publicaciones educativas en redes sociales, cómics explicativos o arte promocional temático sobre hobbies.
+Una página de manga anime pulida que introduce el coleccionismo de monedas a principiantes, útil para publicaciones educativas en redes sociales, cómics explicativos o arte promocional temático de hobbies.
 
 #### 📝 Prompt
 
@@ -3671,14 +3671,14 @@ Una página de manga anime pulgada que introduce el coleccionismo de monedas a p
 
 ---
 
-### No. 89: Prompt para Póster de Película en Pixel Art
+### No. 89: Prompt de Póster Cinematográfico en Pixel Art
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un prompt para un póster de película en estilo pixel art retro de 16 bits, con detectives zombis en una temática de película de policías compañeros.
+Un prompt para un póster de película retro estilo pixel art de 16 bits con detectives zombis en una temática de policías compañeros.
 
 #### 📝 Prompt
 
@@ -3691,7 +3691,7 @@ Create a single full-scene image in a 9:16 vertical format, retro 16-bit pixel a
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14313_1.jpg" width="600" alt="Prompt para Póster de Película en Pixel Art - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14313_1.jpg" width="600" alt="Prompt de Póster Cinematográfico en Pixel Art - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -3705,14 +3705,14 @@ Create a single full-scene image in a 9:16 vertical format, retro 16-bit pixel a
 
 ---
 
-### No. 90: Tablero de Especificaciones del Volvo 240 Widebody
+### No. 90: Tablero de Especificaciones del Volvo 240 de Carrocería Ancha
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Este prompt genera un tablero de presentación limpio de concepto automotriz que muestra un Volvo 240 modificado desde seis ángulos con secciones etiquetadas de hoja de especificaciones, ideal para muestras de diseño de coches y maquetas de marcas de tuning.
+Este prompt genera una presentación limpia de concepto automotriz que muestra un Volvo 240 modificado desde seis ángulos con secciones etiquetadas de hoja de especificaciones, ideal para exhibiciones de diseño de coches y maquetas de marcas de tuning.
 
 #### 📝 Prompt
 
@@ -3725,13 +3725,13 @@ Este prompt genera un tablero de presentación limpio de concepto automotriz que
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14590_1.jpg" width="600" alt="Tablero de Especificaciones del Volvo 240 Widebody - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14590_1.jpg" width="600" alt="Tablero de Especificaciones del Volvo 240 de Carrocería Ancha - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14590_2.jpg" width="600" alt="Tablero de Especificaciones del Volvo 240 Widebody - Image 2">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14590_2.jpg" width="600" alt="Tablero de Especificaciones del Volvo 240 de Carrocería Ancha - Image 2">
 </div>
 
 #### 📌 Detalles
@@ -3745,13 +3745,13 @@ Este prompt genera un tablero de presentación limpio de concepto automotriz que
 
 ---
 
-### No. 91: Pelícano en Bicicleta Minimalista
+### No. 91: Pelícano Montando Bicicleta Minimalista
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 
 #### 📖 Descripción
 
-Este prompt genera una ilustración vectorial geométrica y minimalista de un pelícano en una bicicleta, útil para probar composiciones de formas simples o crear una imagen abstracta y lúdica al estilo icono.
+Este prompt genera una ilustración vectorial geométrica simple de un pelícano en una bicicleta, útil para probar composiciones de formas simples o crear una imagen de estilo icono abstracto y juguetón.
 
 #### 📝 Prompt
 
@@ -3764,7 +3764,7 @@ A minimalist vector-style illustration on a flat light gray background showing a
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14657_1.png" width="600" alt="Pelícano en Bicicleta Minimalista - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14657_1.png" width="600" alt="Pelícano Montando Bicicleta Minimalista - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -3811,13 +3811,13 @@ A cute hand-drawn four-panel comic in a soft, warm, slice-of-life style on a lig
 
 ---
 
-### No. 93: Mandala de 108 Criaturas de Fantasía Chibi
+### No. 93: Mandala de Fantasía con 108 Chibis
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 
 #### 📖 Descripción
 
-Un póster de fantasía ancho y muy detallado que muestra exactamente 108 criaturas míticas chibi únicas, organizadas en anillos concéntricos de mandala, ideal para arte decorativo clave o ilustraciones de exhibición.
+Un póster de fantasía ancho y altamente detallado que muestra exactamente 108 criaturas míticas chibi únicas, organizadas en anillos concéntricos de mandala, ideal para arte decorativo clave o ilustraciones de exhibición.
 
 #### 📝 Prompt
 
@@ -3834,7 +3834,7 @@ The rendering should be extremely dense and crisp, like a 4k fantasy illustratio
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14533_1.jpg" width="600" alt="Mandala de 108 Criaturas de Fantasía Chibi - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14533_1.jpg" width="600" alt="Mandala de Fantasía con 108 Chibis - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -3848,13 +3848,13 @@ The rendering should be extremely dense and crisp, like a 4k fantasy illustratio
 
 ---
 
-### No. 94: Actividad en el Aula con Dominó de Multiplicación
+### No. 94: Actividad en el Aula: Dominó de Multiplicación
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 
 #### 📖 Descripción
 
-Una foto realista de un aula que muestra a niños usando un colorido juego de dominó de multiplicación, ideal para material educativo, promociones escolares o imágenes visuales de actividades matemáticas.
+Una foto realista de un aula que muestra a niños usando un colorido juego de mesa de dominó para multiplicar, ideal para materiales educativos, promociones escolares o imágenes de actividades matemáticas.
 
 #### 📝 Prompt
 
@@ -3867,7 +3867,7 @@ A realistic documentary-style photo of an elementary school classroom during a m
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14632_1.jpg" width="600" alt="Actividad en el Aula con Dominó de Multiplicación - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14632_1.jpg" width="600" alt="Actividad en el Aula: Dominó de Multiplicación - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -3881,14 +3881,14 @@ A realistic documentary-style photo of an elementary school classroom during a m
 
 ---
 
-### No. 95: Hoja de Trabajo Imprimible de Dominó de Multiplicación
+### No. 95: Hoja de Trabajo Imprimible: Dominó de Multiplicación
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Una colorida hoja de trabajo en portugués de Brasil para el aula, para practicar la multiplicación mediante un juego de emparejamiento con dominó, ideal para profesores, educación en casa y actividades matemáticas imprimibles.
+Una colorida hoja de trabajo en portugués brasileño para el aula para practicar la multiplicación mediante un juego de emparejamiento de dominó, ideal para profesores, educación en casa y actividades matemáticas imprimibles.
 
 #### 📝 Prompt
 
@@ -3901,7 +3901,7 @@ Create a vertical printable educational worksheet in Brazilian Portuguese, clean
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14631_1.jpg" width="600" alt="Hoja de Trabajo Imprimible de Dominó de Multiplicación - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14631_1.jpg" width="600" alt="Hoja de Trabajo Imprimible: Dominó de Multiplicación - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -3967,14 +3967,14 @@ Create a polished multi-page (multiple images) brand kit for {argument name="bra
 
 ---
 
-### No. 97: Póster de Viajes Vintage de Malta
+### No. 97: Póster de Viaje Vintage de Malta
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Este prompt genera un póster de turismo ilustrado y nostálgico de Malta con texto titular destacado, una carretera costera, un coche clásico, barcos en el puerto y arquitectura histórica bañada por el sol, para branding de viajes o arte mural.
+Este prompt genera un póster de turismo ilustrado y nostálgico de Malta con texto de titular audaz, una carretera costera, un coche clásico, barcos en el puerto y arquitectura histórica bañada por el sol, para branding de viajes o arte mural.
 
 #### 📝 Prompt
 
@@ -3987,7 +3987,7 @@ A vintage travel poster illustration for {argument name="destination" default="M
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14399_1.jpg" width="600" alt="Póster de Viajes Vintage de Malta - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14399_1.jpg" width="600" alt="Póster de Viaje Vintage de Malta - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -4007,7 +4007,7 @@ A vintage travel poster illustration for {argument name="destination" default="M
 
 #### 📖 Descripción
 
-Este prompt convierte una foto de referencia de un gato en una versión humana fotorrealista, preservando la pose, composición y entorno originales, para retratos lúdicos de mascota a persona.
+Este prompt convierte una foto de referencia de un gato en una versión humana fotorrealista, preservando la pose, composición y entorno originales para retratos lúdicos de mascota a persona.
 
 #### 📝 Prompt
 
@@ -4034,14 +4034,14 @@ Using the provided reference image, turn the cat into a realistic human portrait
 
 ---
 
-### No. 99: Póster de Película del Emperador Oscuro del Espacio
+### No. 99: Póster de Película del Emperador del Espacio Oscuro
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un póster cinematográfico de ciencia ficción que muestra a un gobernante alienígena acorazado en el puente de una nave estelar, ideal para arte clave de space-opera de gran éxito y promoción cinematográfica.
+Un póster cinematográfico de ciencia ficción que muestra a un gobernante alienígena acorazado en el puente de una nave estelar, ideal para arte clave de ópera espacial de gran presupuesto y promoción de películas.
 
 #### 📝 Prompt
 
@@ -4054,7 +4054,7 @@ A dark epic sci-fi movie poster for {argument name="film title" default="EMPIRE 
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14598_1.jpg" width="600" alt="Póster de Película del Emperador Oscuro del Espacio - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14598_1.jpg" width="600" alt="Póster de Película del Emperador del Espacio Oscuro - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -4068,13 +4068,13 @@ A dark epic sci-fi movie poster for {argument name="film title" default="EMPIRE 
 
 ---
 
-### No. 100: Cuatro Carteles de Parodia de Ojisan Japoneses
+### No. 100: Cuatro Pósteres de Parodia de Ojisan Japonés
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 
 #### 📖 Descripción
 
-Un collage de 2x2 de carteles falsos de televisión y anime japoneses que muestran a un hombre de mediana edad transformado en diferentes arquetipos femeninos de género, ideal para arte conceptual de parodia e imágenes promocionales para redes sociales.
+Un collage 2x2 de falsos carteles de televisión y anime japoneses que presentan a un hombre de mediana edad transformado en diferentes arquetipos femeninos de género, ideal para arte clave de parodia e imágenes promocionales para redes sociales.
 
 #### 📝 Prompt
 
@@ -4087,7 +4087,7 @@ Un collage de 2x2 de carteles falsos de televisión y anime japoneses que muestr
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14531_1.jpg" width="600" alt="Cuatro Carteles de Parodia de Ojisan Japoneses - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14531_1.jpg" width="600" alt="Cuatro Pósteres de Parodia de Ojisan Japonés - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -4107,7 +4107,7 @@ Un collage de 2x2 de carteles falsos de televisión y anime japoneses que muestr
 
 #### 📖 Descripción
 
-Este prompt genera un retrato onírico de estilo cinematográfico y de moda de un arquero enmascarado rodeado de aves y animales, útil para la creación de imágenes editoriales surrealistas o de arte fino.
+Este prompt genera un retrato onírico de estilo cinematográfico y moda de un arquero enmascarado rodeado de aves y animales, útil para imágenes editoriales surrealistas o de arte.
 
 #### 📝 Prompt
 
@@ -4168,14 +4168,14 @@ Use GPT-image-2 to create a photobook of two women that matches the local aftern
 
 ---
 
-### No. 103: Página de Inicio Optimista para un Portafolio de IA
+### No. 103: Página de Inicio Optimista para Portafolio de IA
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Una maqueta pulida de página de inicio personal para un portafolio de IA que muestra proyectos, escritos y temas de investigación, con un diseño editorial de sitio web luminoso.
+Una maqueta pulida de la página de inicio de un portafolio personal de IA para mostrar proyectos, escritos y temas de investigación en un diseño editorial de sitio web brillante.
 
 #### 📝 Prompt
 
@@ -4188,7 +4188,7 @@ Una maqueta pulida de página de inicio personal para un portafolio de IA que mu
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14656_1.jpg" width="600" alt="Página de Inicio Optimista para un Portafolio de IA - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14656_1.jpg" width="600" alt="Página de Inicio Optimista para Portafolio de IA - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -4209,7 +4209,7 @@ Una maqueta pulida de página de inicio personal para un portafolio de IA que mu
 
 #### 📖 Descripción
 
-Un conjunto de prompts conversacionales de múltiples pasos que refina un póster de producto a través de los estilos de Her, Blade Runner 2049 y 2001: Una Odisea del Espacio.
+Un conjunto de prompts conversacionales de varios pasos que refina un póster de producto a través de los estilos de Her, Blade Runner 2049 y 2001: Una Odisea del Espacio.
 
 #### 📝 Prompt
 
@@ -4295,14 +4295,14 @@ Keep the composition highly organized, poster-like, and visually dense, with eac
 
 ---
 
-### No. 106: Maqueta de Pantalla de Smartphone
+### No. 106: Maqueta de Pantalla de Teléfono Inteligente
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un prompt simple para generar una imagen de un iPhone que muestra contenido de redes sociales con una relación de aspecto específica.
+Una indicación simple para generar una imagen de un iPhone que muestra contenido de redes sociales con una relación de aspecto específica.
 
 #### 📝 Prompt
 
@@ -4315,7 +4315,7 @@ Create a {argument name="aspect ratio" default="9:16"} image of an {argument nam
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14316_1.jpg" width="600" alt="Maqueta de Pantalla de Smartphone - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14316_1.jpg" width="600" alt="Maqueta de Pantalla de Teléfono Inteligente - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -4335,7 +4335,7 @@ Create a {argument name="aspect ratio" default="9:16"} image of an {argument nam
 
 #### 📖 Descripción
 
-Este prompt genera un retrato realista post-partido de dos jugadores de fútbol embarrados posando junto al agua con el Puente Golden Gate al fondo, útil para imágenes editoriales deportivas o de estilo de vida.
+Este prompt genera un retrato realista post-partido de dos jugadores de fútbol embarrados posando junto al agua con el Puente Golden Gate detrás de ellos, útil para imágenes deportivas editoriales o de estilo de vida.
 
 #### 📝 Prompt
 
@@ -4369,7 +4369,7 @@ A realistic outdoor sports portrait of two American football players standing si
 
 #### 📖 Descripción
 
-Este prompt genera una imagen de estilo estudio fotorrealista de una escultura de camaleón espejado sobre una bola de discoteca, ideal para arte animal surrealista de lujo o imágenes llamativas para redes sociales.
+Este prompt genera una imagen fotorrealista de estilo estudio de una escultura de camaleón espejado sobre una bola de discoteca, ideal para arte animal surrealista de lujo o imágenes visuales llamativas para redes sociales.
 
 #### 📝 Prompt
 
@@ -4396,14 +4396,14 @@ A highly polished studio photograph of a {argument name="animal" default="chamel
 
 ---
 
-### No. 109: Archivo Confidencial de Caso al Estilo Vintage
+### No. 109: Expediente Confidencial de Caso Vintage
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Este prompt genera una página realista de expediente confidencial en estilo noir vista desde arriba, ideal para narrativa, construcción de mundos detectivescos e imágenes de utilería cinematográfica.
+Este prompt genera una página realista de un dossier confidencial estilo noir visto desde arriba, ideal para narrativa, construcción de mundos detectivescos e imágenes de utilería cinematográfica.
 
 #### 📝 Prompt
 
@@ -4416,7 +4416,7 @@ A top-down cinematic still life of a vintage classified investigation dossier on
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14415_1.jpg" width="600" alt="Archivo Confidencial de Caso al Estilo Vintage - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14415_1.jpg" width="600" alt="Expediente Confidencial de Caso Vintage - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -4437,7 +4437,7 @@ A top-down cinematic still life of a vintage classified investigation dossier on
 
 #### 📖 Descripción
 
-Este prompt genera una vista realista de 360 grados tipo 'planeta miniatura' desde un dron del paseo marítimo de Çanakkale y sus monumentos, ideal para imágenes de viajes y visuales para pósters urbanos.
+Este prompt genera una vista realista de 360 grados en estilo planeta miniatura desde un dron de los hitos del frente marítimo de Çanakkale, ideal para imágenes de viajes y visuales para carteles urbanos.
 
 #### 📝 Prompt
 
@@ -4464,13 +4464,13 @@ A dramatic ultra-wide aerial tiny-planet photograph of {argument name="city name
 
 ---
 
-### No. 111: Retrato Alienígena de Cuerpo Completo Inquietante
+### No. 111: Retrato Inquietante de un Alienígena de Cuerpo Completo
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 
 #### 📖 Descripción
 
-Una imagen de estudio fotorealista y oscura de un alienígena humanoide demacrado, adecuada para arte conceptual de criaturas, arte clave de ciencia ficción o demostraciones inquietantes de capacidades de modelos.
+Una imagen de estudio fotorrealista y oscura de un alienígena humanoide demacrado, adecuada para arte conceptual de criaturas, arte clave de ciencia ficción o demostraciones inquietantes de capacidades de modelos.
 
 #### 📝 Prompt
 
@@ -4483,13 +4483,13 @@ A hyper-realistic full-body studio portrait of a disturbing humanoid alien stand
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14422_1.jpg" width="600" alt="Retrato Alienígena de Cuerpo Completo Inquietante - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14422_1.jpg" width="600" alt="Retrato Inquietante de un Alienígena de Cuerpo Completo - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14422_2.jpg" width="600" alt="Retrato Alienígena de Cuerpo Completo Inquietante - Image 2">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14422_2.jpg" width="600" alt="Retrato Inquietante de un Alienígena de Cuerpo Completo - Image 2">
 </div>
 
 #### 📌 Detalles
@@ -4503,13 +4503,13 @@ A hyper-realistic full-body studio portrait of a disturbing humanoid alien stand
 
 ---
 
-### No. 112: Alienígena Fotorealista en Barranco Oscuro
+### No. 112: Alienígena Foto-realista en Barranco Oscuro
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 
 #### 📖 Descripción
 
-Este prompt genera un perturbador retrato de cuerpo completo de horror sci-fi de un alienígena humanoide realista en un cañón rocoso y desolado, ideal para arte conceptual cinematográfico y diseño de criaturas.
+Este prompt genera un perturbador retrato de cuerpo completo de ciencia ficción y terror de un alienígena humanoide realista en un cañón rocoso y desolado, ideal para arte conceptual cinematográfico y diseño de criaturas.
 
 #### 📝 Prompt
 
@@ -4522,13 +4522,13 @@ A full-body cinematic portrait of a deeply unsettling humanoid alien standing al
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14420_1.jpg" width="600" alt="Alienígena Fotorealista en Barranco Oscuro - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14420_1.jpg" width="600" alt="Alienígena Foto-realista en Barranco Oscuro - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14420_2.jpg" width="600" alt="Alienígena Fotorealista en Barranco Oscuro - Image 2">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14420_2.jpg" width="600" alt="Alienígena Foto-realista en Barranco Oscuro - Image 2">
 </div>
 
 #### 📌 Detalles
@@ -4542,14 +4542,14 @@ A full-body cinematic portrait of a deeply unsettling humanoid alien standing al
 
 ---
 
-### No. 113: Página de Cómic de Aventura de Moon Mark
+### No. 113: Página de Cómic de Aventura de la Marca Lunar
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Una página de cómic de fantasía y anime de cuatro viñetas que muestra a una chica de pelo plateado y temática lunar descubriendo un mapa, resolviendo un acertijo en una cueva y encontrando una invitación mágica para la próxima aventura.
+Una página de cómic de fantasía anime de cuatro viñetas que muestra a una chica de pelo plateado con temática lunar descubriendo un mapa, resolviendo un acertijo en una cueva y encontrando una invitación mágica para la próxima aventura.
 
 #### 📝 Prompt
 
@@ -4562,7 +4562,7 @@ Una página de cómic de fantasía y anime de cuatro viñetas que muestra a una 
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14605_1.jpg" width="600" alt="Página de Cómic de Aventura de Moon Mark - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14605_1.jpg" width="600" alt="Página de Cómic de Aventura de la Marca Lunar - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -4576,14 +4576,14 @@ Una página de cómic de fantasía y anime de cuatro viñetas que muestra a una 
 
 ---
 
-### No. 114: Disposición de Póster de Engrudo Urbano
+### No. 114: Configuración de Póster de Engrudo Urbano
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un prompt para generar una escena realista de pósters pegados con engrudo en una pared de ladrillo de la ciudad, mostrando conocimiento institucional o temas específicos.
+Un prompt para generar una escena realista de pósters pegados con engrudo en una pared de ladrillo de ciudad, mostrando conocimiento institucional o temas específicos.
 
 #### 📝 Prompt
 
@@ -4596,7 +4596,7 @@ Make a wheatpaste poster setup on a brick wall in {argument name="location" defa
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14391_1.jpg" width="600" alt="Disposición de Póster de Engrudo Urbano - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14391_1.jpg" width="600" alt="Configuración de Póster de Engrudo Urbano - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -4610,14 +4610,14 @@ Make a wheatpaste poster setup on a brick wall in {argument name="location" defa
 
 ---
 
-### No. 115: Celestial Anime Fantasy Movie Poster
+### No. 115: Póster de Película de Fantasía Anime Celestial
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-This prompt generates a fully typeset Japanese fantasy anime film poster featuring a silver-haired moon-themed heroine, ideal for cinematic key art and promotional poster concepts.
+Este prompt genera un póster completo de una película de fantasía anime japonesa con tipografía, que presenta a una heroína de temática lunar de cabello plateado, ideal para arte clave cinematográfico y conceptos de póster promocional.
 
 #### 📝 Prompt
 
@@ -4632,7 +4632,7 @@ Design it as a fully typeset Japanese film poster with elegant serif display typ
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14514_1.jpg" width="600" alt="Celestial Anime Fantasy Movie Poster - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14514_1.jpg" width="600" alt="Póster de Película de Fantasía Anime Celestial - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -4646,14 +4646,14 @@ Design it as a fully typeset Japanese film poster with elegant serif display typ
 
 ---
 
-### No. 116: Fantasy MMO America Invasion Poster
+### No. 116: Póster de Invasión Fantástica MMO en América
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-A satirical AAA game expansion poster styled like an official World of Warcraft: Legion promo, useful for generating dense multi-panel fantasy marketing art.
+Un póster satírico de expansión de videojuego AAA con el estilo de un anuncio oficial de World of Warcraft: Legion, útil para generar arte de marketing fantástico denso y multipanel.
 
 #### 📝 Prompt
 
@@ -4666,7 +4666,7 @@ A satirical AAA game expansion poster styled like an official World of Warcraft:
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14634_1.jpg" width="600" alt="Fantasy MMO America Invasion Poster - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14634_1.jpg" width="600" alt="Póster de Invasión Fantástica MMO en América - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -4680,13 +4680,13 @@ A satirical AAA game expansion poster styled like an official World of Warcraft:
 
 ---
 
-### No. 117: Dark Fantasy Cliffside Outpost
+### No. 117: Puesto de Vigilancia en Acantilado de Fantasía Oscura
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 
 #### 📖 Descripción
 
-This prompt generates a moody dark-fantasy landscape painting of a ruined encampment on a cliff, ideal for worldbuilding art, RPG settings, or ominous book-cover style scenes.
+Este prompt genera una pintura de paisaje de fantasía oscura y atmosférica de un campamento en ruinas en un acantilado, ideal para arte de construcción de mundos, escenarios de RPG o escenas de estilo de portada de libro ominoso.
 
 #### 📝 Prompt
 
@@ -4699,7 +4699,7 @@ A dark fantasy matte painting of a bleak hilltop encampment overlooking a vast c
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14572_1.jpg" width="600" alt="Dark Fantasy Cliffside Outpost - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14572_1.jpg" width="600" alt="Puesto de Vigilancia en Acantilado de Fantasía Oscura - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -4713,14 +4713,14 @@ A dark fantasy matte painting of a bleak hilltop encampment overlooking a vast c
 
 ---
 
-### No. 118: Epic Senna vs Prost Gladiator Poster
+### No. 118: Póster Épico de Gladiadores Senna vs Prost
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-A dramatic vintage-style motorsport poster depicting Senna and Prost as mythic gladiator rivals, ideal for recreating cinematic tribute art or high-impact F1 legend posters.
+Un póster dramático de automovilismo de estilo vintage que representa a Senna y Prost como rivales míticos gladiadores, ideal para recrear arte de homenaje cinematográfico o pósters de alto impacto de leyendas de la Fórmula 1.
 
 #### 📝 Prompt
 
@@ -4733,7 +4733,7 @@ An epic cinematic poster in a dark golden bronze palette, styled like a mythic g
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14610_1.jpg" width="600" alt="Epic Senna vs Prost Gladiator Poster - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14610_1.jpg" width="600" alt="Póster Épico de Gladiadores Senna vs Prost - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -4747,14 +4747,14 @@ An epic cinematic poster in a dark golden bronze palette, styled like a mythic g
 
 ---
 
-### No. 119: Studio Portrait With Strawberry Ice Cream
+### No. 119: Retrato de Estudio con Helado de Fresa
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-This prompt generates a sleek celebrity-style studio portrait of a dark-haired woman holding a strawberry ice cream cone in front of her face, ideal for editorial beauty or pop-culture imagery.
+Este prompt genera un elegante retrato de estudio al estilo de celebridad de una mujer de cabello oscuro sosteniendo un cono de helado de fresa frente a su rostro, ideal para imágenes de belleza editorial o de cultura pop.
 
 #### 📝 Prompt
 
@@ -4767,7 +4767,7 @@ A polished studio portrait of a glamorous pop-star-like woman from the chest up,
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14594_1.jpg" width="600" alt="Studio Portrait With Strawberry Ice Cream - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14594_1.jpg" width="600" alt="Retrato de Estudio con Helado de Fresa - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -4781,14 +4781,14 @@ A polished studio portrait of a glamorous pop-star-like woman from the chest up,
 
 ---
 
-### No. 120: Storm Wizard Casting Lightning
+### No. 120: Mago de Tormenta Lanzando un Rayo
 
 ![Language-ES-ES](https://img.shields.io/badge/Language-ES-ES-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-A cinematic photorealistic fantasy prompt for generating a dramatic wizard portrait with storm lighting and crackling magical energy.
+Una propuesta de fantasía fotorrealista y cinematográfica para generar un dramático retrato de un mago con iluminación de tormenta y energía mágica chispeante.
 
 #### 📝 Prompt
 
@@ -4801,7 +4801,7 @@ A dramatic dark-fantasy portrait of an elderly wizard standing in a stormy waste
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14618_1.jpg" width="600" alt="Storm Wizard Casting Lightning - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14618_1.jpg" width="600" alt="Mago de Tormenta Lanzando un Rayo - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -4894,6 +4894,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts/issues/new?template=prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-11T06:00:01.096Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-11T06:37:18.099Z</sub>
 
 </div>

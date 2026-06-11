@@ -149,7 +149,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 |--------|-------|
 | 📝 Total Prompts | **1123** |
 | ⭐ Featured | **6** |
-| 🔄 Last Updated | **Thursday, June 11, 2026 at 6:00:00 AM UTC** |
+| 🔄 Last Updated | **Thursday, June 11, 2026 at 6:37:17 AM UTC** |
 
 </div>
 
@@ -4894,6 +4894,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts/issues/new?template=prompt.yml)** •
 **[⭐ Star this repo](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-11T06:00:00.852Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-11T06:37:17.872Z</sub>
 
 </div>

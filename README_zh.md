@@ -149,7 +149,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示词总数 | **1123** |
 | ⭐ 精选 | **6** |
-| 🔄 最后更新 | **2026年6月11日星期四 UTC 06:00:00** |
+| 🔄 最后更新 | **2026年6月11日星期四 UTC 06:37:17** |
 
 </div>
 
@@ -4894,6 +4894,6 @@ by {argument name="author" default="Steve Jobs"}
 **[📝 提交提示词](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts/issues/new?template=prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-06-11T06:00:00.881Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-06-11T06:37:17.902Z</sub>
 
 </div>
