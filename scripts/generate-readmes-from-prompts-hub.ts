@@ -148,6 +148,16 @@ function getDataLocale(locale: string): string {
     "ja-JP": "ja-JP",
     "ko-KR": "ko-KR",
     "th-TH": "th-TH",
+    "vi-VN": "vi-VN",
+    "hi-IN": "hi-IN",
+    "es-ES": "es-ES",
+    "es-419": "es-ES",
+    "de-DE": "de-DE",
+    "fr-FR": "fr-FR",
+    "it-IT": "it-IT",
+    "pt-BR": "pt-BR",
+    "pt-PT": "pt-BR",
+    "tr-TR": "tr-TR",
   };
 
   return localeMap[locale] ?? "en-US";

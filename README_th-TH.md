@@ -149,7 +149,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 คำสั่งทั้งหมด | **1123** |
 | ⭐ แนะนำ | **6** |
-| 🔄 อัปเดตล่าสุด | **วันพุธที่ 10 มิถุนายน พ.ศ. 2569 เวลา 10 นาฬิกา 13 นาที 47 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันพฤหัสบดีที่ 11 มิถุนายน พ.ศ. 2569 เวลา 6 นาฬิกา 00 นาที 01 วินาที UTC** |
 
 </div>
 
@@ -4894,6 +4894,6 @@ generate a image of physical {argument name="subject" default="high school exam"
 **[📝 ส่งคำสั่ง](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts/issues/new?template=prompt.yml)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-06-10T10:13:47.765Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-06-11T06:00:01.017Z</sub>
 
 </div>

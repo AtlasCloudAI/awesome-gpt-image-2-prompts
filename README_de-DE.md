@@ -149,7 +149,7 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 |--------|-------|
 | 📝 Gesamtanzahl Prompts | **1123** |
 | ⭐ Ausgewählt | **6** |
-| 🔄 Zuletzt aktualisiert | **Mittwoch, 10. Juni 2026 um 10:13:47 UTC** |
+| 🔄 Zuletzt aktualisiert | **Donnerstag, 11. Juni 2026 um 06:00:01 UTC** |
 
 </div>
 
@@ -159,15 +159,15 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 
 > ⭐ Von unserem Team handverlesen für außergewöhnliche Qualität und Kreativität
 
-### No. 1: Warm 4-Panel Married Couple Manga
+### No. 1: Herzlicher 4-Panel-Ehepaar-Manga
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-This prompt generates a soft, romantic four-panel Japanese comic celebrating a married couple, ideal for social posts, commemorative illustrations, or relationship-themed manga art.
+Dieser Prompt generiert einen weichen, romantischen vierteiligen japanischen Comic, der ein Ehepaar feiert, ideal für Social-Media-Posts, Gedenkillustrationen oder beziehungsbezogene Manga-Kunst.
 
 #### 📝 Prompt
 
@@ -180,7 +180,7 @@ This prompt generates a soft, romantic four-panel Japanese comic celebrating a m
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14492_1.jpg" width="700" alt="Warm 4-Panel Married Couple Manga - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14492_1.jpg" width="700" alt="Herzlicher 4-Panel-Ehepaar-Manga - Image 1">
 </div>
 
 #### 📌 Details
@@ -188,20 +188,20 @@ This prompt generates a soft, romantic four-panel Japanese comic celebrating a m
 - **Autor:** [むく | AIアート× Threads](https://x.com/muku_sns)
 - **Quelle:** [Twitter Post](https://x.com/muku_sns/status/2046932542998364645#reversed-1)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14492&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 2: Cute Black Kitten Japanese Sticker Sheet
+### No. 2: Niedriges schwarzes Kätzchen Japanischer Sticker-Bogen
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 
 #### 📖 Beschreibung
 
-A 15-panel sticker-style sheet of an expressive black kitten with Japanese phrases, ideal for chat stickers, LINE stamp concepts, or social media visuals.
+Ein 15-teiliger Sticker-Stil-Bogen mit einem ausdrucksstarken schwarzen Kätzchen und japanischen Phrasen, ideal für Chat-Sticker, LINE-Stamp-Konzepte oder Social-Media-Visuals.
 
 #### 📝 Prompt
 
@@ -214,7 +214,7 @@ A 15-panel sticker-style sheet of an expressive black kitten with Japanese phras
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14490_1.jpg" width="700" alt="Cute Black Kitten Japanese Sticker Sheet - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14490_1.jpg" width="700" alt="Niedriges schwarzes Kätzchen Japanischer Sticker-Bogen - Image 1">
 </div>
 
 #### 📌 Details
@@ -222,21 +222,21 @@ A 15-panel sticker-style sheet of an expressive black kitten with Japanese phras
 - **Autor:** [むく | AIアート× Threads](https://x.com/muku_sns)
 - **Quelle:** [Twitter Post](https://x.com/muku_sns/status/2046932542998364645#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14490&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 3: Paris Food Ranking Poster Prompt
+### No. 3: Paris-Essensranking-Plakat-Prompt
 
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A simple prompt to create a poster for a city food ranking, designed for use with GPT Image 2.
+Ein einfacher Prompt zur Erstellung eines Plakats für ein städtisches Essensranking, konzipiert für die Verwendung mit GPT Image 2.
 
 #### 📝 Prompt
 
@@ -249,7 +249,7 @@ Create a poster for a {argument name="city" default="Paris"} {argument name="top
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14370_1.jpg" width="700" alt="Paris Food Ranking Poster Prompt - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14370_1.jpg" width="700" alt="Paris-Essensranking-Plakat-Prompt - Image 1">
 </div>
 
 #### 📌 Details
@@ -257,21 +257,21 @@ Create a poster for a {argument name="city" default="Paris"} {argument name="top
 - **Autor:** [ToroJushiAi](https://x.com/ToroJushiAi)
 - **Quelle:** [Twitter Post](https://x.com/ToroJushiAi/status/2046930310613332075)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** ZH
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14370&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 4: Candid Boutique Portrait in Brown
+### No. 4: Ungezwungenes Boutique-Porträt in Braun
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-This prompt generates a realistic vertical lifestyle photo of a woman in a warm-toned shop interior, useful for fashion, retail, or social media editorial imagery.
+Dieser Prompt erzeugt ein realistisches vertikales Lifestyle-Foto einer Frau in einem warmtonigen Ladeninterieur, nützlich für Mode-, Einzelhandels- oder Social-Media-Editorialbilder.
 
 #### 📝 Prompt
 
@@ -284,7 +284,7 @@ A candid, photorealistic vertical smartphone photo of a young East Asian woman s
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14630_1.jpg" width="700" alt="Candid Boutique Portrait in Brown - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14630_1.jpg" width="700" alt="Ungezwungenes Boutique-Porträt in Braun - Image 1">
 </div>
 
 #### 📌 Details
@@ -292,20 +292,20 @@ A candid, photorealistic vertical smartphone photo of a young East Asian woman s
 - **Autor:** [浅野 美咲（Asano Misaki）](https://x.com/Asan0_Misaki)
 - **Quelle:** [Twitter Post](https://x.com/Asan0_Misaki/status/2046904727674462560#reversed-2)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14630&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 5: Cyberpunk Rooftop Breach Raid
+### No. 5: Cyberpunk-Dach-Brecheinsatz
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 
 #### 📖 Beschreibung
 
-This prompt generates a dramatic wide cyberpunk action scene of a five-person tactical team breaching a door on a rainy neon-lit rooftop, ideal for dystopian sci-fi concept art or cinematic game visuals.
+Dieser Prompt erzeugt eine dramatische, breite Cyberpunk-Aktionsszene eines fünfköpfigen taktischen Teams, das auf einem regennassen, neonbeleuchteten Dach eine Tür aufbricht, ideal für dystopische Sci-Fi-Konzeptkunst oder filmische Spielvisuals.
 
 #### 📝 Prompt
 
@@ -318,7 +318,7 @@ A cinematic cyberpunk night raid on a rain-soaked rooftop balcony in a dense fut
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14507_1.jpg" width="700" alt="Cyberpunk Rooftop Breach Raid - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14507_1.jpg" width="700" alt="Cyberpunk-Dach-Brecheinsatz - Image 1">
 </div>
 
 #### 📌 Details
@@ -326,21 +326,21 @@ A cinematic cyberpunk night raid on a rain-soaked rooftop balcony in a dense fut
 - **Autor:** [AI東京にセクシーではない現るおじさんイラスト](https://x.com/AIgendora)
 - **Quelle:** [Twitter Post](https://x.com/AIgendora/status/2046895274917077140#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14507&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 6: Chinese Calligraphy Style Comparison Sheet
+### No. 6: Vergleichsblatt für chinesische Kalligrafiestile
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A vertical reference poster showing the same Chinese phrase rendered in five famous calligraphy styles, useful for typography tests, cultural design studies, and brush-script comparisons.
+Ein vertikales Referenzposter, das denselben chinesischen Satz in fünf berühmten Kalligrafiestilen zeigt, nützlich für Typografie-Tests, kulturelle Designstudien und Pinselschrift-Vergleiche.
 
 #### 📝 Prompt
 
@@ -353,7 +353,7 @@ A vertical reference poster showing the same Chinese phrase rendered in five fam
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14448_1.jpg" width="700" alt="Chinese Calligraphy Style Comparison Sheet - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14448_1.jpg" width="700" alt="Vergleichsblatt für chinesische Kalligrafiestile - Image 1">
 </div>
 
 #### 📌 Details
@@ -361,7 +361,7 @@ A vertical reference poster showing the same Chinese phrase rendered in five fam
 - **Autor:** [-Zho-](https://x.com/ZHO_ZHO_ZHO)
 - **Quelle:** [Twitter Post](https://x.com/ZHO_ZHO_ZHO/status/2046852355535274063#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14448&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
@@ -371,14 +371,14 @@ A vertical reference poster showing the same Chinese phrase rendered in five fam
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
-### No. 1: Overhead Mirror Selfie with Exaggerated Poses
+### No. 1: Overhead-Selfie-im-Spiegel-mit-übertriebenen-Posen
 
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A prompt testing character consistency and dynamic expressions in a mirror selfie from a top-down perspective.
+Ein Prompt zum Testen von Charakterkonsistenz und dynamischen Ausdrücken in einem Selfie im Spiegel aus der Vogelperspektive.
 
 #### 📝 Prompt
 
@@ -391,7 +391,7 @@ A prompt testing character consistency and dynamic expressions in a mirror selfi
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14341_1.jpg" width="600" alt="Overhead Mirror Selfie with Exaggerated Poses - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14341_1.jpg" width="600" alt="Overhead-Selfie-im-Spiegel-mit-übertriebenen-Posen - Image 1">
 </div>
 
 #### 📌 Details
@@ -399,20 +399,20 @@ A prompt testing character consistency and dynamic expressions in a mirror selfi
 - **Autor:** [-Zho-](https://x.com/ZHO_ZHO_ZHO)
 - **Quelle:** [Twitter Post](https://x.com/ZHO_ZHO_ZHO/status/2046921531322974390)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** ZH
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14341&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 2: Seated Brown Monochrome Studio Portrait
+### No. 2: Sitzendes braunes monochromes Studio-Porträt
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-This prompt generates a photorealistic indoor fashion portrait of a seated woman in a coordinated brown outfit, suitable for editorial lifestyle or apparel imagery.
+Dieses Prompt erzeugt ein fotorealistisches Indoor-Modeporträt einer sitzenden Frau in abgestimmter brauner Kleidung, geeignet für redaktionelle Lifestyle- oder Bekleidungsbilder.
 
 #### 📝 Prompt
 
@@ -425,7 +425,7 @@ A realistic studio portrait of a young East Asian woman seated on a simple black
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14628_1.jpg" width="600" alt="Seated Brown Monochrome Studio Portrait - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14628_1.jpg" width="600" alt="Sitzendes braunes monochromes Studio-Porträt - Image 1">
 </div>
 
 #### 📌 Details
@@ -433,20 +433,20 @@ A realistic studio portrait of a young East Asian woman seated on a simple black
 - **Autor:** [浅野 美咲（Asano Misaki）](https://x.com/Asan0_Misaki)
 - **Quelle:** [Twitter Post](https://x.com/Asan0_Misaki/status/2046904727674462560#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14628&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 3: Grocery Aisle Egg Carton Portrait
+### No. 3: Porträt mit Eierkarton im Supermarktgang
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-This prompt generates a realistic vertical lifestyle photo of a stylish woman in a grocery store holding an open carton of six eggs, suitable for social media or editorial-style shopping imagery.
+Dieses Prompt erzeugt ein realistisches vertikales Lifestyle-Foto einer stilvollen Frau im Supermarkt, die einen geöffneten Karton mit sechs Eiern hält, geeignet für Social Media oder redaktionelle Einkaufsbilder.
 
 #### 📝 Prompt
 
@@ -459,7 +459,7 @@ A candid vertical smartphone photo of a {argument name="woman age" default="youn
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14629_1.jpg" width="600" alt="Grocery Aisle Egg Carton Portrait - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14629_1.jpg" width="600" alt="Porträt mit Eierkarton im Supermarktgang - Image 1">
 </div>
 
 #### 📌 Details
@@ -467,20 +467,20 @@ A candid vertical smartphone photo of a {argument name="woman age" default="youn
 - **Autor:** [浅野 美咲（Asano Misaki）](https://x.com/Asan0_Misaki)
 - **Quelle:** [Twitter Post](https://x.com/Asan0_Misaki/status/2046904727674462560#reversed-1)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14629&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 4: Japanese AI Manga Demo Page
+### No. 4: Japanische AI-Manga-Demoseite
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A polished four-panel anime manga page showing catgirl characters reacting to impressively rendered Japanese dialogue, ideal for showcasing AI comic text quality.
+Eine polierte vierteilige Anime-Manga-Seite, die Catgirl-Charaktere zeigt, die auf beeindruckend gerenderte japanische Dialoge reagieren, ideal um die Textqualität von KI-Comics zu demonstrieren.
 
 #### 📝 Prompt
 
@@ -563,7 +563,7 @@ A polished four-panel anime manga page showing catgirl characters reacting to im
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14471_1.jpg" width="600" alt="Japanese AI Manga Demo Page - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14471_1.jpg" width="600" alt="Japanische AI-Manga-Demoseite - Image 1">
 </div>
 
 #### 📌 Details
@@ -571,20 +571,20 @@ A polished four-panel anime manga page showing catgirl characters reacting to im
 - **Autor:** [芽乃葉-めいのは-](https://x.com/maynoha_maru)
 - **Quelle:** [Twitter Post](https://x.com/maynoha_maru/status/2046902204670611919#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14471&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 5: Wild Fantasy Warrior With Wolf
+### No. 5: Wilder Fantasy-Krieger mit Wolf
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-This prompt generates a cinematic full-body fantasy heroine portrait with ornate armor, a spear, and a wolf companion, ideal for epic character art and dark fantasy key visuals.
+Dieser Prompt erzeugt ein cineastisches Ganzkörper-Fantasy-Heldinnen-Porträt mit kunstvoller Rüstung, einem Speer und einem Wolf als Begleiter, ideal für epische Charakterkunst und Dark-Fantasy-Key-Visuals.
 
 #### 📝 Prompt
 
@@ -597,7 +597,7 @@ A cinematic fantasy portrait of a fierce female warrior walking forward across a
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14616_1.jpg" width="600" alt="Wild Fantasy Warrior With Wolf - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14616_1.jpg" width="600" alt="Wilder Fantasy-Krieger mit Wolf - Image 1">
 </div>
 
 #### 📌 Details
@@ -605,20 +605,20 @@ A cinematic fantasy portrait of a fierce female warrior walking forward across a
 - **Autor:** [𝗟𝗼𝗸𝗶𝘁𝗮 ▪︎ 𝗖𝗮𝗼𝘀 𝗖𝗿𝗲𝗮𝘁𝗶𝘃𝗼](https://x.com/Loky__86)
 - **Quelle:** [Twitter Post](https://x.com/Loky__86/status/2046887873719267657#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14616&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 6: Dreamlike Shanshui Woman Silhouette
+### No. 6: Traumhafte Silhouette einer Frau in Shanshui-Landschaft
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-This prompt generates a poetic vertical fantasy artwork of a female profile blended with Chinese landscape painting motifs, ideal for posters, book covers, and elegant wall art.
+Dieses Prompt erzeugt ein poetisches, vertikales Fantasy-Kunstwerk eines weiblichen Profils, das mit Motiven der chinesischen Landschaftsmalerei verschmilzt – ideal für Poster, Buchcover und elegante Wandkunst.
 
 #### 📝 Prompt
 
@@ -631,7 +631,7 @@ A dreamy East Asian ink-and-watercolor fantasy illustration of a woman's side-pr
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14437_1.jpg" width="600" alt="Dreamlike Shanshui Woman Silhouette - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14437_1.jpg" width="600" alt="Traumhafte Silhouette einer Frau in Shanshui-Landschaft - Image 1">
 </div>
 
 #### 📌 Details
@@ -639,19 +639,19 @@ A dreamy East Asian ink-and-watercolor fantasy illustration of a woman's side-pr
 - **Autor:** [烁皓](https://x.com/eternityspring)
 - **Quelle:** [Twitter Post](https://x.com/eternityspring/status/2046885457800450412#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14437&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 7: Opulent Autumn Empress at Sunset
+### No. 7: Prachtvolle Herbstkaiserin bei Sonnenuntergang
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 
 #### 📖 Beschreibung
 
-This prompt generates a blazing, jewel-encrusted autumn fantasy portrait suited for dramatic showcase art and high-impact social media visuals.
+Dieses Prompt erzeugt ein flammendes, juwelenbesetztes Herbst-Fantasy-Porträt, geeignet für dramatische Präsentationskunst und hochwirksame Social-Media-Visuals.
 
 #### 📝 Prompt
 
@@ -664,7 +664,7 @@ A hyper-luxurious fantasy portrait of an elegant woman in side profile, centered
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14508_1.jpg" width="600" alt="Opulent Autumn Empress at Sunset - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14508_1.jpg" width="600" alt="Prachtvolle Herbstkaiserin bei Sonnenuntergang - Image 1">
 </div>
 
 #### 📌 Details
@@ -672,19 +672,19 @@ A hyper-luxurious fantasy portrait of an elegant woman in side profile, centered
 - **Autor:** [AIおじさん](https://x.com/AIojisan1952)
 - **Quelle:** [Twitter Post](https://x.com/AIojisan1952/status/2046881419344134446#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14508&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 8: Elegant Anime Swordswoman 4-Panel Sheet
+### No. 8: Vierteilige Elegante Anime-Schwertkämpferin
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 
 #### 📖 Beschreibung
 
-This prompt generates a high-detail four-panel anime character illustration of a noble white-haired swordswoman, ideal for fantasy key art, character showcases, or premium social media posts.
+Dieser Prompt erzeugt eine hochdetaillierte vierteilige Anime-Charakterillustration einer edlen weißhaarigen Schwertkämpferin, ideal für Fantasy-Key-Art, Charakterpräsentationen oder hochwertige Social-Media-Posts.
 
 #### 📝 Prompt
 
@@ -697,7 +697,7 @@ A polished anime fantasy illustration sheet in a 2x2 grid showing the same elega
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14413_1.jpg" width="600" alt="Elegant Anime Swordswoman 4-Panel Sheet - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14413_1.jpg" width="600" alt="Vierteilige Elegante Anime-Schwertkämpferin - Image 1">
 </div>
 
 #### 📌 Details
@@ -705,19 +705,19 @@ A polished anime fantasy illustration sheet in a 2x2 grid showing the same elega
 - **Autor:** [ユキノ❄ AIart](https://x.com/yukinono_ai)
 - **Quelle:** [Twitter Post](https://x.com/yukinono_ai/status/2046879433462854011#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14413&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 9: Anime Samurai Game Ad Poster
+### No. 9: Anime-Samurai-Spiel-Werbeplakat
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 
 #### 📖 Beschreibung
 
-A flashy vertical mobile game advertisement featuring two suited swordsmen, a giant samurai mecha, gameplay UI, QR code, and app store download prompts for app promotion use.
+Eine auffällige vertikale Mobile-Game-Werbung mit zwei angezogenen Schwertkämpfern, einem riesigen Samurai-Mecha, Gameplay-UI, QR-Code und App-Store-Download-Aufforderungen für die App-Promotion.
 
 #### 📝 Prompt
 
@@ -730,19 +730,19 @@ Create a high-impact vertical mobile game advertisement poster in glossy anime a
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14432_1.jpg" width="600" alt="Anime Samurai Game Ad Poster - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14432_1.jpg" width="600" alt="Anime-Samurai-Spiel-Werbeplakat - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14432_2.jpg" width="600" alt="Anime Samurai Game Ad Poster - Image 2">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14432_2.jpg" width="600" alt="Anime-Samurai-Spiel-Werbeplakat - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14432_3.jpg" width="600" alt="Anime Samurai Game Ad Poster - Image 3">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14432_3.jpg" width="600" alt="Anime-Samurai-Spiel-Werbeplakat - Image 3">
 </div>
 
 #### 📌 Details
@@ -750,19 +750,19 @@ Create a high-impact vertical mobile game advertisement poster in glossy anime a
 - **Autor:** [春永睦月　Harunaga Mutsuki](https://x.com/HarunagaMutsuki)
 - **Quelle:** [Twitter Post](https://x.com/HarunagaMutsuki/status/2046876482224746543#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14432&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 10: Epic Norse Sky Warrior With Crystal Beasts
+### No. 10: Epischer Nordischer Himmelskrieger mit Kristallbestien
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 
 #### 📖 Beschreibung
 
-This prompt generates a dramatic vertical fantasy-anime splash illustration of a horned sky warrior with three crystal-armored animal companions, ideal for posters, card art, or game key visuals.
+Dieser Prompt erzeugt eine dramatische vertikale Fantasy-Anime-Splash-Illustration eines gehörnten Himmelskriegers mit drei kristallgepanzerten Tiergefährten, ideal für Poster, Kartengrafiken oder Spiel-Key-Visuals.
 
 #### 📝 Prompt
 
@@ -775,7 +775,7 @@ A dynamic high-fantasy anime illustration in a vertical poster composition, show
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14617_1.jpg" width="600" alt="Epic Norse Sky Warrior With Crystal Beasts - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14617_1.jpg" width="600" alt="Epischer Nordischer Himmelskrieger mit Kristallbestien - Image 1">
 </div>
 
 #### 📌 Details
@@ -783,20 +783,20 @@ A dynamic high-fantasy anime illustration in a vertical poster composition, show
 - **Autor:** [Davis](https://x.com/Davis_pxa)
 - **Quelle:** [Twitter Post](https://x.com/Davis_pxa/status/2046857850224357510#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14617&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 11: Robot Painter Collage Ad
+### No. 11: Roboter-Maler-Collage-Werbung
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A polished promotional 2x2 collage showing a cute robot painting four different artworks, ideal for AI image tool announcements and social media banners.
+Eine polierte werbliche 2x2-Collage, die einen niedlichen Roboter zeigt, der vier verschiedene Kunstwerke malt, ideal für Ankündigungen von KI-Bildtools und Social-Media-Banner.
 
 #### 📝 Prompt
 
@@ -809,7 +809,7 @@ A polished promotional 2x2 collage showing a cute robot painting four different 
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14556_1.jpg" width="600" alt="Robot Painter Collage Ad - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14556_1.jpg" width="600" alt="Roboter-Maler-Collage-Werbung - Image 1">
 </div>
 
 #### 📌 Details
@@ -817,20 +817,20 @@ A polished promotional 2x2 collage showing a cute robot painting four different 
 - **Autor:** [01net](https://x.com/01net)
 - **Quelle:** [Twitter Post](https://x.com/01net/status/2046856808921248120#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14556&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 12: Retro ChatGPT Images 2.0 Space Poster
+### No. 12: Retro-ChatGPT-Images-2.0-Weltraum-Poster
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A weathered retro-futurist poster showing ChatGPT Images 2.0 as a space-age rocket advertisement, ideal for editorial visuals about AI image generation breakthroughs.
+Ein verwittertes retrofuturistisches Poster, das ChatGPT Images 2.0 als raumfahrtzeitalterliche Raketenwerbung zeigt, ideal für Editorial-Visuals über KI-Bildgenerationsdurchbrüche.
 
 #### 📝 Prompt
 
@@ -843,7 +843,7 @@ A vintage mid-century space-race propaganda poster pasted on a rough white plast
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14558_1.jpg" width="600" alt="Retro ChatGPT Images 2.0 Space Poster - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14558_1.jpg" width="600" alt="Retro-ChatGPT-Images-2.0-Weltraum-Poster - Image 1">
 </div>
 
 #### 📌 Details
@@ -851,20 +851,20 @@ A vintage mid-century space-race propaganda poster pasted on a rough white plast
 - **Autor:** [BlogNT](https://x.com/BlogNT)
 - **Quelle:** [Twitter Post](https://x.com/BlogNT/status/2046852005998531067#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14558&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 13: Monochrome Infra Brand Kit Board
+### No. 13: Monochromes Infra-Brand-Kit-Board
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A clean black-and-white brand guideline and merchandise presentation board for a fictional infrastructure tech brand, suitable for pitch decks, branding showcases, and professional design mockups.
+Ein sauberes schwarz-weißes Brand-Guideline- und Merchandise-Präsentationsboard für eine fiktive Infrastruktur-Tech-Marke, geeignet für Pitch-Decks, Branding-Präsentationen und professionelle Design-Mockups.
 
 #### 📝 Prompt
 
@@ -877,7 +877,7 @@ A clean black-and-white brand guideline and merchandise presentation board for a
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14563_1.jpg" width="600" alt="Monochrome Infra Brand Kit Board - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14563_1.jpg" width="600" alt="Monochromes Infra-Brand-Kit-Board - Image 1">
 </div>
 
 #### 📌 Details
@@ -885,20 +885,20 @@ A clean black-and-white brand guideline and merchandise presentation board for a
 - **Autor:** [Olivier Sauvage](https://x.com/Capitaine)
 - **Quelle:** [Twitter Post](https://x.com/Capitaine/status/2046844345081336299#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14563&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 14: Photoreal School Uniform Shrine Portrait
+### No. 14: Fotorealistisches-Schuluniform-Schrein-Porträt
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-This prompt generates a polished photorealistic portrait of a young woman in a school uniform outdoors, ideal for editorial fashion, character visuals, or lifestyle-style AI portraits.
+Dieser Prompt erzeugt ein poliertes fotorealistisches Porträt einer jungen Frau in Schuluniform im Freien, ideal für Editorial Fashion, Character-Visuals oder Lifestyle-AI-Porträts.
 
 #### 📝 Prompt
 
@@ -911,7 +911,7 @@ A photorealistic waist-up portrait of a {argument name="subject" default="young 
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14515_1.jpg" width="600" alt="Photoreal School Uniform Shrine Portrait - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14515_1.jpg" width="600" alt="Fotorealistisches-Schuluniform-Schrein-Porträt - Image 1">
 </div>
 
 #### 📌 Details
@@ -919,20 +919,20 @@ A photorealistic waist-up portrait of a {argument name="subject" default="young 
 - **Autor:** [AIおじさん](https://x.com/AIojisan1952)
 - **Quelle:** [Twitter Post](https://x.com/AIojisan1952/status/2046838384887504974#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14515&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 15: Countryball Strait of Hormuz Standoff
+### No. 15: Countryball-Straße-von-Hormuz-Konfrontation
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A humorous geopolitical meme illustration showing USA and Iran countryballs confronting each other in the narrow Strait of Hormuz, ideal for editorial satire or social media commentary.
+Eine humorvolle geopolitische Meme-Illustration, die USA- und Iran-Countryballs zeigt, die sich in der engen Straße von Hormuz gegenüberstehen, ideal für redaktionelle Satire oder Social-Media-Kommentare.
 
 #### 📝 Prompt
 
@@ -945,7 +945,7 @@ A detailed satirical countryball meme illustration of the {argument name="waterw
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14683_1.jpg" width="600" alt="Countryball Strait of Hormuz Standoff - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14683_1.jpg" width="600" alt="Countryball-Straße-von-Hormuz-Konfrontation - Image 1">
 </div>
 
 #### 📌 Details
@@ -953,20 +953,20 @@ A detailed satirical countryball meme illustration of the {argument name="waterw
 - **Autor:** [Geonhee Jeong](https://x.com/Gh_Peter_J)
 - **Quelle:** [Twitter Post](https://x.com/Gh_Peter_J/status/2046837715979866115#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14683&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 16: Countryball Hormuz Strait Standoff
+### No. 16: Countryball-Hormusstraßen-Patt
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-This prompt generates a satirical countryball meme showing the US and Iran blocking each other at the Strait of Hormuz, useful for editorial humor or geopolitical social media posts.
+Dieser Prompt generiert einen satirischen Countryball-Meme, der die USA und den Iran zeigt, die sich in der Straße von Hormus gegenseitig blockieren, nützlich für redaktionellen Humor oder geopolitischen Social-Media-Content.
 
 #### 📝 Prompt
 
@@ -979,7 +979,7 @@ A humorous political meme illustration in a simple countryball cartoon style, sh
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14685_1.jpg" width="600" alt="Countryball Hormuz Strait Standoff - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14685_1.jpg" width="600" alt="Countryball-Hormusstraßen-Patt - Image 1">
 </div>
 
 #### 📌 Details
@@ -987,20 +987,20 @@ A humorous political meme illustration in a simple countryball cartoon style, sh
 - **Autor:** [Geonhee Jeong](https://x.com/Gh_Peter_J)
 - **Quelle:** [Twitter Post](https://x.com/Gh_Peter_J/status/2046837715979866115#reversed-1)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14685&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 17: Anime Pop-Art Protest Poster
+### No. 17: Anime Pop-Art-Protestplakat
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-This prompt generates a bold vertical anime poster with a censored-faced character, peace sign gesture, and oversized slogan bubble for meme art, social posts, or graphic poster experiments.
+Dieses Prompt erzeugt ein kühnes vertikales Anime-Plakat mit einem zensierten Charakter, einem Peace-Zeichen und einer übergroßen Sprechblase für Meme-Kunst, Social-Media-Beiträge oder grafische Plakat-Experimente.
 
 #### 📝 Prompt
 
@@ -1013,7 +1013,7 @@ A bold anime pop-art poster of a tall white-haired male sorcerer in a dark navy 
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14638_1.jpg" width="600" alt="Anime Pop-Art Protest Poster - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14638_1.jpg" width="600" alt="Anime Pop-Art-Protestplakat - Image 1">
 </div>
 
 #### 📌 Details
@@ -1021,20 +1021,20 @@ A bold anime pop-art poster of a tall white-haired male sorcerer in a dark navy 
 - **Autor:** [ρ:ɡeσn](https://x.com/pigeon__s)
 - **Quelle:** [Twitter Post](https://x.com/pigeon__s/status/2046819602869768507#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14638&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 18: Blindfolded Sorcerer Victory Pose
+### No. 18: Blindfoldeter Zauberer in Siegerpose
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-This prompt generates a dramatic vertical anime action poster of a blindfolded white-haired sorcerer with explosive blue energy and a bold manga speech bubble, ideal for stylized character art or fandom-inspired visuals.
+Dieses Prompt erzeugt ein dramatisches vertikales Anime-Action-Poster eines blindfoldeten weißhaarigen Zauberers mit explosiver blauer Energie und einer markanten Manga-Sprechblase, ideal für stilisierte Charakterkunst oder von Fandom inspirierte Visuals.
 
 #### 📝 Prompt
 
@@ -1047,7 +1047,7 @@ A high-impact shonen manga anime illustration of a powerful white-haired sorcere
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14637_1.jpg" width="600" alt="Blindfolded Sorcerer Victory Pose - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14637_1.jpg" width="600" alt="Blindfoldeter Zauberer in Siegerpose - Image 1">
 </div>
 
 #### 📌 Details
@@ -1055,19 +1055,19 @@ A high-impact shonen manga anime illustration of a powerful white-haired sorcere
 - **Autor:** [ρ:ɡeσn](https://x.com/pigeon__s)
 - **Quelle:** [Twitter Post](https://x.com/pigeon__s/status/2046819602869768507#reversed-1)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14637&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 19: Japanese Fantasy Winged Pig Film Poster
+### No. 19: Japanisches Fantasy-Filmplakat mit geflügeltem Schwein
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 
 #### 📖 Beschreibung
 
-A text prompt for generating a richly detailed Japanese animated movie poster featuring a winged pig-like protagonist in a bittersweet urban fantasy montage.
+Ein Text-Prompt zur Generierung eines detailreichen japanischen Animationsfilmplakats mit einem geflügelten, schweineähnlichen Protagonisten in einer bittersüßen urbanen Fantasy-Montage.
 
 #### 📝 Prompt
 
@@ -1080,7 +1080,7 @@ A dramatic Japanese fantasy movie poster in a painterly, ultra-detailed cinemati
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14469_1.jpg" width="600" alt="Japanese Fantasy Winged Pig Film Poster - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14469_1.jpg" width="600" alt="Japanisches Fantasy-Filmplakat mit geflügeltem Schwein - Image 1">
 </div>
 
 #### 📌 Details
@@ -1088,20 +1088,20 @@ A dramatic Japanese fantasy movie poster in a painterly, ultra-detailed cinemati
 - **Autor:** [ぜーにゃさん](https://x.com/zegna00001)
 - **Quelle:** [Twitter Post](https://x.com/zegna00001/status/2046804260709687478#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14469&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 20: Moody Censored Indoor Selfie Portrait
+### No. 20: Düsteres zensiertes Indoor-Selfie-Porträt
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-This prompt generates a photorealistic stylish selfie of a young man in a dark open-collar shirt by a window, useful for creating believable social-media portrait photos.
+Dieser Prompt generiert ein fotorealistisches, stilvolles Selfie eines jungen Mannes in einem dunklen Hemd mit offenem Kragen am Fenster, nützlich für glaubwürdige Social-Media-Porträtfotos.
 
 #### 📝 Prompt
 
@@ -1114,7 +1114,7 @@ A realistic indoor selfie-style portrait of a young East Asian man from the ches
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14686_1.jpg" width="600" alt="Moody Censored Indoor Selfie Portrait - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14686_1.jpg" width="600" alt="Düsteres zensiertes Indoor-Selfie-Porträt - Image 1">
 </div>
 
 #### 📌 Details
@@ -1122,20 +1122,20 @@ A realistic indoor selfie-style portrait of a young East Asian man from the ches
 - **Autor:** [MathMedix](https://x.com/MathMedix)
 - **Quelle:** [Twitter Post](https://x.com/MathMedix/status/2046802557872562478#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14686&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 21: Retro Chinese Childhood Memory Poster
+### No. 21: Retro-Poster mit chinesischen Kindheitserinnerungen
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A warm nostalgic poster-style collage of 1980s–1990s Chinese childhood memories, ideal for editorial art, social posts, or retro cultural storytelling.
+Eine warme, nostalgische Collage im Poster-Stil mit Erinnerungen an die chinesische Kindheit der 1980er–1990er Jahre, ideal für redaktionelle Kunst, Social-Media-Beiträge oder retro-kulturelle Geschichten.
 
 #### 📝 Prompt
 
@@ -1148,7 +1148,7 @@ A nostalgic Chinese retro collage poster about {argument name="theme title" defa
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14436_1.jpg" width="600" alt="Retro Chinese Childhood Memory Poster - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14436_1.jpg" width="600" alt="Retro-Poster mit chinesischen Kindheitserinnerungen - Image 1">
 </div>
 
 #### 📌 Details
@@ -1156,20 +1156,20 @@ A nostalgic Chinese retro collage poster about {argument name="theme title" defa
 - **Autor:** [马特Matt](https://x.com/mate_mattt)
 - **Quelle:** [Twitter Post](https://x.com/mate_mattt/status/2046802491304735208#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14436&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 22: Lunar Bathhouse Comedy Manga Page
+### No. 22: Mond-Badehaus-Comedy-Manga-Seite
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A retro-futuristic anime comic page depicting a whimsical sento on the moon, ideal for generating playful AI manga scenes with multiple character-driven panels.
+Eine retrofuturistische Anime-Comic-Seite, die ein verspieltes Sento auf dem Mond darstellt, ideal für die Generierung verspielter AI-Manga-Szenen mit mehreren charaktergetriebenen Panels.
 
 #### 📝 Prompt
 
@@ -1182,7 +1182,7 @@ A colorful single-page Japanese comic manga set in a whimsical lunar public bath
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14697_1.jpg" width="600" alt="Lunar Bathhouse Comedy Manga Page - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14697_1.jpg" width="600" alt="Mond-Badehaus-Comedy-Manga-Seite - Image 1">
 </div>
 
 #### 📌 Details
@@ -1190,20 +1190,20 @@ A colorful single-page Japanese comic manga set in a whimsical lunar public bath
 - **Autor:** [猫おじ](https://x.com/mar_vn_nv_cie)
 - **Quelle:** [Twitter Post](https://x.com/mar_vn_nv_cie/status/2046799393307996376#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14697&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 23: Vintage Japanese Fantasy Magic Newspaper
+### No. 23: Vintage Japanische Fantasy-Zauberzeitung
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A Meiji-era-inspired Japanese fantasy newspaper front page with a giant magical headline, a central engraved portrait of a wind-haired mysterious girl, and many whimsical side articles and illustrations.
+Eine von der Meiji-Ära inspirierte japanische Fantasy-Zeitungs-Titelseite mit einer riesigen magischen Schlagzeile, einem zentralen gestochenen Porträt eines windhaarigen mysteriösen Mädchens und vielen verspielten Nebenartikeln und Illustrationen.
 
 #### 📝 Prompt
 
@@ -1216,7 +1216,7 @@ A Meiji-era-inspired Japanese fantasy newspaper front page with a giant magical 
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14405_1.jpg" width="600" alt="Vintage Japanese Fantasy Magic Newspaper - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14405_1.jpg" width="600" alt="Vintage Japanische Fantasy-Zauberzeitung - Image 1">
 </div>
 
 #### 📌 Details
@@ -1224,20 +1224,20 @@ A Meiji-era-inspired Japanese fantasy newspaper front page with a giant magical 
 - **Autor:** [カーブミラー](https://x.com/kabumira862571)
 - **Quelle:** [Twitter Post](https://x.com/kabumira862571/status/2046797126089474457#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14405&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 24: Character Design Reference Sheet
+### No. 24: Charakterdesign-Referenzblatt
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-Generates a comprehensive design sheet for a specific character, including key information and visual references.
+Erzeugt ein umfassendes Designblatt für einen spezifischen Charakter, einschließlich Schlüsselinformationen und visueller Referenzen.
 
 #### 📝 Prompt
 
@@ -1250,7 +1250,7 @@ Create a character design sheet for {argument name="character" default="Hermes A
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14324_1.jpg" width="600" alt="Character Design Reference Sheet - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14324_1.jpg" width="600" alt="Charakterdesign-Referenzblatt - Image 1">
 </div>
 
 #### 📌 Details
@@ -1258,20 +1258,20 @@ Create a character design sheet for {argument name="character" default="Hermes A
 - **Autor:** [Neo](https://x.com/NeoAIForecast)
 - **Quelle:** [Twitter Post](https://x.com/NeoAIForecast/status/2046795552650936695)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14324&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 25: Korean Sports Drink Celebrity Ad Poster
+### No. 25: Koreanisches Sportgetränk-Promi-Werbeplakat
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-This prompt generates a flashy Korean-style hydration drink poster with a celebrity-like spokesperson, oversized product bottle, and bold promotional typography for commercial advertising use.
+Dieser Prompt generiert ein auffälliges koreanisch inspiriertes Werbeplakat für ein Hydrationsgetränk mit einer Promi-ähnlichen Testimonials-Person, einer überdimensionalen Produktflasche und fettem Werbetypografie für kommerzielle Werbezwecke.
 
 #### 📝 Prompt
 
@@ -1284,7 +1284,7 @@ A bold Korean beverage advertisement poster in a glossy commercial photography s
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14553_1.jpg" width="600" alt="Korean Sports Drink Celebrity Ad Poster - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14553_1.jpg" width="600" alt="Koreanisches Sportgetränk-Promi-Werbeplakat - Image 1">
 </div>
 
 #### 📌 Details
@@ -1292,20 +1292,20 @@ A bold Korean beverage advertisement poster in a glossy commercial photography s
 - **Autor:** [Conservative🇰🇷🇺🇸🇯🇵](https://x.com/ObserverKR)
 - **Quelle:** [Twitter Post](https://x.com/ObserverKR/status/2046794478888042551#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14553&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 26: Korean Rice Drink Parody Ad Poster
+### No. 26: Koreanisches-Reisgetränk-Parodie-Werbeplakat
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-This prompt generates a humorous, high-impact parody beverage advertisement poster featuring a famous politician-like spokesperson promoting a Korean canned rice drink.
+Dieser Prompt erzeugt ein humorvolles, hochwirksames Parodie-Getränkewerbeplakat mit einem berühmten, politikerähnlichen Sprecher, der ein koreanisches Dosenreisgetränk bewirbt.
 
 #### 📝 Prompt
 
@@ -1322,7 +1322,7 @@ At the bottom foreground, place 2 food elements: a brass bowl filled with sweet 
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14555_1.jpg" width="600" alt="Korean Rice Drink Parody Ad Poster - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14555_1.jpg" width="600" alt="Koreanisches-Reisgetränk-Parodie-Werbeplakat - Image 1">
 </div>
 
 #### 📌 Details
@@ -1330,20 +1330,20 @@ At the bottom foreground, place 2 food elements: a brass bowl filled with sweet 
 - **Autor:** [Conservative🇰🇷🇺🇸🇯🇵](https://x.com/ObserverKR)
 - **Quelle:** [Twitter Post](https://x.com/ObserverKR/status/2046794478888042551#reversed-1)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14555&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 27: Physical Exam Question Layout
+### No. 27: Layout-einer-körperlichen-Untersuchungs-Prüfung
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A prompt designed to create an image of a high school exam paper with multiple questions and answers.
+Ein Prompt zur Erstellung eines Bildes eines Highschool-Prüfungsbogens mit mehreren Fragen und Antworten.
 
 #### 📝 Prompt
 
@@ -1356,25 +1356,25 @@ generate a image of physical {argument name="subject" default="high school exam"
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14340_1.jpg" width="600" alt="Physical Exam Question Layout - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14340_1.jpg" width="600" alt="Layout-einer-körperlichen-Untersuchungs-Prüfung - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14340_2.jpg" width="600" alt="Physical Exam Question Layout - Image 2">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14340_2.jpg" width="600" alt="Layout-einer-körperlichen-Untersuchungs-Prüfung - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14340_3.jpg" width="600" alt="Physical Exam Question Layout - Image 3">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14340_3.jpg" width="600" alt="Layout-einer-körperlichen-Untersuchungs-Prüfung - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14340_4.jpg" width="600" alt="Physical Exam Question Layout - Image 4">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14340_4.jpg" width="600" alt="Layout-einer-körperlichen-Untersuchungs-Prüfung - Image 4">
 </div>
 
 #### 📌 Details
@@ -1382,20 +1382,20 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **Autor:** [zdhpeter](https://x.com/peter6759)
 - **Quelle:** [Twitter Post](https://x.com/peter6759/status/2046789718428594409)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14340&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 28: Indie Comic Book Page
+### No. 28: Indie-Comicbuchseite
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-Creates a comic book layout in a modern indie style tailored for children's stories.
+Erzeugt ein Comicbuch-Layout im modernen Indie-Stil, zugeschnitten auf Kindergeschichten.
 
 #### 📝 Prompt
 
@@ -1408,7 +1408,7 @@ A page of a comic book in the style of {argument name="comic style" default="mod
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14310_1.jpg" width="600" alt="Indie Comic Book Page - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14310_1.jpg" width="600" alt="Indie-Comicbuchseite - Image 1">
 </div>
 
 #### 📌 Details
@@ -1416,20 +1416,20 @@ A page of a comic book in the style of {argument name="comic style" default="mod
 - **Autor:** [宝玉](https://x.com/dotey)
 - **Quelle:** [Twitter Post](https://x.com/dotey/status/2046787206585430189)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14310&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 29: Japanese Jungle Theme Park Parody Poster
+### No. 29: Japanisches Dschungel-Freizeitpark-Parodie-Plakat
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A cinematic satirical Japanese ad poster for a fictional jungle dinosaur theme park, ideal for parody campaigns, social media visuals, or mock promotional key art.
+Ein cinemagraphisches satirisches japanisches Werbeplakat für einen fiktiven Dschungel-Dinosaurier-Freizeitpark, ideal für Parodie-Kampagnen, Social-Media-Visuals oder Mock-Promotion-Key-Art.
 
 #### 📝 Prompt
 
@@ -1442,7 +1442,7 @@ A hyper-detailed Japanese parody theme park advertisement poster in a vertical f
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14545_1.jpg" width="600" alt="Japanese Jungle Theme Park Parody Poster - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14545_1.jpg" width="600" alt="Japanisches Dschungel-Freizeitpark-Parodie-Plakat - Image 1">
 </div>
 
 #### 📌 Details
@@ -1450,20 +1450,20 @@ A hyper-detailed Japanese parody theme park advertisement poster in a vertical f
 - **Autor:** [AIに振り回されるおじちゃん](https://x.com/ai_ojichan)
 - **Quelle:** [Twitter Post](https://x.com/ai_ojichan/status/2046786080171573422#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14545&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 30: 1960s French New Wave Movie Poster
+### No. 30: Französisches Nouvelle-Vague-Filmplakat der 1960er
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A sophisticated prompt for a vintage theatrical poster style, combining photomontage and pop-art colors with specific typography instructions.
+Ein anspruchsvoller Prompt für einen Vintage-Theaterplakatstil, der Fotomontage und Pop-Art-Farben mit spezifischen Typografie-Anweisungen kombiniert.
 
 #### 📝 Prompt
 
@@ -1482,7 +1482,7 @@ Keep all visible text in English. Use a theatrical poster composition.
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14315_1.jpg" width="600" alt="1960s French New Wave Movie Poster - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14315_1.jpg" width="600" alt="Französisches Nouvelle-Vague-Filmplakat der 1960er - Image 1">
 </div>
 
 #### 📌 Details
@@ -1490,19 +1490,19 @@ Keep all visible text in English. Use a theatrical poster composition.
 - **Autor:** [宝玉](https://x.com/dotey)
 - **Quelle:** [Twitter Post](https://x.com/dotey/status/2046783507511287906)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14315&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 31: Astronaut Beside Living Earth
+### No. 31: Astronaut neben lebendiger Erde
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 
 #### 📖 Beschreibung
 
-This prompt generates a moody cinematic sci-fi image of a lone astronaut floating next to a root-covered Earth, ideal for surreal space art or AI-themed editorial visuals.
+Dieser Prompt generiert ein stimmungsvolles, filmisches Sci-Fi-Bild eines einsamen Astronauten, der neben einer von Wurzeln bedeckten Erde schwebt, ideal für surreale Weltraumkunst oder KI-bezogene redaktionelle Visuals.
 
 #### 📝 Prompt
 
@@ -1515,13 +1515,13 @@ A cinematic surreal space scene showing 1 astronaut floating in open space besid
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14430_1.jpg" width="600" alt="Astronaut Beside Living Earth - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14430_1.jpg" width="600" alt="Astronaut neben lebendiger Erde - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14430_2.jpg" width="600" alt="Astronaut Beside Living Earth - Image 2">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14430_2.jpg" width="600" alt="Astronaut neben lebendiger Erde - Image 2">
 </div>
 
 #### 📌 Details
@@ -1529,20 +1529,20 @@ A cinematic surreal space scene showing 1 astronaut floating in open space besid
 - **Autor:** [Marcus 3ΞY](https://x.com/romainbey)
 - **Quelle:** [Twitter Post](https://x.com/romainbey/status/2046783449504116790#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14430&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 32: Colorized Shonen Manga Page
+### No. 32: Kolorierte Shonen-Manga-Seite
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A detailed narrative prompt for generating a physical-looking manga page with specific character and brand details.
+Ein detaillierter narrativer Prompt zur Generierung einer physisch wirkenden Manga-Seite mit spezifischen Charakter- und Markendetails.
 
 #### 📝 Prompt
 
@@ -1557,7 +1557,7 @@ Additional instructions: Aspect ratio: Portrait 1440x2560. The pen should have a
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14311_1.jpg" width="600" alt="Colorized Shonen Manga Page - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14311_1.jpg" width="600" alt="Kolorierte Shonen-Manga-Seite - Image 1">
 </div>
 
 #### 📌 Details
@@ -1565,20 +1565,20 @@ Additional instructions: Aspect ratio: Portrait 1440x2560. The pen should have a
 - **Autor:** [宝玉](https://x.com/dotey)
 - **Quelle:** [Twitter Post](https://x.com/dotey/status/2046781861502779523)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14311&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 33: Steampunk Vintage Video Platform UI
+### No. 33: Steampunk-Vintage-Video-Plattform-UI
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-This prompt generates an ornate steampunk-style fictional video streaming homepage, ideal for showcasing advanced text rendering and themed interface design.
+Dieser Prompt generiert eine kunstvolle Steampunk-artige fiktive Videostreaming-Startseite, ideal zur Demonstration fortgeschrittener Textdarstellung und thematischer Interface-Gestaltung.
 
 #### 📝 Prompt
 
@@ -1591,7 +1591,7 @@ Create a full-screen fictional video platform homepage in a richly detailed stea
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14552_1.jpg" width="600" alt="Steampunk Vintage Video Platform UI - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14552_1.jpg" width="600" alt="Steampunk-Vintage-Video-Plattform-UI - Image 1">
 </div>
 
 #### 📌 Details
@@ -1599,20 +1599,20 @@ Create a full-screen fictional video platform homepage in a richly detailed stea
 - **Autor:** [폴로 AI](https://x.com/polloai_kr)
 - **Quelle:** [Twitter Post](https://x.com/polloai_kr/status/2046778808221733337#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14552&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 34: Vintage Korean Gimbap Recipe Poster
+### No. 34: Vintage-Koreanisches-Gimbap-Rezept-Poster
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-This prompt generates an antique-style Korean recipe infographic poster for gimbap, suitable for food marketing, restaurant decor, or cultural cooking visuals.
+Dieser Prompt erzeugt ein antik gestaltetes koreanisches Rezept-Infografik-Poster für Gimbap, geeignet für Food-Marketing, Restaurant-Dekoration oder kulturelle Kochvisuals.
 
 #### 📝 Prompt
 
@@ -1625,7 +1625,7 @@ Create a vintage Korean food poster on aged beige parchment paper with a slightl
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14554_1.jpg" width="600" alt="Vintage Korean Gimbap Recipe Poster - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14554_1.jpg" width="600" alt="Vintage-Koreanisches-Gimbap-Rezept-Poster - Image 1">
 </div>
 
 #### 📌 Details
@@ -1633,19 +1633,19 @@ Create a vintage Korean food poster on aged beige parchment paper with a slightl
 - **Autor:** [폴로 AI](https://x.com/polloai_kr)
 - **Quelle:** [Twitter Post](https://x.com/polloai_kr/status/2046778808221733337#reversed-1)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14554&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 35: Realistic McDonald's Selfie Portrait
+### No. 35: Realistisches McDonald's-Selfie-Porträt
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 
 #### 📖 Beschreibung
 
-This prompt generates a photorealistic casual selfie of a man inside a McDonald's, useful for creating believable social-media-style restaurant snapshots.
+Dieser Prompt generiert ein fotorealistisches, lässiges Selfie eines Mannes in einem McDonald's, nützlich für die Erstellung glaubwürdiger Restaurant-Schnappschüsse im Social-Media-Stil.
 
 #### 📝 Prompt
 
@@ -1658,7 +1658,7 @@ A highly realistic casual smartphone selfie taken indoors at a McDonald's restau
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14433_1.jpg" width="600" alt="Realistic McDonald's Selfie Portrait - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14433_1.jpg" width="600" alt="Realistisches McDonald's-Selfie-Porträt - Image 1">
 </div>
 
 #### 📌 Details
@@ -1666,19 +1666,19 @@ A highly realistic casual smartphone selfie taken indoors at a McDonald's restau
 - **Autor:** [AB Kuai.Dong](https://x.com/_FORAB)
 - **Quelle:** [Twitter Post](https://x.com/_FORAB/status/2046774687380992253#reversed-1)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14433&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 36: Realistic Sam's Club Shopping Snapshot
+### No. 36: Realistische Sam's Club-Einkaufsaufnahme
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 
 #### 📖 Beschreibung
 
-This prompt generates a photorealistic candid warehouse-store portrait suitable for recreating an authentic shopping scene with branded retail signage and a shopper holding produce.
+Dieser Prompt generiert ein fotorealistisches, spontanes Porträt in einem Warehouse-Store, geeignet um eine authentische Einkaufsszene mit Marken-Schildern und einem Kunden, der Obst hält, nachzustellen.
 
 #### 📝 Prompt
 
@@ -1691,7 +1691,7 @@ A candid, highly realistic smartphone photo inside a busy Sam’s Club warehouse
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14434_1.jpg" width="600" alt="Realistic Sam's Club Shopping Snapshot - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14434_1.jpg" width="600" alt="Realistische Sam's Club-Einkaufsaufnahme - Image 1">
 </div>
 
 #### 📌 Details
@@ -1699,20 +1699,20 @@ A candid, highly realistic smartphone photo inside a busy Sam’s Club warehouse
 - **Autor:** [AB Kuai.Dong](https://x.com/_FORAB)
 - **Quelle:** [Twitter Post](https://x.com/_FORAB/status/2046774687380992253#reversed-2)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14434&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 37: Steampunk ElectroVid Homepage Mockup
+### No. 37: Steampunk ElectroVid Homepage-Mockup
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A detailed steampunk video-platform homepage mockup for creating retro-futurist web UI concepts, posters, or social media visuals about AI image text rendering.
+Ein detaillierter Steampunk-Mockup einer Videoplattform-Startseite zur Erstellung retrofuturistischer Web-UI-Konzepte, Poster oder Social-Media-Grafiken über KI-Bildtextrendering.
 
 #### 📝 Prompt
 
@@ -1725,7 +1725,7 @@ Create a full-screen fictional video streaming website homepage in a richly deta
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14565_1.jpg" width="600" alt="Steampunk ElectroVid Homepage Mockup - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14565_1.jpg" width="600" alt="Steampunk ElectroVid Homepage-Mockup - Image 1">
 </div>
 
 #### 📌 Details
@@ -1733,20 +1733,20 @@ Create a full-screen fictional video streaming website homepage in a richly deta
 - **Autor:** [Pollo AI France](https://x.com/PolloAIFR)
 - **Quelle:** [Twitter Post](https://x.com/PolloAIFR/status/2046774203920113932#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14565&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 38: Vintage French Crepe Recipe Poster
+### No. 38: Vintage-Poster für französisches Crêpe-Rezept
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A richly illustrated antique-style French recipe poster showing butter crepes, ingredients, and six cooking steps, ideal for food-themed editorial art or decorative kitchen prints.
+Ein reich illustriertes französisches Rezeptposter im antiken Stil, das Buttercrêpes, Zutaten und sechs Zubereitungsschritte zeigt, ideal für lebensmittelthematische Editorial-Kunst oder dekorative Küchendrucke.
 
 #### 📝 Prompt
 
@@ -1759,7 +1759,7 @@ A richly illustrated antique-style French recipe poster showing butter crepes, i
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14564_1.jpg" width="600" alt="Vintage French Crepe Recipe Poster - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14564_1.jpg" width="600" alt="Vintage-Poster für französisches Crêpe-Rezept - Image 1">
 </div>
 
 #### 📌 Details
@@ -1767,20 +1767,20 @@ A richly illustrated antique-style French recipe poster showing butter crepes, i
 - **Autor:** [Pollo AI France](https://x.com/PolloAIFR)
 - **Quelle:** [Twitter Post](https://x.com/PolloAIFR/status/2046774203920113932#reversed-1)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14564&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 39: Four Seasons Continuity Panorama
+### No. 39: Vier-Jahreszeiten-Kontinuitätspanorama
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A complex prompt for creating a seamless transition through all four seasons in a single panoramic digital illustration, demonstrated with the Shanghai Bund waterfront.
+Ein komplexer Prompt zur Erstellung eines nahtlosen Übergangs durch alle vier Jahreszeiten in einer einzigen panoramischen Digitalillustration, demonstriert an der Uferpromenade des Shanghai Bund.
 
 #### 📝 Prompt
 
@@ -1797,7 +1797,7 @@ There are no visible dividing lines between seasons; the weather, lighting, and 
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14374_1.jpg" width="600" alt="Four Seasons Continuity Panorama - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14374_1.jpg" width="600" alt="Vier-Jahreszeiten-Kontinuitätspanorama - Image 1">
 </div>
 
 #### 📌 Details
@@ -1805,20 +1805,20 @@ There are no visible dividing lines between seasons; the weather, lighting, and 
 - **Autor:** [宝玉](https://x.com/dotey)
 - **Quelle:** [Twitter Post](https://x.com/dotey/status/2046766282989502777)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14374&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 40: Minimalist Cinematic Vertical Poster with Character Reference
+### No. 40: Minimalistisches-Cinemastisches-Vertikal-Poster-mit-Charakter-Referenz
 
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A sophisticated prompt for creating minimalist, monochrome posters with single accent colors while maintaining character consistency from a reference image.
+Ein anspruchsvoller Prompt zur Erstellung minimalistischer, monochromer Poster mit einzelnen Akzentfarben unter Beibehaltung der Charakterkonsistenz aus einem Referenzbild.
 
 #### 📝 Prompt
 
@@ -1853,7 +1853,7 @@ Create a minimalist theater-style vertical poster for {argument name="user input
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14352_1.jpg" width="600" alt="Minimalist Cinematic Vertical Poster with Character Reference - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14352_1.jpg" width="600" alt="Minimalistisches-Cinemastisches-Vertikal-Poster-mit-Charakter-Referenz - Image 1">
 </div>
 
 #### 📌 Details
@@ -1861,19 +1861,19 @@ Create a minimalist theater-style vertical poster for {argument name="user input
 - **Autor:** [テツメモ｜AI図解×検証｜Newsletter](https://x.com/tetumemo)
 - **Quelle:** [Twitter Post](https://x.com/tetumemo/status/2046740325335790021)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** JA
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14352&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 41: Geometric Bird Riding Bicycle
+### No. 41: Geometrischer-Vogel-fährt-Fahrrad
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 
 #### 📖 Beschreibung
 
-This prompt generates a clean minimalist vector illustration of a stylized bird cyclist, suitable for playful editorial graphics, logos, or modern poster art.
+Dieser Prompt erzeugt eine saubere minimalistisch-vektorielle Illustration eines stilisierten Vogelradfahrers, geeignet für verspielte Editorial-Grafiken, Logos oder moderne Poster-Kunst.
 
 #### 📝 Prompt
 
@@ -1886,7 +1886,7 @@ A minimalist flat vector illustration on a light gray background showing a whims
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14512_1.png" width="600" alt="Geometric Bird Riding Bicycle - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14512_1.png" width="600" alt="Geometrischer-Vogel-fährt-Fahrrad - Image 1">
 </div>
 
 #### 📌 Details
@@ -1894,19 +1894,19 @@ A minimalist flat vector illustration on a light gray background showing a whims
 - **Autor:** [Mojofull](https://x.com/furoku)
 - **Quelle:** [Twitter Post](https://x.com/furoku/status/2046740061719584955#reversed-1)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14512&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 42: Move Display Stand Onto Deck
+### No. 42: Werbedisplay auf die Holzterrasse stellen
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 
 #### 📖 Beschreibung
 
-This prompt places the reference promotional display onto the wooden deck in the same outdoor scene for realistic environmental advertising mockups.
+Dieses Prompt platziert das referenzierte Werbedisplay auf der Holzterrasse in derselben Außenszene, um realistische Werbemockups in Umgebungen zu erstellen.
 
 #### 📝 Prompt
 
@@ -1919,7 +1919,7 @@ Using the provided reference image, keep the same garden, pond, trees, hillside,
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14487_1.jpg" width="600" alt="Move Display Stand Onto Deck - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14487_1.jpg" width="600" alt="Werbedisplay auf die Holzterrasse stellen - Image 1">
 </div>
 
 #### 📌 Details
@@ -1927,20 +1927,20 @@ Using the provided reference image, keep the same garden, pond, trees, hillside,
 - **Autor:** [肖师傅](https://x.com/xiaojietongxue)
 - **Quelle:** [Twitter Post](https://x.com/xiaojietongxue/status/2046739970283724964#reversed-3)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14487&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 43: Chibi Shark Adventure Movie Poster
+### No. 43: Chibi-Hai-Abenteuer-Filmplakat
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A colorful Japanese-style anime poster for a children’s ocean adventure film, ideal for recreating bold promotional key art with cute characters and dramatic title typography.
+Ein farbenfrohes japanisches Anime-Plakat für einen Kinder-Ozeanabenteuerfilm, ideal zur Nachbildung von auffälliger Werbe-Key-Art mit niedlichen Charakteren und dramatischer Titelttypografie.
 
 #### 📝 Prompt
 
@@ -1953,7 +1953,7 @@ A bright, hyper-energetic Japanese movie poster illustration in a polished anime
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14504_1.jpg" width="600" alt="Chibi Shark Adventure Movie Poster - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14504_1.jpg" width="600" alt="Chibi-Hai-Abenteuer-Filmplakat - Image 1">
 </div>
 
 #### 📌 Details
@@ -1961,19 +1961,19 @@ A bright, hyper-energetic Japanese movie poster illustration in a polished anime
 - **Autor:** [シャック🦈](https://x.com/SHACK_SAME_SAME)
 - **Quelle:** [Twitter Post](https://x.com/SHACK_SAME_SAME/status/2046739397786448177#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14504&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 44: Teen-Friendly Black Hole Physics Infographic
+### No. 44: Jugendfreundliche Infografik zur Physik Schwarzer Löcher
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 
 #### 📖 Beschreibung
 
-This prompt generates a dense, single-page editorial science infographic that explains a complex black hole and dark matter paper in a playful, accessible style for social posts or educational articles.
+Dieser Prompt generiert eine dichte, einseitige redaktionelle Wissenschaftsinfografik, die eine komplexe Arbeit über Schwarze Löcher und Dunkle Materie in einem spielerischen, zugänglichen Stil für Social-Media-Posts oder Bildungsartikel erklärt.
 
 #### 📝 Prompt
 
@@ -1986,13 +1986,13 @@ This prompt generates a dense, single-page editorial science infographic that ex
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14424_1.jpg" width="600" alt="Teen-Friendly Black Hole Physics Infographic - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14424_1.jpg" width="600" alt="Jugendfreundliche Infografik zur Physik Schwarzer Löcher - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14424_2.jpg" width="600" alt="Teen-Friendly Black Hole Physics Infographic - Image 2">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14424_2.jpg" width="600" alt="Jugendfreundliche Infografik zur Physik Schwarzer Löcher - Image 2">
 </div>
 
 #### 📌 Details
@@ -2000,20 +2000,20 @@ This prompt generates a dense, single-page editorial science infographic that ex
 - **Autor:** [Alphin Tom](https://x.com/alphinctom)
 - **Quelle:** [Twitter Post](https://x.com/alphinctom/status/2046739393348546597#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14424&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 45: Cognitive bias Instagram infographic
+### No. 45: Kognitiver Bias Instagram-Infografik
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A professional prompt for creating informative social media graphics with complex textual information.
+Ein professioneller Prompt zur Erstellung informativer Social-Media-Grafiken mit komplexen textuellen Informationen.
 
 #### 📝 Prompt
 
@@ -2026,7 +2026,7 @@ Create an {argument name="format" default="infographic"} for {argument name="pla
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14306_1.jpg" width="600" alt="Cognitive bias Instagram infographic - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14306_1.jpg" width="600" alt="Kognitiver Bias Instagram-Infografik - Image 1">
 </div>
 
 #### 📌 Details
@@ -2034,20 +2034,20 @@ Create an {argument name="format" default="infographic"} for {argument name="pla
 - **Autor:** [Maxwell Finn](https://x.com/maxwellfinn)
 - **Quelle:** [Twitter Post](https://x.com/maxwellfinn/status/2046739223001309256)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14306&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 46: Albedo Cosplay Instagram Snapshot
+### No. 46: Albedo-Cosplay-Instagram-Momentaufnahme
 
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A concise prompt for generating a rebellious and expressive cosplay photo in the style of an Instagram story.
+Ein prägnanter Prompt zur Erzeugung eines rebellischen und ausdrucksstarken Cosplay-Fotos im Stil einer Instagram-Story.
 
 #### 📝 Prompt
 
@@ -2060,7 +2060,7 @@ Style: An Instagram story snapshot of an {argument name="character" default="Alb
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14347_1.jpg" width="600" alt="Albedo Cosplay Instagram Snapshot - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14347_1.jpg" width="600" alt="Albedo-Cosplay-Instagram-Momentaufnahme - Image 1">
 </div>
 
 #### 📌 Details
@@ -2068,20 +2068,20 @@ Style: An Instagram story snapshot of an {argument name="character" default="Alb
 - **Autor:** [𝟡𝟜 𝚅̷𝙰̷𝙽̷ ᴾᴸᴬʸᶠᴼᴿᴳᴱ](https://x.com/94vanAI)
 - **Quelle:** [Twitter Post](https://x.com/94vanAI/status/2046739103316947296)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** ZH
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14347&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 47: Sunset Catgirl School Rooftop Anime
+### No. 47: Sonnenuntergang-Catgirl-Schulhausdach-Anime
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A cinematic anime-style rooftop portrait of a cat-eared schoolgirl at sunset, ideal for nostalgic key visuals, character art, or social media showcase images.
+Ein cinemastisches Anime-Porträt eines katzenohrigen Schulmädchens auf einem Dach bei Sonnenuntergang, ideal für nostalgische Key Visuals, Character-Art oder Social-Media-Showcase-Bilder.
 
 #### 📝 Prompt
 
@@ -2094,7 +2094,7 @@ A high-quality anime illustration of a {argument name="character type" default="
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14547_1.jpg" width="600" alt="Sunset Catgirl School Rooftop Anime - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14547_1.jpg" width="600" alt="Sonnenuntergang-Catgirl-Schulhausdach-Anime - Image 1">
 </div>
 
 #### 📌 Details
@@ -2102,20 +2102,20 @@ A high-quality anime illustration of a {argument name="character type" default="
 - **Autor:** [Nobu-Kobayashi : Generative AI Technology](https://x.com/nyaa_toraneko)
 - **Quelle:** [Twitter Post](https://x.com/nyaa_toraneko/status/2046739011960799389#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14547&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 48: Three Beauty Mobile Landing Pages
+### No. 48: Drei Beauty-Mobile-Landingpages
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A premium triptych mockup of three smartphone beauty website designs, ideal for showcasing AI-generated cosmetic brand landing page concepts on social media.
+Ein hochwertiges Triptychon-Mockup von drei Smartphone-Beauty-Webseitendesigns, ideal zur Präsentation von KI-generierten Kosmetikmarken-Landingpage-Konzepten in sozialen Medien.
 
 #### 📝 Prompt
 
@@ -2128,7 +2128,7 @@ A polished promotional mockup showing 3 tall smartphone screens displayed side b
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14426_1.jpg" width="600" alt="Three Beauty Mobile Landing Pages - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14426_1.jpg" width="600" alt="Drei Beauty-Mobile-Landingpages - Image 1">
 </div>
 
 #### 📌 Details
@@ -2136,20 +2136,20 @@ A polished promotional mockup showing 3 tall smartphone screens displayed side b
 - **Autor:** [Serene Gan](https://x.com/ganserene)
 - **Quelle:** [Twitter Post](https://x.com/ganserene/status/2046738636226580919#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14426&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 49: Multi-industry Japanese Ad Collage
+### No. 49: Multi-Branchen Japanische Werbe-Collage
 
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A prompt for generating a multi-industry advertising collage in Japanese, featuring six distinct industry segments in a contemporary design style.
+Ein Prompt zur Erstellung einer Multi-Branchen-Werbe-Collage auf Japanisch, die sechs verschiedene Industriesegmente in einem zeitgenössischen Designstil präsentiert.
 
 #### 📝 Prompt
 
@@ -2162,7 +2162,7 @@ A fictional Japanese advertisement. A horizontal 6-panel layout featuring ads fo
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14369_1.jpg" width="600" alt="Multi-industry Japanese Ad Collage - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14369_1.jpg" width="600" alt="Multi-Branchen Japanische Werbe-Collage - Image 1">
 </div>
 
 #### 📌 Details
@@ -2170,20 +2170,20 @@ A fictional Japanese advertisement. A horizontal 6-panel layout featuring ads fo
 - **Autor:** [Aki | CuratorOfJoy](https://x.com/Aki_LIG)
 - **Quelle:** [Twitter Post](https://x.com/Aki_LIG/status/2046737496118268058)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** JA
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14369&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 50: Futuristic Cyberpunk Music Market
+### No. 50: Futuristischer Cyberpunk-Musikmarkt
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A highly detailed prompt for generating a dystopian cyberpunk scene featuring a massive sound system and a crowded neon market.
+Ein hochdetaillierter Prompt zur Erzeugung einer dystopischen Cyberpunk-Szene mit einem massiven Soundsystem und einem überfüllten Neon-Markt.
 
 #### 📝 Prompt
 
@@ -2196,13 +2196,13 @@ A futuristic {argument name="scene" default="cyberpunk outdoor music market"} sc
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14372_1.jpg" width="600" alt="Futuristic Cyberpunk Music Market - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14372_1.jpg" width="600" alt="Futuristischer Cyberpunk-Musikmarkt - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14372_2.jpg" width="600" alt="Futuristic Cyberpunk Music Market - Image 2">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14372_2.jpg" width="600" alt="Futuristischer Cyberpunk-Musikmarkt - Image 2">
 </div>
 
 #### 📌 Details
@@ -2210,19 +2210,19 @@ A futuristic {argument name="scene" default="cyberpunk outdoor music market"} sc
 - **Autor:** [Feel Rave](https://x.com/feel_rave)
 - **Quelle:** [Twitter Post](https://x.com/feel_rave/status/2046736892105044125)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14372&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 51: Four-Panel Romantic Comedy Manga Page
+### No. 51: Vier-Panel-Romantik-Comedy-Manga-Seite
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 
 #### 📖 Beschreibung
 
-This prompt generates a monochrome four-panel manga page with Japanese dialogue, ideal for creating dramatic romantic-comedy debate scenes with expressive character acting.
+Dieser Prompt generiert eine monochrome Manga-Seite mit vier Panels und japanischem Dialog, ideal für dramatische Romantik-Comedy-Debattenszenen mit ausdrucksstarkem Charakterspiel.
 
 #### 📝 Prompt
 
@@ -2235,7 +2235,7 @@ Create a black-and-white manga page with 4 stacked horizontal panels, clean blac
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14468_1.jpg" width="600" alt="Four-Panel Romantic Comedy Manga Page - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14468_1.jpg" width="600" alt="Vier-Panel-Romantik-Comedy-Manga-Seite - Image 1">
 </div>
 
 #### 📌 Details
@@ -2243,20 +2243,20 @@ Create a black-and-white manga page with 4 stacked horizontal panels, clean blac
 - **Autor:** [小猫遊りょう（たかにゃし・りょう）](https://x.com/jaguring1)
 - **Quelle:** [Twitter Post](https://x.com/jaguring1/status/2046735877628670430#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14468&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 52: Moody Coastal Road Trip Portrait
+### No. 52: Stimmungsvolle Küstenstraßen-Porträtfahrt
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-This prompt generates a cinematic candid seaside roadside portrait with a parked vintage sedan, ideal for nostalgic travel photography and lifestyle imagery.
+Dieser Prompt erzeugt ein cineastisches, ungestelltes Porträt an einer Küstenstraße mit einem geparkten Oldtimer, ideal für nostalgische Reisefotografie und Lifestyle-Bilder.
 
 #### 📝 Prompt
 
@@ -2269,7 +2269,7 @@ A cinematic candid photo of a {argument name="person" default="young woman"} sta
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14673_1.jpg" width="600" alt="Moody Coastal Road Trip Portrait - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14673_1.jpg" width="600" alt="Stimmungsvolle Küstenstraßen-Porträtfahrt - Image 1">
 </div>
 
 #### 📌 Details
@@ -2277,20 +2277,20 @@ A cinematic candid photo of a {argument name="person" default="young woman"} sta
 - **Autor:** [@levelsio](https://x.com/levelsio)
 - **Quelle:** [Twitter Post](https://x.com/levelsio/status/2046735438128333096#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14673&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 53: Luxury Fashion Book Spread
+### No. 53: Luxus-Mode-Buch-Doppelseite
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-This prompt generates a realistic overhead photo of an open fashion book featuring a two-page couture editorial spread, ideal for luxury branding, magazine mockups, or style campaign visuals.
+Dieser Prompt erzeugt ein realistisches Draufsichtfoto eines aufgeschlagenen Modebuchs mit einer zweispaltigen Couture-Editorial-Doppelseite, ideal für Luxus-Branding, Magazin-Mockups oder Stil-Kampagnenbilder.
 
 #### 📝 Prompt
 
@@ -2303,7 +2303,7 @@ A high-end editorial fashion photograph shown as an open large-format hardcover 
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14676_1.jpg" width="600" alt="Luxury Fashion Book Spread - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14676_1.jpg" width="600" alt="Luxus-Mode-Buch-Doppelseite - Image 1">
 </div>
 
 #### 📌 Details
@@ -2311,20 +2311,20 @@ A high-end editorial fashion photograph shown as an open large-format hardcover 
 - **Autor:** [@levelsio](https://x.com/levelsio)
 - **Quelle:** [Twitter Post](https://x.com/levelsio/status/2046735438128333096#reversed-3)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14676&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 54: Early 2000s Computer Lab With ChatGPT
+### No. 54: Computerraum der frühen 2000er mit ChatGPT
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-This prompt generates a nostalgic candid classroom photo of students using ChatGPT on CRT computers, ideal for editorial or social-media visuals about AI in everyday education.
+Dieser Prompt erzeugt ein nostalgisches, ungestelltes Klassenraumfoto von Schülern, die ChatGPT auf Röhrenmonitoren nutzen, ideal für redaktionelle oder Social-Media-Bilder über KI im Bildungsalltag.
 
 #### 📝 Prompt
 
@@ -2337,7 +2337,7 @@ A candid documentary-style photo of a {argument name="setting" default="high sch
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14675_1.jpg" width="600" alt="Early 2000s Computer Lab With ChatGPT - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14675_1.jpg" width="600" alt="Computerraum der frühen 2000er mit ChatGPT - Image 1">
 </div>
 
 #### 📌 Details
@@ -2345,20 +2345,20 @@ A candid documentary-style photo of a {argument name="setting" default="high sch
 - **Autor:** [@levelsio](https://x.com/levelsio)
 - **Quelle:** [Twitter Post](https://x.com/levelsio/status/2046735438128333096#reversed-2)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14675&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 55: Surreal Patio Portrait with Crow and Dog
+### No. 55: Surreales Terrassen-Porträt mit Krähe und Hund
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-This prompt generates a photorealistic, slightly uncanny portrait of a seated person holding a small dog while a black bird perches on their head, ideal for editorial-style surreal photography.
+Dieser Prompt erzeugt ein fotorealistisches, leicht unheimliches Porträt einer sitzenden Person, die einen kleinen Hund hält, während ein schwarzer Vogel auf ihrem Kopf sitzt, ideal für redaktionelle surreale Fotografie.
 
 #### 📝 Prompt
 
@@ -2371,7 +2371,7 @@ A slightly surreal but photorealistic portrait of a seated person in a quiet cou
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14674_1.jpg" width="600" alt="Surreal Patio Portrait with Crow and Dog - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14674_1.jpg" width="600" alt="Surreales Terrassen-Porträt mit Krähe und Hund - Image 1">
 </div>
 
 #### 📌 Details
@@ -2379,20 +2379,20 @@ A slightly surreal but photorealistic portrait of a seated person in a quiet cou
 - **Autor:** [@levelsio](https://x.com/levelsio)
 - **Quelle:** [Twitter Post](https://x.com/levelsio/status/2046735438128333096#reversed-1)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14674&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 56: Academic Economics Chart Simulation
+### No. 56: Akademische Wirtschaftsdiagramm-Simulation
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A prompt designed to generate highly realistic but fictitious academic charts, specifically showing a correlation between oil prices and shark attacks in an economics paper style.
+Ein Prompt, der darauf ausgelegt ist, hochrealistische, aber fiktive akademische Diagramme zu erzeugen, speziell eine Korrelation zwischen Ölpreisen und Haiangriffen im Stil einer Wirtschaftspublikation zeigt.
 
 #### 📝 Prompt
 
@@ -2405,7 +2405,7 @@ line graph from an important and prestigious {argument name="field" default="eco
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14396_1.jpg" width="600" alt="Academic Economics Chart Simulation - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14396_1.jpg" width="600" alt="Akademische Wirtschaftsdiagramm-Simulation - Image 1">
 </div>
 
 #### 📌 Details
@@ -2413,19 +2413,19 @@ line graph from an important and prestigious {argument name="field" default="eco
 - **Autor:** [QC](https://x.com/QiaochuYuan)
 - **Quelle:** [Twitter Post](https://x.com/QiaochuYuan/status/2046734593374781951)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14396&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 57: Leonardo Painting the Mona Lisa
+### No. 57: Leonardo malt die Mona Lisa
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 
 #### 📖 Beschreibung
 
-This prompt generates a cinematic historical scene of Leonardo da Vinci painting the Mona Lisa from a live model, ideal for dramatic fine-art and Renaissance-themed visuals.
+Dieses Prompt erzeugt eine filmische historische Szene, in der Leonardo da Vinci die Mona Lisa nach einem lebenden Modell malt, ideal für dramatische Fine-Art- und Renaissance-bezogene Visuals.
 
 #### 📝 Prompt
 
@@ -2438,25 +2438,25 @@ A cinematic Renaissance art studio interior lit by soft warm window light, showi
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14641_1.jpg" width="600" alt="Leonardo Painting the Mona Lisa - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14641_1.jpg" width="600" alt="Leonardo malt die Mona Lisa - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14641_2.jpg" width="600" alt="Leonardo Painting the Mona Lisa - Image 2">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14641_2.jpg" width="600" alt="Leonardo malt die Mona Lisa - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14641_3.jpg" width="600" alt="Leonardo Painting the Mona Lisa - Image 3">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14641_3.jpg" width="600" alt="Leonardo malt die Mona Lisa - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14641_4.jpg" width="600" alt="Leonardo Painting the Mona Lisa - Image 4">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14641_4.jpg" width="600" alt="Leonardo malt die Mona Lisa - Image 4">
 </div>
 
 #### 📌 Details
@@ -2464,20 +2464,20 @@ A cinematic Renaissance art studio interior lit by soft warm window light, showi
 - **Autor:** [Sinan DOĞU](https://x.com/Sinandoqu)
 - **Quelle:** [Twitter Post](https://x.com/Sinandoqu/status/2046734344396411281#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14641&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 58: Woman Dancing in Black Dress
+### No. 58: Tanzende Frau im schwarzen Kleid
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-This prompt generates a cinematic photorealistic nightlife portrait of a woman in a flowing black dress dancing elegantly in a dim lounge, ideal for fashion, performance, or social media visuals.
+Dieser Prompt erzeugt ein filmisch-fotorealistisches Nachtleben-Porträt einer Frau in einem fließenden schwarzen Kleid, die elegant in einer dämmrigen Lounge tanzt, ideal für Mode-, Performance- oder Social-Media-Visuals.
 
 #### 📝 Prompt
 
@@ -2490,7 +2490,7 @@ A dramatic full-body photo of a woman dancing powerfully in a dark upscale loung
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14506_1.jpg" width="600" alt="Woman Dancing in Black Dress - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14506_1.jpg" width="600" alt="Tanzende Frau im schwarzen Kleid - Image 1">
 </div>
 
 #### 📌 Details
@@ -2498,20 +2498,20 @@ A dramatic full-body photo of a woman dancing powerfully in a dark upscale loung
 - **Autor:** [蒼井　詠@AIで効率化する女](https://x.com/aoi___ei)
 - **Quelle:** [Twitter Post](https://x.com/aoi___ei/status/2046733167286219007#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14506&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 59: Add Anime Girl to Reference Lounge
+### No. 59: Anime-Mädchen zum Referenz-Lounge hinzufügen
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-This prompt places a large anime girl character into a supplied real interior background while preserving the original room composition for character compositing tests or background-reference experiments.
+Dieser Prompt platziert eine große Anime-Mädchen-Figur in einen gelieferten realen Innenraumhintergrund, während die ursprüngliche Raumkomposition für Compositing-Tests von Charakteren oder Hintergrund-Referenzexperimente erhalten bleibt.
 
 #### 📝 Prompt
 
@@ -2524,7 +2524,7 @@ Using the provided reference image as the exact background base, keep the same u
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14476_1.jpg" width="600" alt="Add Anime Girl to Reference Lounge - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14476_1.jpg" width="600" alt="Anime-Mädchen zum Referenz-Lounge hinzufügen - Image 1">
 </div>
 
 #### 📌 Details
@@ -2532,20 +2532,20 @@ Using the provided reference image as the exact background base, keep the same u
 - **Autor:** [studioあぽろん](https://x.com/ai_studioapollo)
 - **Quelle:** [Twitter Post](https://x.com/ai_studioapollo/status/2046732082412679537#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14476&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 60: Velvedia Character Reference Sheet
+### No. 60: Velvedia-Charakterreferenzblatt
 
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A short prompt for generating a character reference sheet for a mecha-style character named Velvedia.
+Ein kurzer Prompt zur Erstellung eines Charakterreferenzblatts für einen Mecha-artigen Charakter namens Velvedia.
 
 #### 📝 Prompt
 
@@ -2558,13 +2558,13 @@ A short prompt for generating a character reference sheet for a mecha-style char
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14368_1.jpg" width="600" alt="Velvedia Character Reference Sheet - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14368_1.jpg" width="600" alt="Velvedia-Charakterreferenzblatt - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14368_2.jpg" width="600" alt="Velvedia Character Reference Sheet - Image 2">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14368_2.jpg" width="600" alt="Velvedia-Charakterreferenzblatt - Image 2">
 </div>
 
 #### 📌 Details
@@ -2572,20 +2572,20 @@ A short prompt for generating a character reference sheet for a mecha-style char
 - **Autor:** [ジャスミーナ | AI Anime & Illustrations✨](https://x.com/JasminaAi)
 - **Quelle:** [Twitter Post](https://x.com/JasminaAi/status/2046730197802663962)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** JA
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14368&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 61: Pet in Cinematic Scene
+### No. 61: Haustier in Kinematografischer Szene
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A prompt to insert a personal pet into a famous cinematic style, in this case, a Kurosawa movie.
+Ein Prompt, um ein persönliches Haustier in einen berühmten filmischen Stil einzufügen, in diesem Fall einen Kurosawa-Film.
 
 #### 📝 Prompt
 
@@ -2598,13 +2598,13 @@ Can you put {argument name="subject" default="my girl dog"} in the movie {argume
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14321_1.jpg" width="600" alt="Pet in Cinematic Scene - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14321_1.jpg" width="600" alt="Haustier in Kinematografischer Szene - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14321_2.jpg" width="600" alt="Pet in Cinematic Scene - Image 2">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14321_2.jpg" width="600" alt="Haustier in Kinematografischer Szene - Image 2">
 </div>
 
 #### 📌 Details
@@ -2612,20 +2612,20 @@ Can you put {argument name="subject" default="my girl dog"} in the movie {argume
 - **Autor:** [Drew Pavlou 🇦🇺🇺🇸🇺🇦🇹🇼](https://x.com/DrewPavlou)
 - **Quelle:** [Twitter Post](https://x.com/DrewPavlou/status/2046729045975633977)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14321&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 62: Abstract Art Scientific Graph
+### No. 62: Abstrakte Kunstwissenschaftliche Grafik
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A prompt that generates a creative interpretation of an AI task horizons graph using the distinct style of Jean-Michel Basquiat and Voynich manuscript aesthetics.
+Ein Prompt, der eine kreative Interpretation eines KI-Aufgabenhorizont-Diagramms im unverwechselbaren Stil von Jean-Michel Basquiat und der Ästhetik des Voynich-Manuskripts erzeugt.
 
 #### 📝 Prompt
 
@@ -2638,25 +2638,25 @@ A prompt that generates a creative interpretation of an AI task horizons graph u
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14397_1.jpg" width="600" alt="Abstract Art Scientific Graph - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14397_1.jpg" width="600" alt="Abstrakte Kunstwissenschaftliche Grafik - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14397_2.jpg" width="600" alt="Abstract Art Scientific Graph - Image 2">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14397_2.jpg" width="600" alt="Abstrakte Kunstwissenschaftliche Grafik - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14397_3.jpg" width="600" alt="Abstract Art Scientific Graph - Image 3">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14397_3.jpg" width="600" alt="Abstrakte Kunstwissenschaftliche Grafik - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14397_4.jpg" width="600" alt="Abstract Art Scientific Graph - Image 4">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14397_4.jpg" width="600" alt="Abstrakte Kunstwissenschaftliche Grafik - Image 4">
 </div>
 
 #### 📌 Details
@@ -2664,19 +2664,19 @@ A prompt that generates a creative interpretation of an AI task horizons graph u
 - **Autor:** [Ethan Mollick](https://x.com/emollick)
 - **Quelle:** [Twitter Post](https://x.com/emollick/status/2046728271849550331)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14397&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 63: Retro Pixel Mountain Valley
+### No. 63: Retro-Pixel-Bergtal
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 
 #### 📖 Beschreibung
 
-A vibrant pixel art alpine landscape with halftone comic shading, ideal for retro game backgrounds, scenic posters, or nostalgic environment art.
+Eine lebendige Pixel-Art-Alpenlandschaft mit Halbton-Comic-Schattierung, ideal für Retro-Spielhintergründe, Landschaftsposter oder nostalgische Umgebungsgrafiken.
 
 #### 📝 Prompt
 
@@ -2689,7 +2689,7 @@ A highly detailed retro pixel art landscape of a bright alpine valley in summer,
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14417_1.jpg" width="600" alt="Retro Pixel Mountain Valley - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14417_1.jpg" width="600" alt="Retro-Pixel-Bergtal - Image 1">
 </div>
 
 #### 📌 Details
@@ -2697,20 +2697,20 @@ A highly detailed retro pixel art landscape of a bright alpine valley in summer,
 - **Autor:** [Beto](https://x.com/betomoedano)
 - **Quelle:** [Twitter Post](https://x.com/betomoedano/status/2046727843925942564#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14417&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 64: 8-Panel GPT-Image-2 Manga Promo
+### No. 64: 8-Panel GPT-Image-2 Manga-Werbeart
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-This prompt generates a Portuguese black-and-white manga-style eight-panel comic page for announcing and explaining GPT-Image-2 in a social-media-friendly promotional format.
+Dieses Prompt erzeugt eine portugiesische schwarz-weiße Manga-Seite mit acht Panels, um GPT-Image-2 in einem für Social Media geeigneten Werbeformat anzukündigen und zu erklären.
 
 #### 📝 Prompt
 
@@ -2723,7 +2723,7 @@ This prompt generates a Portuguese black-and-white manga-style eight-panel comic
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14639_1.jpg" width="600" alt="8-Panel GPT-Image-2 Manga Promo - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14639_1.jpg" width="600" alt="8-Panel GPT-Image-2 Manga-Werbeart - Image 1">
 </div>
 
 #### 📌 Details
@@ -2731,20 +2731,20 @@ This prompt generates a Portuguese black-and-white manga-style eight-panel comic
 - **Autor:** [Diogo Santos](https://x.com/diogosantosbr)
 - **Quelle:** [Twitter Post](https://x.com/diogosantosbr/status/2046727812921413837#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14639&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 65: Modern Iced Coffee Advertisement Design
+### No. 65: Moderne-Eiskaffee-Werbegestaltung
 
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A prompt for creating a modern, stylish iced coffee advertisement for the Japanese market, featuring dynamic typography.
+Ein Prompt zur Erstellung einer modernen, stilvollen Eiskaffee-Werbung für den japanischen Markt mit dynamischer Typografie.
 
 #### 📝 Prompt
 
@@ -2757,7 +2757,7 @@ Create an advertisement for {argument name="product" default="iced coffee"}. A s
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14355_1.jpg" width="600" alt="Modern Iced Coffee Advertisement Design - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14355_1.jpg" width="600" alt="Moderne-Eiskaffee-Werbegestaltung - Image 1">
 </div>
 
 #### 📌 Details
@@ -2765,20 +2765,20 @@ Create an advertisement for {argument name="product" default="iced coffee"}. A s
 - **Autor:** [KAWAI](https://x.com/kawai_design)
 - **Quelle:** [Twitter Post](https://x.com/kawai_design/status/2046727724455354395)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** JA
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14355&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 66: Japanese AI Clinic Billing Statement
+### No. 66: Japanische AI-Klinik-Abrechnungsbeleg
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A realistic parody medical statement in Japanese for an AI model, useful for creating humorous clinic-style paperwork and document mockups.
+Ein realistischer Parodie-Krankenhausbeleg auf Japanisch für ein KI-Modell, nützlich für die Erstellung humorvoller klinikartiger Papierkram- und Dokumenten-Mockups.
 
 #### 📝 Prompt
 
@@ -2791,7 +2791,7 @@ A realistic parody medical statement in Japanese for an AI model, useful for cre
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14535_1.jpg" width="600" alt="Japanese AI Clinic Billing Statement - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14535_1.jpg" width="600" alt="Japanische AI-Klinik-Abrechnungsbeleg - Image 1">
 </div>
 
 #### 📌 Details
@@ -2799,20 +2799,20 @@ A realistic parody medical statement in Japanese for an AI model, useful for cre
 - **Autor:** [マシモGPT🤖@ChatGPT/Claude/Gemini/GrokなどLLMをこねくり回す人](https://x.com/Masimo_Blue)
 - **Quelle:** [Twitter Post](https://x.com/Masimo_Blue/status/2046727684538105890#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14535&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 67: Japanese AI Model Prescription Sheet
+### No. 67: Japanisches KI-Modell-Rezeptformular
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A realistic overhead photo of a humorous Japanese prescription form for an AI model, useful for generating official-looking parody documents and mock paperwork.
+Ein realistisches Draufsichtfoto eines humorvollen japanischen Rezeptformulars für ein KI-Modell, nützlich für die Generierung offiziell aussehender Parodiedokumente und Mock-Papierkram.
 
 #### 📝 Prompt
 
@@ -2912,7 +2912,7 @@ A realistic overhead photo of a humorous Japanese prescription form for an AI mo
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14536_1.jpg" width="600" alt="Japanese AI Model Prescription Sheet - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14536_1.jpg" width="600" alt="Japanisches KI-Modell-Rezeptformular - Image 1">
 </div>
 
 #### 📌 Details
@@ -2920,19 +2920,19 @@ A realistic overhead photo of a humorous Japanese prescription form for an AI mo
 - **Autor:** [マシモGPT🤖@ChatGPT/Claude/Gemini/GrokなどLLMをこねくり回す人](https://x.com/Masimo_Blue)
 - **Quelle:** [Twitter Post](https://x.com/Masimo_Blue/status/2046727684538105890#reversed-1)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14536&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 68: ChatGPT Joke Prescription Set
+### No. 68: ChatGPT-Witz-Rezept-Set
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 
 #### 📖 Beschreibung
 
-A realistic overhead photo of a humorous Japanese medical prescription and medicine set for ChatGPT, ideal for parody healthcare-themed prop graphics or social media concept art.
+Ein realistisches Overhead-Foto eines humorvollen japanischen medizinischen Rezepts und Medikamentensets für ChatGPT, ideal für parodistische Healthcare-Prop-Grafiken oder Social-Media-Konzeptkunst.
 
 #### 📝 Prompt
 
@@ -2959,7 +2959,7 @@ Style: photorealistic documentary product shot, comedic fake prescription prop d
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14537_1.jpg" width="600" alt="ChatGPT Joke Prescription Set - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14537_1.jpg" width="600" alt="ChatGPT-Witz-Rezept-Set - Image 1">
 </div>
 
 #### 📌 Details
@@ -2967,19 +2967,19 @@ Style: photorealistic documentary product shot, comedic fake prescription prop d
 - **Autor:** [マシモGPT🤖@ChatGPT/Claude/Gemini/GrokなどLLMをこねくり回す人](https://x.com/Masimo_Blue)
 - **Quelle:** [Twitter Post](https://x.com/Masimo_Blue/status/2046727684538105890#reversed-2)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14537&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 69: Gatebox3 Hologram Device Ad
+### No. 69: Gatebox3-Hologramm-Gerät-Werbung
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 
 #### 📖 Beschreibung
 
-This prompt generates a polished futuristic Japanese product advertisement for a hologram companion device, suitable for tech marketing visuals and concept campaigns.
+Dieser Prompt erzeugt eine polierte futuristische japanische Produktwerbung für ein Hologramm-Begleiter-Gerät, geeignet für Tech-Marketing-Bilder und Konzeptkampagnen.
 
 #### 📝 Prompt
 
@@ -2992,7 +2992,7 @@ A sleek futuristic Japanese tech advertisement in a dark sci-fi showroom with gl
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14613_1.jpg" width="600" alt="Gatebox3 Hologram Device Ad - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14613_1.jpg" width="600" alt="Gatebox3-Hologramm-Gerät-Werbung - Image 1">
 </div>
 
 #### 📌 Details
@@ -3000,20 +3000,20 @@ A sleek futuristic Japanese tech advertisement in a dark sci-fi showroom with gl
 - **Autor:** [Vikki Zeliz](https://x.com/ZelizAbrigo)
 - **Quelle:** [Twitter Post](https://x.com/ZelizAbrigo/status/2046727280622260378#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14613&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 70: Emotional Japanese Movie Flyer Prompt
+### No. 70: Emotionaler japanischer Filmflyer-Prompt
 
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A prompt for creating a cinematic Japanese movie poster using a specific character as the lead.
+Ein Prompt zur Erstellung eines filmischen japanischen Filmplakats unter Verwendung eines bestimmten Charakters in der Hauptrolle.
 
 #### 📝 Prompt
 
@@ -3026,7 +3026,7 @@ Please create an {argument name="atmosphere" default="emotional"} Japanese movie
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14362_1.jpg" width="600" alt="Emotional Japanese Movie Flyer Prompt - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14362_1.jpg" width="600" alt="Emotionaler japanischer Filmflyer-Prompt - Image 1">
 </div>
 
 #### 📌 Details
@@ -3034,19 +3034,19 @@ Please create an {argument name="atmosphere" default="emotional"} Japanese movie
 - **Autor:** [あたらくしあ@週末AIクリエイター🎨](https://x.com/zuomuyan2542801)
 - **Quelle:** [Twitter Post](https://x.com/zuomuyan2542801/status/2046727162494091701)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** JA
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14362&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 71: Censored Office Manga Confrontation
+### No. 71: Zensierte Büro-Manga-Konfrontation
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 
 #### 📖 Beschreibung
 
-A gritty monochrome manga page showing a heated office argument that shifts into a kabedon scene, useful for recreating dramatic viral manga-style screenshots.
+Eine düstere monochrome Manga-Seite, die eine hitzige Büroauseinandersetzung zeigt, die in eine Kabedon-Szene übergeht, nützlich zum Nachbauen dramatischer viraler Manga-Stil-Screenshots.
 
 #### 📝 Prompt
 
@@ -3059,7 +3059,7 @@ A dramatic black-and-white manga page in a seinen style, rendered with dense scr
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14477_1.jpg" width="600" alt="Censored Office Manga Confrontation - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14477_1.jpg" width="600" alt="Zensierte Büro-Manga-Konfrontation - Image 1">
 </div>
 
 #### 📌 Details
@@ -3067,19 +3067,19 @@ A dramatic black-and-white manga page in a seinen style, rendered with dense scr
 - **Autor:** [小猫遊りょう（たかにゃし・りょう）](https://x.com/jaguring1)
 - **Quelle:** [Twitter Post](https://x.com/jaguring1/status/2046726900668907673#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14477&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 72: Cute Morning Greeting Figure Sticker
+### No. 72: Niedlicher Morgengruß-Figurenaufkleber
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 
 #### 📖 Beschreibung
 
-This prompt generates a toy-like 3D sticker illustration of a chibi woman waving beside a silver tabby cat with Japanese morning text, ideal for social media stamps or greeting graphics.
+Dieser Prompt erzeugt eine spielzeugartige 3D-Aufkleberillustration einer Chibi-Frau, die neben einer silbernen Tabby-Katze winkt, mit japanischem Morgentext, ideal für Social-Media-Stempel oder Grußgrafiken.
 
 #### 📝 Prompt
 
@@ -3092,7 +3092,7 @@ A cute sticker-style 3D figurine illustration on a clean light gray background, 
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14475_1.jpg" width="600" alt="Cute Morning Greeting Figure Sticker - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14475_1.jpg" width="600" alt="Niedlicher Morgengruß-Figurenaufkleber - Image 1">
 </div>
 
 #### 📌 Details
@@ -3100,20 +3100,20 @@ A cute sticker-style 3D figurine illustration on a clean light gray background, 
 - **Autor:** [ソボちゃん🍀自宅民泊1年生](https://x.com/sobonoyokomichi)
 - **Quelle:** [Twitter Post](https://x.com/sobonoyokomichi/status/2046726277978321024#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14475&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 73: Japanese Four-Panel Healing Ad Collage
+### No. 73: Japanische Vier-Panel-Heilungs-Werbe-Collage
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A bold four-quadrant Japanese promotional thumbnail for coaching or self-improvement services, designed for social media posts, profile links, or marketplace cover images.
+Ein auffälliges viergeteiltes japanisches Werbe-Thumbnail für Coaching- oder Selbstverbesserungsdienste, konzipiert für Social-Media-Posts, Profillinks oder Marktplatz-Cover-Bilder.
 
 #### 📝 Prompt
 
@@ -3126,7 +3126,7 @@ A bold four-quadrant Japanese promotional thumbnail for coaching or self-improve
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14551_1.jpg" width="600" alt="Japanese Four-Panel Healing Ad Collage - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14551_1.jpg" width="600" alt="Japanische Vier-Panel-Heilungs-Werbe-Collage - Image 1">
 </div>
 
 #### 📌 Details
@@ -3134,20 +3134,20 @@ A bold four-quadrant Japanese promotional thumbnail for coaching or self-improve
 - **Autor:** [そら《稼ぐマインドを整えるヒーラー》](https://x.com/5656nya5nya)
 - **Quelle:** [Twitter Post](https://x.com/5656nya5nya/status/2046726072600027296#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14551&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 74: VINCO Editorial Moodboard Screenshot
+### No. 74: VINCO Editorial Moodboard-Screenshot
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A screenshot-style AI moodboard showing a six-image editorial fashion concept for a fictional streetwear and natural-wine brand, useful for recreating art direction decks or campaign reference boards.
+Ein screenshotartiges KI-Moodboard, das ein sechs Bilder umfassendes Editorial-Fashion-Konzept für eine fiktive Streetwear- und Naturwein-Marke zeigt, nützlich zum Nachbauen von Art-Direction-Decks oder Kampagnen-Referenzboards.
 
 #### 📝 Prompt
 
@@ -3160,13 +3160,13 @@ Create a 4:5 editorial fashion lookbook moodboard for a fictional brand called {
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14411_1.jpg" width="600" alt="VINCO Editorial Moodboard Screenshot - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14411_1.jpg" width="600" alt="VINCO Editorial Moodboard-Screenshot - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14411_2.jpg" width="600" alt="VINCO Editorial Moodboard Screenshot - Image 2">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14411_2.jpg" width="600" alt="VINCO Editorial Moodboard-Screenshot - Image 2">
 </div>
 
 #### 📌 Details
@@ -3174,20 +3174,20 @@ Create a 4:5 editorial fashion lookbook moodboard for a fictional brand called {
 - **Autor:** [Justin Rands](https://x.com/jayrizpop)
 - **Quelle:** [Twitter Post](https://x.com/jayrizpop/status/2046725951640441151#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14411&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 75: Tech Tutorial Thumbnail with UI Mockup
+### No. 75: Tech-Tutorial-Thumbnail mit UI-Mockup
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A bold YouTube-style thumbnail featuring a tutorial headline, a design app dashboard mockup, and a presenter pointing at the interface for branding or design-system content.
+Ein auffälliges YouTube-artiges Thumbnail mit einer Tutorial-Überschrift, einem Dashboard-Mockup einer Design-App und einem Moderator, der auf die Oberfläche zeigt, für Branding- oder Design-System-Inhalte.
 
 #### 📝 Prompt
 
@@ -3200,7 +3200,7 @@ A clean modern YouTube thumbnail on a bright white background, split visually be
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14695_1.jpg" width="600" alt="Tech Tutorial Thumbnail with UI Mockup - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14695_1.jpg" width="600" alt="Tech-Tutorial-Thumbnail mit UI-Mockup - Image 1">
 </div>
 
 #### 📌 Details
@@ -3208,20 +3208,20 @@ A clean modern YouTube thumbnail on a bright white background, split visually be
 - **Autor:** [corbin](https://x.com/corbin_braun)
 - **Quelle:** [Twitter Post](https://x.com/corbin_braun/status/2046725432851284326#reversed-1)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14695&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 76: Autumn Park Reading Stock Photo
+### No. 76: Herbstliches Park-Lesestockfoto
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-This prompt generates a warm, realistic stock-style image of a person reading by a tree in an autumn park, ideal for lifestyle, education, or seasonal editorial use.
+Dieser Prompt erzeugt ein warmes, realistisches Stockfoto einer lesenden Person an einem Baum in einem Herbstpark, ideal für Lifestyle-, Bildungs- oder saisonale redaktionelle Nutzung.
 
 #### 📝 Prompt
 
@@ -3234,7 +3234,7 @@ A realistic lifestyle stock photo of {argument name="subject" default="a young w
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14612_1.jpg" width="600" alt="Autumn Park Reading Stock Photo - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14612_1.jpg" width="600" alt="Herbstliches Park-Lesestockfoto - Image 1">
 </div>
 
 #### 📌 Details
@@ -3242,19 +3242,19 @@ A realistic lifestyle stock photo of {argument name="subject" default="a young w
 - **Autor:** [Diseño 4.0](https://x.com/Design4p0)
 - **Quelle:** [Twitter Post](https://x.com/Design4p0/status/2046724025473241224#reversed-1)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14612&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 77: Cinematic Group in Front of Green Screen
+### No. 77: Cineastische Gruppe vor Greenscreen
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 
 #### 📖 Beschreibung
 
-This prompt generates a realistic behind-the-scenes studio photo of four young adults in front of a chroma green background, useful for cinematic production or AI video workflow visuals.
+Dieser Prompt erzeugt ein realistisches Behind-the-Scenes-Studiofoto von vier jungen Erwachsenen vor einem Chroma-Key-Grün-Hintergrund, nützlich für cineastische Produktionsbilder oder AI-Video-Workflow-Visuals.
 
 #### 📝 Prompt
 
@@ -3267,7 +3267,7 @@ A cinematic candid photo of 4 young adults standing in front of a smooth studio 
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14614_1.jpg" width="600" alt="Cinematic Group in Front of Green Screen - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14614_1.jpg" width="600" alt="Cineastische Gruppe vor Greenscreen - Image 1">
 </div>
 
 #### 📌 Details
@@ -3275,20 +3275,20 @@ A cinematic candid photo of 4 young adults standing in front of a smooth studio 
 - **Autor:** [Diego](https://x.com/DiegoGarey_jpg)
 - **Quelle:** [Twitter Post](https://x.com/DiegoGarey_jpg/status/2046723117125337357#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14614&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 78: Tang Dynasty Queen & Minions Gongbi Painting
+### No. 78: Tang-Dynastie-Königin-&-Minions-Gongbi-Gemälde
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A creative prompt blending traditional Chinese Gongbi ink painting with modern elements like hairdryers and Minions for a humorous anachronistic scene.
+Ein kreativer Prompt, der traditionelle chinesische Gongbi-Tuschemalerei mit modernen Elementen wie Haartrocknern und Minions für eine humorvolle anachronistische Szene kombiniert.
 
 #### 📝 Prompt
 
@@ -3301,7 +3301,7 @@ A traditional Chinese ink and color painting in {argument name="style" default="
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14325_1.jpg" width="600" alt="Tang Dynasty Queen & Minions Gongbi Painting - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14325_1.jpg" width="600" alt="Tang-Dynastie-Königin-&-Minions-Gongbi-Gemälde - Image 1">
 </div>
 
 #### 📌 Details
@@ -3309,20 +3309,20 @@ A traditional Chinese ink and color painting in {argument name="style" default="
 - **Autor:** [宝玉](https://x.com/dotey)
 - **Quelle:** [Twitter Post](https://x.com/dotey/status/2046723051895800086)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14325&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 79: Fantasy Woman Hugging a White Ram
+### No. 79: Fantasy-Frau umarmt einen weißen Widder
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-This prompt generates a realistic medieval-fantasy portrait of a red-haired woman embracing a horned white ram, ideal for atmospheric character art or editorial-style fantasy visuals.
+Dieser Prompt erzeugt ein realistisches mittelalterlich-fantastisches Porträt einer rothaarigen Frau, die ein gehörntes weißes Widder umarmt, ideal für atmosphärische Charakterkunst oder redaktionelle Fantasy-Bilder.
 
 #### 📝 Prompt
 
@@ -3335,7 +3335,7 @@ A photorealistic, cinematic vertical portrait of a medieval or fantasy woman wit
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14619_1.jpg" width="600" alt="Fantasy Woman Hugging a White Ram - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14619_1.jpg" width="600" alt="Fantasy-Frau umarmt einen weißen Widder - Image 1">
 </div>
 
 #### 📌 Details
@@ -3343,20 +3343,20 @@ A photorealistic, cinematic vertical portrait of a medieval or fantasy woman wit
 - **Autor:** [Adan Avelar Islas](https://x.com/adanvecindad)
 - **Quelle:** [Twitter Post](https://x.com/adanvecindad/status/2046722781631439244#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14619&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 80: Pink Kawaii Idol Lipstick Portrait
+### No. 80: Pinke Kawaii-Idol-Lippenstift-Porträt
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-This prompt generates a sparkling anime idol-style portrait for posters, social media art, or cute character key visuals.
+Dieser Prompt erzeugt ein funkelndes Porträt im Anime-Idol-Stil für Poster, Social-Media-Kunst oder niedliche Charakter-Key-Visuals.
 
 #### 📝 Prompt
 
@@ -3369,7 +3369,7 @@ A highly detailed glossy anime idol portrait in a vertical composition, showing 
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14606_1.jpg" width="600" alt="Pink Kawaii Idol Lipstick Portrait - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14606_1.jpg" width="600" alt="Pinke Kawaii-Idol-Lippenstift-Porträt - Image 1">
 </div>
 
 #### 📌 Details
@@ -3377,20 +3377,20 @@ A highly detailed glossy anime idol portrait in a vertical composition, showing 
 - **Autor:** [ねね*AIcreator](https://x.com/NeneneAI)
 - **Quelle:** [Twitter Post](https://x.com/NeneneAI/status/2046721817893872064#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14606&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 81: Modern Ad Layout Design
+### No. 81: Moderne-Anzeigenlayout-Gestaltung
 
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A structured layout prompt designed for Japanese advertising and posters, focusing on specific text and eye-catching visuals.
+Ein strukturierter Layout-Prompt für japanische Werbung und Poster, der sich auf spezifischen Text und auffällige Visuals konzentriert.
 
 #### 📝 Prompt
 
@@ -3407,7 +3407,7 @@ A structured layout prompt designed for Japanese advertising and posters, focusi
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14356_1.jpg" width="600" alt="Modern Ad Layout Design - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14356_1.jpg" width="600" alt="Moderne-Anzeigenlayout-Gestaltung - Image 1">
 </div>
 
 #### 📌 Details
@@ -3415,20 +3415,20 @@ A structured layout prompt designed for Japanese advertising and posters, focusi
 - **Autor:** [KAWAI](https://x.com/kawai_design)
 - **Quelle:** [Twitter Post](https://x.com/kawai_design/status/2046721792233128001)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** JA
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14356&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 82: World of Warcraft Style Raid
+### No. 82: World of Warcraft-Stil Raid
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-Generates a detailed scene of a massive horde raid in the classic 2004 World of Warcraft art style, featuring specific characters in an epic battle.
+Erzeugt eine detaillierte Szene eines massiven Horden-Raids im klassischen World of Warcraft-Kunststil von 2004, mit spezifischen Charakteren in einer epischen Schlacht.
 
 #### 📝 Prompt
 
@@ -3441,7 +3441,7 @@ a {argument name="player count" default="20"} person horde raid is fighting {arg
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14386_1.jpg" width="600" alt="World of Warcraft Style Raid - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14386_1.jpg" width="600" alt="World of Warcraft-Stil Raid - Image 1">
 </div>
 
 #### 📌 Details
@@ -3449,20 +3449,20 @@ a {argument name="player count" default="20"} person horde raid is fighting {arg
 - **Autor:** [Chubby♨️](https://x.com/kimmonismus)
 - **Quelle:** [Twitter Post](https://x.com/kimmonismus/status/2046719924362465562)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14386&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 83: Quantum Cat Manga
+### No. 83: Quanten-Katzen-Manga
 
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A short, creative prompt for generating a manga panel featuring a cat exhibiting quantum physics behaviors.
+Ein kurzer, kreativer Prompt zur Generierung eines Manga-Panels mit einer Katze, die quantenphysikalische Verhaltensweisen zeigt.
 
 #### 📝 Prompt
 
@@ -3475,7 +3475,7 @@ Please draw a manga where a {argument name="subject" default="cat"} {argument na
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14348_1.jpg" width="600" alt="Quantum Cat Manga - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14348_1.jpg" width="600" alt="Quanten-Katzen-Manga - Image 1">
 </div>
 
 #### 📌 Details
@@ -3483,20 +3483,20 @@ Please draw a manga where a {argument name="subject" default="cat"} {argument na
 - **Autor:** [Haruhiko Okumura](https://x.com/h_okumura)
 - **Quelle:** [Twitter Post](https://x.com/h_okumura/status/2046719692803580298)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** JA
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14348&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 84: Blue-Haired Anime Character Sheet
+### No. 84: Charakterblatt einer blauhaarigen Anime-Figur
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-This prompt generates a white-background anime character collage with multiple portraits and poses, useful for concept art, style exploration, or storyboard character design.
+Dieses Prompt erzeugt eine Anime-Charakter-Collage mit weißem Hintergrund und mehreren Porträts und Posen, nützlich für Konzeptkunst, Stilerkundung oder Storyboard-Charakterdesign.
 
 #### 📝 Prompt
 
@@ -3509,7 +3509,7 @@ This prompt generates a white-background anime character collage with multiple p
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14509_1.jpg" width="600" alt="Blue-Haired Anime Character Sheet - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14509_1.jpg" width="600" alt="Charakterblatt einer blauhaarigen Anime-Figur - Image 1">
 </div>
 
 #### 📌 Details
@@ -3517,20 +3517,20 @@ This prompt generates a white-background anime character collage with multiple p
 - **Autor:** [てばさき](https://x.com/tebasaki3D)
 - **Quelle:** [Twitter Post](https://x.com/tebasaki3D/status/2046719202292322361#reversed-1)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14509&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 85: Nostalgic Software Interface
+### No. 85: Nostalgische Software-Oberfläche
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A prompt to recreate the UI aesthetics of creative software from the 1990s.
+Ein Prompt, um die UI-Ästhetik von Kreativsoftware der 1990er Jahre nachzubilden.
 
 #### 📝 Prompt
 
@@ -3543,7 +3543,7 @@ a screenshot of {argument name="software" default="Photoshop"} in {argument name
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14383_1.jpg" width="600" alt="Nostalgic Software Interface - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14383_1.jpg" width="600" alt="Nostalgische Software-Oberfläche - Image 1">
 </div>
 
 #### 📌 Details
@@ -3551,20 +3551,20 @@ a screenshot of {argument name="software" default="Photoshop"} in {argument name
 - **Autor:** [Kris Kashtanova](https://x.com/icreatelife)
 - **Quelle:** [Twitter Post](https://x.com/icreatelife/status/2046718694567321891)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14383&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 86: Cute Sheep Girl Office Manga Page
+### No. 86: Niedliche Schaf-Mädchen-Büro-Manga-Seite
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A four-panel pastel fantasy office manga page showing a sheep-horned clerk and a fluffy sheep turning paperwork into a sleepy, cozy gag scene.
+Eine vierteilige Pastell-Fantasy-Büro-Manga-Seite, die eine schafhörnige Angestellte und ein flauschiges Schaf zeigt, die Papierkram in eine schläfrige, gemütliche Gag-Szene verwandeln.
 
 #### 📝 Prompt
 
@@ -3577,19 +3577,19 @@ A four-panel pastel fantasy office manga page showing a sheep-horned clerk and a
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14532_1.jpg" width="600" alt="Cute Sheep Girl Office Manga Page - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14532_1.jpg" width="600" alt="Niedliche Schaf-Mädchen-Büro-Manga-Seite - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14532_2.jpg" width="600" alt="Cute Sheep Girl Office Manga Page - Image 2">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14532_2.jpg" width="600" alt="Niedliche Schaf-Mädchen-Büro-Manga-Seite - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14532_3.jpg" width="600" alt="Cute Sheep Girl Office Manga Page - Image 3">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14532_3.jpg" width="600" alt="Niedliche Schaf-Mädchen-Büro-Manga-Seite - Image 3">
 </div>
 
 #### 📌 Details
@@ -3597,20 +3597,20 @@ A four-panel pastel fantasy office manga page showing a sheep-horned clerk and a
 - **Autor:** [じょにがたロボ](https://x.com/jonigata_ai)
 - **Quelle:** [Twitter Post](https://x.com/jonigata_ai/status/2046717757182685486#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14532&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 87: Anime Sunset Film Poster
+### No. 87: Anime-Sonnenuntergang-Filmplakat
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-This prompt generates a polished Japanese anime movie poster featuring two students overlooking a seaside town at sunset, ideal for cinematic key visuals and romantic drama promotional art.
+Dieser Prompt generiert ein poliertes japanisches Anime-Filmplakat mit zwei Schülern, die auf eine Küstenstadt bei Sonnenuntergang blicken, ideal für filmische Key-Visuals und romantische Drama-Werbekunst.
 
 #### 📝 Prompt
 
@@ -3623,7 +3623,7 @@ A breathtaking anime movie poster at golden-hour sunset, vertical theatrical one
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14472_1.jpg" width="600" alt="Anime Sunset Film Poster - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14472_1.jpg" width="600" alt="Anime-Sonnenuntergang-Filmplakat - Image 1">
 </div>
 
 #### 📌 Details
@@ -3631,20 +3631,20 @@ A breathtaking anime movie poster at golden-hour sunset, vertical theatrical one
 - **Autor:** [NIJI🌈 画像生成AIを学ぶ人](https://x.com/niji_sono)
 - **Quelle:** [Twitter Post](https://x.com/niji_sono/status/2046716935845601313#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14472&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 88: Beginner Coin Collecting Manga Page
+### No. 88: Münzsammeln-Anfänger-Manga-Seite
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A polished one-page anime manga introduces coin collecting to beginners, useful for educational social posts, explainer comics, or hobby-themed promotional art.
+Eine polierte einseitige Anime-Manga-Seite, die Anfängern das Münzsammeln vorstellt, nützlich für pädagogische Social-Media-Posts, Erklärcomics oder hobbythematische Werbekunst.
 
 #### 📝 Prompt
 
@@ -3657,7 +3657,7 @@ A polished one-page anime manga introduces coin collecting to beginners, useful 
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14550_1.jpg" width="600" alt="Beginner Coin Collecting Manga Page - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14550_1.jpg" width="600" alt="Münzsammeln-Anfänger-Manga-Seite - Image 1">
 </div>
 
 #### 📌 Details
@@ -3665,20 +3665,20 @@ A polished one-page anime manga introduces coin collecting to beginners, useful 
 - **Autor:** [メイヤ＠コイン収集](https://x.com/meiya_coin)
 - **Quelle:** [Twitter Post](https://x.com/meiya_coin/status/2046716329894506956#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14550&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 89: Pixel Art Movie Poster Prompt
+### No. 89: Pixel-Art-Filmplakat-Prompt
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A prompt for a retro 16-bit pixel art style movie poster featuring zombie detectives in a buddy cop theme.
+Ein Prompt für ein Retro-16-Bit-Pixel-Art-Filmplakat mit Zombie-Detektiven im Buddy-Cop-Thema.
 
 #### 📝 Prompt
 
@@ -3691,7 +3691,7 @@ Create a single full-scene image in a 9:16 vertical format, retro 16-bit pixel a
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14313_1.jpg" width="600" alt="Pixel Art Movie Poster Prompt - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14313_1.jpg" width="600" alt="Pixel-Art-Filmplakat-Prompt - Image 1">
 </div>
 
 #### 📌 Details
@@ -3699,7 +3699,7 @@ Create a single full-scene image in a 9:16 vertical format, retro 16-bit pixel a
 - **Autor:** [PromptlyAI](https://x.com/PromptlyAI_YT)
 - **Quelle:** [Twitter Post](https://x.com/PromptlyAI_YT/status/2046716273556598979)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14313&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
@@ -3707,12 +3707,12 @@ Create a single full-scene image in a 9:16 vertical format, retro 16-bit pixel a
 
 ### No. 90: Widebody Volvo 240 Spec Board
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-This prompt generates a clean automotive concept presentation board showing a modified Volvo 240 from six angles with labeled spec-sheet sections, ideal for car design showcases and tuning brand mockups.
+Dieser Prompt generiert ein sauberes Automotive-Konzeptpräsentationsboard, das einen modifizierten Volvo 240 aus sechs Blickwinkeln mit beschrifteten Spezifikationsabschnitten zeigt, ideal für Autodesign-Präsentationen und Tuning-Marken-Mockups.
 
 #### 📝 Prompt
 
@@ -3739,19 +3739,19 @@ This prompt generates a clean automotive concept presentation board showing a mo
 - **Autor:** [Angus](https://x.com/Angusyo16060873)
 - **Quelle:** [Twitter Post](https://x.com/Angusyo16060873/status/2046715368987664526#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14590&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 91: Minimal Pelican Riding Bicycle
+### No. 91: Minimalistischer Pelikan auf Fahrrad
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 
 #### 📖 Beschreibung
 
-This prompt generates a sparse geometric vector illustration of a pelican on a bicycle, useful for testing simple shape composition or creating a playful abstract icon-style image.
+Dieses Prompt erzeugt eine reduzierte geometrische Vektorillustration eines Pelikans auf einem Fahrrad, nützlich zum Testen einfacher Formkompositionen oder zum Erstellen eines verspielten abstrakten Icon-Stil-Bildes.
 
 #### 📝 Prompt
 
@@ -3764,7 +3764,7 @@ A minimalist vector-style illustration on a flat light gray background showing a
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14657_1.png" width="600" alt="Minimal Pelican Riding Bicycle - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14657_1.png" width="600" alt="Minimalistischer Pelikan auf Fahrrad - Image 1">
 </div>
 
 #### 📌 Details
@@ -3772,19 +3772,19 @@ A minimalist vector-style illustration on a flat light gray background showing a
 - **Autor:** [Justin Schroeder](https://x.com/jpschroeder)
 - **Quelle:** [Twitter Post](https://x.com/jpschroeder/status/2046714718790816171#reversed-1)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14657&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 92: Cute Four-Panel Cat Jealousy Comic
+### No. 92: Niedriger Vier-Panel-Katzen-Eifersuchts-Comic
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 
 #### 📖 Beschreibung
 
-This prompt generates a warm, hand-drawn four-panel cat comic ideal for social posts, manga-style humor, or cozy pet illustrations.
+Dieser Prompt erzeugt einen warmherzigen, handgezeichneten Vier-Panel-Katzencomic, ideal für Social-Media-Posts, Manga-artigen Humor oder gemütliche Tierillustrationen.
 
 #### 📝 Prompt
 
@@ -3797,7 +3797,7 @@ A cute hand-drawn four-panel comic in a soft, warm, slice-of-life style on a lig
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14503_1.jpg" width="600" alt="Cute Four-Panel Cat Jealousy Comic - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14503_1.jpg" width="600" alt="Niedriger Vier-Panel-Katzen-Eifersuchts-Comic - Image 1">
 </div>
 
 #### 📌 Details
@@ -3805,19 +3805,19 @@ A cute hand-drawn four-panel comic in a soft, warm, slice-of-life style on a lig
 - **Autor:** [Maoku](https://x.com/Maoku)
 - **Quelle:** [Twitter Post](https://x.com/Maoku/status/2046713681741038048#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14503&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 93: 108 Chibi Fantasy Mandala
+### No. 93: 108 Chibi-Fantasy-Mandala
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 
 #### 📖 Beschreibung
 
-A highly detailed wide fantasy poster showing exactly 108 unique chibi mythical creatures arranged in concentric mandala rings, ideal for decorative key art or showcase illustrations.
+Ein hochdetailliertes breites Fantasy-Poster, das exakt 108 einzigartige Chibi-Fabelwesen zeigt, angeordnet in konzentrischen Mandala-Ringen, ideal für dekorative Key-Art oder Showcase-Illustrationen.
 
 #### 📝 Prompt
 
@@ -3834,7 +3834,7 @@ The rendering should be extremely dense and crisp, like a 4k fantasy illustratio
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14533_1.jpg" width="600" alt="108 Chibi Fantasy Mandala - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14533_1.jpg" width="600" alt="108 Chibi-Fantasy-Mandala - Image 1">
 </div>
 
 #### 📌 Details
@@ -3842,19 +3842,19 @@ The rendering should be extremely dense and crisp, like a 4k fantasy illustratio
 - **Autor:** [⚙gear machine@AI](https://x.com/grmchn4ai)
 - **Quelle:** [Twitter Post](https://x.com/grmchn4ai/status/2046710765365944507#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14533&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 94: Multiplication Domino Classroom Activity
+### No. 94: Multiplikations-Domino-Aktivität im Klassenzimmer
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 
 #### 📖 Beschreibung
 
-A realistic classroom photo showing children using a colorful multiplication domino board game, ideal for educational materials, school promotions, or math activity visuals.
+Ein realistisches Klassenfoto, das Kinder beim Spielen eines bunten Multiplikations-Domino-Brettspiels zeigt, ideal für Bildungsmaterialien, Schulwerbung oder Mathe-Aktivitätsbilder.
 
 #### 📝 Prompt
 
@@ -3867,7 +3867,7 @@ A realistic documentary-style photo of an elementary school classroom during a m
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14632_1.jpg" width="600" alt="Multiplication Domino Classroom Activity - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14632_1.jpg" width="600" alt="Multiplikations-Domino-Aktivität im Klassenzimmer - Image 1">
 </div>
 
 #### 📌 Details
@@ -3875,20 +3875,20 @@ A realistic documentary-style photo of an elementary school classroom during a m
 - **Autor:** [Lucas Rodrigues](https://x.com/olusrodri)
 - **Quelle:** [Twitter Post](https://x.com/olusrodri/status/2046710556208288008#reversed-1)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14632&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 95: Printable Multiplication Domino Worksheet
+### No. 95: Druckbares Multiplikations-Domino-Arbeitsblatt
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A colorful Brazilian Portuguese classroom worksheet for practicing multiplication through a domino matching game, ideal for teachers, homeschooling, and printable math activities.
+Ein farbenfrohes brasilianisch-portugiesisches Klassenarbeitsblatt zum Üben von Multiplikation durch ein Dominospiel, ideal für Lehrer, Homeschooling und druckbare Mathe-Aktivitäten.
 
 #### 📝 Prompt
 
@@ -3901,7 +3901,7 @@ Create a vertical printable educational worksheet in Brazilian Portuguese, clean
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14631_1.jpg" width="600" alt="Printable Multiplication Domino Worksheet - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14631_1.jpg" width="600" alt="Druckbares Multiplikations-Domino-Arbeitsblatt - Image 1">
 </div>
 
 #### 📌 Details
@@ -3909,20 +3909,20 @@ Create a vertical printable educational worksheet in Brazilian Portuguese, clean
 - **Autor:** [Lucas Rodrigues](https://x.com/olusrodri)
 - **Quelle:** [Twitter Post](https://x.com/olusrodri/status/2046710556208288008#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14631&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 96: Multi-page Brand Kit Generator
+### No. 96: Mehrseitiger Brand-Kit-Generator
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A prompt designed to generate a comprehensive multi-page brand identity kit including various design elements and layouts.
+Ein Prompt, der darauf ausgelegt ist, ein umfassendes mehrseitiges Markenidentitäts-Kit mit verschiedenen Designelementen und Layouts zu erzeugen.
 
 #### 📝 Prompt
 
@@ -3935,25 +3935,25 @@ Create a polished multi-page (multiple images) brand kit for {argument name="bra
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14382_1.jpg" width="600" alt="Multi-page Brand Kit Generator - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14382_1.jpg" width="600" alt="Mehrseitiger Brand-Kit-Generator - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14382_2.jpg" width="600" alt="Multi-page Brand Kit Generator - Image 2">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14382_2.jpg" width="600" alt="Mehrseitiger Brand-Kit-Generator - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14382_3.jpg" width="600" alt="Multi-page Brand Kit Generator - Image 3">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14382_3.jpg" width="600" alt="Mehrseitiger Brand-Kit-Generator - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14382_4.jpg" width="600" alt="Multi-page Brand Kit Generator - Image 4">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14382_4.jpg" width="600" alt="Mehrseitiger Brand-Kit-Generator - Image 4">
 </div>
 
 #### 📌 Details
@@ -3961,20 +3961,20 @@ Create a polished multi-page (multiple images) brand kit for {argument name="bra
 - **Autor:** [techbimbo](https://x.com/jameygannon)
 - **Quelle:** [Twitter Post](https://x.com/jameygannon/status/2046709371007058096)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14382&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 97: Vintage Malta Travel Poster
+### No. 97: Vintage Malta-Reiseposter
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-This prompt generates a nostalgic illustrated tourism poster of Malta with bold headline text, a coastal road, classic car, harbor boats, and sunlit historic architecture for travel branding or wall art.
+Dieser Prompt generiert ein nostalgisches illustriertes Tourismusposter von Malta mit markanter Headline, einer Küstenstraße, einem Oldtimer, Hafenbooten und sonnenbeschienener historischer Architektur für Reisemarken oder Wanddekoration.
 
 #### 📝 Prompt
 
@@ -3987,7 +3987,7 @@ A vintage travel poster illustration for {argument name="destination" default="M
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14399_1.jpg" width="600" alt="Vintage Malta Travel Poster - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14399_1.jpg" width="600" alt="Vintage Malta-Reiseposter - Image 1">
 </div>
 
 #### 📌 Details
@@ -3995,19 +3995,19 @@ A vintage travel poster illustration for {argument name="destination" default="M
 - **Autor:** [Zyro](https://x.com/Itswsm105f)
 - **Quelle:** [Twitter Post](https://x.com/Itswsm105f/status/2046708003014095259#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14399&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 98: Cat to Human Portrait Transformation
+### No. 98: Katze-zu-Mensch-Porträt-Transformation
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 
 #### 📖 Beschreibung
 
-This prompt converts a cat reference photo into a photorealistic human version while preserving the original pose, composition, and setting for playful pet-to-person portraits.
+Dieser Prompt verwandelt ein Katzen-Referenzfoto in eine fotorealistische menschliche Version und bewahrt dabei die ursprüngliche Pose, Komposition und Kulisse für verspielte Tier-zu-Person-Porträts.
 
 #### 📝 Prompt
 
@@ -4020,7 +4020,7 @@ Using the provided reference image, turn the cat into a realistic human portrait
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14670_1.jpg" width="600" alt="Cat to Human Portrait Transformation - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14670_1.jpg" width="600" alt="Katze-zu-Mensch-Porträt-Transformation - Image 1">
 </div>
 
 #### 📌 Details
@@ -4028,20 +4028,20 @@ Using the provided reference image, turn the cat into a realistic human portrait
 - **Autor:** [Bojan Tunguz](https://x.com/tunguz)
 - **Quelle:** [Twitter Post](https://x.com/tunguz/status/2046707703481852106#reversed-1)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14670&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 99: Dark Space Emperor Movie Poster
+### No. 99: Dunkler Weltraumkaiser-Filmplakat
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A cinematic sci-fi poster showing an armored alien ruler on a starship bridge, ideal for blockbuster space-opera key art and film promotion.
+Ein filmisches Sci-Fi-Plakat, das einen gepanzerten außerirdischen Herrscher auf einer Raumschiffbrücke zeigt, ideal für Blockbuster-Space-Opera-Key-Art und Filmwerbung.
 
 #### 📝 Prompt
 
@@ -4054,7 +4054,7 @@ A dark epic sci-fi movie poster for {argument name="film title" default="EMPIRE 
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14598_1.jpg" width="600" alt="Dark Space Emperor Movie Poster - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14598_1.jpg" width="600" alt="Dunkler Weltraumkaiser-Filmplakat - Image 1">
 </div>
 
 #### 📌 Details
@@ -4062,19 +4062,19 @@ A dark epic sci-fi movie poster for {argument name="film title" default="EMPIRE 
 - **Autor:** [ZeFred.AI](https://x.com/ZefredAi)
 - **Quelle:** [Twitter Post](https://x.com/ZefredAi/status/2046707660137873639#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14598&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 100: Four Japanese Ojisan Parody Posters
+### No. 100: Vier japanische Ojisan-Parodie-Plakate
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 
 #### 📖 Beschreibung
 
-A 2x2 collage of faux Japanese TV and anime posters featuring a middle-aged man transformed into different female genre archetypes, ideal for parody key art and social media promo images.
+Eine 2x2-Collage aus fiktiven japanischen TV- und Anime-Plakaten, die einen Mittfünfziger in verschiedene weibliche Genre-Archetypen verwandelt, ideal für Parodie-Key-Art und Social-Media-Promobilder.
 
 #### 📝 Prompt
 
@@ -4087,7 +4087,7 @@ A 2x2 collage of faux Japanese TV and anime posters featuring a middle-aged man 
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14531_1.jpg" width="600" alt="Four Japanese Ojisan Parody Posters - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14531_1.jpg" width="600" alt="Vier japanische Ojisan-Parodie-Plakate - Image 1">
 </div>
 
 #### 📌 Details
@@ -4095,19 +4095,19 @@ A 2x2 collage of faux Japanese TV and anime posters featuring a middle-aged man 
 - **Autor:** [すーさん＠AIアニメ＆絵本クリエーター](https://x.com/su_nagomi)
 - **Quelle:** [Twitter Post](https://x.com/su_nagomi/status/2046707536947269912#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14531&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 101: Surreal Archer With Birds and Animals
+### No. 101: Surrealer Bogenschütze mit Vögeln und Tieren
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 
 #### 📖 Beschreibung
 
-This prompt generates a dreamlike cinematic fashion-style portrait of a masked archer surrounded by birds and animals, useful for surreal editorial or fine-art image creation.
+Dieser Prompt erzeugt ein traumhaftes, filmisches Fashion-Porträt eines maskierten Bogenschützen, umgeben von Vögeln und Tieren, nützlich für surreale Editorial- oder Fine-Art-Bilderstellung.
 
 #### 📝 Prompt
 
@@ -4120,7 +4120,7 @@ A surreal cinematic outdoor portrait of a masked archer standing in a dry field 
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14579_1.jpg" width="600" alt="Surreal Archer With Birds and Animals - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14579_1.jpg" width="600" alt="Surrealer Bogenschütze mit Vögeln und Tieren - Image 1">
 </div>
 
 #### 📌 Details
@@ -4128,20 +4128,20 @@ A surreal cinematic outdoor portrait of a masked archer standing in a dry field 
 - **Autor:** [V](https://x.com/VictorInFocus)
 - **Quelle:** [Twitter Post](https://x.com/VictorInFocus/status/2046707446182199641#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14579&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 102: Coordinate-Based Tourism Magazine Cover
+### No. 102: Koordinatenbasierendes-Tourismus-Magazin-Cover
 
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-Uses precise geographic coordinates and specific local conditions to generate a realistic magazine cover featuring consistent characters.
+Nutzt präzise geografische Koordinaten und spezifische lokale Bedingungen, um ein realistisches Magazin-Cover mit konsistenten Charakteren zu generieren.
 
 #### 📝 Prompt
 
@@ -4154,7 +4154,7 @@ Use GPT-image-2 to create a photobook of two women that matches the local aftern
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14354_1.jpg" width="600" alt="Coordinate-Based Tourism Magazine Cover - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14354_1.jpg" width="600" alt="Koordinatenbasierendes-Tourismus-Magazin-Cover - Image 1">
 </div>
 
 #### 📌 Details
@@ -4162,20 +4162,20 @@ Use GPT-image-2 to create a photobook of two women that matches the local aftern
 - **Autor:** [おさむ／AI副業](https://x.com/osam__AI)
 - **Quelle:** [Twitter Post](https://x.com/osam__AI/status/2046707083769418144)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** JA
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14354&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 103: Optimistic AI Portfolio Landing Page
+### No. 103: Optimistische KI-Portfolio-Startseite
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A polished personal AI portfolio homepage mockup for showcasing projects, writing, and research themes in a bright editorial website design.
+Ein poliertes Mockup einer persönlichen KI-Portfolio-Startseite zur Präsentation von Projekten, Texten und Forschungsthemen in einem hellen redaktionellen Webseiten-Design.
 
 #### 📝 Prompt
 
@@ -4188,7 +4188,7 @@ A polished personal AI portfolio homepage mockup for showcasing projects, writin
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14656_1.jpg" width="600" alt="Optimistic AI Portfolio Landing Page - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14656_1.jpg" width="600" alt="Optimistische KI-Portfolio-Startseite - Image 1">
 </div>
 
 #### 📌 Details
@@ -4196,20 +4196,20 @@ A polished personal AI portfolio homepage mockup for showcasing projects, writin
 - **Autor:** [Angel 🌼](https://x.com/Angaisb_)
 - **Quelle:** [Twitter Post](https://x.com/Angaisb_/status/2046706923941114242#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14656&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 104: Iterative Cinematic Poster Prompts
+### No. 104: Iterative filmische Poster-Prompts
 
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A multi-step conversational prompt set that refines a product poster through Her, Blade Runner 2049, and 2001: A Space Odyssey styles.
+Ein mehrstufiger Konversations-Prompt-Satz, der ein Produktposter durch die Stile von Her, Blade Runner 2049 und 2001: Odyssee im Weltraum verfeinert.
 
 #### 📝 Prompt
 
@@ -4225,25 +4225,25 @@ Round 4: Do another version in the style of {argument name="movie 3" default="20
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14336_1.jpg" width="600" alt="Iterative Cinematic Poster Prompts - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14336_1.jpg" width="600" alt="Iterative filmische Poster-Prompts - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14336_2.jpg" width="600" alt="Iterative Cinematic Poster Prompts - Image 2">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14336_2.jpg" width="600" alt="Iterative filmische Poster-Prompts - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14336_3.jpg" width="600" alt="Iterative Cinematic Poster Prompts - Image 3">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14336_3.jpg" width="600" alt="Iterative filmische Poster-Prompts - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14336_4.jpg" width="600" alt="Iterative Cinematic Poster Prompts - Image 4">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14336_4.jpg" width="600" alt="Iterative filmische Poster-Prompts - Image 4">
 </div>
 
 #### 📌 Details
@@ -4251,20 +4251,20 @@ Round 4: Do another version in the style of {argument name="movie 3" default="20
 - **Autor:** [Orange AI](https://x.com/oran_ge)
 - **Quelle:** [Twitter Post](https://x.com/oran_ge/status/2046706449620079049)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** ZH
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14336&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 105: Historical Invention Timeline Grid
+### No. 105: Zeitleiste Historischer Erfindungen im Raster
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-This prompt generates a parchment-styled educational poster showing a grid of labeled invention dioramas across history, ideal for timeline infographics and world-changing technology comparisons.
+Dieser Prompt erzeugt ein pergamentartiges Bildungsplakat, das ein Raster beschrifteter Erfindungs-Dioramen aus der Geschichte zeigt, ideal für Zeitstrahl-Infografiken und Vergleiche weltverändernder Technologien.
 
 #### 📝 Prompt
 
@@ -4281,7 +4281,7 @@ Keep the composition highly organized, poster-like, and visually dense, with eac
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14412_1.jpg" width="600" alt="Historical Invention Timeline Grid - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14412_1.jpg" width="600" alt="Zeitleiste Historischer Erfindungen im Raster - Image 1">
 </div>
 
 #### 📌 Details
@@ -4289,20 +4289,20 @@ Keep the composition highly organized, poster-like, and visually dense, with eac
 - **Autor:** [Gadgetify](https://x.com/Gdgtify)
 - **Quelle:** [Twitter Post](https://x.com/Gdgtify/status/2046705402742460471#reversed-1)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14412&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 106: Smartphone Screen Mockup
+### No. 106: Smartphone-Bildschirm-Mockup
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A simple prompt to generate an image of an iPhone displaying social media content with a specific aspect ratio.
+Ein einfacher Prompt, um ein Bild eines iPhones zu generieren, das Social-Media-Inhalte mit einem bestimmten Seitenverhältnis anzeigt.
 
 #### 📝 Prompt
 
@@ -4315,7 +4315,7 @@ Create a {argument name="aspect ratio" default="9:16"} image of an {argument nam
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14316_1.jpg" width="600" alt="Smartphone Screen Mockup - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14316_1.jpg" width="600" alt="Smartphone-Bildschirm-Mockup - Image 1">
 </div>
 
 #### 📌 Details
@@ -4323,19 +4323,19 @@ Create a {argument name="aspect ratio" default="9:16"} image of an {argument nam
 - **Autor:** [Simon Smith](https://x.com/_simonsmith)
 - **Quelle:** [Twitter Post](https://x.com/_simonsmith/status/2046705389589197142)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14316&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 107: Football Teammates at Golden Gate Bridge
+### No. 107: Fußballteammitglieder an der Golden Gate Bridge
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 
 #### 📖 Beschreibung
 
-This prompt generates a realistic post-game portrait of two muddy football players posing by the water with the Golden Gate Bridge behind them, useful for sports editorial or lifestyle imagery.
+Dieser Prompt generiert ein realistisches Porträt nach dem Spiel von zwei verschmutzten Fußballspielern, die am Wasser mit der Golden Gate Bridge im Hintergrund posieren, nützlich für Sport-Editorial- oder Lifestyle-Bilder.
 
 #### 📝 Prompt
 
@@ -4348,7 +4348,7 @@ A realistic outdoor sports portrait of two American football players standing si
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14595_1.jpg" width="600" alt="Football Teammates at Golden Gate Bridge - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14595_1.jpg" width="600" alt="Fußballteammitglieder an der Golden Gate Bridge - Image 1">
 </div>
 
 #### 📌 Details
@@ -4356,20 +4356,20 @@ A realistic outdoor sports portrait of two American football players standing si
 - **Autor:** [Diego | AI 🚀 - e/acc](https://x.com/diegocabezas01)
 - **Quelle:** [Twitter Post](https://x.com/diegocabezas01/status/2046704414564446594#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14595&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 108: Disco Ball Chameleon
+### No. 108: Disco-Ball-Chamäleon
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-This prompt generates a photorealistic studio-style image of a mirrored chameleon sculpture on a disco ball, ideal for surreal luxury animal art or eye-catching social media visuals.
+Dieser Prompt erzeugt ein fotorealistisches Studio-Bild einer gespiegelten Chamäleon-Skulptur auf einem Disco-Ball, ideal für surreale Luxus-Tierkunst oder auffällige Social-Media-Bilder.
 
 #### 📝 Prompt
 
@@ -4382,7 +4382,7 @@ A highly polished studio photograph of a {argument name="animal" default="chamel
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14611_1.jpg" width="600" alt="Disco Ball Chameleon - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14611_1.jpg" width="600" alt="Disco-Ball-Chamäleon - Image 1">
 </div>
 
 #### 📌 Details
@@ -4390,20 +4390,20 @@ A highly polished studio photograph of a {argument name="animal" default="chamel
 - **Autor:** [IAFeed](https://x.com/iafeedfr)
 - **Quelle:** [Twitter Post](https://x.com/iafeedfr/status/2046704184523710715#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14611&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 109: Vintage Confidential Case File
+### No. 109: Vintage Vertrauliches Fallakte
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-This prompt generates a realistic top-down noir-style confidential dossier page, ideal for storytelling, detective worldbuilding, and cinematic prop imagery.
+Dieser Prompt generiert eine realistische, von oben betrachtete Noir-Stil-Seite einer vertraulichen Akte, ideal für Storytelling, Detektiv-Weltaufbau und filmische Requisitenbilder.
 
 #### 📝 Prompt
 
@@ -4416,7 +4416,7 @@ A top-down cinematic still life of a vintage classified investigation dossier on
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14415_1.jpg" width="600" alt="Vintage Confidential Case File - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14415_1.jpg" width="600" alt="Vintage Vertrauliches Fallakte - Image 1">
 </div>
 
 #### 📌 Details
@@ -4424,20 +4424,20 @@ A top-down cinematic still life of a vintage classified investigation dossier on
 - **Autor:** [PSS](https://x.com/PromptSin)
 - **Quelle:** [Twitter Post](https://x.com/PromptSin/status/2046702504188993556#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14415&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 110: Tiny Planet Aerial of Canakkale
+### No. 110: Tiny-Planet-Luftaufnahme von Çanakkale
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-This prompt generates a realistic 360-degree tiny-planet drone view of Canakkale's waterfront landmarks, ideal for travel imagery and city-poster visuals.
+Dieser Prompt erzeugt eine realistische 360-Grad-Tiny-Planet-Drohnenansicht der Wahrzeichen der Çanakkale-Wasserfront, ideal für Reisebilder und Stadtplakat-Visuals.
 
 #### 📝 Prompt
 
@@ -4450,7 +4450,7 @@ A dramatic ultra-wide aerial tiny-planet photograph of {argument name="city name
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14571_1.jpg" width="600" alt="Tiny Planet Aerial of Canakkale - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14571_1.jpg" width="600" alt="Tiny-Planet-Luftaufnahme von Çanakkale - Image 1">
 </div>
 
 #### 📌 Details
@@ -4458,19 +4458,19 @@ A dramatic ultra-wide aerial tiny-planet photograph of {argument name="city name
 - **Autor:** [Kazım Taşkın](https://x.com/kazimtaskin)
 - **Quelle:** [Twitter Post](https://x.com/kazimtaskin/status/2046701796819660891#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14571&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 111: Uncanny Full-Body Alien Portrait
+### No. 111: Unheimliches Ganzkörper-Alien-Porträt
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 
 #### 📖 Beschreibung
 
-A dark photorealistic studio image of a gaunt humanoid alien, suited for creature concept art, sci-fi key art, or unsettling model capability demos.
+Ein dunkles, fotorealistisches Studio-Bild eines hageren humanoiden Aliens, geeignet für Kreaturenkonzeptkunst, Sci-Fi-Key-Art oder verstörende Modellfähigkeitsdemonstrationen.
 
 #### 📝 Prompt
 
@@ -4483,13 +4483,13 @@ A hyper-realistic full-body studio portrait of a disturbing humanoid alien stand
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14422_1.jpg" width="600" alt="Uncanny Full-Body Alien Portrait - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14422_1.jpg" width="600" alt="Unheimliches Ganzkörper-Alien-Porträt - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14422_2.jpg" width="600" alt="Uncanny Full-Body Alien Portrait - Image 2">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14422_2.jpg" width="600" alt="Unheimliches Ganzkörper-Alien-Porträt - Image 2">
 </div>
 
 #### 📌 Details
@@ -4497,19 +4497,19 @@ A hyper-realistic full-body studio portrait of a disturbing humanoid alien stand
 - **Autor:** [Riley Coyote](https://x.com/RileyRalmuto)
 - **Quelle:** [Twitter Post](https://x.com/RileyRalmuto/status/2046701704687845656#reversed-1)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14422&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 112: Photoreal Alien in Dark Ravine
+### No. 112: Fotorealistisches Alien in dunkler Schlucht
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 
 #### 📖 Beschreibung
 
-This prompt generates a disturbing full-body sci-fi horror portrait of a realistic humanoid alien in a bleak rocky canyon, ideal for cinematic concept art and creature design.
+Dieser Prompt generiert ein verstörendes Ganzkörper-Sci-Fi-Horror-Porträt eines realistischen humanoiden Aliens in einer trostlosen Felsenschlucht, ideal für filmische Konzeptkunst und Kreaturendesign.
 
 #### 📝 Prompt
 
@@ -4522,13 +4522,13 @@ A full-body cinematic portrait of a deeply unsettling humanoid alien standing al
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14420_1.jpg" width="600" alt="Photoreal Alien in Dark Ravine - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14420_1.jpg" width="600" alt="Fotorealistisches Alien in dunkler Schlucht - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14420_2.jpg" width="600" alt="Photoreal Alien in Dark Ravine - Image 2">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14420_2.jpg" width="600" alt="Fotorealistisches Alien in dunkler Schlucht - Image 2">
 </div>
 
 #### 📌 Details
@@ -4536,20 +4536,20 @@ A full-body cinematic portrait of a deeply unsettling humanoid alien standing al
 - **Autor:** [Riley Coyote](https://x.com/RileyRalmuto)
 - **Quelle:** [Twitter Post](https://x.com/RileyRalmuto/status/2046701704687845656#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14420&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 113: Moon Mark Adventure Comic Page
+### No. 113: Moon-Mark-Abenteuer-Comic-Seite
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A four-panel fantasy anime comic page showing a silver-haired moon-themed girl discovering a map, solving a cave puzzle, and finding a magical invitation to the next adventure.
+Eine vierteilige Fantasy-Anime-Comic-Seite, die ein silberhaariges, mondthematisches Mädchen zeigt, das eine Karte entdeckt, ein Höhlenrätsel löst und eine magische Einladung zum nächsten Abenteuer findet.
 
 #### 📝 Prompt
 
@@ -4562,7 +4562,7 @@ A four-panel fantasy anime comic page showing a silver-haired moon-themed girl d
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14605_1.jpg" width="600" alt="Moon Mark Adventure Comic Page - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14605_1.jpg" width="600" alt="Moon-Mark-Abenteuer-Comic-Seite - Image 1">
 </div>
 
 #### 📌 Details
@@ -4570,20 +4570,20 @@ A four-panel fantasy anime comic page showing a silver-haired moon-themed girl d
 - **Autor:** [ツバサ天九](https://x.com/wing_sky_nine)
 - **Quelle:** [Twitter Post](https://x.com/wing_sky_nine/status/2046700437785792566#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14605&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
-### No. 114: Urban Wheatpaste Poster Setup
+### No. 114: Urbane Wheatpaste-Poster-Szene
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-A prompt for generating a realistic scene of wheatpaste posters on a city brick wall, showcasing institutional knowledge or specific themes.
+Ein Prompt zur Erzeugung einer realistischen Szene von Wheatpaste-Postern an einer Stadtziegelwand, die institutionelles Wissen oder spezifische Themen zeigt.
 
 #### 📝 Prompt
 
@@ -4596,7 +4596,7 @@ Make a wheatpaste poster setup on a brick wall in {argument name="location" defa
 ##### Image 1
 
 <div align="center">
-<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14391_1.jpg" width="600" alt="Urban Wheatpaste Poster Setup - Image 1">
+<img src="https://static.atlascloud.ai/prompt/gpt-image2/images/14391_1.jpg" width="600" alt="Urbane Wheatpaste-Poster-Szene - Image 1">
 </div>
 
 #### 📌 Details
@@ -4604,7 +4604,7 @@ Make a wheatpaste poster setup on a brick wall in {argument name="location" defa
 - **Autor:** [Justine Moore](https://x.com/venturetwins)
 - **Quelle:** [Twitter Post](https://x.com/venturetwins/status/2046700418554851630)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14391&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
@@ -4612,7 +4612,7 @@ Make a wheatpaste poster setup on a brick wall in {argument name="location" defa
 
 ### No. 115: Celestial Anime Fantasy Movie Poster
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
@@ -4640,7 +4640,7 @@ Design it as a fully typeset Japanese film poster with elegant serif display typ
 - **Autor:** [ツバサ天九](https://x.com/wing_sky_nine)
 - **Quelle:** [Twitter Post](https://x.com/wing_sky_nine/status/2046699001886756866#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14514&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
@@ -4648,7 +4648,7 @@ Design it as a fully typeset Japanese film poster with elegant serif display typ
 
 ### No. 116: Fantasy MMO America Invasion Poster
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
@@ -4674,7 +4674,7 @@ A satirical AAA game expansion poster styled like an official World of Warcraft:
 - **Autor:** [Dream.in.Sanity](https://x.com/dream_in_sanity)
 - **Quelle:** [Twitter Post](https://x.com/dream_in_sanity/status/2046698235318898724#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14634&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
@@ -4682,7 +4682,7 @@ A satirical AAA game expansion poster styled like an official World of Warcraft:
 
 ### No. 117: Dark Fantasy Cliffside Outpost
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 
 #### 📖 Beschreibung
 
@@ -4707,7 +4707,7 @@ A dark fantasy matte painting of a bleak hilltop encampment overlooking a vast c
 - **Autor:** [Rich Collins](https://x.com/richcollins)
 - **Quelle:** [Twitter Post](https://x.com/richcollins/status/2046697694224085116#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14572&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
@@ -4715,7 +4715,7 @@ A dark fantasy matte painting of a bleak hilltop encampment overlooking a vast c
 
 ### No. 118: Epic Senna vs Prost Gladiator Poster
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
@@ -4741,7 +4741,7 @@ An epic cinematic poster in a dark golden bronze palette, styled like a mythic g
 - **Autor:** [nazca alwave](https://x.com/AlwaveNazca)
 - **Quelle:** [Twitter Post](https://x.com/AlwaveNazca/status/2046696943666024518#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14610&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
@@ -4749,7 +4749,7 @@ An epic cinematic poster in a dark golden bronze palette, styled like a mythic g
 
 ### No. 119: Studio Portrait With Strawberry Ice Cream
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
@@ -4775,7 +4775,7 @@ A polished studio portrait of a glamorous pop-star-like woman from the chest up,
 - **Autor:** [Arturo Garrido](https://x.com/arturogarrido)
 - **Quelle:** [Twitter Post](https://x.com/arturogarrido/status/2046696077018186053#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14594&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
@@ -4783,7 +4783,7 @@ A polished studio portrait of a glamorous pop-star-like woman from the chest up,
 
 ### No. 120: Storm Wizard Casting Lightning
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-DE-DE](https://img.shields.io/badge/Language-DE-DE-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
@@ -4809,7 +4809,7 @@ A dramatic dark-fantasy portrait of an elderly wizard standing in a stormy waste
 - **Autor:** [Javier Calzolari](https://x.com/javiercalzolari)
 - **Quelle:** [Twitter Post](https://x.com/javiercalzolari/status/2046696046001029500#reversed-0)
 - **Veröffentlicht:** 22. April 2026
-- **Sprachen:** EN
+- **Sprachen:** DE-DE
 
 **[👉 Jetzt ausprobieren →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=de-DE&id=14618&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
@@ -4894,6 +4894,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts/issues/new?template=prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-10T10:13:47.878Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-11T06:00:01.147Z</sub>
 
 </div>
