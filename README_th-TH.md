@@ -2,14 +2,28 @@
 # 🚀 สุดยอด GPT Image 2 Prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
-[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/gpt-image2-prompt-awesome?style=social)](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Update README](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome/actions/workflows/update-readme.yml/badge.svg)](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome/actions)
+[![GitHub stars](https://img.shields.io/github/stars/AtlasCloudAI/awesome-gpt-image-2-prompts?style=social)](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
+[![Prompts](https://img.shields.io/badge/prompts-1100%2B-blue.svg)](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
 
-> 🎨 คอลเลกชันคำสั่งสร้างสรรค์สำหรับ OpenAI GPT Image 2
+> 🎨 คอลเลกชันคำสั่งสร้างสรรค์สำหรับ OpenAI GPT Image 2 — with **real previews generated via Atlas Cloud**.
 
-> ⚠️ **ประกาศลิขสิทธิ์**: คำสั่งทั้งหมดรวบรวมจากชุมชนเพื่อการศึกษา หากคุณเชื่อว่าเนื้อหาใดละเมิดสิทธิ์ของคุณ โปรด [เปิดปัญหา](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome/issues/new?template=bug-report.yml) และเราจะลบออกทันที
+> ⚠️ **ประกาศลิขสิทธิ์**: คำสั่งทั้งหมดรวบรวมจากชุมชนเพื่อการศึกษา หากคุณเชื่อว่าเนื้อหาใดละเมิดสิทธิ์ของคุณ โปรด [เปิดปัญหา](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts/issues/new?template=bug-report.yml) และเราจะลบออกทันที
+
+### 🧩 Supported Models
+
+- 🎬 **Video** — Seedance 2.0 · Kling 3 · Sora 2 · Veo 3.1 · HappyHorse 1 · Grok Imagine 1.5 · Wan 2.7
+- 🎨 **Image** — Nano Banana 2/Pro · GPT Image 2 · Flux 2 · Seedream 5
+- 💬 **LLM** — Claude · GPT · DeepSeek · MiniMax · Kimi · GLM · Qwen
+- 🔊 **Audio** — Grok TTS
+- 📚 **Explore more** — [300+ models »](https://www.atlascloud.ai/models?utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
+
+**▶ Run any prompt via Atlas Cloud**
+
+- 🧠 **Skill (recommended)** — install [atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills) in Claude Code / Codex / Gemini CLI, then ask: *"Generate this with GPT Image 2 on Atlas Cloud: &lt;paste a prompt&gt;"*.
+- 💻 **CLI** — prefer the terminal? Use [atlascloud-cli](https://github.com/AtlasCloudAI/cli).
+- 🔑 **[Get a free API key →](https://www.atlascloud.ai/console/api-keys?utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)** · 300+ models, one key.
 
 ---
 
@@ -21,9 +35,9 @@
 
 <div align="center">
 
-**[👉 เรียกดูใน AtlasCloud GPT Image 2 Gallery](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH)**
+**[👉 เรียกดูใน Atlas Cloud GPT Image 2 Gallery](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
-**[สำรวจ AtlasCloud GPT Image Family](https://www.atlascloud.ai/models/media)**
+**[สำรวจ Atlas Cloud GPT Image Family](https://www.atlascloud.ai/models/media?utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 </div>
 
@@ -40,53 +54,53 @@
 ### 🏷️ เรียกดูตามหมวดหมู่
 
 - **Use Cases**
-  - [Profile / Avatar](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=profile-avatar)
-  - [Social Media Post](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=social-media-post)
-  - [Infographic / Edu Visual](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=infographic-edu-visual)
-  - [YouTube Thumbnail](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=youtube-thumbnail)
-  - [Comic / Storyboard](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=comic-storyboard)
-  - [Product Marketing](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=product-marketing)
-  - [E-commerce Main Image](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=ecommerce-main-image)
-  - [Game Asset](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=game-asset)
-  - [Poster / Flyer](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=poster-flyer)
-  - [App / Web Design](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=app-web-design)
+  - [Profile / Avatar](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=profile-avatar&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
+  - [Social Media Post](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=social-media-post&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
+  - [Infographic / Edu Visual](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=infographic-edu-visual&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
+  - [YouTube Thumbnail](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=youtube-thumbnail&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
+  - [Comic / Storyboard](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=comic-storyboard&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
+  - [Product Marketing](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=product-marketing&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
+  - [E-commerce Main Image](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=ecommerce-main-image&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
+  - [Game Asset](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=game-asset&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
+  - [Poster / Flyer](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=poster-flyer&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
+  - [App / Web Design](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=app-web-design&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
 - **Style**
-  - [Photography](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=photography)
-  - [Cinematic / Film Still](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=cinematic-film-still)
-  - [Anime / Manga](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=anime-manga)
-  - [Illustration](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=illustration)
-  - [Sketch / Line Art](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=sketch-line-art)
-  - [Comic / Graphic Novel](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=comic-graphic-novel)
-  - [3D Render](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=3d-render)
-  - [Chibi / Q-Style](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=chibi-q-style)
-  - [Isometric](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=isometric)
-  - [Pixel Art](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=pixel-art)
-  - [Oil Painting](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=oil-painting)
-  - [Watercolor](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=watercolor)
-  - [Ink / Chinese Style](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=ink-chinese-style)
-  - [Retro / Vintage](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=retro-vintage)
-  - [Cyberpunk / Sci-Fi](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=cyberpunk-sci-fi)
-  - [Minimalism](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=minimalism)
+  - [Photography](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=photography&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
+  - [Cinematic / Film Still](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=cinematic-film-still&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
+  - [Anime / Manga](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=anime-manga&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
+  - [Illustration](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=illustration&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
+  - [Sketch / Line Art](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=sketch-line-art&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
+  - [Comic / Graphic Novel](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=comic-graphic-novel&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
+  - [3D Render](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=3d-render&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
+  - [Chibi / Q-Style](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=chibi-q-style&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
+  - [Isometric](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=isometric&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
+  - [Pixel Art](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=pixel-art&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
+  - [Oil Painting](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=oil-painting&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
+  - [Watercolor](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=watercolor&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
+  - [Ink / Chinese Style](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=ink-chinese-style&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
+  - [Retro / Vintage](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=retro-vintage&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
+  - [Cyberpunk / Sci-Fi](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=cyberpunk-sci-fi&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
+  - [Minimalism](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=minimalism&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
 - **Subjects**
-  - [Portrait / Selfie](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=portrait-selfie)
-  - [Influencer / Model](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=influencer-model)
-  - [Character](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=character)
-  - [Group / Couple](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=group-couple)
-  - [Product](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=product)
-  - [Food / Drink](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=food-drink)
-  - [Fashion Item](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=fashion-item)
-  - [Animal / Creature](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=animal-creature)
-  - [Vehicle](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=vehicle)
-  - [Architecture / Interior](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=architecture-interior)
-  - [Landscape / Nature](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=landscape-nature)
-  - [Cityscape / Street](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=cityscape-street)
-  - [Diagram / Chart](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=diagram-chart)
-  - [Text / Typography](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=text-typography)
-  - [Abstract / Background](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=abstract-background)
+  - [Portrait / Selfie](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=portrait-selfie&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
+  - [Influencer / Model](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=influencer-model&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
+  - [Character](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=character&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
+  - [Group / Couple](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=group-couple&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
+  - [Product](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=product&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
+  - [Food / Drink](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=food-drink&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
+  - [Fashion Item](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=fashion-item&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
+  - [Animal / Creature](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=animal-creature&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
+  - [Vehicle](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=vehicle&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
+  - [Architecture / Interior](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=architecture-interior&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
+  - [Landscape / Nature](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=landscape-nature&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
+  - [Cityscape / Street](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=cityscape-street&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
+  - [Diagram / Chart](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=diagram-chart&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
+  - [Text / Typography](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=text-typography&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
+  - [Abstract / Background](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&categories=abstract-background&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
 
 ---
 
-## 📖 สารบัญ
+## 📖 Contents
 
 - [🌐 ดูในแกลเลอรีเว็บ](#-view-in-web-gallery)
 - [🤔 GPT Image 2 คืออะไร?](#-what-is-gpt-image-2)
@@ -135,7 +149,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 คำสั่งทั้งหมด | **1123** |
 | ⭐ แนะนำ | **6** |
-| 🔄 อัปเดตล่าสุด | **วันศุกร์ที่ 24 เมษายน พ.ศ. 2569 เวลา 14 นาฬิกา 59 นาที 46 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันพฤหัสบดีที่ 11 มิถุนายน พ.ศ. 2569 เวลา 6 นาฬิกา 37 นาที 18 วินาที UTC** |
 
 </div>
 
@@ -176,7 +190,7 @@ by {argument name="author" default="Steve Jobs"}
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14492)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14492&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -210,7 +224,7 @@ by {argument name="author" default="Steve Jobs"}
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14490)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14490&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -245,7 +259,7 @@ by {argument name="author" default="Steve Jobs"}
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** ZH
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14370)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14370&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -280,7 +294,7 @@ by {argument name="author" default="Steve Jobs"}
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14630)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14630&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -314,7 +328,7 @@ by {argument name="author" default="Steve Jobs"}
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14507)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14507&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -349,7 +363,7 @@ by {argument name="author" default="Steve Jobs"}
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14448)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14448&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -387,7 +401,7 @@ by {argument name="author" default="Steve Jobs"}
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** ZH
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14341)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14341&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -421,7 +435,7 @@ by {argument name="author" default="Steve Jobs"}
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14628)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14628&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -455,7 +469,7 @@ by {argument name="author" default="Steve Jobs"}
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14629)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14629&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -559,7 +573,7 @@ by {argument name="author" default="Steve Jobs"}
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14471)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14471&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -593,7 +607,7 @@ by {argument name="author" default="Steve Jobs"}
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14616)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14616&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -627,7 +641,7 @@ by {argument name="author" default="Steve Jobs"}
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14437)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14437&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -660,7 +674,7 @@ by {argument name="author" default="Steve Jobs"}
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14508)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14508&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -693,7 +707,7 @@ by {argument name="author" default="Steve Jobs"}
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14413)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14413&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -738,7 +752,7 @@ by {argument name="author" default="Steve Jobs"}
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14432)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14432&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -771,7 +785,7 @@ by {argument name="author" default="Steve Jobs"}
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14617)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14617&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -805,7 +819,7 @@ by {argument name="author" default="Steve Jobs"}
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14556)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14556&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -839,7 +853,7 @@ by {argument name="author" default="Steve Jobs"}
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14558)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14558&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -873,7 +887,7 @@ by {argument name="author" default="Steve Jobs"}
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14563)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14563&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -907,7 +921,7 @@ by {argument name="author" default="Steve Jobs"}
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14515)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14515&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -941,7 +955,7 @@ by {argument name="author" default="Steve Jobs"}
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14683)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14683&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -975,7 +989,7 @@ by {argument name="author" default="Steve Jobs"}
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14685)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14685&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -1009,7 +1023,7 @@ by {argument name="author" default="Steve Jobs"}
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14638)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14638&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -1043,7 +1057,7 @@ by {argument name="author" default="Steve Jobs"}
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14637)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14637&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -1076,7 +1090,7 @@ by {argument name="author" default="Steve Jobs"}
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14469)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14469&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -1110,7 +1124,7 @@ by {argument name="author" default="Steve Jobs"}
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14686)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14686&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -1144,7 +1158,7 @@ by {argument name="author" default="Steve Jobs"}
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14436)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14436&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -1178,7 +1192,7 @@ by {argument name="author" default="Steve Jobs"}
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14697)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14697&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -1212,7 +1226,7 @@ by {argument name="author" default="Steve Jobs"}
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14405)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14405&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -1246,7 +1260,7 @@ by {argument name="author" default="Steve Jobs"}
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14324)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14324&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -1280,7 +1294,7 @@ by {argument name="author" default="Steve Jobs"}
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14553)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14553&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -1318,7 +1332,7 @@ by {argument name="author" default="Steve Jobs"}
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14555)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14555&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -1370,7 +1384,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14340)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14340&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -1404,7 +1418,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14310)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14310&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -1438,7 +1452,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14545)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14545&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -1478,7 +1492,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14315)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14315&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -1517,7 +1531,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14430)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14430&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -1553,7 +1567,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14311)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14311&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -1587,7 +1601,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14552)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14552&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -1621,7 +1635,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14554)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14554&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -1654,7 +1668,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14433)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14433&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -1687,7 +1701,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14434)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14434&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -1721,7 +1735,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14565)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14565&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -1755,7 +1769,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14564)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14564&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -1793,7 +1807,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14374)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14374&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -1849,7 +1863,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** JA
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14352)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14352&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -1882,7 +1896,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14512)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14512&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -1915,7 +1929,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14487)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14487&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -1949,7 +1963,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14504)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14504&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -1988,7 +2002,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14424)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14424&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -2022,7 +2036,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14306)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14306&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -2056,7 +2070,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** ZH
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14347)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14347&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -2090,7 +2104,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14547)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14547&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -2124,7 +2138,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14426)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14426&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -2158,7 +2172,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** JA
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14369)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14369&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -2198,7 +2212,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14372)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14372&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -2231,7 +2245,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14468)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14468&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -2265,7 +2279,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14673)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14673&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -2299,7 +2313,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14676)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14676&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -2333,7 +2347,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14675)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14675&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -2367,7 +2381,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14674)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14674&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -2401,7 +2415,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14396)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14396&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -2452,7 +2466,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14641)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14641&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -2486,7 +2500,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14506)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14506&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -2520,7 +2534,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14476)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14476&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -2560,7 +2574,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** JA
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14368)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14368&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -2600,7 +2614,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14321)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14321&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -2652,7 +2666,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14397)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14397&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -2685,7 +2699,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14417)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14417&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -2719,7 +2733,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14639)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14639&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -2753,7 +2767,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** JA
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14355)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14355&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -2787,7 +2801,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14535)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14535&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -2908,7 +2922,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14536)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14536&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -2955,7 +2969,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14537)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14537&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -2988,7 +3002,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14613)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14613&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -3022,7 +3036,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** JA
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14362)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14362&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -3055,7 +3069,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14477)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14477&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -3088,7 +3102,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14475)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14475&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -3122,7 +3136,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14551)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14551&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -3162,7 +3176,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14411)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14411&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -3196,7 +3210,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14695)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14695&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -3230,7 +3244,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14612)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14612&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -3263,7 +3277,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14614)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14614&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -3297,7 +3311,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14325)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14325&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -3331,7 +3345,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14619)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14619&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -3365,7 +3379,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14606)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14606&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -3403,7 +3417,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** JA
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14356)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14356&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -3437,7 +3451,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14386)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14386&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -3471,7 +3485,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** JA
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14348)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14348&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -3505,7 +3519,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14509)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14509&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -3539,7 +3553,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14383)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14383&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -3585,7 +3599,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14532)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14532&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -3619,7 +3633,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14472)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14472&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -3653,7 +3667,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14550)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14550&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -3687,7 +3701,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14313)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14313&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -3727,7 +3741,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14590)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14590&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -3760,7 +3774,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14657)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14657&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -3793,7 +3807,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14503)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14503&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -3830,7 +3844,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14533)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14533&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -3863,7 +3877,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14632)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14632&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -3897,7 +3911,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14631)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14631&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -3949,7 +3963,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14382)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14382&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -3983,7 +3997,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14399)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14399&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -4016,7 +4030,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14670)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14670&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -4050,7 +4064,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14598)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14598&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -4083,7 +4097,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14531)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14531&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -4116,7 +4130,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14579)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14579&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -4150,7 +4164,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** JA
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14354)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14354&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -4184,7 +4198,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14656)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14656&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -4239,7 +4253,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** ZH
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14336)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14336&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -4277,7 +4291,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14412)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14412&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -4311,7 +4325,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14316)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14316&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -4344,7 +4358,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14595)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14595&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -4378,7 +4392,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14611)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14611&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -4412,7 +4426,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14415)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14415&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -4446,7 +4460,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14571)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14571&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -4485,7 +4499,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14422)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14422&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -4524,7 +4538,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14420)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14420&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -4558,7 +4572,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14605)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14605&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -4592,7 +4606,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14391)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14391&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -4628,7 +4642,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14514)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14514&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -4662,7 +4676,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14634)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14634&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -4695,7 +4709,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14572)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14572&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -4729,7 +4743,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14610)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14610&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -4763,7 +4777,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14594)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14594&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -4797,7 +4811,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 - **เผยแพร่เมื่อ:** 22 เมษายน 2569
 - **ภาษา:** EN
 
-**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14618)**
+**[👉 ลองเลย →](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&id=14618&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 ---
 
@@ -4809,7 +4823,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 
 เนื่องจากข้อจำกัดด้านความยาวของเนื้อหาใน GitHub README นี้จะแสดงพรอมต์ทั่วไปเพียง 120 รายการแรกเท่านั้น
 
-**[👉 ดูคำสั่งทั้งหมดในแกลเลอรีเว็บของเรา](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH)**
+**[👉 ดูคำสั่งทั้งหมดในแกลเลอรีเว็บของเรา](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)**
 
 แกลเลอรียังมีฟีเจอร์เหล่านี้:
 
@@ -4831,7 +4845,7 @@ generate a image of physical {argument name="subject" default="high school exam"
 
 ### 🐛 GitHub Issue
 
-1. Click [**ส่งคำสั่งใหม่**](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome/issues/new?template=submit-prompt.yml)
+1. Click [**ส่งคำสั่งใหม่**](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts/issues/new?template=prompt.yml)
 2. กรอกแบบฟอร์มพร้อมรายละเอียดคำสั่งและรูปภาพ
 3. ส่งและรอการตรวจสอบจากทีม
 4. หากได้รับการอนุมัติ (เราจะเพิ่มป้ายกำกับ `approved`) มันจะซิงค์กับ CMS โดยอัตโนมัติ
@@ -4849,25 +4863,37 @@ generate a image of physical {argument name="subject" default="high school exam"
 
 ---
 
+## 🧰 More Atlas Cloud Tools
+
+- 💻 **[atlascloud-cli](https://github.com/AtlasCloudAI/cli)** — run any model from your terminal.
+- 🔌 **[MCP Server](https://github.com/AtlasCloudAI/mcp-server)** — connect Atlas Cloud to any MCP client.
+- 🧠 **[atlas-cloud-skills](https://github.com/AtlasCloudAI/atlas-cloud-skills)** — Agent Skills for Claude Code / Codex / Gemini CLI.
+- 🖼️ **[atlascloud_comfyui](https://github.com/AtlasCloudAI/atlascloud_comfyui)** — ComfyUI custom nodes for Atlas Cloud.
+- 🔁 **[n8n-nodes-atlascloud](https://github.com/AtlasCloudAI/n8n-nodes-atlascloud)** — n8n automation nodes.
+- 💬 **[Discord](https://discord.gg/MWmMr4q9es)** — join the community.
+- 🌐 **[Website](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)** — 300+ models, one API key.
+
+---
+
 ## 🙏 กิตติกรรมประกาศ
 
 - [Payload CMS](https://payloadcms.com/)
-- [atlascloud.ai](https://www.atlascloud.ai)
+- [atlascloud.ai](https://www.atlascloud.ai/?utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)
 
 ---
 
 ## ⭐ ประวัติดาว
 
-[![Star History Chart](https://api.star-history.com/svg?repos=AtlasCloudAI/gpt-image2-prompt-awesome&type=Date)](https://star-history.com/#AtlasCloudAI/gpt-image2-prompt-awesome&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=AtlasCloudAI/awesome-gpt-image-2-prompts&type=Date)](https://star-history.com/#AtlasCloudAI/awesome-gpt-image-2-prompts&Date)
 
 ---
 
 <div align="center">
 
-**[🌐 ดูในแกลเลอรีเว็บ](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH)** •
-**[📝 ส่งคำสั่ง](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome/issues/new?template=submit-prompt.yml)** •
-**[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/AtlasCloudAI/gpt-image2-prompt-awesome)**
+**[🌐 ดูในแกลเลอรีเว็บ](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=th-TH&utm_source=github&utm_campaign=awesome-gpt-image-2-prompts)** •
+**[📝 ส่งคำสั่ง](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts/issues/new?template=prompt.yml)** •
+**[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-04-24T14:59:46.111Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-06-11T06:37:18.029Z</sub>
 
 </div>
